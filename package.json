@@ -54,7 +54,7 @@
   },
   "homepage": "https://github.com/metaxiamultimedia/scriptures-js-source-huggingface-hmcgovern-original-language-bibles-greek-stepbible-tagnt-tr#readme",
   "peerDependencies": {
-    "@metaxia/scriptures-core": "github:metaxiamultimedia/scriptures-js-core#v0.1.2"
+    "@metaxia/scriptures-core": ">=0.1.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.2",
