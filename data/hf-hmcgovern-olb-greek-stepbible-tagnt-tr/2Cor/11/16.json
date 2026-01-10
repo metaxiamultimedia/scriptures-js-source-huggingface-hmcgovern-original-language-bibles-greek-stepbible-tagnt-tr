@@ -1,0 +1,356 @@
+{
+  "text": "Πάλιν λέγω, μή τίς με δόξῃ ἄφρονα εἶναι· εἰ δὲ μή γε, κἂν ὡς ἄφρονα δέξασθέ με, ἵνα κἀγὼ μικρόν τι καυχήσωμαι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Πάλιν",
+      "lemma": [
+        "G3825"
+      ],
+      "strongs": "G3825",
+      "morph": "robinson:ADV",
+      "translation": "Again",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 2,
+      "text": "λέγω,",
+      "lemma": null,
+      "morph": null,
+      "translation": "I say,",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "μή",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "no",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "τίς",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSM",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "με",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "me",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 6,
+      "text": "δόξῃ",
+      "lemma": [
+        "G1380"
+      ],
+      "strongs": "G1380",
+      "morph": "robinson:V-AAS-3S",
+      "translation": "may think",
+      "metadata": {},
+      "gematria": {
+        "standard": 152,
+        "ordinal": 49,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἄφρονα",
+      "lemma": [
+        "G878"
+      ],
+      "strongs": "G878",
+      "morph": "robinson:A-ASM",
+      "translation": "a fool",
+      "metadata": {},
+      "gematria": {
+        "standard": 722,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "εἶναι·",
+      "lemma": [
+        "G1511"
+      ],
+      "strongs": "G1511",
+      "morph": "robinson:V-PAN",
+      "translation": "to be;",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 37,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "lest",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "μή",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "except",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "γε,",
+      "lemma": [
+        "G1065"
+      ],
+      "strongs": "G1065",
+      "morph": "robinson:PRT",
+      "translation": "indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 8,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 13,
+      "text": "κἂν",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ + G1437=COND",
+      "translation": "even",
+      "metadata": {},
+      "gematria": {
+        "standard": 71,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἄφρονα",
+      "lemma": [
+        "G878"
+      ],
+      "strongs": "G878",
+      "morph": "robinson:A-ASM",
+      "translation": "a fool",
+      "metadata": {},
+      "gematria": {
+        "standard": 722,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "δέξασθέ",
+      "lemma": [
+        "G1209"
+      ],
+      "strongs": "G1209",
+      "morph": "robinson:V-AMM-2P",
+      "translation": "do receive",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 17,
+      "text": "με,",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "me,",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 19,
+      "text": "κἀγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS + G2532=CONJ",
+      "translation": "I myself also",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "μικρόν",
+      "lemma": [
+        "G3398"
+      ],
+      "strongs": "G3398",
+      "morph": "robinson:A-ASN",
+      "translation": "little",
+      "metadata": {},
+      "gematria": {
+        "standard": 290,
+        "ordinal": 76,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 21,
+      "text": "τι",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-ASN",
+      "translation": "a",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 22,
+      "text": "καυχήσωμαι.",
+      "lemma": [
+        "G2744"
+      ],
+      "strongs": "G2744",
+      "morph": "robinson:V-ADS-1S",
+      "translation": "may boast.",
+      "metadata": {},
+      "gematria": {
+        "standard": 2080,
+        "ordinal": 124,
+        "reduced": 43
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8329,
+    "ordinal": 874,
+    "reduced": 397
+  }
+}

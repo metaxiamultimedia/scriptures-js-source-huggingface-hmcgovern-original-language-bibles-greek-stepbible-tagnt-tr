@@ -1,0 +1,231 @@
+{
+  "text": "εἴ τινος τὸ ἔργον κατακαήσεται, ζημιωθήσεται, αὐτὸς δὲ σωθήσεται οὕτως δὲ ὡς διὰ πυρός.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "τινος",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-GSM",
+      "translation": "of anyone",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἔργον",
+      "lemma": [
+        "G2041"
+      ],
+      "strongs": "G2041",
+      "morph": "robinson:N-NSN",
+      "translation": "work",
+      "metadata": {},
+      "gematria": {
+        "standard": 228,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "κατακαήσεται,",
+      "lemma": [
+        "G2618"
+      ],
+      "strongs": "G2618",
+      "morph": "robinson:V-2FPI-3S",
+      "translation": "will be burned up,",
+      "metadata": {},
+      "gematria": {
+        "standard": 867,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 6,
+      "text": "ζημιωθήσεται,",
+      "lemma": [
+        "G2210"
+      ],
+      "strongs": "G2210",
+      "morph": "robinson:V-FPI-3S",
+      "translation": "he will suffer loss,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1398,
+        "ordinal": 125,
+        "reduced": 71
+      }
+    },
+    {
+      "position": 7,
+      "text": "αὐτὸς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NSM",
+      "translation": "he himself",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 8,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "σωθήσεται",
+      "lemma": [
+        "G4982"
+      ],
+      "strongs": "G4982",
+      "morph": "robinson:V-FPI-3S",
+      "translation": "will be saved",
+      "metadata": {},
+      "gematria": {
+        "standard": 1533,
+        "ordinal": 109,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 10,
+      "text": "οὕτως",
+      "lemma": [
+        "G3779"
+      ],
+      "strongs": "G3779",
+      "morph": "robinson:ADV",
+      "translation": "so",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 96,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 11,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "πυρός.",
+      "lemma": [
+        "G4442"
+      ],
+      "strongs": "G4442",
+      "morph": "robinson:N-GSN",
+      "translation": "fire.",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9665,
+    "ordinal": 839,
+    "reduced": 362
+  }
+}

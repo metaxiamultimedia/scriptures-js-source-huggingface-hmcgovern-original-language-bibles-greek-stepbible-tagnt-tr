@@ -1,0 +1,378 @@
+{
+  "text": "καὶ ἀπ᾽ ἀγορᾶς ἐὰν μὴ βαπτίσωνται, οὐκ ἐσθίουσιν· καὶ ἄλλα πολλά ἐστιν ἃ παρέλαβον κρατεῖν, βαπτισμοὺς ποτηρίων καὶ ξεστῶν καὶ χαλκίων καὶ κλινῶν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀπ᾽",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "[on coming] from",
+      "metadata": {},
+      "gematria": {
+        "standard": 81,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀγορᾶς",
+      "lemma": [
+        "G58"
+      ],
+      "strongs": "G58",
+      "morph": "robinson:N-GSF",
+      "translation": "[the] market",
+      "metadata": {},
+      "gematria": {
+        "standard": 375,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "unless",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "βαπτίσωνται,",
+      "lemma": [
+        "G907"
+      ],
+      "strongs": "G907",
+      "morph": "robinson:V-AMS-3P",
+      "translation": "they shall wash",
+      "metadata": {},
+      "gematria": {
+        "standard": 1754,
+        "ordinal": 131,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 7,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐσθίουσιν·",
+      "lemma": [
+        "G2068"
+      ],
+      "strongs": "G2068",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "they eat;",
+      "metadata": {},
+      "gematria": {
+        "standard": 954,
+        "ordinal": 115,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἄλλα",
+      "lemma": [
+        "G243"
+      ],
+      "strongs": "G243",
+      "morph": "robinson:A-NPN",
+      "translation": "other things",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "πολλά",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-NPN",
+      "translation": "many",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "there are",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-APN",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 14,
+      "text": "παρέλαβον",
+      "lemma": [
+        "G3880"
+      ],
+      "strongs": "G3880",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "they received",
+      "metadata": {},
+      "gematria": {
+        "standard": 339,
+        "ordinal": 81,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 15,
+      "text": "κρατεῖν,",
+      "lemma": [
+        "G2902"
+      ],
+      "strongs": "G2902",
+      "morph": "robinson:V-PAN",
+      "translation": "to keep",
+      "metadata": {},
+      "gematria": {
+        "standard": 486,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 16,
+      "text": "βαπτισμοὺς",
+      "lemma": [
+        "G909"
+      ],
+      "strongs": "G909",
+      "morph": "robinson:N-APM",
+      "translation": "washings",
+      "metadata": {},
+      "gematria": {
+        "standard": 1303,
+        "ordinal": 130,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 17,
+      "text": "ποτηρίων",
+      "lemma": [
+        "G4221"
+      ],
+      "strongs": "G4221",
+      "morph": "robinson:N-GPN",
+      "translation": "of cups",
+      "metadata": {},
+      "gematria": {
+        "standard": 1418,
+        "ordinal": 120,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "ξεστῶν",
+      "lemma": [
+        "G3582"
+      ],
+      "strongs": "G3582",
+      "morph": "robinson:N-GPM",
+      "translation": "vessels",
+      "metadata": {},
+      "gematria": {
+        "standard": 1415,
+        "ordinal": 93,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 20,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "χαλκίων",
+      "lemma": [
+        "G5473"
+      ],
+      "strongs": "G5473",
+      "morph": "robinson:N-GPN",
+      "translation": "utensils",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 90,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 22,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 23,
+      "text": "κλινῶν.",
+      "lemma": [
+        "G2825"
+      ],
+      "strongs": "G2825",
+      "morph": "robinson:N-GPF",
+      "translation": "couches for dining.",
+      "metadata": {},
+      "gematria": {
+        "standard": 960,
+        "ordinal": 80,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12184,
+    "ordinal": 1312,
+    "reduced": 529
+  }
+}

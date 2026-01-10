@@ -1,0 +1,263 @@
+{
+  "text": "ὁ ἀδικῶν ἀδικησάτω ἔτι, καὶ ὁ ἔτι, καὶ ὁ δίκαιος ἔτι· καὶ ὁ ἅγιος ἁγιασθήτω ἔτι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀδικῶν",
+      "lemma": [
+        "G91"
+      ],
+      "strongs": "G91",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "being unrighteous",
+      "metadata": {},
+      "gematria": {
+        "standard": 885,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀδικησάτω",
+      "lemma": [
+        "G91"
+      ],
+      "strongs": "G91",
+      "morph": "robinson:V-AAM-3S",
+      "translation": "he should be unrighteous",
+      "metadata": {},
+      "gematria": {
+        "standard": 1344,
+        "ordinal": 93,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἔτι,",
+      "lemma": [
+        "G2089"
+      ],
+      "strongs": "G2089",
+      "morph": "robinson:ADV",
+      "translation": "still,",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "he who",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἔτι,",
+      "lemma": [
+        "G2089"
+      ],
+      "strongs": "G2089",
+      "morph": "robinson:ADV",
+      "translation": "still,",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "he who",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "δίκαιος",
+      "lemma": [
+        "G1342"
+      ],
+      "strongs": "G1342",
+      "morph": "robinson:A-NSM",
+      "translation": "[is] righteous",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 66,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἔτι·",
+      "lemma": [
+        "G2089"
+      ],
+      "strongs": "G2089",
+      "morph": "robinson:ADV",
+      "translation": "still;",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "he who [is]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἅγιος",
+      "lemma": null,
+      "morph": null,
+      "translation": "holy",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἁγιασθήτω",
+      "lemma": [
+        "G37"
+      ],
+      "strongs": "G37",
+      "morph": "robinson:V-APM-3S",
+      "translation": "he should be holy",
+      "metadata": {},
+      "gematria": {
+        "standard": 1332,
+        "ordinal": 90,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἔτι.",
+      "lemma": [
+        "G2089"
+      ],
+      "strongs": "G2089",
+      "morph": "robinson:ADV",
+      "translation": "still.",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5793,
+    "ordinal": 608,
+    "reduced": 293
+  }
+}

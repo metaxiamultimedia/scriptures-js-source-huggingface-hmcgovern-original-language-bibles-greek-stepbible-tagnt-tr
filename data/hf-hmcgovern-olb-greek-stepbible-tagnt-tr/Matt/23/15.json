@@ -1,0 +1,401 @@
+{
+  "text": "Οὐαὶ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι ὑποκριταί, ὅτι περιάγετε τὴν θάλασσαν καὶ τὴν ξηρὰν ποιῆσαι ἕνα προσήλυτον, καὶ ὅταν γένηται, ποιεῖτε αὐτὸν υἱὸν γεέννης διπλότερον ὑμῶν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Οὐαὶ",
+      "lemma": [
+        "G3759"
+      ],
+      "strongs": "G3759",
+      "morph": "robinson:INJ",
+      "translation": "Woe",
+      "metadata": {},
+      "gematria": {
+        "standard": 481,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὑμῖν,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "γραμματεῖς",
+      "lemma": [
+        "G1122"
+      ],
+      "strongs": "G1122",
+      "morph": "robinson:N-VPM",
+      "translation": "scribes",
+      "metadata": {},
+      "gematria": {
+        "standard": 700,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "Φαρισαῖοι",
+      "lemma": [
+        "G5330"
+      ],
+      "strongs": "G5330",
+      "morph": "robinson:N-VPM-T",
+      "translation": "Pharisees",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 100,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑποκριταί,",
+      "lemma": [
+        "G5273"
+      ],
+      "strongs": "G5273",
+      "morph": "robinson:N-VPM",
+      "translation": "hypocrites!",
+      "metadata": {},
+      "gematria": {
+        "standard": 991,
+        "ordinal": 116,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "For",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "περιάγετε",
+      "lemma": [
+        "G4013"
+      ],
+      "strongs": "G4013",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "you traverse",
+      "metadata": {},
+      "gematria": {
+        "standard": 509,
+        "ordinal": 80,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 9,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "θάλασσαν",
+      "lemma": [
+        "G2281"
+      ],
+      "strongs": "G2281",
+      "morph": "robinson:N-ASF",
+      "translation": "sea",
+      "metadata": {},
+      "gematria": {
+        "standard": 492,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
+      "text": "ξηρὰν",
+      "lemma": [
+        "G3584"
+      ],
+      "strongs": "G3584",
+      "morph": "robinson:A-ASF",
+      "translation": "dry [land]",
+      "metadata": {},
+      "gematria": {
+        "standard": 219,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 14,
+      "text": "ποιῆσαι",
+      "lemma": null,
+      "morph": null,
+      "translation": "to make",
+      "metadata": {},
+      "gematria": {
+        "standard": 379,
+        "ordinal": 75,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἕνα",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-ASM",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "προσήλυτον,",
+      "lemma": [
+        "G4339"
+      ],
+      "strongs": "G4339",
+      "morph": "robinson:N-ASM",
+      "translation": "convert,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1308,
+        "ordinal": 151,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 17,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "ὅταν",
+      "lemma": [
+        "G3752"
+      ],
+      "strongs": "G3752",
+      "morph": "robinson:CONJ",
+      "translation": "when",
+      "metadata": {},
+      "gematria": {
+        "standard": 421,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 19,
+      "text": "γένηται,",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADS-3S",
+      "translation": "he may become [so],",
+      "metadata": {},
+      "gematria": {
+        "standard": 377,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 20,
+      "text": "ποιεῖτε",
+      "lemma": null,
+      "morph": null,
+      "translation": "you make",
+      "metadata": {},
+      "gematria": {
+        "standard": 480,
+        "ordinal": 78,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 21,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 22,
+      "text": "υἱὸν",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-ASM",
+      "translation": "a son",
+      "metadata": {},
+      "gematria": {
+        "standard": 530,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 23,
+      "text": "γεέννης",
+      "lemma": [
+        "G1067"
+      ],
+      "strongs": "G1067",
+      "morph": "robinson:N-GSF-T",
+      "translation": "of hell",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 24,
+      "text": "διπλότερον",
+      "lemma": [
+        "G1362"
+      ],
+      "strongs": "G1362",
+      "morph": "robinson:A-ASM-C",
+      "translation": "twofold more",
+      "metadata": {},
+      "gematria": {
+        "standard": 719,
+        "ordinal": 124,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 25,
+      "text": "ὑμῶν.",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "than yourselves.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12685,
+    "ordinal": 1606,
+    "reduced": 688
+  }
+}

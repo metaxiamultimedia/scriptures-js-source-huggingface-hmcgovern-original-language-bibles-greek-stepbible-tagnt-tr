@@ -1,0 +1,353 @@
+{
+  "text": "ἀναστὰς δὲ εἷς ἐξ αὐτῶν ὀνόματι Ἅγαβος ἐσήμανεν διὰ τοῦ πνεύματος λιμὸν μέλλειν ἔσεσθαι ἐφ᾽ ὅλην τὴν οἰκουμένην, ἐγένετο ἐπὶ Κλαυδίου Καίσαρος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀναστὰς",
+      "lemma": [
+        "G450"
+      ],
+      "strongs": "G450",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "Having risen up",
+      "metadata": {},
+      "gematria": {
+        "standard": 753,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "εἷς",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-NSM",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐξ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτῶν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὀνόματι",
+      "lemma": [
+        "G3686"
+      ],
+      "strongs": "G3686",
+      "morph": "robinson:N-DSN",
+      "translation": "named",
+      "metadata": {},
+      "gematria": {
+        "standard": 541,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ἅγαβος",
+      "lemma": [
+        "G13"
+      ],
+      "strongs": "G13",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Agabus",
+      "metadata": {},
+      "gematria": {
+        "standard": 277,
+        "ordinal": 40,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐσήμανεν",
+      "lemma": [
+        "G4591"
+      ],
+      "strongs": "G4591",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he signified",
+      "metadata": {},
+      "gematria": {
+        "standard": 359,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 9,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "πνεύματος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Spirit [that]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1146,
+        "ordinal": 119,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 12,
+      "text": "λιμὸν",
+      "lemma": [
+        "G3042"
+      ],
+      "strongs": "G3042",
+      "morph": "robinson:N-ASF",
+      "translation": "a famine",
+      "metadata": {},
+      "gematria": {
+        "standard": 200,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 13,
+      "text": "μέλλειν",
+      "lemma": [
+        "G3195"
+      ],
+      "strongs": "G3195",
+      "morph": "robinson:V-PAN",
+      "translation": "to ensue",
+      "metadata": {},
+      "gematria": {
+        "standard": 170,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἔσεσθαι",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-FDN",
+      "translation": "being",
+      "metadata": {},
+      "gematria": {
+        "standard": 430,
+        "ordinal": 64,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐφ᾽",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "over",
+      "metadata": {},
+      "gematria": {
+        "standard": 505,
+        "ordinal": 26,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὅλην",
+      "lemma": [
+        "G3650"
+      ],
+      "strongs": "G3650",
+      "morph": "robinson:A-ASF",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 158,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 17,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 18,
+      "text": "οἰκουμένην,",
+      "lemma": [
+        "G3625"
+      ],
+      "strongs": "G3625",
+      "morph": "robinson:N-ASF",
+      "translation": "world —",
+      "metadata": {},
+      "gematria": {
+        "standard": 723,
+        "ordinal": 119,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "was",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "in [the time of]",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 21,
+      "text": "Κλαυδίου",
+      "lemma": null,
+      "morph": null,
+      "translation": "Claudius",
+      "metadata": {},
+      "gematria": {
+        "standard": 935,
+        "ordinal": 90,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 22,
+      "text": "Καίσαρος.",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Caesar.",
+      "metadata": {},
+      "gematria": {
+        "standard": 602,
+        "ordinal": 89,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10315,
+    "ordinal": 1287,
+    "reduced": 540
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "text": "δέ, ἀδελφοί, ἐὰν ἔλθω πρὸς ὑμᾶς γλώσσαις λαλῶν, τί ὑμᾶς ὠφελήσω, ἐὰν μὴ ὑμῖν λαλήσω ἢ ἐν ἀποκαλύψει ἢ ἐν γνώσει ἢ ἐν προφητείᾳ ἢ ἐν διδαχῇ;",
+  "words": [
+    {
+      "position": 1,
+      "text": "δέ,",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀδελφοί,",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-VPM",
+      "translation": "brothers,",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἔλθω",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-2AAS-1S",
+      "translation": "I shall come",
+      "metadata": {},
+      "gematria": {
+        "standard": 844,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "γλώσσαις",
+      "lemma": [
+        "G1100"
+      ],
+      "strongs": "G1100",
+      "morph": "robinson:N-DPF",
+      "translation": "in tongues",
+      "metadata": {},
+      "gematria": {
+        "standard": 1444,
+        "ordinal": 102,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 8,
+      "text": "λαλῶν,",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "speaking,",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 60,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "τί",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-ASN",
+      "translation": "what",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὠφελήσω,",
+      "lemma": [
+        "G5623"
+      ],
+      "strongs": "G5623",
+      "morph": "robinson:V-FAI-1S",
+      "translation": "will I profit,",
+      "metadata": {},
+      "gematria": {
+        "standard": 2343,
+        "ordinal": 110,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "unless",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 15,
+      "text": "λαλήσω",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-AAS-1S",
+      "translation": "I shall speak",
+      "metadata": {},
+      "gematria": {
+        "standard": 1069,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "either",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἀποκαλύψει",
+      "lemma": [
+        "G602"
+      ],
+      "strongs": "G602",
+      "morph": "robinson:N-DSF",
+      "translation": "revelation",
+      "metadata": {},
+      "gematria": {
+        "standard": 1317,
+        "ordinal": 111,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 21,
+      "text": "γνώσει",
+      "lemma": [
+        "G1108"
+      ],
+      "strongs": "G1108",
+      "morph": "robinson:N-DSF",
+      "translation": "knowledge",
+      "metadata": {},
+      "gematria": {
+        "standard": 1068,
+        "ordinal": 72,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 24,
+      "text": "προφητείᾳ",
+      "lemma": [
+        "G4394"
+      ],
+      "strongs": "G4394",
+      "morph": "robinson:N-DSF",
+      "translation": "prophecy",
+      "metadata": {},
+      "gematria": {
+        "standard": 1084,
+        "ordinal": 119,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 26,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 27,
+      "text": "διδαχῇ;",
+      "lemma": [
+        "G1322"
+      ],
+      "strongs": "G1322",
+      "morph": "robinson:N-DSF",
+      "translation": "teaching?",
+      "metadata": {},
+      "gematria": {
+        "standard": 637,
+        "ordinal": 56,
+        "reduced": 38
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14300,
+    "ordinal": 1232,
+    "reduced": 539
+  }
+}

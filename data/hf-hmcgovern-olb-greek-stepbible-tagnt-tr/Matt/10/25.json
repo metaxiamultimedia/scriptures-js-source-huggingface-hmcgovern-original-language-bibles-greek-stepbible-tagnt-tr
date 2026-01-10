@@ -1,0 +1,401 @@
+{
+  "text": "ἀρκετὸν τῷ μαθητῇ ἵνα γένηται ὡς ὁ διδάσκαλος αὐτοῦ καὶ ὁ δοῦλος ὡς ὁ κύριος αὐτοῦ. εἰ τὸν οἰκοδεσπότην Βεελζεβοὺλ πόσῳ μᾶλλον τοὺς οἰκιακοὺς αὐτοῦ;",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀρκετὸν",
+      "lemma": [
+        "G713"
+      ],
+      "strongs": "G713",
+      "morph": "robinson:A-NSN",
+      "translation": "[It is] sufficient",
+      "metadata": {},
+      "gematria": {
+        "standard": 546,
+        "ordinal": 80,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "for the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "μαθητῇ",
+      "lemma": [
+        "G3101"
+      ],
+      "strongs": "G3101",
+      "morph": "robinson:N-DSM",
+      "translation": "disciple",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "γένηται",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADS-3S",
+      "translation": "he may become",
+      "metadata": {},
+      "gematria": {
+        "standard": 377,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "διδάσκαλος",
+      "lemma": [
+        "G1320"
+      ],
+      "strongs": "G1320",
+      "morph": "robinson:N-NSM",
+      "translation": "teacher",
+      "metadata": {},
+      "gematria": {
+        "standard": 540,
+        "ordinal": 91,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 9,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 12,
+      "text": "δοῦλος",
+      "lemma": [
+        "G1401"
+      ],
+      "strongs": "G1401",
+      "morph": "robinson:N-NSM",
+      "translation": "servant",
+      "metadata": {},
+      "gematria": {
+        "standard": 774,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 15,
+      "text": "κύριος",
+      "lemma": null,
+      "morph": null,
+      "translation": "master",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 16,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 17,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 18,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "οἰκοδεσπότην",
+      "lemma": [
+        "G3617"
+      ],
+      "strongs": "G3617",
+      "morph": "robinson:N-ASM",
+      "translation": "master of the house",
+      "metadata": {},
+      "gematria": {
+        "standard": 887,
+        "ordinal": 146,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 20,
+      "text": "Βεελζεβοὺλ",
+      "lemma": [
+        "G954"
+      ],
+      "strongs": "G954",
+      "morph": "robinson:N-ASM-T",
+      "translation": "Beelzebul",
+      "metadata": {},
+      "gematria": {
+        "standard": 556,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 21,
+      "text": "πόσῳ",
+      "lemma": [
+        "G4214"
+      ],
+      "strongs": "G4214",
+      "morph": "robinson:Q-DSN",
+      "translation": "how much",
+      "metadata": {},
+      "gematria": {
+        "standard": 1160,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 22,
+      "text": "μᾶλλον",
+      "lemma": null,
+      "morph": null,
+      "translation": "more",
+      "metadata": {},
+      "gematria": {
+        "standard": 221,
+        "ordinal": 63,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 23,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 24,
+      "text": "οἰκιακοὺς",
+      "lemma": [
+        "G3615"
+      ],
+      "strongs": "G3615",
+      "morph": "robinson:N-APM",
+      "translation": "house members",
+      "metadata": {},
+      "gematria": {
+        "standard": 801,
+        "ordinal": 107,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 25,
+      "text": "αὐτοῦ;",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him?",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15368,
+    "ordinal": 1525,
+    "reduced": 571
+  }
+}

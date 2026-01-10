@@ -1,0 +1,343 @@
+{
+  "text": "Καὶ ἐδόθη μοι κάλαμος ὅμοιος ῥάβδῳ λέγων· καὶ μέτρησον τὸν ναὸν τοῦ θεοῦ καὶ τὸ θυσιαστήριον, καὶ τοὺς προσκυνοῦντας ἐν αὐτῷ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐδόθη",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-API-3S",
+      "translation": "was given",
+      "metadata": {},
+      "gematria": {
+        "standard": 96,
+        "ordinal": 39,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "μοι",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DS",
+      "translation": "to me",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "κάλαμος",
+      "lemma": [
+        "G2563"
+      ],
+      "strongs": "G2563",
+      "morph": "robinson:N-NSM",
+      "translation": "a measuring rod",
+      "metadata": {},
+      "gematria": {
+        "standard": 362,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὅμοιος",
+      "lemma": [
+        "G3664"
+      ],
+      "strongs": "G3664",
+      "morph": "robinson:A-NSM",
+      "translation": "like",
+      "metadata": {},
+      "gematria": {
+        "standard": 460,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 6,
+      "text": "ῥάβδῳ",
+      "lemma": [
+        "G4464"
+      ],
+      "strongs": "G4464",
+      "morph": "robinson:N-DSF",
+      "translation": "as a staff",
+      "metadata": {},
+      "gematria": {
+        "standard": 917,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "λέγων·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "μέτρησον",
+      "lemma": [
+        "G3354"
+      ],
+      "strongs": "G3354",
+      "morph": "robinson:V-AAM-2S",
+      "translation": "do measure",
+      "metadata": {},
+      "gematria": {
+        "standard": 773,
+        "ordinal": 106,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 10,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ναὸν",
+      "lemma": [
+        "G3485"
+      ],
+      "strongs": "G3485",
+      "morph": "robinson:N-ASM",
+      "translation": "temple",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 12,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 16,
+      "text": "θυσιαστήριον,",
+      "lemma": [
+        "G2379"
+      ],
+      "strongs": "G2379",
+      "morph": "robinson:N-ASN",
+      "translation": "altar,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1358,
+        "ordinal": 154,
+        "reduced": 73
+      }
+    },
+    {
+      "position": 17,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 19,
+      "text": "προσκυνοῦντας",
+      "lemma": [
+        "G4352"
+      ],
+      "strongs": "G4352",
+      "morph": "robinson:V-PAP-APM",
+      "translation": "worshiping",
+      "metadata": {},
+      "gematria": {
+        "standard": 1941,
+        "ordinal": 195,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 21,
+      "text": "αὐτῷ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "it.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11790,
+    "ordinal": 1263,
+    "reduced": 489
+  }
+}

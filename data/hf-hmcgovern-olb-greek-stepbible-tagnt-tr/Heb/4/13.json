@@ -1,0 +1,330 @@
+{
+  "text": "καὶ οὐκ ἔστιν κτίσις ἀφανὴς ἐνώπιον αὐτοῦ· πάντα δὲ γυμνὰ καὶ τετραχηλισμένα τοῖς ὀφθαλμοῖς αὐτοῦ πρὸς ὃν ἡμῖν ὁ λόγος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἔστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "there is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "κτίσις",
+      "lemma": [
+        "G2937"
+      ],
+      "strongs": "G2937",
+      "morph": "robinson:N-NSF",
+      "translation": "creature",
+      "metadata": {},
+      "gematria": {
+        "standard": 740,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀφανὴς",
+      "lemma": [
+        "G852"
+      ],
+      "strongs": "G852",
+      "morph": "robinson:A-NSF",
+      "translation": "hidden",
+      "metadata": {},
+      "gematria": {
+        "standard": 760,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐνώπιον",
+      "lemma": [
+        "G1799"
+      ],
+      "strongs": "G1799",
+      "morph": "robinson:PREP",
+      "translation": "before",
+      "metadata": {},
+      "gematria": {
+        "standard": 1065,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 7,
+      "text": "αὐτοῦ·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "Him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 8,
+      "text": "πάντα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NPN",
+      "translation": "all things",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "γυμνὰ",
+      "lemma": [
+        "G1131"
+      ],
+      "strongs": "G1131",
+      "morph": "robinson:A-NPN",
+      "translation": "[are] uncovered",
+      "metadata": {},
+      "gematria": {
+        "standard": 494,
+        "ordinal": 49,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "τετραχηλισμένα",
+      "lemma": [
+        "G5136"
+      ],
+      "strongs": "G5136",
+      "morph": "robinson:V-RPP-NPN",
+      "translation": "laid bare",
+      "metadata": {},
+      "gematria": {
+        "standard": 1650,
+        "ordinal": 159,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὀφθαλμοῖς",
+      "lemma": [
+        "G3788"
+      ],
+      "strongs": "G3788",
+      "morph": "robinson:N-DPM",
+      "translation": "eyes",
+      "metadata": {},
+      "gematria": {
+        "standard": 930,
+        "ordinal": 110,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 15,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 16,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὃν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASM",
+      "translation": "whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἡμῖν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DP",
+      "translation": "[is] our",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 20,
+      "text": "λόγος.",
+      "lemma": [
+        "G3056"
+      ],
+      "strongs": "G3056",
+      "morph": "robinson:N-NSM",
+      "translation": "reckoning.",
+      "metadata": {},
+      "gematria": {
+        "standard": 373,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11240,
+    "ordinal": 1188,
+    "reduced": 450
+  }
+}

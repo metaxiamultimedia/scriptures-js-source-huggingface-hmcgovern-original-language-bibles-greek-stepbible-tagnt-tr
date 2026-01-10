@@ -1,0 +1,154 @@
+{
+  "text": "καὶ ἦν ὅλη ἡ πόλις ἐπισυνηγμένη πρὸς τὴν θύραν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὅλη",
+      "lemma": [
+        "G3650"
+      ],
+      "strongs": "G3650",
+      "morph": "robinson:A-NSF",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "πόλις",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-NSF",
+      "translation": "city",
+      "metadata": {},
+      "gematria": {
+        "standard": 390,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐπισυνηγμένη",
+      "lemma": [
+        "G1996"
+      ],
+      "strongs": "G1996",
+      "morph": "robinson:V-RPP-NSF",
+      "translation": "gathered",
+      "metadata": {},
+      "gematria": {
+        "standard": 859,
+        "ordinal": 128,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 7,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "at",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "θύραν.",
+      "lemma": [
+        "G2374"
+      ],
+      "strongs": "G2374",
+      "morph": "robinson:N-ASF",
+      "translation": "door.",
+      "metadata": {},
+      "gematria": {
+        "standard": 560,
+        "ordinal": 59,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2822,
+    "ordinal": 441,
+    "reduced": 207
+  }
+}

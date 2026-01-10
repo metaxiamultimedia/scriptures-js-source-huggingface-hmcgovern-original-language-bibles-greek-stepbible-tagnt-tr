@@ -1,0 +1,391 @@
+{
+  "text": "καὶ ἐξῆλθον οἱ ἑπτὰ ἄγγελοι οἱ ἔχοντες τὰς ἑπτὰ πληγὰς ἐκ τοῦ ναοῦ ἐνδεδυμένοι λίνον καθαρὸν λαμπρὸν καὶ περιεζωσμένοι περὶ τὰ στήθη ζώνας χρυσᾶς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐξῆλθον",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "came forth",
+      "metadata": {},
+      "gematria": {
+        "standard": 232,
+        "ordinal": 73,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 3,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἑπτὰ",
+      "lemma": [
+        "G2033"
+      ],
+      "strongs": "G2033",
+      "morph": "robinson:A-NUI",
+      "translation": "seven",
+      "metadata": {},
+      "gematria": {
+        "standard": 386,
+        "ordinal": 41,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἄγγελοι",
+      "lemma": null,
+      "morph": null,
+      "translation": "angels",
+      "metadata": {},
+      "gematria": {
+        "standard": 122,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἔχοντες",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "having",
+      "metadata": {},
+      "gematria": {
+        "standard": 1230,
+        "ordinal": 97,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἑπτὰ",
+      "lemma": [
+        "G2033"
+      ],
+      "strongs": "G2033",
+      "morph": "robinson:A-NUI",
+      "translation": "seven",
+      "metadata": {},
+      "gematria": {
+        "standard": 386,
+        "ordinal": 41,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "πληγὰς",
+      "lemma": [
+        "G4127"
+      ],
+      "strongs": "G4127",
+      "morph": "robinson:N-APF",
+      "translation": "plagues",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 12,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "ναοῦ",
+      "lemma": [
+        "G3485"
+      ],
+      "strongs": "G3485",
+      "morph": "robinson:N-GSM",
+      "translation": "temple",
+      "metadata": {},
+      "gematria": {
+        "standard": 521,
+        "ordinal": 49,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐνδεδυμένοι",
+      "lemma": [
+        "G1746"
+      ],
+      "strongs": "G1746",
+      "morph": "robinson:V-RMP-NPM",
+      "translation": "having clothed themselves in",
+      "metadata": {},
+      "gematria": {
+        "standard": 643,
+        "ordinal": 105,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 15,
+      "text": "λίνον",
+      "lemma": [
+        "G3043"
+      ],
+      "strongs": "G3043",
+      "morph": "robinson:N-ASN",
+      "translation": "linen",
+      "metadata": {},
+      "gematria": {
+        "standard": 210,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 16,
+      "text": "καθαρὸν",
+      "lemma": [
+        "G2513"
+      ],
+      "strongs": "G2513",
+      "morph": "robinson:A-ASN",
+      "translation": "pure",
+      "metadata": {},
+      "gematria": {
+        "standard": 251,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 17,
+      "text": "λαμπρὸν",
+      "lemma": [
+        "G2986"
+      ],
+      "strongs": "G2986",
+      "morph": "robinson:A-ASN",
+      "translation": "bright",
+      "metadata": {},
+      "gematria": {
+        "standard": 371,
+        "ordinal": 85,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "περιεζωσμένοι",
+      "lemma": [
+        "G4024"
+      ],
+      "strongs": "G4024",
+      "morph": "robinson:V-RMP-NPM",
+      "translation": "having girded themselves with",
+      "metadata": {},
+      "gematria": {
+        "standard": 1382,
+        "ordinal": 154,
+        "reduced": 82
+      }
+    },
+    {
+      "position": 20,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "around",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 21,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 22,
+      "text": "στήθη",
+      "lemma": [
+        "G4738"
+      ],
+      "strongs": "G4738",
+      "morph": "robinson:N-APN",
+      "translation": "chests",
+      "metadata": {},
+      "gematria": {
+        "standard": 525,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 23,
+      "text": "ζώνας",
+      "lemma": [
+        "G2223"
+      ],
+      "strongs": "G2223",
+      "morph": "robinson:N-APF",
+      "translation": "sashes",
+      "metadata": {},
+      "gematria": {
+        "standard": 1058,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 24,
+      "text": "χρυσᾶς.",
+      "lemma": [
+        "G5552"
+      ],
+      "strongs": "G5552",
+      "morph": "robinson:A-APF",
+      "translation": "golden.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 96,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11154,
+    "ordinal": 1353,
+    "reduced": 588
+  }
+}

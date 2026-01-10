@@ -1,0 +1,247 @@
+{
+  "text": "Ὁ δὲ Ἰησοῦς γνοὺς ἀνεχώρησεν ἐκεῖθεν, καὶ ἠκολούθησαν αὐτῷ ὄχλοι πολλοί, καὶ ἐθεράπευσεν αὐτοὺς πάντας",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 4,
+      "text": "γνοὺς",
+      "lemma": [
+        "G1097"
+      ],
+      "strongs": "G1097",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having known",
+      "metadata": {},
+      "gematria": {
+        "standard": 723,
+        "ordinal": 69,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀνεχώρησεν",
+      "lemma": [
+        "G402"
+      ],
+      "strongs": "G402",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "He withdrew",
+      "metadata": {},
+      "gematria": {
+        "standard": 1819,
+        "ordinal": 125,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐκεῖθεν,",
+      "lemma": [
+        "G1564"
+      ],
+      "strongs": "G1564",
+      "morph": "robinson:ADV",
+      "translation": "from there,",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἠκολούθησαν",
+      "lemma": [
+        "G190"
+      ],
+      "strongs": "G190",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "followed",
+      "metadata": {},
+      "gematria": {
+        "standard": 866,
+        "ordinal": 125,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 9,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὄχλοι",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-NPM",
+      "translation": "multitudes",
+      "metadata": {},
+      "gematria": {
+        "standard": 780,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 11,
+      "text": "πολλοί,",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-NPM",
+      "translation": "great,",
+      "metadata": {},
+      "gematria": {
+        "standard": 290,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐθεράπευσεν",
+      "lemma": [
+        "G2323"
+      ],
+      "strongs": "G2323",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "He healed",
+      "metadata": {},
+      "gematria": {
+        "standard": 860,
+        "ordinal": 113,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 14,
+      "text": "αὐτοὺς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APM",
+      "translation": "them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 93,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "πάντας",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-APM",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 632,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9985,
+    "ordinal": 1021,
+    "reduced": 427
+  }
+}

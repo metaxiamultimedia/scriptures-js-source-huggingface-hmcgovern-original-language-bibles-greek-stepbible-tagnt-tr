@@ -1,0 +1,420 @@
+{
+  "text": "καὶ ἔδωκεν αὐτῷ διαθήκην περιτομῆς· καὶ οὕτως ἐγέννησεν τὸν Ἰσαὰκ καὶ περιέτεμεν αὐτὸν τῇ ἡμέρᾳ τῇ ὀγδόῃ, καὶ Ἰσαὰκ τὸν Ἰακώβ, καὶ Ἰακὼβ τοὺς δώδεκα πατριάρχας.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἔδωκεν",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "He gave",
+      "metadata": {},
+      "gematria": {
+        "standard": 884,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "διαθήκην",
+      "lemma": [
+        "G1242"
+      ],
+      "strongs": "G1242",
+      "morph": "robinson:N-ASF",
+      "translation": "[the] covenant",
+      "metadata": {},
+      "gematria": {
+        "standard": 110,
+        "ordinal": 59,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 5,
+      "text": "περιτομῆς·",
+      "lemma": [
+        "G4061"
+      ],
+      "strongs": "G4061",
+      "morph": "robinson:N-GSF",
+      "translation": "of circumcision;",
+      "metadata": {},
+      "gematria": {
+        "standard": 813,
+        "ordinal": 118,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "οὕτως",
+      "lemma": [
+        "G3779"
+      ],
+      "strongs": "G3779",
+      "morph": "robinson:ADV",
+      "translation": "thus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 96,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐγέννησεν",
+      "lemma": [
+        "G1080"
+      ],
+      "strongs": "G1080",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he begat",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 82,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 9,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "Ἰσαὰκ",
+      "lemma": [
+        "G2464"
+      ],
+      "strongs": "G2464",
+      "morph": "robinson:N-ASM-P",
+      "translation": "Isaac",
+      "metadata": {},
+      "gematria": {
+        "standard": 232,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "περιέτεμεν",
+      "lemma": [
+        "G4059"
+      ],
+      "strongs": "G4059",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "circumcised",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 106,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "on the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἡμέρᾳ",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-DSF",
+      "translation": "day",
+      "metadata": {},
+      "gematria": {
+        "standard": 164,
+        "ordinal": 51,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 16,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὀγδόῃ,",
+      "lemma": [
+        "G3590"
+      ],
+      "strongs": "G3590",
+      "morph": "robinson:A-DSF",
+      "translation": "eighth,",
+      "metadata": {},
+      "gematria": {
+        "standard": 165,
+        "ordinal": 53,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "Ἰσαὰκ",
+      "lemma": [
+        "G2464"
+      ],
+      "strongs": "G2464",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Isaac",
+      "metadata": {},
+      "gematria": {
+        "standard": 232,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 20,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "Ἰακώβ,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jacob,",
+      "metadata": {},
+      "gematria": {
+        "standard": 833,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 22,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 23,
+      "text": "Ἰακὼβ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jacob",
+      "metadata": {},
+      "gematria": {
+        "standard": 833,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 24,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 25,
+      "text": "δώδεκα",
+      "lemma": [
+        "G1427"
+      ],
+      "strongs": "G1427",
+      "morph": "robinson:A-NUI",
+      "translation": "twelve",
+      "metadata": {},
+      "gematria": {
+        "standard": 834,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 26,
+      "text": "πατριάρχας.",
+      "lemma": [
+        "G3966"
+      ],
+      "strongs": "G3966",
+      "morph": "robinson:N-APM",
+      "translation": "patriarchs.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1393,
+        "ordinal": 121,
+        "reduced": 49
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14172,
+    "ordinal": 1442,
+    "reduced": 623
+  }
+}

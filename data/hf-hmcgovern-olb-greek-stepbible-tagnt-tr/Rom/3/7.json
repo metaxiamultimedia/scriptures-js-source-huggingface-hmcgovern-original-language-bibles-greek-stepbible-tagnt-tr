@@ -1,0 +1,327 @@
+{
+  "text": "εἰ ἡ ἀλήθεια τοῦ θεοῦ ἐν τῷ ἐμῷ ψεύσματι ἐπερίσσευσεν εἰς τὴν δόξαν αὐτοῦ, τί ἔτι κἀγὼ ὡς ἁμαρτωλὸς κρίνομαι;",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀλήθεια",
+      "lemma": [
+        "G225"
+      ],
+      "strongs": "G225",
+      "morph": "robinson:N-NSF",
+      "translation": "truth",
+      "metadata": {},
+      "gematria": {
+        "standard": 64,
+        "ordinal": 42,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐμῷ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:S-1SDSN",
+      "translation": "my",
+      "metadata": {},
+      "gematria": {
+        "standard": 855,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "ψεύσματι",
+      "lemma": [
+        "G5582"
+      ],
+      "strongs": "G5582",
+      "morph": "robinson:N-DSN",
+      "translation": "lie",
+      "metadata": {},
+      "gematria": {
+        "standard": 1656,
+        "ordinal": 107,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐπερίσσευσεν",
+      "lemma": [
+        "G4052"
+      ],
+      "strongs": "G4052",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "abounded",
+      "metadata": {},
+      "gematria": {
+        "standard": 1260,
+        "ordinal": 149,
+        "reduced": 77
+      }
+    },
+    {
+      "position": 11,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
+      "text": "δόξαν",
+      "lemma": [
+        "G1391"
+      ],
+      "strongs": "G1391",
+      "morph": "robinson:N-ASF",
+      "translation": "glory",
+      "metadata": {},
+      "gematria": {
+        "standard": 185,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 14,
+      "text": "αὐτοῦ,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 15,
+      "text": "τί",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-ASN",
+      "translation": "why",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἔτι",
+      "lemma": [
+        "G2089"
+      ],
+      "strongs": "G2089",
+      "morph": "robinson:ADV",
+      "translation": "still",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 17,
+      "text": "κἀγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS + G2532=CONJ",
+      "translation": "also I myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἁμαρτωλὸς",
+      "lemma": [
+        "G268"
+      ],
+      "strongs": "G268",
+      "morph": "robinson:A-NSM",
+      "translation": "a sinner",
+      "metadata": {},
+      "gematria": {
+        "standard": 1542,
+        "ordinal": 118,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 20,
+      "text": "κρίνομαι;",
+      "lemma": [
+        "G2919"
+      ],
+      "strongs": "G2919",
+      "morph": "robinson:V-PPI-1S",
+      "translation": "am judged?",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 86,
+        "reduced": 41
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12498,
+    "ordinal": 1079,
+    "reduced": 440
+  }
+}

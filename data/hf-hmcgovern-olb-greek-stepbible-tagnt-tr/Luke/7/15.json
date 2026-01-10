@@ -1,0 +1,218 @@
+{
+  "text": "καὶ ἀνεκάθισεν ὁ νεκρὸς καὶ ἤρξατο λαλεῖν. καὶ ἔδωκεν αὐτὸν τῇ μητρὶ αὐτοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀνεκάθισεν",
+      "lemma": [
+        "G339"
+      ],
+      "strongs": "G339",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "sat up",
+      "metadata": {},
+      "gematria": {
+        "standard": 351,
+        "ordinal": 83,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "νεκρὸς",
+      "lemma": [
+        "G3498"
+      ],
+      "strongs": "G3498",
+      "morph": "robinson:A-NSM",
+      "translation": "dead [man]",
+      "metadata": {},
+      "gematria": {
+        "standard": 445,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἤρξατο",
+      "lemma": [
+        "G757"
+      ],
+      "strongs": "G757",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "began",
+      "metadata": {},
+      "gematria": {
+        "standard": 539,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "λαλεῖν.",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-PAN",
+      "translation": "to speak.",
+      "metadata": {},
+      "gematria": {
+        "standard": 126,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἔδωκεν",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "He gave",
+      "metadata": {},
+      "gematria": {
+        "standard": 884,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 10,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 12,
+      "text": "μητρὶ",
+      "lemma": [
+        "G3384"
+      ],
+      "strongs": "G3384",
+      "morph": "robinson:N-DSF",
+      "translation": "mother",
+      "metadata": {},
+      "gematria": {
+        "standard": 458,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5276,
+    "ordinal": 662,
+    "reduced": 266
+  }
+}

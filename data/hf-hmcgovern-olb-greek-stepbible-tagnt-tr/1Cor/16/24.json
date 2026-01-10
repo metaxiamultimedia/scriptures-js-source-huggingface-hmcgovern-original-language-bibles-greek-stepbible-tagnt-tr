@@ -1,0 +1,388 @@
+{
+  "text": "ἡ ἀγάπη μου μετὰ πάντων ὑμῶν ἐν Χριστῷ Ἰησοῦ. ἀμήν πρός Κορινθίους πρώτη ἐγράφη ἀπό Φιλίππων διά Στεφανᾶ καί φουρτουνάτου καί Ἀχαϊκοῦ καί Τιμοθέου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀγάπη",
+      "lemma": [
+        "G26"
+      ],
+      "strongs": "G26",
+      "morph": "robinson:N-NSF",
+      "translation": "love",
+      "metadata": {},
+      "gematria": {
+        "standard": 93,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of Mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "μετὰ",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "[be] with",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "πάντων",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-GPM",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 1281,
+        "ordinal": 86,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑμῶν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "Χριστῷ",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-DSM-T",
+      "translation": "Christ",
+      "metadata": {},
+      "gematria": {
+        "standard": 2020,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 9,
+      "text": "Ἰησοῦ.",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus.",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀμήν",
+      "lemma": [
+        "G281"
+      ],
+      "strongs": "G281",
+      "morph": "robinson:INJ-HEB",
+      "translation": "Amen",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "πρός",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 12,
+      "text": "Κορινθίους",
+      "lemma": [
+        "G2881"
+      ],
+      "strongs": "G2881",
+      "morph": "robinson:N-APM-LG",
+      "translation": "Corinthians",
+      "metadata": {},
+      "gematria": {
+        "standard": 939,
+        "ordinal": 134,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 13,
+      "text": "πρώτη",
+      "lemma": null,
+      "morph": null,
+      "translation": "first",
+      "metadata": {},
+      "gematria": {
+        "standard": 1288,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐγράφη",
+      "lemma": [
+        "G1125"
+      ],
+      "strongs": "G1125",
+      "morph": "robinson:V-2API-3S",
+      "translation": "it was written",
+      "metadata": {},
+      "gematria": {
+        "standard": 617,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀπό",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "Φιλίππων",
+      "lemma": [
+        "G5375"
+      ],
+      "strongs": "G5375",
+      "morph": "robinson:N-GSM-L",
+      "translation": "Philippi",
+      "metadata": {},
+      "gematria": {
+        "standard": 1560,
+        "ordinal": 119,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 17,
+      "text": "διά",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 18,
+      "text": "Στεφανᾶ",
+      "lemma": [
+        "G4734"
+      ],
+      "strongs": "G4734",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of Stephanas",
+      "metadata": {},
+      "gematria": {
+        "standard": 1057,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 19,
+      "text": "καί",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "φουρτουνάτου",
+      "lemma": [
+        "G5415"
+      ],
+      "strongs": "G5415",
+      "morph": "robinson:N-GSM-P",
+      "translation": "Fortunatus",
+      "metadata": {},
+      "gematria": {
+        "standard": 2661,
+        "ordinal": 195,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 21,
+      "text": "καί",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "Ἀχαϊκοῦ",
+      "lemma": [
+        "G883"
+      ],
+      "strongs": "G883",
+      "morph": "robinson:N-GSM-P",
+      "translation": "Achaicus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1102,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 23,
+      "text": "καί",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 24,
+      "text": "Τιμοθέου.",
+      "lemma": [
+        "G5095"
+      ],
+      "strongs": "G5095",
+      "morph": "robinson:N-GSM-P",
+      "translation": "Timothy.",
+      "metadata": {},
+      "gematria": {
+        "standard": 904,
+        "ordinal": 103,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 17227,
+    "ordinal": 1528,
+    "reduced": 574
+  }
+}

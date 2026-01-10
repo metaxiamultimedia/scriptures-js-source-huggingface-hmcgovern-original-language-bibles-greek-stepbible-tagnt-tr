@@ -1,0 +1,442 @@
+{
+  "text": "ὑμεῖς οὐν ὃ ἠκούσατε ἀπ᾽ ἀρχῆς ἐν ὑμῖν μενέτω. ἐὰν ἐν ὑμῖν μείνῃ ὃ ἀπ᾽ ἀρχῆς ἠκούσατε, καὶ ὑμεῖς ἐν τῷ υἱῷ καὶ ἐν τῷ πατρὶ μενεῖτε.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὑμεῖς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NP",
+      "translation": "You yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὐν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASN",
+      "translation": "what",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἠκούσατε",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAI-2P",
+      "translation": "you have heard",
+      "metadata": {},
+      "gematria": {
+        "standard": 1004,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀπ᾽",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 81,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀρχῆς",
+      "lemma": [
+        "G746"
+      ],
+      "strongs": "G746",
+      "morph": "robinson:N-GSF",
+      "translation": "[the] beginning",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "μενέτω.",
+      "lemma": [
+        "G3306"
+      ],
+      "strongs": "G3306",
+      "morph": "robinson:V-PAM-3S",
+      "translation": "should abide.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1200,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 13,
+      "text": "μείνῃ",
+      "lemma": [
+        "G3306"
+      ],
+      "strongs": "G3306",
+      "morph": "robinson:V-AAS-3S",
+      "translation": "shall abide",
+      "metadata": {},
+      "gematria": {
+        "standard": 123,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASN",
+      "translation": "what",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀπ᾽",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 81,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἀρχῆς",
+      "lemma": [
+        "G746"
+      ],
+      "strongs": "G746",
+      "morph": "robinson:N-GSF",
+      "translation": "[the] beginning",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἠκούσατε,",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAI-2P",
+      "translation": "you have heard,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1004,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὑμεῖς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NP",
+      "translation": "you yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 21,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 22,
+      "text": "υἱῷ",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-DSM",
+      "translation": "Son",
+      "metadata": {},
+      "gematria": {
+        "standard": 1220,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 23,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 25,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 26,
+      "text": "πατρὶ",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-DSM-T",
+      "translation": "Father",
+      "metadata": {},
+      "gematria": {
+        "standard": 491,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 27,
+      "text": "μενεῖτε.",
+      "lemma": [
+        "G3306"
+      ],
+      "strongs": "G3306",
+      "morph": "robinson:V-FAI-2P",
+      "translation": "will abide.",
+      "metadata": {},
+      "gematria": {
+        "standard": 415,
+        "ordinal": 68,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12965,
+    "ordinal": 1228,
+    "reduced": 499
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "text": "ὑπόμνησιν τῆς ἐν σοὶ ἀνυποκρίτου πίστεως, ἥτις ἐνῴκησεν πρῶτον ἐν τῇ μάμμῃ σου Λωΐδι καὶ τῇ μητρί σου Εὐνίκῃ, πέπεισμαι δὲ ὅτι καὶ ἐν σοί.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὑπόμνησιν",
+      "lemma": [
+        "G5280"
+      ],
+      "strongs": "G5280",
+      "morph": "robinson:N-ASF",
+      "translation": "remembrance",
+      "metadata": {},
+      "gematria": {
+        "standard": 908,
+        "ordinal": 123,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 2,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "within",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "σοὶ",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DS",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀνυποκρίτου",
+      "lemma": [
+        "G505"
+      ],
+      "strongs": "G505",
+      "morph": "robinson:A-GSF",
+      "translation": "sincere",
+      "metadata": {},
+      "gematria": {
+        "standard": 1501,
+        "ordinal": 155,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 6,
+      "text": "πίστεως,",
+      "lemma": null,
+      "morph": null,
+      "translation": "faith,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1595,
+        "ordinal": 109,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἥτις",
+      "lemma": [
+        "G3748"
+      ],
+      "strongs": "G3748",
+      "morph": "robinson:R-NSF",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 518,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐνῴκησεν",
+      "lemma": [
+        "G1774"
+      ],
+      "strongs": "G1774",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "dwelt",
+      "metadata": {},
+      "gematria": {
+        "standard": 1148,
+        "ordinal": 104,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 9,
+      "text": "πρῶτον",
+      "lemma": null,
+      "morph": null,
+      "translation": "first",
+      "metadata": {},
+      "gematria": {
+        "standard": 1400,
+        "ordinal": 104,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 12,
+      "text": "μάμμῃ",
+      "lemma": [
+        "G3125"
+      ],
+      "strongs": "G3125",
+      "morph": "robinson:N-DSF",
+      "translation": "grandmother",
+      "metadata": {},
+      "gematria": {
+        "standard": 139,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 13,
+      "text": "σου",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 14,
+      "text": "Λωΐδι",
+      "lemma": [
+        "G3090"
+      ],
+      "strongs": "G3090",
+      "morph": "robinson:N-DSF-P",
+      "translation": "Lois",
+      "metadata": {},
+      "gematria": {
+        "standard": 854,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "in the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 17,
+      "text": "μητρί",
+      "lemma": [
+        "G3384"
+      ],
+      "strongs": "G3384",
+      "morph": "robinson:N-DSF",
+      "translation": "mother",
+      "metadata": {},
+      "gematria": {
+        "standard": 458,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 18,
+      "text": "σου",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 19,
+      "text": "Εὐνίκῃ,",
+      "lemma": [
+        "G2131"
+      ],
+      "strongs": "G2131",
+      "morph": "robinson:N-DSF-P",
+      "translation": "Eunice,",
+      "metadata": {},
+      "gematria": {
+        "standard": 503,
+        "ordinal": 73,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 20,
+      "text": "πέπεισμαι",
+      "lemma": [
+        "G3982"
+      ],
+      "strongs": "G3982",
+      "morph": "robinson:V-RPI-1S",
+      "translation": "I have been persuaded",
+      "metadata": {},
+      "gematria": {
+        "standard": 431,
+        "ordinal": 91,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 21,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 22,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 23,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "[it is] in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 25,
+      "text": "σοί.",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DS",
+      "translation": "you.",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13115,
+    "ordinal": 1436,
+    "reduced": 635
+  }
+}

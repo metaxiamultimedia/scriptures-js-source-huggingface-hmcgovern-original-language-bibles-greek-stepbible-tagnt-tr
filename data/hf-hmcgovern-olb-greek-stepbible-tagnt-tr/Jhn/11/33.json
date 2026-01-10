@@ -1,0 +1,289 @@
+{
+  "text": "Ἰησοῦς οὖν ὡς εἶδεν αὐτὴν κλαίουσαν καὶ τοὺς συνελθόντας αὐτῇ Ἰουδαίους κλαίοντας, ἐνεβριμήσατο τῷ πνεύματι καὶ ἐτάραξεν ἑαυτὸν",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "when",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἶδεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "He saw",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτὴν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASF",
+      "translation": "her",
+      "metadata": {},
+      "gematria": {
+        "standard": 759,
+        "ordinal": 60,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "κλαίουσαν",
+      "lemma": [
+        "G2799"
+      ],
+      "strongs": "G2799",
+      "morph": "robinson:V-PAP-ASF",
+      "translation": "weeping",
+      "metadata": {},
+      "gematria": {
+        "standard": 782,
+        "ordinal": 98,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "συνελθόντας",
+      "lemma": [
+        "G4905"
+      ],
+      "strongs": "G4905",
+      "morph": "robinson:V-2AAP-APM",
+      "translation": "having come with",
+      "metadata": {},
+      "gematria": {
+        "standard": 1315,
+        "ordinal": 141,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 10,
+      "text": "αὐτῇ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSF",
+      "translation": "her",
+      "metadata": {},
+      "gematria": {
+        "standard": 719,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 11,
+      "text": "Ἰουδαίους",
+      "lemma": [
+        "G2453"
+      ],
+      "strongs": "G2453",
+      "morph": "robinson:N-APM-PG",
+      "translation": "Jews",
+      "metadata": {},
+      "gematria": {
+        "standard": 1165,
+        "ordinal": 111,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 12,
+      "text": "κλαίοντας,",
+      "lemma": [
+        "G2799"
+      ],
+      "strongs": "G2799",
+      "morph": "robinson:V-PAP-APM",
+      "translation": "weeping,",
+      "metadata": {},
+      "gematria": {
+        "standard": 682,
+        "ordinal": 97,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐνεβριμήσατο",
+      "lemma": [
+        "G1690"
+      ],
+      "strongs": "G1690",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "He was deeply moved",
+      "metadata": {},
+      "gematria": {
+        "standard": 791,
+        "ordinal": 123,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 14,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "πνεύματι",
+      "lemma": null,
+      "morph": null,
+      "translation": "in spirit",
+      "metadata": {},
+      "gematria": {
+        "standard": 886,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐτάραξεν",
+      "lemma": [
+        "G5015"
+      ],
+      "strongs": "G5015",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "troubled",
+      "metadata": {},
+      "gematria": {
+        "standard": 522,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἑαυτὸν",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-3ASM",
+      "translation": "Himself",
+      "metadata": {},
+      "gematria": {
+        "standard": 826,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13071,
+    "ordinal": 1306,
+    "reduced": 496
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "text": "εἰ δὲ ὃ οὐ βλέπομεν ἐλπίζομεν, δι᾽ ὑπομονῆς ἀπεκδεχόμεθα.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASN",
+      "translation": "what",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "βλέπομεν",
+      "lemma": [
+        "G991"
+      ],
+      "strongs": "G991",
+      "morph": "robinson:V-PAI-1P",
+      "translation": "we see",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐλπίζομεν,",
+      "lemma": [
+        "G1679"
+      ],
+      "strongs": "G1679",
+      "morph": "robinson:V-PAI-1P",
+      "translation": "we hope for,",
+      "metadata": {},
+      "gematria": {
+        "standard": 297,
+        "ordinal": 92,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 7,
+      "text": "δι᾽",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 14,
+        "ordinal": 13,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὑπομονῆς",
+      "lemma": [
+        "G5281"
+      ],
+      "strongs": "G5281",
+      "morph": "robinson:N-GSF",
+      "translation": "patience",
+      "metadata": {},
+      "gematria": {
+        "standard": 918,
+        "ordinal": 116,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀπεκδεχόμεθα.",
+      "lemma": [
+        "G553"
+      ],
+      "strongs": "G553",
+      "morph": "robinson:V-PNI-1P",
+      "translation": "we await.",
+      "metadata": {},
+      "gematria": {
+        "standard": 840,
+        "ordinal": 104,
+        "reduced": 50
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2915,
+    "ordinal": 477,
+    "reduced": 225
+  }
+}

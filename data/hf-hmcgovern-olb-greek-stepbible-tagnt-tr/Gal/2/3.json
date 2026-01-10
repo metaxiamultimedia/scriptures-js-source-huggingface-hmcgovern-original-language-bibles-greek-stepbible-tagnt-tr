@@ -1,0 +1,170 @@
+{
+  "text": "ἀλλ᾽ οὐδὲ Τίτος ὁ σὺν ἐμοί, Ἕλλην ὤν, ἠναγκάσθη περιτμηθῆναι·",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "But",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὐδὲ",
+      "lemma": [
+        "G3761"
+      ],
+      "strongs": "G3761",
+      "morph": "robinson:CONJ-N",
+      "translation": "not even",
+      "metadata": {},
+      "gematria": {
+        "standard": 479,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
+      "text": "Τίτος",
+      "lemma": [
+        "G5103"
+      ],
+      "strongs": "G5103",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Titus",
+      "metadata": {},
+      "gematria": {
+        "standard": 880,
+        "ordinal": 80,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "who [was]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "σὺν",
+      "lemma": [
+        "G4862"
+      ],
+      "strongs": "G4862",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐμοί,",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1DS",
+      "translation": "me myself,",
+      "metadata": {},
+      "gematria": {
+        "standard": 125,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ἕλλην",
+      "lemma": [
+        "G1672"
+      ],
+      "strongs": "G1672",
+      "morph": "robinson:N-NSM-LG",
+      "translation": "a Greek",
+      "metadata": {},
+      "gematria": {
+        "standard": 123,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὤν,",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "being,",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἠναγκάσθη",
+      "lemma": [
+        "G315"
+      ],
+      "strongs": "G315",
+      "morph": "robinson:V-API-3S",
+      "translation": "was compelled",
+      "metadata": {},
+      "gematria": {
+        "standard": 300,
+        "ordinal": 68,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 10,
+      "text": "περιτμηθῆναι·",
+      "lemma": [
+        "G4059"
+      ],
+      "strongs": "G4059",
+      "morph": "robinson:V-APN",
+      "translation": "to be circumcised;",
+      "metadata": {},
+      "gematria": {
+        "standard": 621,
+        "ordinal": 123,
+        "reduced": 69
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4159,
+    "ordinal": 529,
+    "reduced": 232
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "text": "καὶ καταλιπὼν ἀναστὰς αὐτῷ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "καταλιπὼν",
+      "lemma": [
+        "G2641"
+      ],
+      "strongs": "G2641",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having left",
+      "metadata": {},
+      "gematria": {
+        "standard": 1292,
+        "ordinal": 104,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀναστὰς",
+      "lemma": [
+        "G450"
+      ],
+      "strongs": "G450",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having arisen",
+      "metadata": {},
+      "gematria": {
+        "standard": 753,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "αὐτῷ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "Him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3587,
+    "ordinal": 268,
+    "reduced": 88
+  }
+}

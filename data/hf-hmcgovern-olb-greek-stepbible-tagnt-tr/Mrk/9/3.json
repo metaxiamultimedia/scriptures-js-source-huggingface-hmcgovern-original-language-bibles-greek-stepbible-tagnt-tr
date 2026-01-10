@@ -1,0 +1,295 @@
+{
+  "text": "καὶ τὰ ἱμάτια αὐτοῦ ἐγένετο στίλβοντα, λευκὰ λίαν ὡς χιών, οἷα γναφεὺς ἐπὶ τῆς γῆς οὐ δύναται λευκᾶναι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἱμάτια",
+      "lemma": [
+        "G2440"
+      ],
+      "strongs": "G2440",
+      "morph": "robinson:N-NPN",
+      "translation": "garments",
+      "metadata": {},
+      "gematria": {
+        "standard": 362,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "was",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "στίλβοντα,",
+      "lemma": [
+        "G4744"
+      ],
+      "strongs": "G4744",
+      "morph": "robinson:V-PAP-NPN",
+      "translation": "shining",
+      "metadata": {},
+      "gematria": {
+        "standard": 963,
+        "ordinal": 107,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 7,
+      "text": "λευκὰ",
+      "lemma": [
+        "G3022"
+      ],
+      "strongs": "G3022",
+      "morph": "robinson:A-NPN",
+      "translation": "white",
+      "metadata": {},
+      "gematria": {
+        "standard": 456,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "λίαν",
+      "lemma": [
+        "G3029"
+      ],
+      "strongs": "G3029",
+      "morph": "robinson:ADV",
+      "translation": "exceedingly",
+      "metadata": {},
+      "gematria": {
+        "standard": 91,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "χιών,",
+      "lemma": [
+        "G5510"
+      ],
+      "strongs": "G5510",
+      "morph": "robinson:N-NSF",
+      "translation": "snow",
+      "metadata": {},
+      "gematria": {
+        "standard": 1460,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "οἷα",
+      "lemma": [
+        "G3634"
+      ],
+      "strongs": "G3634",
+      "morph": "robinson:K-APN",
+      "translation": "such as",
+      "metadata": {},
+      "gematria": {
+        "standard": 81,
+        "ordinal": 25,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "γναφεὺς",
+      "lemma": [
+        "G1102"
+      ],
+      "strongs": "G1102",
+      "morph": "robinson:N-NSM",
+      "translation": "a launderer",
+      "metadata": {},
+      "gematria": {
+        "standard": 1159,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "on",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 15,
+      "text": "γῆς",
+      "lemma": null,
+      "morph": null,
+      "translation": "earth",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 16,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 17,
+      "text": "δύναται",
+      "lemma": [
+        "G1410"
+      ],
+      "strongs": "G1410",
+      "morph": "robinson:V-PNI-3S",
+      "translation": "is able",
+      "metadata": {},
+      "gematria": {
+        "standard": 766,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 18,
+      "text": "λευκᾶναι.",
+      "lemma": [
+        "G3021"
+      ],
+      "strongs": "G3021",
+      "morph": "robinson:V-AAN",
+      "translation": "to whiten.",
+      "metadata": {},
+      "gematria": {
+        "standard": 517,
+        "ordinal": 70,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10080,
+    "ordinal": 909,
+    "reduced": 333
+  }
+}

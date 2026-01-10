@@ -1,0 +1,202 @@
+{
+  "text": "διὰ τί τοῦτο τὸ μύρον οὐκ ἐπράθη τριακοσίων δηναρίων καὶ ἐδόθη πτωχοῖς;",
+  "words": [
+    {
+      "position": 1,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "Because of",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "τί",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-ASN",
+      "translation": "why",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "τοῦτο",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSN",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "μύρον",
+      "lemma": [
+        "G3464"
+      ],
+      "strongs": "G3464",
+      "morph": "robinson:N-NSN",
+      "translation": "fragrant oil",
+      "metadata": {},
+      "gematria": {
+        "standard": 660,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐπράθη",
+      "lemma": [
+        "G4097"
+      ],
+      "strongs": "G4097",
+      "morph": "robinson:V-API-3S",
+      "translation": "was sold",
+      "metadata": {},
+      "gematria": {
+        "standard": 203,
+        "ordinal": 54,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 8,
+      "text": "τριακοσίων",
+      "lemma": [
+        "G5145"
+      ],
+      "strongs": "G5145",
+      "morph": "robinson:A-GPN",
+      "translation": "for three hundred",
+      "metadata": {},
+      "gematria": {
+        "standard": 1561,
+        "ordinal": 135,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 9,
+      "text": "δηναρίων",
+      "lemma": [
+        "G1220"
+      ],
+      "strongs": "G1220",
+      "morph": "robinson:N-GPN",
+      "translation": "denarii",
+      "metadata": {},
+      "gematria": {
+        "standard": 1023,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐδόθη",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-API-3S",
+      "translation": "given",
+      "metadata": {},
+      "gematria": {
+        "standard": 96,
+        "ordinal": 39,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 12,
+      "text": "πτωχοῖς;",
+      "lemma": [
+        "G4434"
+      ],
+      "strongs": "G4434",
+      "morph": "robinson:N-DPM",
+      "translation": "to [the] poor?",
+      "metadata": {},
+      "gematria": {
+        "standard": 2060,
+        "ordinal": 123,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7959,
+    "ordinal": 745,
+    "reduced": 295
+  }
+}

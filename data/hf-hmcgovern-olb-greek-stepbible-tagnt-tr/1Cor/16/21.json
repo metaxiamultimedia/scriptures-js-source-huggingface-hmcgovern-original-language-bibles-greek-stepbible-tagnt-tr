@@ -1,0 +1,103 @@
+{
+  "text": "Ὁ ἀσπασμὸς τῇ ἐμῇ χειρὶ Παύλου·",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀσπασμὸς",
+      "lemma": [
+        "G783"
+      ],
+      "strongs": "G783",
+      "morph": "robinson:N-NSM",
+      "translation": "greeting",
+      "metadata": {},
+      "gematria": {
+        "standard": 792,
+        "ordinal": 99,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 3,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐμῇ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:S-1SDSF",
+      "translation": "by my own",
+      "metadata": {},
+      "gematria": {
+        "standard": 63,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "χειρὶ",
+      "lemma": [
+        "G5495"
+      ],
+      "strongs": "G5495",
+      "morph": "robinson:N-DSF",
+      "translation": "hand",
+      "metadata": {},
+      "gematria": {
+        "standard": 725,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 6,
+      "text": "Παύλου·",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Paul;",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 83,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2949,
+    "ordinal": 327,
+    "reduced": 147
+  }
+}

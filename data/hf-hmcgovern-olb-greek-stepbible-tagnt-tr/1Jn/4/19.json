@@ -1,0 +1,132 @@
+{
+  "text": "ἡμεῖς ἀγαπῶμεν αὐτόν, ὅτι αὐτὸς πρῶτος ἠγάπησεν ἡμᾶς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἡμεῖς",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1NP",
+      "translation": "We ourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 263,
+        "ordinal": 51,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀγαπῶμεν",
+      "lemma": [
+        "G25"
+      ],
+      "strongs": "G25",
+      "morph": "robinson:V-PAI-1P",
+      "translation": "love",
+      "metadata": {},
+      "gematria": {
+        "standard": 980,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτόν,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "because",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτὸς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NSM",
+      "translation": "He himself",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "πρῶτος",
+      "lemma": null,
+      "morph": null,
+      "translation": "first",
+      "metadata": {},
+      "gematria": {
+        "standard": 1550,
+        "ordinal": 109,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἠγάπησεν",
+      "lemma": [
+        "G25"
+      ],
+      "strongs": "G25",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "loved",
+      "metadata": {},
+      "gematria": {
+        "standard": 355,
+        "ordinal": 70,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἡμᾶς.",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AP",
+      "translation": "us.",
+      "metadata": {},
+      "gematria": {
+        "standard": 249,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5569,
+    "ordinal": 527,
+    "reduced": 212
+  }
+}

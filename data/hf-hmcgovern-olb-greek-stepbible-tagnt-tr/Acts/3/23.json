@@ -1,0 +1,231 @@
+{
+  "text": "ἔσται δὲ πᾶσα ψυχὴ ἥτις μὴ ἀκούσῃ τοῦ προφήτου ἐκείνου ἐξολεθρευθήσεται ἐκ τοῦ λαοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἔσται",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-FDI-3S",
+      "translation": "It will be [that]",
+      "metadata": {},
+      "gematria": {
+        "standard": 516,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "πᾶσα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NSF",
+      "translation": "every",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "ψυχὴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "soul",
+      "metadata": {},
+      "gematria": {
+        "standard": 1708,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἥτις",
+      "lemma": [
+        "G3748"
+      ],
+      "strongs": "G3748",
+      "morph": "robinson:R-NSF",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 518,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 6,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "unless",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀκούσῃ",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAS-3S",
+      "translation": "shall heed",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "προφήτου",
+      "lemma": [
+        "G4396"
+      ],
+      "strongs": "G4396",
+      "morph": "robinson:N-GSM",
+      "translation": "prophet",
+      "metadata": {},
+      "gematria": {
+        "standard": 1528,
+        "ordinal": 130,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐκείνου",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-GSM",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 560,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐξολεθρευθήσεται",
+      "lemma": [
+        "G1842"
+      ],
+      "strongs": "G1842",
+      "morph": "robinson:V-FPI-3S",
+      "translation": "will be utterly destroyed",
+      "metadata": {},
+      "gematria": {
+        "standard": 1217,
+        "ordinal": 167,
+        "reduced": 86
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out from",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "λαοῦ.",
+      "lemma": [
+        "G2992"
+      ],
+      "strongs": "G2992",
+      "morph": "robinson:N-GSM",
+      "translation": "people.’",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9161,
+    "ordinal": 865,
+    "reduced": 334
+  }
+}

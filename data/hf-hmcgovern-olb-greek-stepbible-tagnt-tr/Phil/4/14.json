@@ -1,0 +1,119 @@
+{
+  "text": "πλὴν καλῶς ἐποιήσατε συγκοινωνήσαντές μου τῇ θλίψει.",
+  "words": [
+    {
+      "position": 1,
+      "text": "πλὴν",
+      "lemma": [
+        "G4133"
+      ],
+      "strongs": "G4133",
+      "morph": "robinson:CONJ",
+      "translation": "But",
+      "metadata": {},
+      "gematria": {
+        "standard": 168,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "καλῶς",
+      "lemma": [
+        "G2573"
+      ],
+      "strongs": "G2573",
+      "morph": "robinson:ADV",
+      "translation": "well",
+      "metadata": {},
+      "gematria": {
+        "standard": 1051,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐποιήσατε",
+      "lemma": null,
+      "morph": null,
+      "translation": "you did",
+      "metadata": {},
+      "gematria": {
+        "standard": 679,
+        "ordinal": 95,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 4,
+      "text": "συγκοινωνήσαντές",
+      "lemma": [
+        "G4790"
+      ],
+      "strongs": "G4790",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "having fellowship in",
+      "metadata": {},
+      "gematria": {
+        "standard": 2367,
+        "ordinal": 206,
+        "reduced": 80
+      }
+    },
+    {
+      "position": 5,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "my",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "θλίψει.",
+      "lemma": [
+        "G2347"
+      ],
+      "strongs": "G2347",
+      "morph": "robinson:N-DSF",
+      "translation": "affliction.",
+      "metadata": {},
+      "gematria": {
+        "standard": 764,
+        "ordinal": 65,
+        "reduced": 38
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5857,
+    "ordinal": 559,
+    "reduced": 235
+  }
+}

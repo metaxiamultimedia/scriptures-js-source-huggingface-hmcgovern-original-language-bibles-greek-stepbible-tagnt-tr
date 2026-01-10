@@ -1,0 +1,151 @@
+{
+  "text": "ἕκαστος ἐν τῇ κλήσει ᾗ ἐκλήθη, ἐν ταύτῃ μενέτω.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἕκαστος",
+      "lemma": [
+        "G1538"
+      ],
+      "strongs": "G1538",
+      "morph": "robinson:A-NSM",
+      "translation": "Each",
+      "metadata": {},
+      "gematria": {
+        "standard": 796,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
+      "text": "κλήσει",
+      "lemma": [
+        "G2821"
+      ],
+      "strongs": "G2821",
+      "morph": "robinson:N-DSF",
+      "translation": "calling",
+      "metadata": {},
+      "gematria": {
+        "standard": 273,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "ᾗ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-DSF",
+      "translation": "in which",
+      "metadata": {},
+      "gematria": {
+        "standard": 18,
+        "ordinal": 16,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐκλήθη,",
+      "lemma": null,
+      "morph": null,
+      "translation": "he has been called,",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "ταύτῃ",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-DSF",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1019,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 9,
+      "text": "μενέτω.",
+      "lemma": [
+        "G3306"
+      ],
+      "strongs": "G3306",
+      "morph": "robinson:V-PAM-3S",
+      "translation": "he should abide.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1200,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3814,
+    "ordinal": 434,
+    "reduced": 191
+  }
+}

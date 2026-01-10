@@ -1,0 +1,151 @@
+{
+  "text": "καίτοιγε Ἰησοῦς αὐτὸς οὐκ ἐβάπτιζεν ἀλλ᾽ οἱ μαθηταὶ αὐτοῦ,",
+  "words": [
+    {
+      "position": 1,
+      "text": "καίτοιγε",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ + G5104=PRT + G1065=PRT",
+      "translation": "and certainly indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 419,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 2,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτὸς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NSM",
+      "translation": "Himself",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐβάπτιζεν",
+      "lemma": [
+        "G907"
+      ],
+      "strongs": "G907",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was baptizing",
+      "metadata": {},
+      "gematria": {
+        "standard": 460,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 7,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "μαθηταὶ",
+      "lemma": [
+        "G3101"
+      ],
+      "strongs": "G3101",
+      "morph": "robinson:N-NPM",
+      "translation": "disciples",
+      "metadata": {},
+      "gematria": {
+        "standard": 369,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 9,
+      "text": "αὐτοῦ,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4909,
+    "ordinal": 531,
+    "reduced": 207
+  }
+}

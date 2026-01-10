@@ -1,0 +1,327 @@
+{
+  "text": "Παραγενομένου δὲ αὐτοῦ περιέστησαν οἱ ἀπὸ Ἱεροσολύμων καταβεβηκότες Ἰουδαῖοι πολλὰ καὶ βαρέα αἰτιώματα κατὰ τοῦ Παῦλου, ἃ οὐκ ἴσχυον ἀποδεῖξαι,",
+  "words": [
+    {
+      "position": 1,
+      "text": "Παραγενομένου",
+      "lemma": [
+        "G3854"
+      ],
+      "strongs": "G3854",
+      "morph": "robinson:V-2ADP-GSM",
+      "translation": "When was arriving",
+      "metadata": {},
+      "gematria": {
+        "standard": 875,
+        "ordinal": 136,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "he",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "περιέστησαν",
+      "lemma": [
+        "G4026"
+      ],
+      "strongs": "G4026",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "they stood around",
+      "metadata": {},
+      "gematria": {
+        "standard": 959,
+        "ordinal": 128,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 5,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ἱεροσολύμων",
+      "lemma": [
+        "G2414"
+      ],
+      "strongs": "G2414",
+      "morph": "robinson:N-GPN-L",
+      "translation": "Jerusalem",
+      "metadata": {},
+      "gematria": {
+        "standard": 1775,
+        "ordinal": 159,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 8,
+      "text": "καταβεβηκότες",
+      "lemma": [
+        "G2597"
+      ],
+      "strongs": "G2597",
+      "morph": "robinson:V-RAP-NPM",
+      "translation": "having come down",
+      "metadata": {},
+      "gematria": {
+        "standard": 934,
+        "ordinal": 114,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 9,
+      "text": "Ἰουδαῖοι",
+      "lemma": [
+        "G2453"
+      ],
+      "strongs": "G2453",
+      "morph": "robinson:N-NPM-PG",
+      "translation": "Jews",
+      "metadata": {},
+      "gematria": {
+        "standard": 575,
+        "ordinal": 82,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 10,
+      "text": "πολλὰ",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-APN",
+      "translation": "many",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "βαρέα",
+      "lemma": [
+        "G926"
+      ],
+      "strongs": "G926",
+      "morph": "robinson:A-APN",
+      "translation": "weighty",
+      "metadata": {},
+      "gematria": {
+        "standard": 109,
+        "ordinal": 26,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 13,
+      "text": "αἰτιώματα",
+      "lemma": [
+        "G157"
+      ],
+      "strongs": "G157",
+      "morph": "robinson:N-APN",
+      "translation": "charges",
+      "metadata": {},
+      "gematria": {
+        "standard": 1463,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 14,
+      "text": "κατὰ",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "concerning",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 31,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 15,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 16,
+      "text": "Παῦλου,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Paul",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 83,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-APN",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 18,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἴσχυον",
+      "lemma": [
+        "G2480"
+      ],
+      "strongs": "G2480",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "they were able",
+      "metadata": {},
+      "gematria": {
+        "standard": 1330,
+        "ordinal": 97,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀποδεῖξαι,",
+      "lemma": [
+        "G584"
+      ],
+      "strongs": "G584",
+      "morph": "robinson:V-AAN",
+      "translation": "to prove,",
+      "metadata": {},
+      "gematria": {
+        "standard": 241,
+        "ordinal": 74,
+        "reduced": 47
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12478,
+    "ordinal": 1339,
+    "reduced": 520
+  }
+}

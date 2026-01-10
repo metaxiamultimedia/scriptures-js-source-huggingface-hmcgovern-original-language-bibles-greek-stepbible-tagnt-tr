@@ -1,0 +1,119 @@
+{
+  "text": "Καί τινες ἀναστάντες ἐψευδομαρτύρουν κατ᾽ αὐτοῦ λέγοντες",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καί",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "τινες",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NPM",
+      "translation": "some",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀναστάντες",
+      "lemma": [
+        "G450"
+      ],
+      "strongs": "G450",
+      "morph": "robinson:V-2AAP-NPM",
+      "translation": "having risen up",
+      "metadata": {},
+      "gematria": {
+        "standard": 1108,
+        "ordinal": 108,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐψευδομαρτύρουν",
+      "lemma": [
+        "G5576"
+      ],
+      "strongs": "G5576",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "were bearing false testimony",
+      "metadata": {},
+      "gematria": {
+        "standard": 2645,
+        "ordinal": 206,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 5,
+      "text": "κατ᾽",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "against",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 30,
+        "reduced": 3
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "λέγοντες",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6504,
+    "ordinal": 592,
+    "reduced": 187
+  }
+}

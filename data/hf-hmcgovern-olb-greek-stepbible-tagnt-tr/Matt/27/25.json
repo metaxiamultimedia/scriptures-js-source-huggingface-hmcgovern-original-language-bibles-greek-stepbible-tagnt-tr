@@ -1,0 +1,263 @@
+{
+  "text": "Καὶ ἀποκριθεὶς πᾶς ὁ λαὸς εἶπεν· τὸ αἷμα αὐτοῦ ἐφ᾽ ἡμᾶς καὶ ἐπὶ τὰ τέκνα ἡμῶν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀποκριθεὶς",
+      "lemma": [
+        "G611"
+      ],
+      "strongs": "G611",
+      "morph": "robinson:V-AOP-NSM",
+      "translation": "answering",
+      "metadata": {},
+      "gematria": {
+        "standard": 505,
+        "ordinal": 108,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 3,
+      "text": "πᾶς",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NSM",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 281,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "λαὸς",
+      "lemma": [
+        "G2992"
+      ],
+      "strongs": "G2992",
+      "morph": "robinson:N-NSM",
+      "translation": "people",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "εἶπεν·",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "said;",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "αἷμα",
+      "lemma": null,
+      "morph": null,
+      "translation": "blood",
+      "metadata": {},
+      "gematria": {
+        "standard": 52,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐφ᾽",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "[be] on",
+      "metadata": {},
+      "gematria": {
+        "standard": 505,
+        "ordinal": 26,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἡμᾶς",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AP",
+      "translation": "us",
+      "metadata": {},
+      "gematria": {
+        "standard": 249,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "on",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 15,
+      "text": "τέκνα",
+      "lemma": [
+        "G5043"
+      ],
+      "strongs": "G5043",
+      "morph": "robinson:N-APN",
+      "translation": "children",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἡμῶν.",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GP",
+      "translation": "of us.",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5386,
+    "ordinal": 641,
+    "reduced": 272
+  }
+}

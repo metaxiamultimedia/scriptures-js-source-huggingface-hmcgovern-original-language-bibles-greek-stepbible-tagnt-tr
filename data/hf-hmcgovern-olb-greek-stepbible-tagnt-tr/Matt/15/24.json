@@ -1,0 +1,244 @@
+{
+  "text": "Ὁ δὲ ἀποκριθεὶς εἶπεν· οὐκ ἀπεστάλην εἰ μὴ εἰς τὰ πρόβατα τὰ ἀπολωλότα οἴκου Ἰσραήλ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀποκριθεὶς",
+      "lemma": [
+        "G611"
+      ],
+      "strongs": "G611",
+      "morph": "robinson:V-AOP-NSM",
+      "translation": "answering",
+      "metadata": {},
+      "gematria": {
+        "standard": 505,
+        "ordinal": 108,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἶπεν·",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "He said;",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "Not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀπεστάλην",
+      "lemma": [
+        "G649"
+      ],
+      "strongs": "G649",
+      "morph": "robinson:V-2API-1S",
+      "translation": "I was sent",
+      "metadata": {},
+      "gematria": {
+        "standard": 675,
+        "ordinal": 91,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 7,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "except",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 11,
+      "text": "πρόβατα",
+      "lemma": [
+        "G4263"
+      ],
+      "strongs": "G4263",
+      "morph": "robinson:N-APN",
+      "translation": "sheep",
+      "metadata": {},
+      "gematria": {
+        "standard": 554,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἀπολωλότα",
+      "lemma": [
+        "G622"
+      ],
+      "strongs": "G622",
+      "morph": "robinson:V-2RAP-APN",
+      "translation": "already perishing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1382,
+        "ordinal": 113,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 14,
+      "text": "οἴκου",
+      "lemma": null,
+      "morph": null,
+      "translation": "of [the] house",
+      "metadata": {},
+      "gematria": {
+        "standard": 570,
+        "ordinal": 69,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "Ἰσραήλ.",
+      "lemma": [
+        "G2474"
+      ],
+      "strongs": "G2474",
+      "morph": "robinson:N-GSM-L",
+      "translation": "of Israel.",
+      "metadata": {},
+      "gematria": {
+        "standard": 349,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5634,
+    "ordinal": 737,
+    "reduced": 323
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "text": "περὶ οὗ πολὺς ἡμῖν ὁ λόγος καὶ δυσερμήνευτος λέγειν, ἐπεὶ νωθροὶ γεγόνατε ταῖς ἀκοαῖς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "Concerning",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὗ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-GSM",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 3,
+      "text": "πολὺς",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-NSM",
+      "translation": "[there is] much",
+      "metadata": {},
+      "gematria": {
+        "standard": 780,
+        "ordinal": 80,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἡμῖν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DP",
+      "translation": "from us",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "λόγος",
+      "lemma": [
+        "G3056"
+      ],
+      "strongs": "G3056",
+      "morph": "robinson:N-NSM",
+      "translation": "speech",
+      "metadata": {},
+      "gematria": {
+        "standard": 373,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "δυσερμήνευτος",
+      "lemma": [
+        "G1421"
+      ],
+      "strongs": "G1421",
+      "morph": "robinson:A-NSM",
+      "translation": "difficult in interpretation",
+      "metadata": {},
+      "gematria": {
+        "standard": 1782,
+        "ordinal": 173,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 9,
+      "text": "λέγειν,",
+      "lemma": null,
+      "morph": null,
+      "translation": "to speak,",
+      "metadata": {},
+      "gematria": {
+        "standard": 103,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐπεὶ",
+      "lemma": [
+        "G1893"
+      ],
+      "strongs": "G1893",
+      "morph": "robinson:CONJ",
+      "translation": "since",
+      "metadata": {},
+      "gematria": {
+        "standard": 100,
+        "ordinal": 35,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 11,
+      "text": "νωθροὶ",
+      "lemma": [
+        "G3576"
+      ],
+      "strongs": "G3576",
+      "morph": "robinson:A-NPM",
+      "translation": "sluggish",
+      "metadata": {},
+      "gematria": {
+        "standard": 1039,
+        "ordinal": 86,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 12,
+      "text": "γεγόνατε",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2RAI-2P",
+      "translation": "you have become",
+      "metadata": {},
+      "gematria": {
+        "standard": 437,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 13,
+      "text": "ταῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPF",
+      "translation": "in the",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀκοαῖς.",
+      "lemma": [
+        "G189"
+      ],
+      "strongs": "G189",
+      "morph": "robinson:N-DPF",
+      "translation": "hearings.",
+      "metadata": {},
+      "gematria": {
+        "standard": 302,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6301,
+    "ordinal": 805,
+    "reduced": 364
+  }
+}

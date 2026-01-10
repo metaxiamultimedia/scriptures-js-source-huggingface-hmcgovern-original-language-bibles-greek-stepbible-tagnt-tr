@@ -1,0 +1,119 @@
+{
+  "text": "ἀσπάσασθε Μαρίαν, ἥτις πολλὰ ἐκοπίασεν εἰς ὑμᾶς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀσπάσασθε",
+      "lemma": [
+        "G782"
+      ],
+      "strongs": "G782",
+      "morph": "robinson:V-ADM-2P",
+      "translation": "do greet",
+      "metadata": {},
+      "gematria": {
+        "standard": 697,
+        "ordinal": 86,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 2,
+      "text": "Μαρίαν,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Mary,",
+      "metadata": {},
+      "gematria": {
+        "standard": 202,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἥτις",
+      "lemma": [
+        "G3748"
+      ],
+      "strongs": "G3748",
+      "morph": "robinson:R-NSF",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 518,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "πολλὰ",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-APN",
+      "translation": "much",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐκοπίασεν",
+      "lemma": [
+        "G2872"
+      ],
+      "strongs": "G2872",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "toiled",
+      "metadata": {},
+      "gematria": {
+        "standard": 441,
+        "ordinal": 92,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 6,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὑμᾶς.",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you.",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2925,
+    "ordinal": 421,
+    "reduced": 205
+  }
+}

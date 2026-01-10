@@ -1,0 +1,292 @@
+{
+  "text": "κἀκεῖθεν ᾐτήσαντο βασιλέα, καὶ ἔδωκεν αὐτοῖς ὁ θεὸς τὸν Σαοὺλ υἱὸν Κίς, ἄνδρα ἐκ φυλῆς Βενιαμίν, ἔτη τεσσεράκοντα·",
+  "words": [
+    {
+      "position": 1,
+      "text": "κἀκεῖθεν",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ + G1564=ADV",
+      "translation": "Then",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 61,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 2,
+      "text": "ᾐτήσαντο",
+      "lemma": [
+        "G154"
+      ],
+      "strongs": "G154",
+      "morph": "robinson:V-AMI-3P",
+      "translation": "they asked for",
+      "metadata": {},
+      "gematria": {
+        "standard": 947,
+        "ordinal": 108,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 3,
+      "text": "βασιλέα,",
+      "lemma": [
+        "G935"
+      ],
+      "strongs": "G935",
+      "morph": "robinson:N-ASM",
+      "translation": "a king,",
+      "metadata": {},
+      "gematria": {
+        "standard": 249,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἔδωκεν",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "gave",
+      "metadata": {},
+      "gematria": {
+        "standard": 884,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτοῖς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "Σαοὺλ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Saul",
+      "metadata": {},
+      "gematria": {
+        "standard": 701,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 11,
+      "text": "υἱὸν",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-ASM",
+      "translation": "son",
+      "metadata": {},
+      "gematria": {
+        "standard": 530,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "Κίς,",
+      "lemma": [
+        "G2797"
+      ],
+      "strongs": "G2797",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of Kish,",
+      "metadata": {},
+      "gematria": {
+        "standard": 230,
+        "ordinal": 37,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἄνδρα",
+      "lemma": null,
+      "morph": null,
+      "translation": "a man",
+      "metadata": {},
+      "gematria": {
+        "standard": 156,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of [the]",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 15,
+      "text": "φυλῆς",
+      "lemma": [
+        "G5443"
+      ],
+      "strongs": "G5443",
+      "morph": "robinson:N-GSF",
+      "translation": "tribe",
+      "metadata": {},
+      "gematria": {
+        "standard": 1138,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "Βενιαμίν,",
+      "lemma": [
+        "G958"
+      ],
+      "strongs": "G958",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of Benjamin,",
+      "metadata": {},
+      "gematria": {
+        "standard": 168,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἔτη",
+      "lemma": [
+        "G2094"
+      ],
+      "strongs": "G2094",
+      "morph": "robinson:N-APN",
+      "translation": "years",
+      "metadata": {},
+      "gematria": {
+        "standard": 313,
+        "ordinal": 31,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 18,
+      "text": "τεσσεράκοντα·",
+      "lemma": [
+        "G5062"
+      ],
+      "strongs": "G5062",
+      "morph": "robinson:A-NUI",
+      "translation": "forty;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1252,
+        "ordinal": 141,
+        "reduced": 51
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8499,
+    "ordinal": 1010,
+    "reduced": 425
+  }
+}

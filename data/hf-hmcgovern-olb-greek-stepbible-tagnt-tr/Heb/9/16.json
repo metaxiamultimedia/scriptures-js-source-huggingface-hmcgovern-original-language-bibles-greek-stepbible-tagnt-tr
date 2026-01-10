@@ -1,0 +1,138 @@
+{
+  "text": "ὅπου γὰρ διαθήκη, θάνατον ἀνάγκη φέρεσθαι τοῦ διαθεμένου·",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅπου",
+      "lemma": [
+        "G3699"
+      ],
+      "strongs": "G3699",
+      "morph": "robinson:CONJ",
+      "translation": "Where",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "διαθήκη,",
+      "lemma": [
+        "G1242"
+      ],
+      "strongs": "G1242",
+      "morph": "robinson:N-NSF",
+      "translation": "[there is] a will,",
+      "metadata": {},
+      "gematria": {
+        "standard": 60,
+        "ordinal": 46,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 4,
+      "text": "θάνατον",
+      "lemma": [
+        "G2288"
+      ],
+      "strongs": "G2288",
+      "morph": "robinson:N-ASM",
+      "translation": "[the] death",
+      "metadata": {},
+      "gematria": {
+        "standard": 481,
+        "ordinal": 70,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀνάγκη",
+      "lemma": [
+        "G318"
+      ],
+      "strongs": "G318",
+      "morph": "robinson:N-NSF",
+      "translation": "[it is] necessary",
+      "metadata": {},
+      "gematria": {
+        "standard": 83,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "φέρεσθαι",
+      "lemma": [
+        "G5342"
+      ],
+      "strongs": "G5342",
+      "morph": "robinson:V-PPN",
+      "translation": "to establish",
+      "metadata": {},
+      "gematria": {
+        "standard": 830,
+        "ordinal": 84,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 7,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "διαθεμένου·",
+      "lemma": [
+        "G1303"
+      ],
+      "strongs": "G1303",
+      "morph": "robinson:V-2AMP-GSM",
+      "translation": "having made [it];",
+      "metadata": {},
+      "gematria": {
+        "standard": 594,
+        "ordinal": 92,
+        "reduced": 47
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3542,
+    "ordinal": 468,
+    "reduced": 216
+  }
+}

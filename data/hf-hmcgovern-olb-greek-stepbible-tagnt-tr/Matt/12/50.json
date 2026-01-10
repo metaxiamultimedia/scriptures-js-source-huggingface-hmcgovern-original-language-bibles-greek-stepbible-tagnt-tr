@@ -1,0 +1,327 @@
+{
+  "text": "ὅστις γὰρ ἂν ποιήσῃ τὸ θέλημα τοῦ πατρός μου τοῦ ἐν οὐρανοῖς, αὐτός μου ἀδελφὸς καὶ ἀδελφὴ καὶ μήτηρ ἐστίν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅστις",
+      "lemma": [
+        "G3748"
+      ],
+      "strongs": "G3748",
+      "morph": "robinson:R-NSM",
+      "translation": "Whoever",
+      "metadata": {},
+      "gematria": {
+        "standard": 780,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 2,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἂν",
+      "lemma": [
+        "G302"
+      ],
+      "strongs": "G302",
+      "morph": "robinson:PRT",
+      "translation": "maybe",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 14,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 4,
+      "text": "ποιήσῃ",
+      "lemma": null,
+      "morph": null,
+      "translation": "may do",
+      "metadata": {},
+      "gematria": {
+        "standard": 386,
+        "ordinal": 81,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "θέλημα",
+      "lemma": [
+        "G2307"
+      ],
+      "strongs": "G2307",
+      "morph": "robinson:N-ASN",
+      "translation": "will",
+      "metadata": {},
+      "gematria": {
+        "standard": 93,
+        "ordinal": 44,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 7,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "πατρός",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-GSM-T",
+      "translation": "Father",
+      "metadata": {},
+      "gematria": {
+        "standard": 751,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 9,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of Mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "who [is]",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "οὐρανοῖς,",
+      "lemma": [
+        "G3772"
+      ],
+      "strongs": "G3772",
+      "morph": "robinson:N-DPM",
+      "translation": "[the] heavens,",
+      "metadata": {},
+      "gematria": {
+        "standard": 901,
+        "ordinal": 108,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτός",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NSM",
+      "translation": "he himself",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 14,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "My",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀδελφὸς",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-NSM",
+      "translation": "brother",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀδελφὴ",
+      "lemma": [
+        "G79"
+      ],
+      "strongs": "G79",
+      "morph": "robinson:N-NSF",
+      "translation": "sister",
+      "metadata": {},
+      "gematria": {
+        "standard": 548,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "μήτηρ",
+      "lemma": [
+        "G3384"
+      ],
+      "strongs": "G3384",
+      "morph": "robinson:N-NSF",
+      "translation": "mother",
+      "metadata": {},
+      "gematria": {
+        "standard": 456,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐστίν.",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is.",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9463,
+    "ordinal": 1050,
+    "reduced": 411
+  }
+}

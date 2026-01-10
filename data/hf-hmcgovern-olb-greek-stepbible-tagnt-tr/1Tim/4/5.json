@@ -1,0 +1,122 @@
+{
+  "text": "ἁγιάζεται γὰρ διὰ λόγου θεοῦ καὶ ἐντεύξεως.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἁγιάζεται",
+      "lemma": [
+        "G37"
+      ],
+      "strongs": "G37",
+      "morph": "robinson:V-PPI-3S",
+      "translation": "it is sanctified",
+      "metadata": {},
+      "gematria": {
+        "standard": 338,
+        "ordinal": 54,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 2,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "λόγου",
+      "lemma": [
+        "G3056"
+      ],
+      "strongs": "G3056",
+      "morph": "robinson:N-GSM",
+      "translation": "[the] word",
+      "metadata": {},
+      "gematria": {
+        "standard": 573,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐντεύξεως.",
+      "lemma": [
+        "G1783"
+      ],
+      "strongs": "G1783",
+      "morph": "robinson:N-GSF",
+      "translation": "prayer.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1825,
+        "ordinal": 123,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3370,
+    "ordinal": 344,
+    "reduced": 155
+  }
+}

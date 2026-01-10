@@ -1,0 +1,404 @@
+{
+  "text": "εἰ δὲ χάριτι οὐκέτι ἐξ ἔργων, ἐπεὶ ἡ χάρις οὐκέτι γίνεται χάρις εἰ δὲ ἐξ ἔργων οὐκέτι ἐστὶν χάρις ἐπεὶ τὸ ἔργον οὐκέτι ἐστὶν ἔργον.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "χάριτι",
+      "lemma": [
+        "G5485"
+      ],
+      "strongs": "G5485",
+      "morph": "robinson:N-DSF",
+      "translation": "by grace",
+      "metadata": {},
+      "gematria": {
+        "standard": 1021,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 4,
+      "text": "οὐκέτι",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N + G2089=ADV",
+      "translation": "no longer",
+      "metadata": {},
+      "gematria": {
+        "standard": 805,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐξ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἔργων,",
+      "lemma": [
+        "G2041"
+      ],
+      "strongs": "G2041",
+      "morph": "robinson:N-GPN",
+      "translation": "works,",
+      "metadata": {},
+      "gematria": {
+        "standard": 958,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐπεὶ",
+      "lemma": [
+        "G1893"
+      ],
+      "strongs": "G1893",
+      "morph": "robinson:CONJ",
+      "translation": "otherwise",
+      "metadata": {},
+      "gematria": {
+        "standard": 100,
+        "ordinal": 35,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "χάρις",
+      "lemma": [
+        "G5485"
+      ],
+      "strongs": "G5485",
+      "morph": "robinson:N-NSF",
+      "translation": "grace",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 10,
+      "text": "οὐκέτι",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N + G2089=ADV",
+      "translation": "no longer",
+      "metadata": {},
+      "gematria": {
+        "standard": 805,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 11,
+      "text": "γίνεται",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-PNI-3S",
+      "translation": "would be",
+      "metadata": {},
+      "gematria": {
+        "standard": 379,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 12,
+      "text": "χάρις",
+      "lemma": [
+        "G5485"
+      ],
+      "strongs": "G5485",
+      "morph": "robinson:N-NSF",
+      "translation": "grace",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 13,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐξ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἔργων",
+      "lemma": [
+        "G2041"
+      ],
+      "strongs": "G2041",
+      "morph": "robinson:N-GPN",
+      "translation": "works",
+      "metadata": {},
+      "gematria": {
+        "standard": 958,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 17,
+      "text": "οὐκέτι",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N + G2089=ADV",
+      "translation": "no longer",
+      "metadata": {},
+      "gematria": {
+        "standard": 805,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐστὶν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 19,
+      "text": "χάρις",
+      "lemma": [
+        "G5485"
+      ],
+      "strongs": "G5485",
+      "morph": "robinson:N-NSF",
+      "translation": "grace",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐπεὶ",
+      "lemma": [
+        "G1893"
+      ],
+      "strongs": "G1893",
+      "morph": "robinson:CONJ",
+      "translation": "since",
+      "metadata": {},
+      "gematria": {
+        "standard": 100,
+        "ordinal": 35,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 21,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἔργον",
+      "lemma": [
+        "G2041"
+      ],
+      "strongs": "G2041",
+      "morph": "robinson:N-NSN",
+      "translation": "work",
+      "metadata": {},
+      "gematria": {
+        "standard": 228,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 23,
+      "text": "οὐκέτι",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N + G2089=ADV",
+      "translation": "no longer",
+      "metadata": {},
+      "gematria": {
+        "standard": 805,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἐστὶν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἔργον.",
+      "lemma": [
+        "G2041"
+      ],
+      "strongs": "G2041",
+      "morph": "robinson:N-NSN",
+      "translation": "work.",
+      "metadata": {},
+      "gematria": {
+        "standard": 228,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11611,
+    "ordinal": 1202,
+    "reduced": 545
+  }
+}

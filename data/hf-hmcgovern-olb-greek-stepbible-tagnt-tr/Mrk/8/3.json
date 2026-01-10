@@ -1,0 +1,276 @@
+{
+  "text": "καὶ ἐὰν ἀπολύσω αὐτοὺς νήστεις εἰς οἶκον αὐτῶν, ἐκλυθήσονται ἐν τῇ ὁδῷ· καί τινες αὐτῶν μακρόθεν ἥκασιν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀπολύσω",
+      "lemma": null,
+      "morph": null,
+      "translation": "I shall send away",
+      "metadata": {},
+      "gematria": {
+        "standard": 1581,
+        "ordinal": 105,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "αὐτοὺς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APM",
+      "translation": "them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 93,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "νήστεις",
+      "lemma": [
+        "G3523"
+      ],
+      "strongs": "G3523",
+      "morph": "robinson:A-APM",
+      "translation": "hungry",
+      "metadata": {},
+      "gematria": {
+        "standard": 773,
+        "ordinal": 89,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 6,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "οἶκον",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] homes",
+      "metadata": {},
+      "gematria": {
+        "standard": 220,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτῶν,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "of them,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐκλυθήσονται",
+      "lemma": [
+        "G1590"
+      ],
+      "strongs": "G1590",
+      "morph": "robinson:V-FPI-3P",
+      "translation": "they will faint",
+      "metadata": {},
+      "gematria": {
+        "standard": 1103,
+        "ordinal": 136,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "on",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὁδῷ·",
+      "lemma": [
+        "G3598"
+      ],
+      "strongs": "G3598",
+      "morph": "robinson:N-DSF",
+      "translation": "way;",
+      "metadata": {},
+      "gematria": {
+        "standard": 884,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 13,
+      "text": "καί",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "τινες",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NPM",
+      "translation": "some",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "αὐτῶν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "of them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "μακρόθεν",
+      "lemma": [
+        "G3113"
+      ],
+      "strongs": "G3113",
+      "morph": "robinson:ADV",
+      "translation": "afar",
+      "metadata": {},
+      "gematria": {
+        "standard": 295,
+        "ordinal": 81,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἥκασιν.",
+      "lemma": [
+        "G2240"
+      ],
+      "strongs": "G2240",
+      "morph": "robinson:V-RAI-3P",
+      "translation": "have come.",
+      "metadata": {},
+      "gematria": {
+        "standard": 289,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10889,
+    "ordinal": 1038,
+    "reduced": 408
+  }
+}

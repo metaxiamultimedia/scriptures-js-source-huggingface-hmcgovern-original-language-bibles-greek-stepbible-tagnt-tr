@@ -1,0 +1,119 @@
+{
+  "text": "καὶ πάλιν κατακύψας ἔγραφεν εἰς τὴν γῆν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "πάλιν",
+      "lemma": [
+        "G3825"
+      ],
+      "strongs": "G3825",
+      "morph": "robinson:ADV",
+      "translation": "again",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 3,
+      "text": "κατακύψας",
+      "lemma": [
+        "G2736"
+      ],
+      "strongs": "G2736",
+      "morph": "robinson:PREP + G2955=V-AAP-NSM",
+      "translation": "being stooped low",
+      "metadata": {},
+      "gematria": {
+        "standard": 1643,
+        "ordinal": 103,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἔγραφεν",
+      "lemma": [
+        "G1125"
+      ],
+      "strongs": "G1125",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "He was writing",
+      "metadata": {},
+      "gematria": {
+        "standard": 664,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "on",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "γῆν.",
+      "lemma": null,
+      "morph": null,
+      "translation": "ground.",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3143,
+    "ordinal": 332,
+    "reduced": 134
+  }
+}

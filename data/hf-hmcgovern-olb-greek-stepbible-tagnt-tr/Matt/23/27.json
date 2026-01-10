@@ -1,0 +1,375 @@
+{
+  "text": "Οὐαὶ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι ὑποκριταί, ὅτι παρομοιάζετε τάφοις κεκονιαμένοις οἵτινες ἔξωθεν μὲν φαίνονται ὡραῖοι, ἔσωθεν δὲ γέμουσιν ὀστέων νεκρῶν καὶ πάσης ἀκαθαρσίας.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Οὐαὶ",
+      "lemma": [
+        "G3759"
+      ],
+      "strongs": "G3759",
+      "morph": "robinson:INJ",
+      "translation": "Woe",
+      "metadata": {},
+      "gematria": {
+        "standard": 481,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὑμῖν,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "γραμματεῖς",
+      "lemma": [
+        "G1122"
+      ],
+      "strongs": "G1122",
+      "morph": "robinson:N-VPM",
+      "translation": "scribes",
+      "metadata": {},
+      "gematria": {
+        "standard": 700,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "Φαρισαῖοι",
+      "lemma": [
+        "G5330"
+      ],
+      "strongs": "G5330",
+      "morph": "robinson:N-VPM-T",
+      "translation": "Pharisees",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 100,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑποκριταί,",
+      "lemma": [
+        "G5273"
+      ],
+      "strongs": "G5273",
+      "morph": "robinson:N-VPM",
+      "translation": "hypocrites!",
+      "metadata": {},
+      "gematria": {
+        "standard": 991,
+        "ordinal": 116,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "For",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "παρομοιάζετε",
+      "lemma": [
+        "G3945"
+      ],
+      "strongs": "G3945",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "you resemble",
+      "metadata": {},
+      "gematria": {
+        "standard": 689,
+        "ordinal": 121,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 9,
+      "text": "τάφοις",
+      "lemma": [
+        "G5028"
+      ],
+      "strongs": "G5028",
+      "morph": "robinson:N-DPM",
+      "translation": "tombs",
+      "metadata": {},
+      "gematria": {
+        "standard": 1081,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 10,
+      "text": "κεκονιαμένοις",
+      "lemma": [
+        "G2867"
+      ],
+      "strongs": "G2867",
+      "morph": "robinson:V-RPP-DPM",
+      "translation": "whitewashed",
+      "metadata": {},
+      "gematria": {
+        "standard": 551,
+        "ordinal": 135,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 11,
+      "text": "οἵτινες",
+      "lemma": [
+        "G3748"
+      ],
+      "strongs": "G3748",
+      "morph": "robinson:R-NPM",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 645,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἔξωθεν",
+      "lemma": [
+        "G1855"
+      ],
+      "strongs": "G1855",
+      "morph": "robinson:PREP",
+      "translation": "outside",
+      "metadata": {},
+      "gematria": {
+        "standard": 929,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 13,
+      "text": "μὲν",
+      "lemma": [
+        "G3303"
+      ],
+      "strongs": "G3303",
+      "morph": "robinson:PRT",
+      "translation": "indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "φαίνονται",
+      "lemma": [
+        "G5316"
+      ],
+      "strongs": "G5316",
+      "morph": "robinson:V-PEI-3P",
+      "translation": "appear",
+      "metadata": {},
+      "gematria": {
+        "standard": 992,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὡραῖοι,",
+      "lemma": [
+        "G5611"
+      ],
+      "strongs": "G5611",
+      "morph": "robinson:A-NPM",
+      "translation": "beautiful,",
+      "metadata": {},
+      "gematria": {
+        "standard": 991,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἔσωθεν",
+      "lemma": [
+        "G2081"
+      ],
+      "strongs": "G2081",
+      "morph": "robinson:ADV",
+      "translation": "Inside",
+      "metadata": {},
+      "gematria": {
+        "standard": 1069,
+        "ordinal": 73,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 17,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "γέμουσιν",
+      "lemma": [
+        "G1073"
+      ],
+      "strongs": "G1073",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "they are full",
+      "metadata": {},
+      "gematria": {
+        "standard": 778,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὀστέων",
+      "lemma": [
+        "G3747"
+      ],
+      "strongs": "G3747",
+      "morph": "robinson:N-GPN",
+      "translation": "of bones",
+      "metadata": {},
+      "gematria": {
+        "standard": 1425,
+        "ordinal": 94,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 20,
+      "text": "νεκρῶν",
+      "lemma": [
+        "G3498"
+      ],
+      "strongs": "G3498",
+      "morph": "robinson:A-GPM",
+      "translation": "of [the] dead",
+      "metadata": {},
+      "gematria": {
+        "standard": 1025,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 21,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "πάσης",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-GSF",
+      "translation": "of all",
+      "metadata": {},
+      "gematria": {
+        "standard": 489,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἀκαθαρσίας.",
+      "lemma": [
+        "G167"
+      ],
+      "strongs": "G167",
+      "morph": "robinson:N-GSF",
+      "translation": "impurity.",
+      "metadata": {},
+      "gematria": {
+        "standard": 543,
+        "ordinal": 84,
+        "reduced": 48
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15327,
+    "ordinal": 1694,
+    "reduced": 758
+  }
+}

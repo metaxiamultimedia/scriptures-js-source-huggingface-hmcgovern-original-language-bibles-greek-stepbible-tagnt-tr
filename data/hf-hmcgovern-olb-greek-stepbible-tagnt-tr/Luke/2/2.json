@@ -1,0 +1,135 @@
+{
+  "text": "αὕτη ἀπογραφὴ πρώτη ἐγένετο ἡγεμονεύοντος τῆς Συρίας Κυρηνίου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "αὕτη",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSF",
+      "translation": "This",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀπογραφὴ",
+      "lemma": [
+        "G582"
+      ],
+      "strongs": "G582",
+      "morph": "robinson:N-NSF",
+      "translation": "registration",
+      "metadata": {},
+      "gematria": {
+        "standard": 763,
+        "ordinal": 81,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 3,
+      "text": "πρώτη",
+      "lemma": null,
+      "morph": null,
+      "translation": "first",
+      "metadata": {},
+      "gematria": {
+        "standard": 1288,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "took place",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἡγεμονεύοντος",
+      "lemma": [
+        "G2230"
+      ],
+      "strongs": "G2230",
+      "morph": "robinson:V-PAP-GSM",
+      "translation": "when is governing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1271,
+        "ordinal": 160,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "Συρίας",
+      "lemma": [
+        "G4947"
+      ],
+      "strongs": "G4947",
+      "morph": "robinson:N-GSF-L",
+      "translation": "Syria",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 8,
+      "text": "Κυρηνίου.",
+      "lemma": [
+        "G2958"
+      ],
+      "strongs": "G2958",
+      "morph": "robinson:N-GSM-P",
+      "translation": "Quirinius.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1058,
+        "ordinal": 111,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6946,
+    "ordinal": 674,
+    "reduced": 260
+  }
+}

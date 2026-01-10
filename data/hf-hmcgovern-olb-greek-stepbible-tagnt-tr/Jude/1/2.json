@@ -1,0 +1,122 @@
+{
+  "text": "ἔλεος ὑμῖν καὶ εἰρήνη καὶ ἀγάπη πληθυνθείη.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἔλεος",
+      "lemma": [
+        "G1656"
+      ],
+      "strongs": "G1656",
+      "morph": "robinson:N-NSN",
+      "translation": "Mercy",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἰρήνη",
+      "lemma": [
+        "G1515"
+      ],
+      "strongs": "G1515",
+      "morph": "robinson:N-NSF",
+      "translation": "peace",
+      "metadata": {},
+      "gematria": {
+        "standard": 181,
+        "ordinal": 58,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀγάπη",
+      "lemma": [
+        "G26"
+      ],
+      "strongs": "G26",
+      "morph": "robinson:N-NSF",
+      "translation": "love",
+      "metadata": {},
+      "gematria": {
+        "standard": 93,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "πληθυνθείη.",
+      "lemma": [
+        "G4129"
+      ],
+      "strongs": "G4129",
+      "morph": "robinson:V-APO-3S",
+      "translation": "would be multiplied.",
+      "metadata": {},
+      "gematria": {
+        "standard": 609,
+        "ordinal": 104,
+        "reduced": 59
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1755,
+    "ordinal": 338,
+    "reduced": 185
+  }
+}

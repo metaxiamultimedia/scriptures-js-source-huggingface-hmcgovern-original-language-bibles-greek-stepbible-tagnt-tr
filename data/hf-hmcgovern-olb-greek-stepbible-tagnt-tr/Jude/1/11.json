@@ -1,0 +1,343 @@
+{
+  "text": "οὐαὶ αὐτοῖς, ὅτι τῇ ὁδῷ τοῦ Κάϊν ἐπορεύθησαν καὶ τῇ πλάνῃ τοῦ Βαλαὰμ μισθοῦ ἐξεχύθησαν καὶ τῇ ἀντιλογίᾳ τοῦ Κόρε ἀπώλοντο.",
+  "words": [
+    {
+      "position": 1,
+      "text": "οὐαὶ",
+      "lemma": [
+        "G3759"
+      ],
+      "strongs": "G3759",
+      "morph": "robinson:INJ",
+      "translation": "Woe",
+      "metadata": {},
+      "gematria": {
+        "standard": 481,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "αὐτοῖς,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them,",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "because",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "in the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὁδῷ",
+      "lemma": [
+        "G3598"
+      ],
+      "strongs": "G3598",
+      "morph": "robinson:N-DSF",
+      "translation": "way",
+      "metadata": {},
+      "gematria": {
+        "standard": 884,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "Κάϊν",
+      "lemma": [
+        "G2535"
+      ],
+      "strongs": "G2535",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of Cain",
+      "metadata": {},
+      "gematria": {
+        "standard": 81,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐπορεύθησαν",
+      "lemma": [
+        "G4198"
+      ],
+      "strongs": "G4198",
+      "morph": "robinson:V-AOI-3P",
+      "translation": "they went",
+      "metadata": {},
+      "gematria": {
+        "standard": 928,
+        "ordinal": 125,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 11,
+      "text": "πλάνῃ",
+      "lemma": [
+        "G4106"
+      ],
+      "strongs": "G4106",
+      "morph": "robinson:N-DSF",
+      "translation": "error",
+      "metadata": {},
+      "gematria": {
+        "standard": 179,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 12,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "Βαλαὰμ",
+      "lemma": [
+        "G903"
+      ],
+      "strongs": "G903",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of Balaam",
+      "metadata": {},
+      "gematria": {
+        "standard": 75,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "μισθοῦ",
+      "lemma": [
+        "G3408"
+      ],
+      "strongs": "G3408",
+      "morph": "robinson:N-GSM",
+      "translation": "for reward",
+      "metadata": {},
+      "gematria": {
+        "standard": 729,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐξεχύθησαν",
+      "lemma": [
+        "G1632"
+      ],
+      "strongs": "G1632",
+      "morph": "robinson:V-API-3P",
+      "translation": "they rushed",
+      "metadata": {},
+      "gematria": {
+        "standard": 1338,
+        "ordinal": 113,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "in the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἀντιλογίᾳ",
+      "lemma": [
+        "G485"
+      ],
+      "strongs": "G485",
+      "morph": "robinson:N-DSF",
+      "translation": "rebellion",
+      "metadata": {},
+      "gematria": {
+        "standard": 485,
+        "ordinal": 90,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 19,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 20,
+      "text": "Κόρε",
+      "lemma": [
+        "G2879"
+      ],
+      "strongs": "G2879",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of Korah",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἀπώλοντο.",
+      "lemma": [
+        "G622"
+      ],
+      "strongs": "G622",
+      "morph": "robinson:V-2AMI-3P",
+      "translation": "they perished.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1401,
+        "ordinal": 114,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11463,
+    "ordinal": 1218,
+    "reduced": 489
+  }
+}

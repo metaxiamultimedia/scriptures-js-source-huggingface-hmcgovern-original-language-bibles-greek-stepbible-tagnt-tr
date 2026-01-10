@@ -1,0 +1,138 @@
+{
+  "text": "ἀλλὰ γενόμενος ἐν Ῥώμῃ ἐζήτησέν με καὶ εὗρεν·",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀλλὰ",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "But",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "γενόμενος",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADP-NSM",
+      "translation": "having arrived",
+      "metadata": {},
+      "gematria": {
+        "standard": 493,
+        "ordinal": 99,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ῥώμῃ",
+      "lemma": [
+        "G4516"
+      ],
+      "strongs": "G4516",
+      "morph": "robinson:N-DSF-L",
+      "translation": "Rome",
+      "metadata": {},
+      "gematria": {
+        "standard": 958,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐζήτησέν",
+      "lemma": [
+        "G2212"
+      ],
+      "strongs": "G2212",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he sought out",
+      "metadata": {},
+      "gematria": {
+        "standard": 583,
+        "ordinal": 80,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 6,
+      "text": "με",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "me",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "εὗρεν·",
+      "lemma": [
+        "G2147"
+      ],
+      "strongs": "G2147",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "found [me];",
+      "metadata": {},
+      "gematria": {
+        "standard": 560,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2787,
+    "ordinal": 387,
+    "reduced": 180
+  }
+}

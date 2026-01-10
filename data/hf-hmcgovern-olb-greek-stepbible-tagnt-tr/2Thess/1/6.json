@@ -1,0 +1,151 @@
+{
+  "text": "εἴπερ δίκαιον παρὰ θεῷ ἀνταποδοῦναι τοῖς θλίβουσιν ὑμᾶς θλῖψιν",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἴπερ",
+      "lemma": null,
+      "morph": null,
+      "translation": "if indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 200,
+        "ordinal": 52,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 2,
+      "text": "δίκαιον",
+      "lemma": [
+        "G1342"
+      ],
+      "strongs": "G1342",
+      "morph": "robinson:A-NSN",
+      "translation": "righteous [it is]",
+      "metadata": {},
+      "gematria": {
+        "standard": 165,
+        "ordinal": 61,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 3,
+      "text": "παρὰ",
+      "lemma": [
+        "G3844"
+      ],
+      "strongs": "G3844",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 182,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
+      "text": "θεῷ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-DSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀνταποδοῦναι",
+      "lemma": [
+        "G467"
+      ],
+      "strongs": "G467",
+      "morph": "robinson:V-2AAN",
+      "translation": "to repay",
+      "metadata": {},
+      "gematria": {
+        "standard": 1037,
+        "ordinal": 127,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "θλίβουσιν",
+      "lemma": [
+        "G2346"
+      ],
+      "strongs": "G2346",
+      "morph": "robinson:V-PAP-DPM",
+      "translation": "oppressing",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 105,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "θλῖψιν",
+      "lemma": [
+        "G2347"
+      ],
+      "strongs": "G2347",
+      "morph": "robinson:N-ASF",
+      "translation": "with affliction",
+      "metadata": {},
+      "gematria": {
+        "standard": 809,
+        "ordinal": 73,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5219,
+    "ordinal": 611,
+    "reduced": 287
+  }
+}

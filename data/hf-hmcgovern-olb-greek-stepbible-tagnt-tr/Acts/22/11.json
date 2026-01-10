@@ -1,0 +1,295 @@
+{
+  "text": "ὡς δὲ οὐκ ἐνέβλεπον ἀπὸ τῆς δόξης τοῦ φωτὸς ἐκείνου, χειραγωγούμενος ὑπὸ τῶν συνόντων μοι ἦλθον εἰς Δαμασκόν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "While",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐνέβλεπον",
+      "lemma": [
+        "G1689"
+      ],
+      "strongs": "G1689",
+      "morph": "robinson:V-IAI-1S",
+      "translation": "I was seeing",
+      "metadata": {},
+      "gematria": {
+        "standard": 297,
+        "ordinal": 85,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "because of",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "δόξης",
+      "lemma": [
+        "G1391"
+      ],
+      "strongs": "G1391",
+      "morph": "robinson:N-GSF",
+      "translation": "brightness",
+      "metadata": {},
+      "gematria": {
+        "standard": 342,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "φωτὸς",
+      "lemma": [
+        "G5457"
+      ],
+      "strongs": "G5457",
+      "morph": "robinson:N-GSN",
+      "translation": "light",
+      "metadata": {},
+      "gematria": {
+        "standard": 1870,
+        "ordinal": 97,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐκείνου,",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-GSN",
+      "translation": "that,",
+      "metadata": {},
+      "gematria": {
+        "standard": 560,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 11,
+      "text": "χειραγωγούμενος",
+      "lemma": [
+        "G5496"
+      ],
+      "strongs": "G5496",
+      "morph": "robinson:V-PPP-NSM",
+      "translation": "being led by the hand",
+      "metadata": {},
+      "gematria": {
+        "standard": 2357,
+        "ordinal": 182,
+        "reduced": 74
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὑπὸ",
+      "lemma": null,
+      "morph": null,
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "συνόντων",
+      "lemma": [
+        "G4895"
+      ],
+      "strongs": "G4895",
+      "morph": "robinson:V-PAP-GPM",
+      "translation": "being with",
+      "metadata": {},
+      "gematria": {
+        "standard": 1920,
+        "ordinal": 135,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 15,
+      "text": "μοι",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DS",
+      "translation": "me",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἦλθον",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-2AAI-1S",
+      "translation": "I came",
+      "metadata": {},
+      "gematria": {
+        "standard": 167,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 17,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 18,
+      "text": "Δαμασκόν.",
+      "lemma": [
+        "G1154"
+      ],
+      "strongs": "G1154",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Damascus.",
+      "metadata": {},
+      "gematria": {
+        "standard": 386,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12862,
+    "ordinal": 1163,
+    "reduced": 434
+  }
+}

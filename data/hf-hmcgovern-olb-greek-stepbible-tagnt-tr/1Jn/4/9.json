@@ -1,0 +1,407 @@
+{
+  "text": "ἐν τούτῳ ἐφανερώθη ἡ ἀγάπη τοῦ θεοῦ ἐν ἡμῖν, ὅτι τὸν υἱὸν αὐτοῦ τὸν μονογενῆ ἀπέσταλκεν ὁ θεὸς εἰς τὸν κόσμον ἵνα ζήσωμεν δι᾽ αὐτοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "In",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "τούτῳ",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-DSN",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1880,
+        "ordinal": 106,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐφανερώθη",
+      "lemma": [
+        "G5319"
+      ],
+      "strongs": "G5319",
+      "morph": "robinson:V-API-3S",
+      "translation": "has been revealed",
+      "metadata": {},
+      "gematria": {
+        "standard": 1478,
+        "ordinal": 101,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀγάπη",
+      "lemma": [
+        "G26"
+      ],
+      "strongs": "G26",
+      "morph": "robinson:N-NSF",
+      "translation": "love",
+      "metadata": {},
+      "gematria": {
+        "standard": 93,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "among",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἡμῖν,",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DP",
+      "translation": "us,",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "υἱὸν",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-ASM",
+      "translation": "Son",
+      "metadata": {},
+      "gematria": {
+        "standard": 530,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "μονογενῆ",
+      "lemma": [
+        "G3439"
+      ],
+      "strongs": "G3439",
+      "morph": "robinson:A-ASM",
+      "translation": "one and only",
+      "metadata": {},
+      "gematria": {
+        "standard": 296,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἀπέσταλκεν",
+      "lemma": [
+        "G649"
+      ],
+      "strongs": "G649",
+      "morph": "robinson:V-RAI-3S",
+      "translation": "has sent",
+      "metadata": {},
+      "gematria": {
+        "standard": 692,
+        "ordinal": 99,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 18,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 19,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 20,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "κόσμον",
+      "lemma": [
+        "G2889"
+      ],
+      "strongs": "G2889",
+      "morph": "robinson:N-ASM",
+      "translation": "world",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "so that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 23,
+      "text": "ζήσωμεν",
+      "lemma": [
+        "G2198"
+      ],
+      "strongs": "G2198",
+      "morph": "robinson:V-AAS-1P",
+      "translation": "we may live",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 85,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 24,
+      "text": "δι᾽",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 14,
+        "ordinal": 13,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 25,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "Him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12635,
+    "ordinal": 1291,
+    "reduced": 490
+  }
+}

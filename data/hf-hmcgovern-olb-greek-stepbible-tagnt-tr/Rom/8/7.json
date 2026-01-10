@@ -1,0 +1,298 @@
+{
+  "text": "διότι τὸ φρόνημα τῆς σαρκὸς ἔχθρα εἰς θεόν· τῷ γὰρ νόμῳ τοῦ θεοῦ οὐχ ὑποτάσσεται, οὐδὲ γὰρ δύναται·",
+  "words": [
+    {
+      "position": 1,
+      "text": "διότι",
+      "lemma": [
+        "G1360"
+      ],
+      "strongs": "G1360",
+      "morph": "robinson:CONJ",
+      "translation": "because",
+      "metadata": {},
+      "gematria": {
+        "standard": 394,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "φρόνημα",
+      "lemma": [
+        "G5427"
+      ],
+      "strongs": "G5427",
+      "morph": "robinson:N-NSN",
+      "translation": "mind",
+      "metadata": {},
+      "gematria": {
+        "standard": 769,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
+      "text": "σαρκὸς",
+      "lemma": [
+        "G4561"
+      ],
+      "strongs": "G4561",
+      "morph": "robinson:N-GSF",
+      "translation": "flesh",
+      "metadata": {},
+      "gematria": {
+        "standard": 591,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἔχθρα",
+      "lemma": [
+        "G2189"
+      ],
+      "strongs": "G2189",
+      "morph": "robinson:N-NSF",
+      "translation": "[is] hostility",
+      "metadata": {},
+      "gematria": {
+        "standard": 715,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 7,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "toward",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "θεόν·",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-ASM-T",
+      "translation": "God;",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
+      "text": "νόμῳ",
+      "lemma": [
+        "G3551"
+      ],
+      "strongs": "G3551",
+      "morph": "robinson:N-DSM",
+      "translation": "the law",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 12,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "οὐχ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 1070,
+        "ordinal": 57,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὑποτάσσεται,",
+      "lemma": [
+        "G5293"
+      ],
+      "strongs": "G5293",
+      "morph": "robinson:V-PPI-3S",
+      "translation": "it is subject,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1567,
+        "ordinal": 141,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 16,
+      "text": "οὐδὲ",
+      "lemma": [
+        "G3761"
+      ],
+      "strongs": "G3761",
+      "morph": "robinson:CONJ-N",
+      "translation": "nor even",
+      "metadata": {},
+      "gematria": {
+        "standard": 479,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 17,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 18,
+      "text": "δύναται·",
+      "lemma": [
+        "G1410"
+      ],
+      "strongs": "G1410",
+      "morph": "robinson:V-PNI-3S",
+      "translation": "can it [be];",
+      "metadata": {},
+      "gematria": {
+        "standard": 766,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11120,
+    "ordinal": 1003,
+    "reduced": 391
+  }
+}

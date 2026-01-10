@@ -1,0 +1,119 @@
+{
+  "text": "καὶ τοῦτο ποιήσομεν ἐάνπερ ἐπιτρέπῃ ὁ θεός.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "τοῦτο",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-ASN",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "ποιήσομεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "we will do",
+      "metadata": {},
+      "gematria": {
+        "standard": 533,
+        "ordinal": 110,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐάνπερ",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND + G4007=CONJ",
+      "translation": "if indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 241,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐπιτρέπῃ",
+      "lemma": [
+        "G2010"
+      ],
+      "strongs": "G2010",
+      "morph": "robinson:V-PAS-3S",
+      "translation": "shall permit",
+      "metadata": {},
+      "gematria": {
+        "standard": 598,
+        "ordinal": 103,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "θεός.",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God.",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2897,
+    "ordinal": 439,
+    "reduced": 205
+  }
+}

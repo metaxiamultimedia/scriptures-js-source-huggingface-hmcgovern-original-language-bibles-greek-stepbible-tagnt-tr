@@ -1,0 +1,407 @@
+{
+  "text": "ὡς δὲ παρεγένοντο πρὸς αὐτὸν εἶπεν αὐτοῖς· ὑμεῖς ἐπίστασθε ἀπὸ πρώτης ἡμέρας ἀφ᾽ ἧς ἐπέβην εἰς τὴν Ἀσίαν πῶς μεθ᾽ ὑμῶν τὸν πάντα χρόνον ἐγενόμην",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "When",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "παρεγένοντο",
+      "lemma": [
+        "G3854"
+      ],
+      "strongs": "G3854",
+      "morph": "robinson:V-2ADI-3P",
+      "translation": "they had come",
+      "metadata": {},
+      "gematria": {
+        "standard": 734,
+        "ordinal": 122,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 4,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "he said",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "αὐτοῖς·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them;",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὑμεῖς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NP",
+      "translation": "You yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐπίστασθε",
+      "lemma": [
+        "G1987"
+      ],
+      "strongs": "G1987",
+      "morph": "robinson:V-PNI-2P",
+      "translation": "know",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 99,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "πρώτης",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] first",
+      "metadata": {},
+      "gematria": {
+        "standard": 1488,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἡμέρας",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-GSF",
+      "translation": "day",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἀφ᾽",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "on",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 22,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἧς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-GSF",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 208,
+        "ordinal": 25,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐπέβην",
+      "lemma": [
+        "G1910"
+      ],
+      "strongs": "G1910",
+      "morph": "robinson:V-2AAI-1S",
+      "translation": "I arrived",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 16,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 17,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 18,
+      "text": "Ἀσίαν",
+      "lemma": [
+        "G773"
+      ],
+      "strongs": "G773",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Asia",
+      "metadata": {},
+      "gematria": {
+        "standard": 262,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 19,
+      "text": "πῶς",
+      "lemma": [
+        "G4459"
+      ],
+      "strongs": "G4459",
+      "morph": "robinson:PRT-I",
+      "translation": "how",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 20,
+      "text": "μεθ᾽",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 54,
+        "ordinal": 25,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 21,
+      "text": "ὑμῶν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 22,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 23,
+      "text": "πάντα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-ASM",
+      "translation": "whole",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 24,
+      "text": "χρόνον",
+      "lemma": [
+        "G5550"
+      ],
+      "strongs": "G5550",
+      "morph": "robinson:N-ASM",
+      "translation": "time",
+      "metadata": {},
+      "gematria": {
+        "standard": 940,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἐγενόμην",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-1S",
+      "translation": "I was",
+      "metadata": {},
+      "gematria": {
+        "standard": 231,
+        "ordinal": 73,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13744,
+    "ordinal": 1418,
+    "reduced": 599
+  }
+}

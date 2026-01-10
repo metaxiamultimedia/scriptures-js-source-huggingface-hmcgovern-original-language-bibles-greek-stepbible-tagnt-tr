@@ -1,0 +1,231 @@
+{
+  "text": "Ὡς οὖν ἀπέβησαν εἰς τὴν γῆν, βλέπουσιν ἀνθρακιὰν κειμένην καὶ ὀψάριον ἐπικείμενον καὶ ἄρτον.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "When",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀπέβησαν",
+      "lemma": [
+        "G576"
+      ],
+      "strongs": "G576",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "they got out",
+      "metadata": {},
+      "gematria": {
+        "standard": 347,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "onto",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "γῆν,",
+      "lemma": null,
+      "morph": null,
+      "translation": "land,",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "βλέπουσιν",
+      "lemma": [
+        "G991"
+      ],
+      "strongs": "G991",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "they see",
+      "metadata": {},
+      "gematria": {
+        "standard": 847,
+        "ordinal": 109,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀνθρακιὰν",
+      "lemma": [
+        "G439"
+      ],
+      "strongs": "G439",
+      "morph": "robinson:N-ASF",
+      "translation": "a fire of coals",
+      "metadata": {},
+      "gematria": {
+        "standard": 242,
+        "ordinal": 73,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 9,
+      "text": "κειμένην",
+      "lemma": [
+        "G2749"
+      ],
+      "strongs": "G2749",
+      "morph": "robinson:V-PNP-ASF",
+      "translation": "lying",
+      "metadata": {},
+      "gematria": {
+        "standard": 188,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὀψάριον",
+      "lemma": [
+        "G3795"
+      ],
+      "strongs": "G3795",
+      "morph": "robinson:N-ASN",
+      "translation": "fish",
+      "metadata": {},
+      "gematria": {
+        "standard": 1001,
+        "ordinal": 93,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐπικείμενον",
+      "lemma": [
+        "G1945"
+      ],
+      "strongs": "G1945",
+      "morph": "robinson:V-PNP-ASN",
+      "translation": "lying on [it]",
+      "metadata": {},
+      "gematria": {
+        "standard": 345,
+        "ordinal": 112,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἄρτον.",
+      "lemma": [
+        "G740"
+      ],
+      "strongs": "G740",
+      "morph": "robinson:N-ASM",
+      "translation": "bread.",
+      "metadata": {},
+      "gematria": {
+        "standard": 521,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5707,
+    "ordinal": 813,
+    "reduced": 372
+  }
+}

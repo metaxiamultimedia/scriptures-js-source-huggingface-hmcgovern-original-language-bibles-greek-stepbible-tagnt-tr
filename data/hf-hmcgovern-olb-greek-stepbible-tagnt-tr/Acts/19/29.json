@@ -1,0 +1,324 @@
+{
+  "text": "καὶ ἐπλήσθη ἡ πόλις ὅλη τῆς συγχύσεως· ὥρμησάν τε ὁμοθυμαδὸν εἰς τὸ θέατρον συναρπάσαντες Γάϊον καὶ Ἀρίσταρχον Μακεδόνας, συνεκδήμους Παύλου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐπλήσθη",
+      "lemma": [
+        "G4130"
+      ],
+      "strongs": "G4130",
+      "morph": "robinson:V-API-3S",
+      "translation": "was filled",
+      "metadata": {},
+      "gematria": {
+        "standard": 340,
+        "ordinal": 72,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "πόλις",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-NSF",
+      "translation": "city",
+      "metadata": {},
+      "gematria": {
+        "standard": 390,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὅλη",
+      "lemma": [
+        "G3650"
+      ],
+      "strongs": "G3650",
+      "morph": "robinson:A-NSF",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "συγχύσεως·",
+      "lemma": [
+        "G4799"
+      ],
+      "strongs": "G4799",
+      "morph": "robinson:N-GSF",
+      "translation": "with confusion;",
+      "metadata": {},
+      "gematria": {
+        "standard": 2808,
+        "ordinal": 148,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὥρμησάν",
+      "lemma": [
+        "G3729"
+      ],
+      "strongs": "G3729",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "they rushed",
+      "metadata": {},
+      "gematria": {
+        "standard": 1199,
+        "ordinal": 92,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 9,
+      "text": "τε",
+      "lemma": [
+        "G5037"
+      ],
+      "strongs": "G5037",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὁμοθυμαδὸν",
+      "lemma": [
+        "G3661"
+      ],
+      "strongs": "G3661",
+      "morph": "robinson:ADV",
+      "translation": "with one accord",
+      "metadata": {},
+      "gematria": {
+        "standard": 754,
+        "ordinal": 115,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 11,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 13,
+      "text": "θέατρον",
+      "lemma": [
+        "G2302"
+      ],
+      "strongs": "G2302",
+      "morph": "robinson:N-ASN",
+      "translation": "theatre",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 14,
+      "text": "συναρπάσαντες",
+      "lemma": [
+        "G4884"
+      ],
+      "strongs": "G4884",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "having dragged off",
+      "metadata": {},
+      "gematria": {
+        "standard": 1588,
+        "ordinal": 160,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 15,
+      "text": "Γάϊον",
+      "lemma": null,
+      "morph": null,
+      "translation": "Gaius",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "Ἀρίσταρχον",
+      "lemma": [
+        "G708"
+      ],
+      "strongs": "G708",
+      "morph": "robinson:N-ASM-P",
+      "translation": "Aristarchus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1432,
+        "ordinal": 132,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 18,
+      "text": "Μακεδόνας,",
+      "lemma": [
+        "G3110"
+      ],
+      "strongs": "G3110",
+      "morph": "robinson:N-APM-LG",
+      "translation": "Macedonians,",
+      "metadata": {},
+      "gematria": {
+        "standard": 391,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 19,
+      "text": "συνεκδήμους",
+      "lemma": [
+        "G4898"
+      ],
+      "strongs": "G4898",
+      "morph": "robinson:N-APM",
+      "translation": "fellow travelers",
+      "metadata": {},
+      "gematria": {
+        "standard": 1397,
+        "ordinal": 142,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 20,
+      "text": "Παύλου.",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Paul.",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 83,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13525,
+    "ordinal": 1425,
+    "reduced": 579
+  }
+}

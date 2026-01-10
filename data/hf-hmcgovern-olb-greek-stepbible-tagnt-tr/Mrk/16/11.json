@@ -1,0 +1,148 @@
+{
+  "text": "κἀκεῖνοι ἀκούσαντες ὅτι ζῇ καὶ ἐθεάθη ὑπ᾽ αὐτῆς ἠπίστησαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "κἀκεῖνοι",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ + G1565=D-NPM",
+      "translation": "And they",
+      "metadata": {},
+      "gematria": {
+        "standard": 186,
+        "ordinal": 72,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀκούσαντες",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "having heard",
+      "metadata": {},
+      "gematria": {
+        "standard": 1247,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "ζῇ",
+      "lemma": [
+        "G2198"
+      ],
+      "strongs": "G2198",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "He is alive",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 22,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐθεάθη",
+      "lemma": [
+        "G2300"
+      ],
+      "strongs": "G2300",
+      "morph": "robinson:V-API-3S",
+      "translation": "He has been seen",
+      "metadata": {},
+      "gematria": {
+        "standard": 37,
+        "ordinal": 34,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὑπ᾽",
+      "lemma": null,
+      "morph": null,
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 480,
+        "ordinal": 36,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτῆς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "her",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἠπίστησαν.",
+      "lemma": [
+        "G569"
+      ],
+      "strongs": "G569",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "disbelieved.",
+      "metadata": {},
+      "gematria": {
+        "standard": 857,
+        "ordinal": 108,
+        "reduced": 54
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4152,
+    "ordinal": 520,
+    "reduced": 241
+  }
+}

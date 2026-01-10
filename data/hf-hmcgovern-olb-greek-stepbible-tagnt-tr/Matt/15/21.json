@@ -1,0 +1,199 @@
+{
+  "text": "Καὶ ἐξελθὼν ἐκεῖθεν ὁ Ἰησοῦς ἀνεχώρησεν εἰς τὰ μέρη Τύρου καὶ Σιδῶνος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐξελθὼν",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having gone forth",
+      "metadata": {},
+      "gematria": {
+        "standard": 959,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐκεῖθεν",
+      "lemma": [
+        "G1564"
+      ],
+      "strongs": "G1564",
+      "morph": "robinson:ADV",
+      "translation": "from there",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀνεχώρησεν",
+      "lemma": [
+        "G402"
+      ],
+      "strongs": "G402",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "withdrew",
+      "metadata": {},
+      "gematria": {
+        "standard": 1819,
+        "ordinal": 125,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 7,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 9,
+      "text": "μέρη",
+      "lemma": [
+        "G3313"
+      ],
+      "strongs": "G3313",
+      "morph": "robinson:N-APN",
+      "translation": "district",
+      "metadata": {},
+      "gematria": {
+        "standard": 153,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "Τύρου",
+      "lemma": [
+        "G5184"
+      ],
+      "strongs": "G5184",
+      "morph": "robinson:N-GSF-L",
+      "translation": "of Tyre",
+      "metadata": {},
+      "gematria": {
+        "standard": 1270,
+        "ordinal": 91,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "Σιδῶνος.",
+      "lemma": [
+        "G4605"
+      ],
+      "strongs": "G4605",
+      "morph": "robinson:N-GSF-L",
+      "translation": "Sidon.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1334,
+        "ordinal": 101,
+        "reduced": 47
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7175,
+    "ordinal": 687,
+    "reduced": 309
+  }
+}

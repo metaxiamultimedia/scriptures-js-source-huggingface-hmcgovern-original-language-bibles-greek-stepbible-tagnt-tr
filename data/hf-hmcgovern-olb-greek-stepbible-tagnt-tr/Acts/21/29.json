@@ -1,0 +1,324 @@
+{
+  "text": "ἦσαν γὰρ προεωρακότες Τρόφιμον τὸν Ἐφέσιον ἐν τῇ πόλει σὺν αὐτῷ, ὃν ἐνόμιζον ὅτι εἰς τὸ ἱερὸν εἰσήγαγεν ὁ Παῦλος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἦσαν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "It was they",
+      "metadata": {},
+      "gematria": {
+        "standard": 259,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "προεωρακότες",
+      "lemma": [
+        "G4308"
+      ],
+      "strongs": "G4308",
+      "morph": "robinson:V-RAP-NPM",
+      "translation": "having foreseen",
+      "metadata": {},
+      "gematria": {
+        "standard": 1751,
+        "ordinal": 162,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 4,
+      "text": "Τρόφιμον",
+      "lemma": [
+        "G5161"
+      ],
+      "strongs": "G5161",
+      "morph": "robinson:N-ASM-P",
+      "translation": "Trophimus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 121,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "Ἐφέσιον",
+      "lemma": [
+        "G2180"
+      ],
+      "strongs": "G2180",
+      "morph": "robinson:A-ASM-LG",
+      "translation": "Ephesian",
+      "metadata": {},
+      "gematria": {
+        "standard": 840,
+        "ordinal": 86,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 9,
+      "text": "πόλει",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-DSF",
+      "translation": "city",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 10,
+      "text": "σὺν",
+      "lemma": [
+        "G4862"
+      ],
+      "strongs": "G4862",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτῷ,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὃν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASM",
+      "translation": "whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐνόμιζον",
+      "lemma": [
+        "G3543"
+      ],
+      "strongs": "G3543",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "they were supposing",
+      "metadata": {},
+      "gematria": {
+        "standard": 302,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἱερὸν",
+      "lemma": [
+        "G2411"
+      ],
+      "strongs": "G2411",
+      "morph": "robinson:N-ASN",
+      "translation": "temple",
+      "metadata": {},
+      "gematria": {
+        "standard": 235,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 18,
+      "text": "εἰσήγαγεν",
+      "lemma": [
+        "G1521"
+      ],
+      "strongs": "G1521",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "had brought",
+      "metadata": {},
+      "gematria": {
+        "standard": 285,
+        "ordinal": 64,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 20,
+      "text": "Παῦλος.",
+      "lemma": null,
+      "morph": null,
+      "translation": "Paul.",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10001,
+    "ordinal": 1153,
+    "reduced": 487
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "text": "ὅπου ἐὰν ᾖ τὸ πτῶμα, ἐκεῖ συναχθήσονται οἱ ἀετοί.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅπου",
+      "lemma": [
+        "G3699"
+      ],
+      "strongs": "G3699",
+      "morph": "robinson:CONJ",
+      "translation": "wherever",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "ᾖ",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAS-3S",
+      "translation": "shall be",
+      "metadata": {},
+      "gematria": {
+        "standard": 18,
+        "ordinal": 16,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "πτῶμα,",
+      "lemma": [
+        "G4430"
+      ],
+      "strongs": "G4430",
+      "morph": "robinson:N-NSN",
+      "translation": "carcass,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1221,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐκεῖ",
+      "lemma": [
+        "G1563"
+      ],
+      "strongs": "G1563",
+      "morph": "robinson:ADV",
+      "translation": "there",
+      "metadata": {},
+      "gematria": {
+        "standard": 40,
+        "ordinal": 29,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "συναχθήσονται",
+      "lemma": [
+        "G4863"
+      ],
+      "strongs": "G4863",
+      "morph": "robinson:V-FPI-3P",
+      "translation": "will be gathered",
+      "metadata": {},
+      "gematria": {
+        "standard": 1899,
+        "ordinal": 164,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 8,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀετοί.",
+      "lemma": [
+        "G105"
+      ],
+      "strongs": "G105",
+      "morph": "robinson:N-NPM",
+      "translation": "vultures.",
+      "metadata": {},
+      "gematria": {
+        "standard": 386,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4690,
+    "ordinal": 473,
+    "reduced": 194
+  }
+}

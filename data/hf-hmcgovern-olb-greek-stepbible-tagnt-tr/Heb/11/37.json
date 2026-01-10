@@ -1,0 +1,263 @@
+{
+  "text": "ἐλιθάσθησαν, ἐπρίσθησαν, ἐπειράσθησαν, ἐν φόνῳ μαχαίρης ἀπέθανον· περιῆλθον ἐν μηλωταῖς, ἐν αἰγείοις δέρμασιν, ὑστερούμενοι, θλιβόμενοι, κακουχούμενοι,",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐλιθάσθησαν,",
+      "lemma": [
+        "G3034"
+      ],
+      "strongs": "G3034",
+      "morph": "robinson:V-API-3P",
+      "translation": "They were stoned,",
+      "metadata": {},
+      "gematria": {
+        "standard": 523,
+        "ordinal": 99,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐπρίσθησαν,",
+      "lemma": [
+        "G4249"
+      ],
+      "strongs": "G4249",
+      "morph": "robinson:V-API-3P",
+      "translation": "they were sawed in two",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 112,
+        "reduced": 67
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐπειράσθησαν,",
+      "lemma": null,
+      "morph": null,
+      "translation": "tested",
+      "metadata": {},
+      "gematria": {
+        "standard": 669,
+        "ordinal": 118,
+        "reduced": 73
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "φόνῳ",
+      "lemma": [
+        "G5408"
+      ],
+      "strongs": "G5408",
+      "morph": "robinson:N-DSM",
+      "translation": "slaughter",
+      "metadata": {},
+      "gematria": {
+        "standard": 1430,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "μαχαίρης",
+      "lemma": [
+        "G3162"
+      ],
+      "strongs": "G3162",
+      "morph": "robinson:N-GSF",
+      "translation": "of [the] sword",
+      "metadata": {},
+      "gematria": {
+        "standard": 960,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀπέθανον·",
+      "lemma": [
+        "G599"
+      ],
+      "strongs": "G599",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "they were killed;",
+      "metadata": {},
+      "gematria": {
+        "standard": 266,
+        "ordinal": 72,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 8,
+      "text": "περιῆλθον",
+      "lemma": [
+        "G4022"
+      ],
+      "strongs": "G4022",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "they wandered",
+      "metadata": {},
+      "gematria": {
+        "standard": 362,
+        "ordinal": 101,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "μηλωταῖς,",
+      "lemma": [
+        "G3374"
+      ],
+      "strongs": "G3374",
+      "morph": "robinson:N-DPF",
+      "translation": "sheepskins,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1389,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "αἰγείοις",
+      "lemma": [
+        "G122"
+      ],
+      "strongs": "G122",
+      "morph": "robinson:A-DPN",
+      "translation": "goats’",
+      "metadata": {},
+      "gematria": {
+        "standard": 309,
+        "ordinal": 69,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 13,
+      "text": "δέρμασιν,",
+      "lemma": [
+        "G1192"
+      ],
+      "strongs": "G1192",
+      "morph": "robinson:N-DPN",
+      "translation": "skins,",
+      "metadata": {},
+      "gematria": {
+        "standard": 410,
+        "ordinal": 79,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὑστερούμενοι,",
+      "lemma": [
+        "G5302"
+      ],
+      "strongs": "G5302",
+      "morph": "robinson:V-PPP-NPM",
+      "translation": "being destitute,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1650,
+        "ordinal": 168,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 15,
+      "text": "θλιβόμενοι,",
+      "lemma": [
+        "G2346"
+      ],
+      "strongs": "G2346",
+      "morph": "robinson:V-PPP-NPM",
+      "translation": "being oppressed,",
+      "metadata": {},
+      "gematria": {
+        "standard": 296,
+        "ordinal": 99,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 16,
+      "text": "κακουχούμενοι,",
+      "lemma": [
+        "G2558"
+      ],
+      "strongs": "G2558",
+      "morph": "robinson:V-PPP-NPM",
+      "translation": "being mistreated,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1756,
+        "ordinal": 167,
+        "reduced": 50
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10848,
+    "ordinal": 1408,
+    "reduced": 688
+  }
+}

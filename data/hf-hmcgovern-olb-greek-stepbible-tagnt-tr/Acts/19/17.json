@@ -1,0 +1,420 @@
+{
+  "text": "τοῦτο δὲ ἐγένετο γνωστὸν πᾶσιν Ἰουδαίοις τε καὶ Ἕλλησιν τοῖς κατοικοῦσιν τὴν Ἔφεσον καὶ ἐπέπεσεν φόβος ἐπὶ πάντας αὐτούς, καὶ ἐμεγαλύνετο τὸ ὄνομα τοῦ κυρίου Ἰησοῦ,",
+  "words": [
+    {
+      "position": 1,
+      "text": "τοῦτο",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSN",
+      "translation": "This",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "became",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "γνωστὸν",
+      "lemma": [
+        "G1110"
+      ],
+      "strongs": "G1110",
+      "morph": "robinson:A-NSN",
+      "translation": "known",
+      "metadata": {},
+      "gematria": {
+        "standard": 1473,
+        "ordinal": 105,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "πᾶσιν",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-DPM",
+      "translation": "to all",
+      "metadata": {},
+      "gematria": {
+        "standard": 341,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "Ἰουδαίοις",
+      "lemma": [
+        "G2453"
+      ],
+      "strongs": "G2453",
+      "morph": "robinson:N-DPM-PG",
+      "translation": "Jews",
+      "metadata": {},
+      "gematria": {
+        "standard": 775,
+        "ordinal": 100,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 7,
+      "text": "τε",
+      "lemma": [
+        "G5037"
+      ],
+      "strongs": "G5037",
+      "morph": "robinson:CONJ",
+      "translation": "both",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "Ἕλλησιν",
+      "lemma": [
+        "G1672"
+      ],
+      "strongs": "G1672",
+      "morph": "robinson:N-DPM-LG",
+      "translation": "to Greeks",
+      "metadata": {},
+      "gematria": {
+        "standard": 333,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 10,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 11,
+      "text": "κατοικοῦσιν",
+      "lemma": [
+        "G2730"
+      ],
+      "strongs": "G2730",
+      "morph": "robinson:V-PAP-DPM",
+      "translation": "inhabiting",
+      "metadata": {},
+      "gematria": {
+        "standard": 1151,
+        "ordinal": 139,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
+      "text": "Ἔφεσον",
+      "lemma": [
+        "G2181"
+      ],
+      "strongs": "G2181",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Ephesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 830,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐπέπεσεν",
+      "lemma": [
+        "G1968"
+      ],
+      "strongs": "G1968",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "fell",
+      "metadata": {},
+      "gematria": {
+        "standard": 430,
+        "ordinal": 83,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 16,
+      "text": "φόβος",
+      "lemma": [
+        "G5401"
+      ],
+      "strongs": "G5401",
+      "morph": "robinson:N-NSM",
+      "translation": "fear",
+      "metadata": {},
+      "gematria": {
+        "standard": 842,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "upon",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 18,
+      "text": "πάντας",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-APM",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 632,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 19,
+      "text": "αὐτούς,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APM",
+      "translation": "them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 93,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 20,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἐμεγαλύνετο",
+      "lemma": [
+        "G3170"
+      ],
+      "strongs": "G3170",
+      "morph": "robinson:V-IPI-3S",
+      "translation": "was being magnified",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 109,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 22,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 23,
+      "text": "ὄνομα",
+      "lemma": [
+        "G3686"
+      ],
+      "strongs": "G3686",
+      "morph": "robinson:N-NSN",
+      "translation": "name",
+      "metadata": {},
+      "gematria": {
+        "standard": 231,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 24,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 25,
+      "text": "κυρίου",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lord",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 91,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 26,
+      "text": "Ἰησοῦ,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus,",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15164,
+    "ordinal": 1656,
+    "reduced": 639
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "text": "Εἶπεν αὐτῇ ὁ Ἰησοῦς· ἐγώ εἰμι ἡ ἀνάστασις καὶ ἡ ζωή· ὁ πιστεύων εἰς ἐμὲ κἂν ἀποθάνῃ ζήσεται,",
+  "words": [
+    {
+      "position": 1,
+      "text": "Εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "Said",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "αὐτῇ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSF",
+      "translation": "to her",
+      "metadata": {},
+      "gematria": {
+        "standard": 719,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἰησοῦς·",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐγώ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS",
+      "translation": "I myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "εἰμι",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-1S",
+      "translation": "am",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 35,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀνάστασις",
+      "lemma": [
+        "G386"
+      ],
+      "strongs": "G386",
+      "morph": "robinson:N-NSF",
+      "translation": "resurrection",
+      "metadata": {},
+      "gematria": {
+        "standard": 963,
+        "ordinal": 98,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 11,
+      "text": "ζωή·",
+      "lemma": [
+        "G2222"
+      ],
+      "strongs": "G2222",
+      "morph": "robinson:N-NSF",
+      "translation": "life;",
+      "metadata": {},
+      "gematria": {
+        "standard": 815,
+        "ordinal": 37,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "πιστεύων",
+      "lemma": [
+        "G4100"
+      ],
+      "strongs": "G4100",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "believing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1845,
+        "ordinal": 124,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 14,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐμὲ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1AS",
+      "translation": "Me myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 50,
+        "ordinal": 22,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 16,
+      "text": "κἂν",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ + G1437=COND",
+      "translation": "even if",
+      "metadata": {},
+      "gematria": {
+        "standard": 71,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀποθάνῃ",
+      "lemma": [
+        "G599"
+      ],
+      "strongs": "G599",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "he shall die",
+      "metadata": {},
+      "gematria": {
+        "standard": 229,
+        "ordinal": 70,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 18,
+      "text": "ζήσεται,",
+      "lemma": [
+        "G2198"
+      ],
+      "strongs": "G2198",
+      "morph": "robinson:V-FDI-3S",
+      "translation": "he will live,",
+      "metadata": {},
+      "gematria": {
+        "standard": 531,
+        "ordinal": 65,
+        "reduced": 38
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7536,
+    "ordinal": 794,
+    "reduced": 398
+  }
+}

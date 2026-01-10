@@ -1,0 +1,340 @@
+{
+  "text": "εἰ δὲ ζητήματά ἐστιν περὶ λόγου καὶ ὀνομάτων καὶ νόμου τοῦ καθ᾽ ὑμᾶς, ὄψεσθε αὐτοί· κριτὴς ἐγὼ τούτων οὐ βούλομαι εἶναι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ζητήματά",
+      "lemma": [
+        "G2213"
+      ],
+      "strongs": "G2213",
+      "morph": "robinson:N-NPN",
+      "translation": "questions",
+      "metadata": {},
+      "gematria": {
+        "standard": 665,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "it is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "about",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "λόγου",
+      "lemma": [
+        "G3056"
+      ],
+      "strongs": "G3056",
+      "morph": "robinson:N-GSM",
+      "translation": "a word",
+      "metadata": {},
+      "gematria": {
+        "standard": 573,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὀνομάτων",
+      "lemma": [
+        "G3686"
+      ],
+      "strongs": "G3686",
+      "morph": "robinson:N-GPN",
+      "translation": "names",
+      "metadata": {},
+      "gematria": {
+        "standard": 1381,
+        "ordinal": 112,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "νόμου",
+      "lemma": [
+        "G3551"
+      ],
+      "strongs": "G3551",
+      "morph": "robinson:N-GSM",
+      "translation": "law",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "καθ᾽",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 30,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὑμᾶς,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "yours,",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὄψεσθε",
+      "lemma": null,
+      "morph": null,
+      "translation": "you will behold",
+      "metadata": {},
+      "gematria": {
+        "standard": 989,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 15,
+      "text": "αὐτοί·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NPM",
+      "translation": "[to it] yourselves;",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 16,
+      "text": "κριτὴς",
+      "lemma": [
+        "G2923"
+      ],
+      "strongs": "G2923",
+      "morph": "robinson:N-NSM",
+      "translation": "a judge",
+      "metadata": {},
+      "gematria": {
+        "standard": 638,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS",
+      "translation": "I myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 18,
+      "text": "τούτων",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-GPN",
+      "translation": "of these things",
+      "metadata": {},
+      "gematria": {
+        "standard": 1920,
+        "ordinal": 110,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 19,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 20,
+      "text": "βούλομαι",
+      "lemma": [
+        "G1014"
+      ],
+      "strongs": "G1014",
+      "morph": "robinson:V-PNI-1S",
+      "translation": "resolve",
+      "metadata": {},
+      "gematria": {
+        "standard": 623,
+        "ordinal": 85,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 21,
+      "text": "εἶναι.",
+      "lemma": [
+        "G1511"
+      ],
+      "strongs": "G1511",
+      "morph": "robinson:V-PAN",
+      "translation": "to be.",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 37,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11841,
+    "ordinal": 1138,
+    "reduced": 427
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "text": "κἀκεῖθεν οἱ ἀδελφοὶ ἀκούσαντες τὰ περὶ ἡμῶν εἰς ἀπάντησιν ἡμῖν ἄχρι Ἀππίου φόρου καὶ Τριῶν ταβερνῶν, οὓς ἰδὼν ὁ Παῦλος εὐχαριστήσας τῷ θεῷ ἔλαβεν θάρσος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "κἀκεῖθεν",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ + G1564=ADV",
+      "translation": "And from there",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 61,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 2,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀδελφοὶ",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-NPM",
+      "translation": "brothers",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀκούσαντες",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "having heard",
+      "metadata": {},
+      "gematria": {
+        "standard": 1247,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the [things]",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 6,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "concerning",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἡμῶν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GP",
+      "translation": "us",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀπάντησιν",
+      "lemma": [
+        "G529"
+      ],
+      "strongs": "G529",
+      "morph": "robinson:N-ASF",
+      "translation": "meet",
+      "metadata": {},
+      "gematria": {
+        "standard": 700,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἡμῖν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DP",
+      "translation": "us",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἄχρι",
+      "lemma": [
+        "G891"
+      ],
+      "strongs": "G891",
+      "morph": "robinson:PREP",
+      "translation": "as far as",
+      "metadata": {},
+      "gematria": {
+        "standard": 711,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 12,
+      "text": "Ἀππίου",
+      "lemma": [
+        "G675"
+      ],
+      "strongs": "G675",
+      "morph": "robinson:N-GSM-L",
+      "translation": "of Appius",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 13,
+      "text": "φόρου",
+      "lemma": [
+        "G5410"
+      ],
+      "strongs": "G5410",
+      "morph": "robinson:N-GSN-L",
+      "translation": "[the] market",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "Τριῶν",
+      "lemma": [
+        "G5140"
+      ],
+      "strongs": "G5140",
+      "morph": "robinson:A-GPF-L",
+      "translation": "[the] Three",
+      "metadata": {},
+      "gematria": {
+        "standard": 1260,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 16,
+      "text": "ταβερνῶν,",
+      "lemma": [
+        "G4999"
+      ],
+      "strongs": "G4999",
+      "morph": "robinson:N-GPF-L",
+      "translation": "Taverns,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1308,
+        "ordinal": 94,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 17,
+      "text": "οὓς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-APM",
+      "translation": "whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἰδὼν",
+      "lemma": null,
+      "morph": null,
+      "translation": "having seen",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 20,
+      "text": "Παῦλος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Paul",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 21,
+      "text": "εὐχαριστήσας",
+      "lemma": [
+        "G2168"
+      ],
+      "strongs": "G2168",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having given thanks",
+      "metadata": {},
+      "gematria": {
+        "standard": 2025,
+        "ordinal": 155,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 22,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 23,
+      "text": "θεῷ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-DSM-T",
+      "translation": "to God",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἔλαβεν",
+      "lemma": [
+        "G2983"
+      ],
+      "strongs": "G2983",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "took",
+      "metadata": {},
+      "gematria": {
+        "standard": 93,
+        "ordinal": 37,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 25,
+      "text": "θάρσος.",
+      "lemma": [
+        "G2294"
+      ],
+      "strongs": "G2294",
+      "morph": "robinson:N-ASN",
+      "translation": "courage.",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 77,
+        "reduced": 41
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 16592,
+    "ordinal": 1540,
+    "reduced": 649
+  }
+}

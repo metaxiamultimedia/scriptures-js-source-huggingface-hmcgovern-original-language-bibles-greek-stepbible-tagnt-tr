@@ -1,0 +1,135 @@
+{
+  "text": "καὶ βλέπομεν ὅτι οὐκ ἠδυνήθησαν εἰσελθεῖν δι᾽ ἀπιστίαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "βλέπομεν",
+      "lemma": [
+        "G991"
+      ],
+      "strongs": "G991",
+      "morph": "robinson:V-PAI-1P",
+      "translation": "we see",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἠδυνήθησαν",
+      "lemma": [
+        "G1410"
+      ],
+      "strongs": "G1410",
+      "morph": "robinson:V-AOI-3P",
+      "translation": "they were able",
+      "metadata": {},
+      "gematria": {
+        "standard": 738,
+        "ordinal": 98,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 6,
+      "text": "εἰσελθεῖν",
+      "lemma": [
+        "G1525"
+      ],
+      "strongs": "G1525",
+      "morph": "robinson:V-2AAN",
+      "translation": "to enter in",
+      "metadata": {},
+      "gematria": {
+        "standard": 324,
+        "ordinal": 83,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 7,
+      "text": "δι᾽",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "because of",
+      "metadata": {},
+      "gematria": {
+        "standard": 14,
+        "ordinal": 13,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀπιστίαν.",
+      "lemma": [
+        "G570"
+      ],
+      "strongs": "G570",
+      "morph": "robinson:N-ASF",
+      "translation": "unbelief.",
+      "metadata": {},
+      "gematria": {
+        "standard": 652,
+        "ordinal": 86,
+        "reduced": 41
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2911,
+    "ordinal": 467,
+    "reduced": 233
+  }
+}

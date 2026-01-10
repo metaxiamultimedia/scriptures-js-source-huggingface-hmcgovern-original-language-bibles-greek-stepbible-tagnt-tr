@@ -1,0 +1,138 @@
+{
+  "text": "ἢ καὶ ἐὰν αἰτήσει ᾠόν, ἐπιδώσει αὐτῷ σκορπίον;",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "Or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "αἰτήσει",
+      "lemma": [
+        "G154"
+      ],
+      "strongs": "G154",
+      "morph": "robinson:V-FAI-3S",
+      "translation": "he will ask for",
+      "metadata": {},
+      "gematria": {
+        "standard": 534,
+        "ordinal": 68,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 5,
+      "text": "ᾠόν,",
+      "lemma": [
+        "G5609"
+      ],
+      "strongs": "G5609",
+      "morph": "robinson:N-ASN",
+      "translation": "an egg,",
+      "metadata": {},
+      "gematria": {
+        "standard": 930,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐπιδώσει",
+      "lemma": [
+        "G1929"
+      ],
+      "strongs": "G1929",
+      "morph": "robinson:V-FAI-3S",
+      "translation": "will he give",
+      "metadata": {},
+      "gematria": {
+        "standard": 1114,
+        "ordinal": 90,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 7,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 8,
+      "text": "σκορπίον;",
+      "lemma": [
+        "G4651"
+      ],
+      "strongs": "G4651",
+      "morph": "robinson:N-ASM",
+      "translation": "a scorpion?",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 113,
+        "reduced": 50
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4784,
+    "ordinal": 451,
+    "reduced": 217
+  }
+}

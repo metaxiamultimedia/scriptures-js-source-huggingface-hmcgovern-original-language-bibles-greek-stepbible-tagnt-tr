@@ -1,0 +1,279 @@
+{
+  "text": "ὃν ὁ θεὸς ἀνέστησεν λύσας τὰς ὠδῖνας τοῦ θανάτου, καθότι οὐκ ἦν δυνατὸν κρατεῖσθαι αὐτὸν ὑπ᾽ αὐτοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὃν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASM",
+      "translation": "whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀνέστησεν",
+      "lemma": [
+        "G450"
+      ],
+      "strongs": "G450",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "raised up",
+      "metadata": {},
+      "gematria": {
+        "standard": 819,
+        "ordinal": 99,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 5,
+      "text": "λύσας",
+      "lemma": [
+        "G3089"
+      ],
+      "strongs": "G3089",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having loosed",
+      "metadata": {},
+      "gematria": {
+        "standard": 831,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὠδῖνας",
+      "lemma": [
+        "G5604"
+      ],
+      "strongs": "G5604",
+      "morph": "robinson:N-APF",
+      "translation": "agony",
+      "metadata": {},
+      "gematria": {
+        "standard": 1065,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "θανάτου,",
+      "lemma": [
+        "G2288"
+      ],
+      "strongs": "G2288",
+      "morph": "robinson:N-GSM",
+      "translation": "of death,",
+      "metadata": {},
+      "gematria": {
+        "standard": 831,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "καθότι",
+      "lemma": [
+        "G2530"
+      ],
+      "strongs": "G2530",
+      "morph": "robinson:CONJ",
+      "translation": "inasmuch as",
+      "metadata": {},
+      "gematria": {
+        "standard": 410,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 11,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "it was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "δυνατὸν",
+      "lemma": [
+        "G1415"
+      ],
+      "strongs": "G1415",
+      "morph": "robinson:A-NSN",
+      "translation": "possible",
+      "metadata": {},
+      "gematria": {
+        "standard": 875,
+        "ordinal": 85,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 14,
+      "text": "κρατεῖσθαι",
+      "lemma": [
+        "G2902"
+      ],
+      "strongs": "G2902",
+      "morph": "robinson:V-PPN",
+      "translation": "[for] to be held",
+      "metadata": {},
+      "gematria": {
+        "standard": 656,
+        "ordinal": 97,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 15,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὑπ᾽",
+      "lemma": null,
+      "morph": null,
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 480,
+        "ordinal": 36,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 17,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "it.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10252,
+    "ordinal": 982,
+    "reduced": 343
+  }
+}

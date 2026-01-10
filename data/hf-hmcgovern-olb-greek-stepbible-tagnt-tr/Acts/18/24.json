@@ -1,0 +1,292 @@
+{
+  "text": "Ἰουδαῖος δέ τις Ἀπολλῶς ὀνόματι, Ἀλεξανδρεὺς τῷ γένει, ἀνὴρ λόγιος, κατήντησεν εἰς Ἔφεσον δυνατὸς ὢν ἐν ταῖς γραφαῖς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἰουδαῖος",
+      "lemma": [
+        "G2453"
+      ],
+      "strongs": "G2453",
+      "morph": "robinson:N-NSM-PG",
+      "translation": "A Jew",
+      "metadata": {},
+      "gematria": {
+        "standard": 765,
+        "ordinal": 91,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 2,
+      "text": "δέ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSM",
+      "translation": "certain",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἀπολλῶς",
+      "lemma": [
+        "G625"
+      ],
+      "strongs": "G625",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Apollos",
+      "metadata": {},
+      "gematria": {
+        "standard": 1211,
+        "ordinal": 96,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὀνόματι,",
+      "lemma": [
+        "G3686"
+      ],
+      "strongs": "G3686",
+      "morph": "robinson:N-DSN",
+      "translation": "named,",
+      "metadata": {},
+      "gematria": {
+        "standard": 541,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "Ἀλεξανδρεὺς",
+      "lemma": [
+        "G221"
+      ],
+      "strongs": "G221",
+      "morph": "robinson:N-NSM-LG",
+      "translation": "of Alexandria",
+      "metadata": {},
+      "gematria": {
+        "standard": 856,
+        "ordinal": 109,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "γένει,",
+      "lemma": null,
+      "morph": null,
+      "translation": "a native,",
+      "metadata": {},
+      "gematria": {
+        "standard": 73,
+        "ordinal": 35,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀνὴρ",
+      "lemma": null,
+      "morph": null,
+      "translation": "a man",
+      "metadata": {},
+      "gematria": {
+        "standard": 159,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
+      "text": "λόγιος,",
+      "lemma": [
+        "G3052"
+      ],
+      "strongs": "G3052",
+      "morph": "robinson:A-NSM",
+      "translation": "eloquent,",
+      "metadata": {},
+      "gematria": {
+        "standard": 383,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 11,
+      "text": "κατήντησεν",
+      "lemma": [
+        "G2658"
+      ],
+      "strongs": "G2658",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "came",
+      "metadata": {},
+      "gematria": {
+        "standard": 942,
+        "ordinal": 112,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 12,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 13,
+      "text": "Ἔφεσον",
+      "lemma": [
+        "G2181"
+      ],
+      "strongs": "G2181",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Ephesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 830,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 14,
+      "text": "δυνατὸς",
+      "lemma": [
+        "G1415"
+      ],
+      "strongs": "G1415",
+      "morph": "robinson:A-NSM",
+      "translation": "mighty",
+      "metadata": {},
+      "gematria": {
+        "standard": 1025,
+        "ordinal": 90,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὢν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "being",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 17,
+      "text": "ταῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 18,
+      "text": "γραφαῖς.",
+      "lemma": [
+        "G1124"
+      ],
+      "strongs": "G1124",
+      "morph": "robinson:N-DPF",
+      "translation": "Scriptures.",
+      "metadata": {},
+      "gematria": {
+        "standard": 815,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10860,
+    "ordinal": 1114,
+    "reduced": 475
+  }
+}

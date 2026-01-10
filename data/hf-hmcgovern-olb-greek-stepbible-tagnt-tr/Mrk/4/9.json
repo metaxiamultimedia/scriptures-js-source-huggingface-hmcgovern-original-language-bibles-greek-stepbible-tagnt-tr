@@ -1,0 +1,87 @@
+{
+  "text": "καὶ ἔλεγεν ὦτα ἀκούειν ἀκουέτω.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἔλεγεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "He was saying",
+      "metadata": {},
+      "gematria": {
+        "standard": 98,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὦτα",
+      "lemma": [
+        "G3775"
+      ],
+      "strongs": "G3775",
+      "morph": "robinson:N-APN",
+      "translation": "ears",
+      "metadata": {},
+      "gematria": {
+        "standard": 1101,
+        "ordinal": 44,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀκούειν",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-PAN",
+      "translation": "to hear",
+      "metadata": {},
+      "gematria": {
+        "standard": 556,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀκουέτω.",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-PAM-3S",
+      "translation": "he should hear.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1596,
+        "ordinal": 94,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3382,
+    "ordinal": 273,
+    "reduced": 93
+  }
+}

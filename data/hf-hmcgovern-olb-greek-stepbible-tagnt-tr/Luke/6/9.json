@@ -1,0 +1,228 @@
+{
+  "text": "εἶπεν ὁ Ἰησοῦς πρὸς αὐτούς· ὑμᾶς ἔξεστιν ἀγαθοποιῆσαι ἢ κακοποιῆσαι; ψυχὴν σῶσαι ἢ ἀπολέσαι;",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "Said",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 4,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτούς·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APM",
+      "translation": "them;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 93,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἔξεστιν",
+      "lemma": [
+        "G1832"
+      ],
+      "strongs": "G1832",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "it is lawful",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀγαθοποιῆσαι",
+      "lemma": [
+        "G15"
+      ],
+      "strongs": "G15",
+      "morph": "robinson:V-AAN",
+      "translation": "to do good",
+      "metadata": {},
+      "gematria": {
+        "standard": 463,
+        "ordinal": 103,
+        "reduced": 67
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "κακοποιῆσαι;",
+      "lemma": [
+        "G2554"
+      ],
+      "strongs": "G2554",
+      "morph": "robinson:V-AAN",
+      "translation": "to do evil?",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 111,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 11,
+      "text": "ψυχὴν",
+      "lemma": null,
+      "morph": null,
+      "translation": "Life",
+      "metadata": {},
+      "gematria": {
+        "standard": 1758,
+        "ordinal": 85,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 12,
+      "text": "σῶσαι",
+      "lemma": [
+        "G4982"
+      ],
+      "strongs": "G4982",
+      "morph": "robinson:V-AAN",
+      "translation": "to save",
+      "metadata": {},
+      "gematria": {
+        "standard": 1211,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀπολέσαι;",
+      "lemma": [
+        "G622"
+      ],
+      "strongs": "G622",
+      "morph": "robinson:V-AAN",
+      "translation": "to destroy?",
+      "metadata": {},
+      "gematria": {
+        "standard": 397,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8535,
+    "ordinal": 902,
+    "reduced": 416
+  }
+}

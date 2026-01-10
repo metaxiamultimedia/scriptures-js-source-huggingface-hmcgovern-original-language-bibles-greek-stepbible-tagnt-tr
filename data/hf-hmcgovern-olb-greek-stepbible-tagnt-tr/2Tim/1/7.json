@@ -1,0 +1,231 @@
+{
+  "text": "οὐ γὰρ ἔδωκεν ἡμῖν ὁ θεὸς πνεῦμα δειλίας ἀλλὰ δυνάμεως καὶ ἀγάπης καὶ σωφρονισμοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "Not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἔδωκεν",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "has given",
+      "metadata": {},
+      "gematria": {
+        "standard": 884,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἡμῖν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DP",
+      "translation": "us",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "πνεῦμα",
+      "lemma": null,
+      "morph": null,
+      "translation": "a spirit",
+      "metadata": {},
+      "gematria": {
+        "standard": 576,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
+      "text": "δειλίας",
+      "lemma": [
+        "G1167"
+      ],
+      "strongs": "G1167",
+      "morph": "robinson:N-GSF",
+      "translation": "of cowardice",
+      "metadata": {},
+      "gematria": {
+        "standard": 260,
+        "ordinal": 57,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀλλὰ",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "δυνάμεως",
+      "lemma": [
+        "G1411"
+      ],
+      "strongs": "G1411",
+      "morph": "robinson:N-GSF",
+      "translation": "of power",
+      "metadata": {},
+      "gematria": {
+        "standard": 1500,
+        "ordinal": 97,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀγάπης",
+      "lemma": [
+        "G26"
+      ],
+      "strongs": "G26",
+      "morph": "robinson:N-GSF",
+      "translation": "of love",
+      "metadata": {},
+      "gematria": {
+        "standard": 293,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "σωφρονισμοῦ.",
+      "lemma": [
+        "G4995"
+      ],
+      "strongs": "G4995",
+      "morph": "robinson:N-GSM",
+      "translation": "of self-control.",
+      "metadata": {},
+      "gematria": {
+        "standard": 2440,
+        "ordinal": 182,
+        "reduced": 65
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7113,
+    "ordinal": 732,
+    "reduced": 318
+  }
+}

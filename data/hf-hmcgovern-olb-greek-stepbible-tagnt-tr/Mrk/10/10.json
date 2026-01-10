@@ -1,0 +1,106 @@
+{
+  "text": "Καὶ πάλιν οἱ μαθηταὶ περὶ αὐτόν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "πάλιν",
+      "lemma": [
+        "G3825"
+      ],
+      "strongs": "G3825",
+      "morph": "robinson:ADV",
+      "translation": "again",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 3,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "μαθηταὶ",
+      "lemma": [
+        "G3101"
+      ],
+      "strongs": "G3101",
+      "morph": "robinson:N-NPM",
+      "translation": "disciples",
+      "metadata": {},
+      "gematria": {
+        "standard": 369,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "concerning",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτόν.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1667,
+    "ordinal": 266,
+    "reduced": 122
+  }
+}

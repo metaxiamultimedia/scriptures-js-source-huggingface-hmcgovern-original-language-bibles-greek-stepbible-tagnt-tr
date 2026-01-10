@@ -1,0 +1,391 @@
+{
+  "text": "καὶ ὃς μὴ δέξηται ὑμᾶς μηδὲ ἀκούσῃ τοὺς λόγους ὑμῶν, ἐξερχόμενοι ἔξω τῆς οἰκίας ἢ τῆς πόλεως ἐκείνης ἐκτινάξατε τὸν κονιορτὸν τῶν ποδῶν ὑμῶν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὃς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSM",
+      "translation": "who[ever]",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "unless",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "δέξηται",
+      "lemma": [
+        "G1209"
+      ],
+      "strongs": "G1209",
+      "morph": "robinson:V-ADS-3S",
+      "translation": "shall receive",
+      "metadata": {},
+      "gematria": {
+        "standard": 388,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "μηδὲ",
+      "lemma": [
+        "G3366"
+      ],
+      "strongs": "G3366",
+      "morph": "robinson:CONJ-N",
+      "translation": "nor",
+      "metadata": {},
+      "gematria": {
+        "standard": 57,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀκούσῃ",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAS-3S",
+      "translation": "shall he hear",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "λόγους",
+      "lemma": [
+        "G3056"
+      ],
+      "strongs": "G3056",
+      "morph": "robinson:N-APM",
+      "translation": "words",
+      "metadata": {},
+      "gematria": {
+        "standard": 773,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὑμῶν,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "of you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐξερχόμενοι",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-PNP-NPM",
+      "translation": "going forth",
+      "metadata": {},
+      "gematria": {
+        "standard": 1015,
+        "ordinal": 132,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἔξω",
+      "lemma": [
+        "G1854"
+      ],
+      "strongs": "G1854",
+      "morph": "robinson:PREP",
+      "translation": "out",
+      "metadata": {},
+      "gematria": {
+        "standard": 865,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 14,
+      "text": "οἰκίας",
+      "lemma": null,
+      "morph": null,
+      "translation": "house",
+      "metadata": {},
+      "gematria": {
+        "standard": 311,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 16,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 17,
+      "text": "πόλεως",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-GSF",
+      "translation": "city",
+      "metadata": {},
+      "gematria": {
+        "standard": 1185,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐκείνης",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-GSF",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 298,
+        "ordinal": 67,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐκτινάξατε",
+      "lemma": [
+        "G1621"
+      ],
+      "strongs": "G1621",
+      "morph": "robinson:V-AAM-2P",
+      "translation": "do shake off",
+      "metadata": {},
+      "gematria": {
+        "standard": 752,
+        "ordinal": 96,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 20,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "κονιορτὸν",
+      "lemma": [
+        "G2868"
+      ],
+      "strongs": "G2868",
+      "morph": "robinson:N-ASM",
+      "translation": "dust",
+      "metadata": {},
+      "gematria": {
+        "standard": 740,
+        "ordinal": 126,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 22,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 23,
+      "text": "ποδῶν",
+      "lemma": [
+        "G4228"
+      ],
+      "strongs": "G4228",
+      "morph": "robinson:N-GPM",
+      "translation": "feet",
+      "metadata": {},
+      "gematria": {
+        "standard": 1004,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 24,
+      "text": "ὑμῶν.",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "of you!",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15231,
+    "ordinal": 1467,
+    "reduced": 567
+  }
+}

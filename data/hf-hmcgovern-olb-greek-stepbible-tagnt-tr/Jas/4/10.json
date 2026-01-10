@@ -1,0 +1,103 @@
+{
+  "text": "ταπεινώθητε ἐνώπιον κυρίου καὶ ὑψώσει ὑμᾶς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ταπεινώθητε",
+      "lemma": [
+        "G5013"
+      ],
+      "strongs": "G5013",
+      "morph": "robinson:V-APM-2P",
+      "translation": "do be humbled",
+      "metadata": {},
+      "gematria": {
+        "standard": 1568,
+        "ordinal": 126,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐνώπιον",
+      "lemma": [
+        "G1799"
+      ],
+      "strongs": "G1799",
+      "morph": "robinson:PREP",
+      "translation": "in the presence of",
+      "metadata": {},
+      "gematria": {
+        "standard": 1065,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 3,
+      "text": "κυρίου",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lord",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 91,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὑψώσει",
+      "lemma": [
+        "G5312"
+      ],
+      "strongs": "G5312",
+      "morph": "robinson:V-FAI-3S",
+      "translation": "He will exalt",
+      "metadata": {},
+      "gematria": {
+        "standard": 2115,
+        "ordinal": 99,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑμᾶς.",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you.",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6420,
+    "ordinal": 482,
+    "reduced": 185
+  }
+}

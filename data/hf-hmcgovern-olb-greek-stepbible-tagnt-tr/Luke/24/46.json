@@ -1,0 +1,311 @@
+{
+  "text": "καὶ εἶπεν αὐτοῖς ὅτι οὕτως γέγραπται καὶ οὕτως ἔδει παθεῖν τὸν χριστὸν καὶ ἀναστῆναι ἐκ νεκρῶν τῇ τρίτῃ ἡμέρᾳ",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "He said",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτοῖς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "οὕτως",
+      "lemma": [
+        "G3779"
+      ],
+      "strongs": "G3779",
+      "morph": "robinson:ADV",
+      "translation": "Thus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 96,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "γέγραπται",
+      "lemma": [
+        "G1125"
+      ],
+      "strongs": "G1125",
+      "morph": "robinson:V-RPI-3S",
+      "translation": "it has been written",
+      "metadata": {},
+      "gematria": {
+        "standard": 503,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "οὕτως",
+      "lemma": [
+        "G3779"
+      ],
+      "strongs": "G3779",
+      "morph": "robinson:ADV",
+      "translation": "thus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 96,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἔδει",
+      "lemma": [
+        "G1163"
+      ],
+      "strongs": "G1163",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "it was necessary for",
+      "metadata": {},
+      "gematria": {
+        "standard": 24,
+        "ordinal": 23,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "παθεῖν",
+      "lemma": [
+        "G3958"
+      ],
+      "strongs": "G3958",
+      "morph": "robinson:V-2AAN",
+      "translation": "Was to suffer",
+      "metadata": {},
+      "gematria": {
+        "standard": 155,
+        "ordinal": 52,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "χριστὸν",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-ASM-T",
+      "translation": "Christ",
+      "metadata": {},
+      "gematria": {
+        "standard": 1330,
+        "ordinal": 113,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀναστῆναι",
+      "lemma": [
+        "G450"
+      ],
+      "strongs": "G450",
+      "morph": "robinson:V-2AAN",
+      "translation": "to rise",
+      "metadata": {},
+      "gematria": {
+        "standard": 621,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out from",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 16,
+      "text": "νεκρῶν",
+      "lemma": [
+        "G3498"
+      ],
+      "strongs": "G3498",
+      "morph": "robinson:A-GPM",
+      "translation": "[the] dead",
+      "metadata": {},
+      "gematria": {
+        "standard": 1025,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 17,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "on the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "τρίτῃ",
+      "lemma": [
+        "G5154"
+      ],
+      "strongs": "G5154",
+      "morph": "robinson:A-DSF",
+      "translation": "third",
+      "metadata": {},
+      "gematria": {
+        "standard": 728,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἡμέρᾳ",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-DSF",
+      "translation": "day",
+      "metadata": {},
+      "gematria": {
+        "standard": 164,
+        "ordinal": 51,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10457,
+    "ordinal": 1079,
+    "reduced": 458
+  }
+}

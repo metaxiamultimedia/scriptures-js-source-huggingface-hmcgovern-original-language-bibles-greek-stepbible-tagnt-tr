@@ -1,0 +1,87 @@
+{
+  "text": "καὶ ἀφέντες αὐτὸν ἔφυγον πάντες.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀφέντες",
+      "lemma": null,
+      "morph": null,
+      "translation": "having left",
+      "metadata": {},
+      "gematria": {
+        "standard": 1061,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἔφυγον",
+      "lemma": [
+        "G5343"
+      ],
+      "strongs": "G5343",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "fled",
+      "metadata": {},
+      "gematria": {
+        "standard": 1028,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "πάντες.",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NPM",
+      "translation": "all.",
+      "metadata": {},
+      "gematria": {
+        "standard": 636,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3577,
+    "ordinal": 319,
+    "reduced": 103
+  }
+}

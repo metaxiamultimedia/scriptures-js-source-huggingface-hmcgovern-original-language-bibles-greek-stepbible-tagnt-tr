@@ -1,0 +1,395 @@
+{
+  "text": "Τότε ἀποκριθήσονται καὶ αὐτοὶ λέγοντες· κύριε, πότε σε εἴδομεν πεινῶντα ἢ διψῶντα ἢ ξένον ἢ γυμνὸν ἢ ἀσθενῆ ἢ ἐν φυλακῇ καὶ οὐ διηκονήσαμέν σοι;",
+  "words": [
+    {
+      "position": 1,
+      "text": "Τότε",
+      "lemma": [
+        "G5119"
+      ],
+      "strongs": "G5119",
+      "morph": "robinson:ADV",
+      "translation": "Then",
+      "metadata": {},
+      "gematria": {
+        "standard": 675,
+        "ordinal": 58,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀποκριθήσονται",
+      "lemma": [
+        "G611"
+      ],
+      "strongs": "G611",
+      "morph": "robinson:V-FOI-3P",
+      "translation": "will answer",
+      "metadata": {},
+      "gematria": {
+        "standard": 929,
+        "ordinal": 158,
+        "reduced": 77
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "αὐτοὶ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NPM",
+      "translation": "themselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "λέγοντες·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 6,
+      "text": "κύριε,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lord,",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "πότε",
+      "lemma": [
+        "G4219"
+      ],
+      "strongs": "G4219",
+      "morph": "robinson:PRT-I",
+      "translation": "when",
+      "metadata": {},
+      "gematria": {
+        "standard": 455,
+        "ordinal": 55,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 8,
+      "text": "σε",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AS",
+      "translation": "You",
+      "metadata": {},
+      "gematria": {
+        "standard": 205,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "εἴδομεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "saw we",
+      "metadata": {},
+      "gematria": {
+        "standard": 184,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 10,
+      "text": "πεινῶντα",
+      "lemma": [
+        "G3983"
+      ],
+      "strongs": "G3983",
+      "morph": "robinson:V-PAP-ASM",
+      "translation": "hungering",
+      "metadata": {},
+      "gematria": {
+        "standard": 1296,
+        "ordinal": 100,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 12,
+      "text": "διψῶντα",
+      "lemma": [
+        "G1372"
+      ],
+      "strongs": "G1372",
+      "morph": "robinson:V-PAP-ASM",
+      "translation": "thirsting",
+      "metadata": {},
+      "gematria": {
+        "standard": 1865,
+        "ordinal": 93,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 14,
+      "text": "ξένον",
+      "lemma": [
+        "G3581"
+      ],
+      "strongs": "G3581",
+      "morph": "robinson:A-ASM",
+      "translation": "a stranger",
+      "metadata": {},
+      "gematria": {
+        "standard": 235,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 16,
+      "text": "γυμνὸν",
+      "lemma": [
+        "G1131"
+      ],
+      "strongs": "G1131",
+      "morph": "robinson:A-ASM",
+      "translation": "naked",
+      "metadata": {},
+      "gematria": {
+        "standard": 613,
+        "ordinal": 76,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἀσθενῆ",
+      "lemma": null,
+      "morph": null,
+      "translation": "sick",
+      "metadata": {},
+      "gematria": {
+        "standard": 273,
+        "ordinal": 52,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 21,
+      "text": "φυλακῇ",
+      "lemma": null,
+      "morph": null,
+      "translation": "prison",
+      "metadata": {},
+      "gematria": {
+        "standard": 969,
+        "ordinal": 79,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 22,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 23,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 24,
+      "text": "διηκονήσαμέν",
+      "lemma": [
+        "G1247"
+      ],
+      "strongs": "G1247",
+      "morph": "robinson:V-AAI-1P",
+      "translation": "did minister",
+      "metadata": {},
+      "gematria": {
+        "standard": 466,
+        "ordinal": 114,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 25,
+      "text": "σοι;",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DS",
+      "translation": "to You?",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11051,
+    "ordinal": 1315,
+    "reduced": 568
+  }
+}

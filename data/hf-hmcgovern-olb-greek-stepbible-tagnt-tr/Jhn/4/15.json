@@ -1,0 +1,273 @@
+{
+  "text": "Λέγει πρὸς αὐτὸν ἡ γυνή· κύριε, δός μοι τοῦτο τὸ ὕδωρ ἵνα μὴ διψῶ μηδὲ ἐνθάδε ἀντλεῖν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Λέγει",
+      "lemma": null,
+      "morph": null,
+      "translation": "Says",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "γυνή·",
+      "lemma": null,
+      "morph": null,
+      "translation": "woman;",
+      "metadata": {},
+      "gematria": {
+        "standard": 461,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "κύριε,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Sir,",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "δός",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-2AAM-2S",
+      "translation": "do give",
+      "metadata": {},
+      "gematria": {
+        "standard": 274,
+        "ordinal": 37,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 8,
+      "text": "μοι",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DS",
+      "translation": "me",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "τοῦτο",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-ASN",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὕδωρ",
+      "lemma": [
+        "G5204"
+      ],
+      "strongs": "G5204",
+      "morph": "robinson:N-ASN",
+      "translation": "water",
+      "metadata": {},
+      "gematria": {
+        "standard": 1304,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "διψῶ",
+      "lemma": [
+        "G1372"
+      ],
+      "strongs": "G1372",
+      "morph": "robinson:V-PAS-1S",
+      "translation": "I may thirst",
+      "metadata": {},
+      "gematria": {
+        "standard": 1514,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "μηδὲ",
+      "lemma": [
+        "G3366"
+      ],
+      "strongs": "G3366",
+      "morph": "robinson:CONJ-N",
+      "translation": "nor",
+      "metadata": {},
+      "gematria": {
+        "standard": 57,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐνθάδε",
+      "lemma": [
+        "G1759"
+      ],
+      "strongs": "G1759",
+      "morph": "robinson:ADV",
+      "translation": "here",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀντλεῖν.",
+      "lemma": [
+        "G501"
+      ],
+      "strongs": "G501",
+      "morph": "robinson:V-PAN",
+      "translation": "to draw.",
+      "metadata": {},
+      "gematria": {
+        "standard": 446,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7736,
+    "ordinal": 775,
+    "reduced": 316
+  }
+}

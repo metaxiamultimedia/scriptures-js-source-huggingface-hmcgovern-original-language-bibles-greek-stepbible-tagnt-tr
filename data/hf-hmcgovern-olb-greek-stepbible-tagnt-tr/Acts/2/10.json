@@ -1,0 +1,282 @@
+{
+  "text": "Φρυγίαν τε καὶ Παμφυλίαν, Αἴγυπτον καὶ τὰ μέρη τῆς Λιβύης τῆς κατὰ Κυρήνην καὶ οἱ ἐπιδημοῦντες Ῥωμαῖοι,",
+  "words": [
+    {
+      "position": 1,
+      "text": "Φρυγίαν",
+      "lemma": [
+        "G5435"
+      ],
+      "strongs": "G5435",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Phrygia",
+      "metadata": {},
+      "gematria": {
+        "standard": 1064,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "τε",
+      "lemma": [
+        "G5037"
+      ],
+      "strongs": "G5037",
+      "morph": "robinson:CONJ",
+      "translation": "both",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "Παμφυλίαν,",
+      "lemma": [
+        "G3828"
+      ],
+      "strongs": "G3828",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Pamphylia,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1112,
+        "ordinal": 104,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 5,
+      "text": "Αἴγυπτον",
+      "lemma": [
+        "G125"
+      ],
+      "strongs": "G125",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Egypt",
+      "metadata": {},
+      "gematria": {
+        "standard": 914,
+        "ordinal": 96,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 8,
+      "text": "μέρη",
+      "lemma": [
+        "G3313"
+      ],
+      "strongs": "G3313",
+      "morph": "robinson:N-APN",
+      "translation": "parts",
+      "metadata": {},
+      "gematria": {
+        "standard": 153,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
+      "text": "Λιβύης",
+      "lemma": [
+        "G3033"
+      ],
+      "strongs": "G3033",
+      "morph": "robinson:N-GSF-L",
+      "translation": "of Libya",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 12,
+      "text": "κατὰ",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "[are] around",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 31,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 13,
+      "text": "Κυρήνην",
+      "lemma": [
+        "G2957"
+      ],
+      "strongs": "G2957",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Cyrene",
+      "metadata": {},
+      "gematria": {
+        "standard": 636,
+        "ordinal": 87,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐπιδημοῦντες",
+      "lemma": [
+        "G1927"
+      ],
+      "strongs": "G1927",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "visiting [here]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1172,
+        "ordinal": 143,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 17,
+      "text": "Ῥωμαῖοι,",
+      "lemma": [
+        "G4514"
+      ],
+      "strongs": "G4514",
+      "morph": "robinson:N-NPM-LG",
+      "translation": "from Rome,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1031,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8849,
+    "ordinal": 956,
+    "reduced": 380
+  }
+}

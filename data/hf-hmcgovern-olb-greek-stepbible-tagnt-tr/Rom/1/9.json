@@ -1,0 +1,372 @@
+{
+  "text": "μάρτυς γάρ μού ἐστιν ὁ θεός, ᾧ λατρεύω ἐν τῷ πνεύματί μου ἐν τῷ εὐαγγελίῳ τοῦ υἱοῦ αὐτοῦ, ὡς ἀδιαλείπτως μνείαν ὑμῶν ποιοῦμαι",
+  "words": [
+    {
+      "position": 1,
+      "text": "μάρτυς",
+      "lemma": [
+        "G3144"
+      ],
+      "strongs": "G3144",
+      "morph": "robinson:N-NSM",
+      "translation": "Witness",
+      "metadata": {},
+      "gematria": {
+        "standard": 1041,
+        "ordinal": 87,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "γάρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "μού",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "me",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "θεός,",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God,",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "ᾧ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-DSM",
+      "translation": "whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "λατρεύω",
+      "lemma": [
+        "G3000"
+      ],
+      "strongs": "G3000",
+      "morph": "robinson:V-PAI-1S",
+      "translation": "I serve",
+      "metadata": {},
+      "gematria": {
+        "standard": 1636,
+        "ordinal": 97,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "πνεύματί",
+      "lemma": null,
+      "morph": null,
+      "translation": "spirit",
+      "metadata": {},
+      "gematria": {
+        "standard": 886,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 12,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "εὐαγγελίῳ",
+      "lemma": [
+        "G2098"
+      ],
+      "strongs": "G2098",
+      "morph": "robinson:N-DSN",
+      "translation": "gospel",
+      "metadata": {},
+      "gematria": {
+        "standard": 1267,
+        "ordinal": 90,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 16,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 17,
+      "text": "υἱοῦ",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-GSM",
+      "translation": "Son",
+      "metadata": {},
+      "gematria": {
+        "standard": 880,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 18,
+      "text": "αὐτοῦ,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "how",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀδιαλείπτως",
+      "lemma": [
+        "G89"
+      ],
+      "strongs": "G89",
+      "morph": "robinson:ADV",
+      "translation": "unceasingly",
+      "metadata": {},
+      "gematria": {
+        "standard": 1441,
+        "ordinal": 117,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 21,
+      "text": "μνείαν",
+      "lemma": [
+        "G3417"
+      ],
+      "strongs": "G3417",
+      "morph": "robinson:N-ASF",
+      "translation": "mention",
+      "metadata": {},
+      "gematria": {
+        "standard": 156,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 22,
+      "text": "ὑμῶν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 23,
+      "text": "ποιοῦμαι",
+      "lemma": null,
+      "morph": null,
+      "translation": "I make",
+      "metadata": {},
+      "gematria": {
+        "standard": 681,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 17402,
+    "ordinal": 1353,
+    "reduced": 480
+  }
+}

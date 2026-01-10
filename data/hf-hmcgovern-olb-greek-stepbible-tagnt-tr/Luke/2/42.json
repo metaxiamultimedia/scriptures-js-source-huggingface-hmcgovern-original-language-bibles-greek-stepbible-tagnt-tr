@@ -1,0 +1,218 @@
+{
+  "text": "Καὶ ὅτε ἐγένετο ἐτῶν δώδεκα αὐτῶν εἰς Ἱεροσόλυμα κατὰ τὸ ἔθος τῆς ἑορτῆς",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὅτε",
+      "lemma": [
+        "G3753"
+      ],
+      "strongs": "G3753",
+      "morph": "robinson:CONJ",
+      "translation": "when",
+      "metadata": {},
+      "gematria": {
+        "standard": 375,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "He was",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐτῶν",
+      "lemma": [
+        "G2094"
+      ],
+      "strongs": "G2094",
+      "morph": "robinson:N-GPN",
+      "translation": "years [old]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1155,
+        "ordinal": 61,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "δώδεκα",
+      "lemma": [
+        "G1427"
+      ],
+      "strongs": "G1427",
+      "morph": "robinson:A-NUI",
+      "translation": "twelve",
+      "metadata": {},
+      "gematria": {
+        "standard": 834,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτῶν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "they",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "Ἱεροσόλυμα",
+      "lemma": [
+        "G2414"
+      ],
+      "strongs": "G2414",
+      "morph": "robinson:N-APN-L",
+      "translation": "Jerusalem",
+      "metadata": {},
+      "gematria": {
+        "standard": 926,
+        "ordinal": 123,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 9,
+      "text": "κατὰ",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "according to",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 31,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 10,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἔθος",
+      "lemma": [
+        "G1485"
+      ],
+      "strongs": "G1485",
+      "morph": "robinson:N-ASN",
+      "translation": "custom",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 12,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἑορτῆς",
+      "lemma": [
+        "G1859"
+      ],
+      "strongs": "G1859",
+      "morph": "robinson:N-GSF",
+      "translation": "Feast",
+      "metadata": {},
+      "gematria": {
+        "standard": 683,
+        "ordinal": 81,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7692,
+    "ordinal": 701,
+    "reduced": 269
+  }
+}

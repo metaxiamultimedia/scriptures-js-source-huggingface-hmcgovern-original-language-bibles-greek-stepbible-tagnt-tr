@@ -1,0 +1,228 @@
+{
+  "text": "ἦν δὲ Καϊάφας ὁ συμβουλεύσας τοῖς Ἰουδαίοις ὅτι συμφέρει ἕνα ἄνθρωπον ὑπὲρ τοῦ λαοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "Was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "Καϊάφας",
+      "lemma": null,
+      "morph": null,
+      "translation": "Caiaphas",
+      "metadata": {},
+      "gematria": {
+        "standard": 733,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "συμβουλεύσας",
+      "lemma": [
+        "G4823"
+      ],
+      "strongs": "G4823",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having given counsel",
+      "metadata": {},
+      "gematria": {
+        "standard": 1948,
+        "ordinal": 160,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ἰουδαίοις",
+      "lemma": [
+        "G2453"
+      ],
+      "strongs": "G2453",
+      "morph": "robinson:N-DPM-PG",
+      "translation": "Jews",
+      "metadata": {},
+      "gematria": {
+        "standard": 775,
+        "ordinal": 100,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "συμφέρει",
+      "lemma": [
+        "G4851"
+      ],
+      "strongs": "G4851",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "it is profitable",
+      "metadata": {},
+      "gematria": {
+        "standard": 1260,
+        "ordinal": 107,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἕνα",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-ASM",
+      "translation": "for one",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἄνθρωπον",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-ASM",
+      "translation": "man",
+      "metadata": {},
+      "gematria": {
+        "standard": 1160,
+        "ordinal": 107,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὑπὲρ",
+      "lemma": [
+        "G5228"
+      ],
+      "strongs": "G5228",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 585,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "λαοῦ.",
+      "lemma": [
+        "G2992"
+      ],
+      "strongs": "G2992",
+      "morph": "robinson:N-GSM",
+      "translation": "people.",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8885,
+    "ordinal": 861,
+    "reduced": 339
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "text": "καὶ ἤκουσα ὡς φωνὴν ὄχλου πολλοῦ καὶ ὡς φωνὴν ὑδάτων πολλῶν καὶ ὡς φωνὴν βροντῶν ἰσχυρῶν ἁλληλουϊά· ὅτι ἐβασίλευσεν κύριος ὁ θεὸς ὁ παντοκράτωρ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἤκουσα",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAI-1S",
+      "translation": "I heard",
+      "metadata": {},
+      "gematria": {
+        "standard": 699,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "[something] like",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "φωνὴν",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] voice",
+      "metadata": {},
+      "gematria": {
+        "standard": 1408,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὄχλου",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-GSM",
+      "translation": "of a multitude",
+      "metadata": {},
+      "gematria": {
+        "standard": 1170,
+        "ordinal": 83,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "πολλοῦ",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-GSM",
+      "translation": "great",
+      "metadata": {},
+      "gematria": {
+        "standard": 680,
+        "ordinal": 88,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "like",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "φωνὴν",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] sound",
+      "metadata": {},
+      "gematria": {
+        "standard": 1408,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὑδάτων",
+      "lemma": [
+        "G5204"
+      ],
+      "strongs": "G5204",
+      "morph": "robinson:N-GPN",
+      "translation": "of waters",
+      "metadata": {},
+      "gematria": {
+        "standard": 1555,
+        "ordinal": 81,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 11,
+      "text": "πολλῶν",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-GPN",
+      "translation": "many",
+      "metadata": {},
+      "gematria": {
+        "standard": 1060,
+        "ordinal": 90,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "like",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "φωνὴν",
+      "lemma": null,
+      "morph": null,
+      "translation": "a sound",
+      "metadata": {},
+      "gematria": {
+        "standard": 1408,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "βροντῶν",
+      "lemma": [
+        "G1027"
+      ],
+      "strongs": "G1027",
+      "morph": "robinson:N-GPF",
+      "translation": "of thunders",
+      "metadata": {},
+      "gematria": {
+        "standard": 1372,
+        "ordinal": 103,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἰσχυρῶν",
+      "lemma": [
+        "G2478"
+      ],
+      "strongs": "G2478",
+      "morph": "robinson:A-GPF",
+      "translation": "mighty",
+      "metadata": {},
+      "gematria": {
+        "standard": 2160,
+        "ordinal": 123,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἁλληλουϊά·",
+      "lemma": [
+        "G239"
+      ],
+      "strongs": "G239",
+      "morph": "robinson:PRT",
+      "translation": "Hallelujah!",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 18,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "For",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐβασίλευσεν",
+      "lemma": [
+        "G936"
+      ],
+      "strongs": "G936",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "has reigned",
+      "metadata": {},
+      "gematria": {
+        "standard": 908,
+        "ordinal": 107,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 20,
+      "text": "κύριος",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] Lord",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 21,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 22,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 23,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 24,
+      "text": "παντοκράτωρ.",
+      "lemma": [
+        "G3841"
+      ],
+      "strongs": "G3841",
+      "morph": "robinson:N-NSM-T",
+      "translation": "Almighty.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1822,
+        "ordinal": 152,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 20927,
+    "ordinal": 1612,
+    "reduced": 559
+  }
+}

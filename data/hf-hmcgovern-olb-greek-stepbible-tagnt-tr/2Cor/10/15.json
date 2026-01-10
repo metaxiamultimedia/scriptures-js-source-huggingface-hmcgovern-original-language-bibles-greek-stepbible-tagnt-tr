@@ -1,0 +1,391 @@
+{
+  "text": "οὐκ εἰς τὰ ἄμετρα καυχώμενοι ἐν ἀλλοτρίοις κόποις, ἐλπίδα δὲ ἔχοντες αὐξανομένης τῆς πίστεως ὑμῶν ἐν ὑμῖν μεγαλυνθῆναι κατὰ τὸν κανόνα ἡμῶν εἰς περισσείαν,",
+  "words": [
+    {
+      "position": 1,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the [things]",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἄμετρα",
+      "lemma": [
+        "G280"
+      ],
+      "strongs": "G280",
+      "morph": "robinson:A-APN",
+      "translation": "beyond measure",
+      "metadata": {},
+      "gematria": {
+        "standard": 447,
+        "ordinal": 55,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "καυχώμενοι",
+      "lemma": [
+        "G2744"
+      ],
+      "strongs": "G2744",
+      "morph": "robinson:V-PNP-NPM",
+      "translation": "boasting",
+      "metadata": {},
+      "gematria": {
+        "standard": 1996,
+        "ordinal": 131,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀλλοτρίοις",
+      "lemma": [
+        "G245"
+      ],
+      "strongs": "G245",
+      "morph": "robinson:A-DPM",
+      "translation": "others’",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 125,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 8,
+      "text": "κόποις,",
+      "lemma": [
+        "G2873"
+      ],
+      "strongs": "G2873",
+      "morph": "robinson:N-DPM",
+      "translation": "labors,",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐλπίδα",
+      "lemma": [
+        "G1680"
+      ],
+      "strongs": "G1680",
+      "morph": "robinson:N-ASF",
+      "translation": "hope",
+      "metadata": {},
+      "gematria": {
+        "standard": 130,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 10,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἔχοντες",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "having",
+      "metadata": {},
+      "gematria": {
+        "standard": 1230,
+        "ordinal": 97,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 12,
+      "text": "αὐξανομένης",
+      "lemma": [
+        "G837"
+      ],
+      "strongs": "G837",
+      "morph": "robinson:V-PPP-GSF",
+      "translation": "increasing",
+      "metadata": {},
+      "gematria": {
+        "standard": 885,
+        "ordinal": 119,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 13,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 14,
+      "text": "πίστεως",
+      "lemma": null,
+      "morph": null,
+      "translation": "faith",
+      "metadata": {},
+      "gematria": {
+        "standard": 1595,
+        "ordinal": 109,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὑμῶν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "among",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 18,
+      "text": "μεγαλυνθῆναι",
+      "lemma": [
+        "G3170"
+      ],
+      "strongs": "G3170",
+      "morph": "robinson:V-APN",
+      "translation": "to be enlarged",
+      "metadata": {},
+      "gematria": {
+        "standard": 607,
+        "ordinal": 103,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 19,
+      "text": "κατὰ",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "according to",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 31,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 20,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "κανόνα",
+      "lemma": [
+        "G2583"
+      ],
+      "strongs": "G2583",
+      "morph": "robinson:N-ASM",
+      "translation": "area",
+      "metadata": {},
+      "gematria": {
+        "standard": 192,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἡμῶν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GP",
+      "translation": "of us",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 23,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 24,
+      "text": "περισσείαν,",
+      "lemma": [
+        "G4050"
+      ],
+      "strongs": "G4050",
+      "morph": "robinson:N-ASF",
+      "translation": "excess,",
+      "metadata": {},
+      "gematria": {
+        "standard": 661,
+        "ordinal": 111,
+        "reduced": 66
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14292,
+    "ordinal": 1507,
+    "reduced": 607
+  }
+}

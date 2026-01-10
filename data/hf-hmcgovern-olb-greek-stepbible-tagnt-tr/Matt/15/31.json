@@ -1,0 +1,282 @@
+{
+  "text": "ὥστε θαυμάσαι βλέποντας κωφοὺς λαλοῦντας, κυλλοὺς ὑγιεῖς, χωλοὺς περιπατοῦντας, καὶ τυφλοὺς βλέποντας. καὶ ἐδόξασαν τὸν θεὸν Ἰσραήλ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὥστε",
+      "lemma": [
+        "G5620"
+      ],
+      "strongs": "G5620",
+      "morph": "robinson:CONJ",
+      "translation": "so that",
+      "metadata": {},
+      "gematria": {
+        "standard": 1305,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "θαυμάσαι",
+      "lemma": [
+        "G2296"
+      ],
+      "strongs": "G2296",
+      "morph": "robinson:V-AAN",
+      "translation": "to marvel",
+      "metadata": {},
+      "gematria": {
+        "standard": 662,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 3,
+      "text": "βλέποντας",
+      "lemma": [
+        "G991"
+      ],
+      "strongs": "G991",
+      "morph": "robinson:V-PAP-APM",
+      "translation": "seeing",
+      "metadata": {},
+      "gematria": {
+        "standard": 738,
+        "ordinal": 100,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 4,
+      "text": "κωφοὺς",
+      "lemma": [
+        "G2974"
+      ],
+      "strongs": "G2974",
+      "morph": "robinson:A-APM",
+      "translation": "mute",
+      "metadata": {},
+      "gematria": {
+        "standard": 1990,
+        "ordinal": 108,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 5,
+      "text": "λαλοῦντας,",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-PAP-APM",
+      "translation": "speaking,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1082,
+        "ordinal": 109,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "κυλλοὺς",
+      "lemma": [
+        "G2948"
+      ],
+      "strongs": "G2948",
+      "morph": "robinson:A-APM",
+      "translation": "crippled",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 105,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὑγιεῖς,",
+      "lemma": [
+        "G5199"
+      ],
+      "strongs": "G5199",
+      "morph": "robinson:A-APM",
+      "translation": "restored,",
+      "metadata": {},
+      "gematria": {
+        "standard": 628,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 8,
+      "text": "χωλοὺς",
+      "lemma": [
+        "G5560"
+      ],
+      "strongs": "G5560",
+      "morph": "robinson:A-APM",
+      "translation": "lame",
+      "metadata": {},
+      "gematria": {
+        "standard": 2100,
+        "ordinal": 110,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 9,
+      "text": "περιπατοῦντας,",
+      "lemma": [
+        "G4043"
+      ],
+      "strongs": "G4043",
+      "morph": "robinson:V-PAP-APM",
+      "translation": "walking,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1597,
+        "ordinal": 169,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "τυφλοὺς",
+      "lemma": [
+        "G5185"
+      ],
+      "strongs": "G5185",
+      "morph": "robinson:A-APM",
+      "translation": "blind",
+      "metadata": {},
+      "gematria": {
+        "standard": 1900,
+        "ordinal": 124,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 12,
+      "text": "βλέποντας.",
+      "lemma": [
+        "G991"
+      ],
+      "strongs": "G991",
+      "morph": "robinson:V-PAP-APM",
+      "translation": "seeing.",
+      "metadata": {},
+      "gematria": {
+        "standard": 738,
+        "ordinal": 100,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐδόξασαν",
+      "lemma": [
+        "G1392"
+      ],
+      "strongs": "G1392",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "they glorified",
+      "metadata": {},
+      "gematria": {
+        "standard": 391,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 15,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "θεὸν",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-ASM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 17,
+      "text": "Ἰσραήλ.",
+      "lemma": [
+        "G2474"
+      ],
+      "strongs": "G2474",
+      "morph": "robinson:N-GSM-L",
+      "translation": "of Israel.",
+      "metadata": {},
+      "gematria": {
+        "standard": 349,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15246,
+    "ordinal": 1387,
+    "reduced": 487
+  }
+}

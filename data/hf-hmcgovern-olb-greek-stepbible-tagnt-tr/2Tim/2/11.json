@@ -1,0 +1,135 @@
+{
+  "text": "Πιστὸς ὁ λόγος· εἰ γὰρ συναπεθάνομεν, καὶ συζήσομεν·",
+  "words": [
+    {
+      "position": 1,
+      "text": "Πιστὸς",
+      "lemma": [
+        "G4103"
+      ],
+      "strongs": "G4103",
+      "morph": "robinson:A-NSM",
+      "translation": "Trustworthy [is]",
+      "metadata": {},
+      "gematria": {
+        "standard": 860,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "λόγος·",
+      "lemma": [
+        "G3056"
+      ],
+      "strongs": "G3056",
+      "morph": "robinson:N-NSM",
+      "translation": "saying:",
+      "metadata": {},
+      "gematria": {
+        "standard": 373,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "συναπεθάνομεν,",
+      "lemma": [
+        "G4880"
+      ],
+      "strongs": "G4880",
+      "morph": "robinson:V-2AAI-1P",
+      "translation": "we have died with [Him],",
+      "metadata": {},
+      "gematria": {
+        "standard": 961,
+        "ordinal": 140,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "συζήσομεν·",
+      "lemma": [
+        "G4800"
+      ],
+      "strongs": "G4800",
+      "morph": "robinson:V-FAI-1P",
+      "translation": "we will live with [Him];",
+      "metadata": {},
+      "gematria": {
+        "standard": 980,
+        "ordinal": 114,
+        "reduced": 51
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3394,
+    "ordinal": 481,
+    "reduced": 220
+  }
+}

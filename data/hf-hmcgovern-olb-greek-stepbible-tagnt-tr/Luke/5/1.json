@@ -1,0 +1,362 @@
+{
+  "text": "Ἐγένετο δὲ ἐν τῷ τὸν ὄχλον ἐπικεῖσθαι αὐτῷ καὶ ἀκούειν τὸν λόγον τοῦ θεοῦ καὶ αὐτὸς ἦν ἑστὼς παρὰ τὴν λίμνην Γεννησαρὲτ",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "It came to pass",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὄχλον",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-ASM",
+      "translation": "crowd",
+      "metadata": {},
+      "gematria": {
+        "standard": 820,
+        "ordinal": 76,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐπικεῖσθαι",
+      "lemma": [
+        "G1945"
+      ],
+      "strongs": "G1945",
+      "morph": "robinson:V-PNN",
+      "translation": "pressing on",
+      "metadata": {},
+      "gematria": {
+        "standard": 350,
+        "ordinal": 90,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀκούειν",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-PAN",
+      "translation": "to hear",
+      "metadata": {},
+      "gematria": {
+        "standard": 556,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "λόγον",
+      "lemma": [
+        "G3056"
+      ],
+      "strongs": "G3056",
+      "morph": "robinson:N-ASM",
+      "translation": "word",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "αὐτὸς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NSM",
+      "translation": "He himself",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἑστὼς",
+      "lemma": [
+        "G2476"
+      ],
+      "strongs": "G2476",
+      "morph": "robinson:V-RAP-NSM",
+      "translation": "already standing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1505,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 19,
+      "text": "παρὰ",
+      "lemma": [
+        "G3844"
+      ],
+      "strongs": "G3844",
+      "morph": "robinson:PREP",
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 182,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 20,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 21,
+      "text": "λίμνην",
+      "lemma": [
+        "G3041"
+      ],
+      "strongs": "G3041",
+      "morph": "robinson:N-ASF",
+      "translation": "lake",
+      "metadata": {},
+      "gematria": {
+        "standard": 188,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 22,
+      "text": "Γεννησαρὲτ",
+      "lemma": [
+        "G1082"
+      ],
+      "strongs": "G1082",
+      "morph": "robinson:N-GSF-L",
+      "translation": "of Gennesaret",
+      "metadata": {},
+      "gematria": {
+        "standard": 722,
+        "ordinal": 101,
+        "reduced": 47
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11212,
+    "ordinal": 1166,
+    "reduced": 455
+  }
+}

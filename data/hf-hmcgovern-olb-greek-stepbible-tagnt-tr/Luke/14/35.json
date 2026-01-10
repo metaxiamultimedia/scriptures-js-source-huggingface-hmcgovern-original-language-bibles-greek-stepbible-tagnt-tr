@@ -1,0 +1,260 @@
+{
+  "text": "οὔτε εἰς γῆν οὔτε εἰς κοπρίαν εὔθετόν ἐστιν· ἔξω βάλλουσιν αὐτό. ὁ ἔχων ὦτα ἀκούειν ἀκουέτω.",
+  "words": [
+    {
+      "position": 1,
+      "text": "οὔτε",
+      "lemma": [
+        "G3777"
+      ],
+      "strongs": "G3777",
+      "morph": "robinson:CONJ-N",
+      "translation": "Neither [is it]",
+      "metadata": {},
+      "gematria": {
+        "standard": 775,
+        "ordinal": 59,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 3,
+      "text": "γῆν",
+      "lemma": null,
+      "morph": null,
+      "translation": "soil",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "οὔτε",
+      "lemma": [
+        "G3777"
+      ],
+      "strongs": "G3777",
+      "morph": "robinson:CONJ-N",
+      "translation": "nor",
+      "metadata": {},
+      "gematria": {
+        "standard": 775,
+        "ordinal": 59,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "κοπρίαν",
+      "lemma": [
+        "G2874"
+      ],
+      "strongs": "G2874",
+      "morph": "robinson:N-ASF",
+      "translation": "manure",
+      "metadata": {},
+      "gematria": {
+        "standard": 331,
+        "ordinal": 81,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 7,
+      "text": "εὔθετόν",
+      "lemma": [
+        "G2111"
+      ],
+      "strongs": "G2111",
+      "morph": "robinson:A-NSN",
+      "translation": "fit",
+      "metadata": {},
+      "gematria": {
+        "standard": 839,
+        "ordinal": 85,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐστιν·",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is it;",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἔξω",
+      "lemma": [
+        "G1854"
+      ],
+      "strongs": "G1854",
+      "morph": "robinson:PREP",
+      "translation": "out",
+      "metadata": {},
+      "gematria": {
+        "standard": 865,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "βάλλουσιν",
+      "lemma": null,
+      "morph": null,
+      "translation": "they cast",
+      "metadata": {},
+      "gematria": {
+        "standard": 793,
+        "ordinal": 100,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτό.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASN",
+      "translation": "it.",
+      "metadata": {},
+      "gematria": {
+        "standard": 771,
+        "ordinal": 55,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἔχων",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "having",
+      "metadata": {},
+      "gematria": {
+        "standard": 1455,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὦτα",
+      "lemma": [
+        "G3775"
+      ],
+      "strongs": "G3775",
+      "morph": "robinson:N-APN",
+      "translation": "ears",
+      "metadata": {},
+      "gematria": {
+        "standard": 1101,
+        "ordinal": 44,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀκούειν",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-PAN",
+      "translation": "to hear",
+      "metadata": {},
+      "gematria": {
+        "standard": 556,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἀκουέτω.",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-PAM-3S",
+      "translation": "he should hear.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1596,
+        "ordinal": 94,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10983,
+    "ordinal": 923,
+    "reduced": 329
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "text": "κἀγὼ δέ σοι λέγω ὅτι σὺ εἶ Πέτρος καὶ ἐπὶ ταύτῃ τῇ πέτρᾳ οἰκοδομήσω μου τὴν ἐκκλησίαν, καὶ πύλαι ᾅδου οὐ κατισχύσουσιν αὐτῆς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "κἀγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS + G2532=CONJ",
+      "translation": "I myself also",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "δέ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "σοι",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DS",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "λέγω",
+      "lemma": null,
+      "morph": null,
+      "translation": "say",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "σὺ",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NS",
+      "translation": "you yourself",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "εἶ",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-2S",
+      "translation": "are",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "Πέτρος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Peter",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "on",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "ταύτῃ",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-DSF",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1019,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 13,
+      "text": "πέτρᾳ",
+      "lemma": [
+        "G4073"
+      ],
+      "strongs": "G4073",
+      "morph": "robinson:N-DSF",
+      "translation": "rock",
+      "metadata": {},
+      "gematria": {
+        "standard": 496,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 14,
+      "text": "οἰκοδομήσω",
+      "lemma": [
+        "G3618"
+      ],
+      "strongs": "G3618",
+      "morph": "robinson:V-FAI-1S",
+      "translation": "I will build",
+      "metadata": {},
+      "gematria": {
+        "standard": 1292,
+        "ordinal": 129,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 15,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "My",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐκκλησίαν,",
+      "lemma": [
+        "G1577"
+      ],
+      "strongs": "G1577",
+      "morph": "robinson:N-ASF",
+      "translation": "church,",
+      "metadata": {},
+      "gematria": {
+        "standard": 344,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "πύλαι",
+      "lemma": [
+        "G4439"
+      ],
+      "strongs": "G4439",
+      "morph": "robinson:N-NPF",
+      "translation": "[the] gates",
+      "metadata": {},
+      "gematria": {
+        "standard": 521,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 20,
+      "text": "ᾅδου",
+      "lemma": [
+        "G86"
+      ],
+      "strongs": "G86",
+      "morph": "robinson:N-GSM-L",
+      "translation": "of hades",
+      "metadata": {},
+      "gematria": {
+        "standard": 485,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 21,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 22,
+      "text": "κατισχύσουσιν",
+      "lemma": [
+        "G2729"
+      ],
+      "strongs": "G2729",
+      "morph": "robinson:V-FAI-3P",
+      "translation": "will prevail against",
+      "metadata": {},
+      "gematria": {
+        "standard": 2461,
+        "ordinal": 192,
+        "reduced": 66
+      }
+    },
+    {
+      "position": 23,
+      "text": "αὐτῆς.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "it.",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13041,
+    "ordinal": 1261,
+    "reduced": 505
+  }
+}

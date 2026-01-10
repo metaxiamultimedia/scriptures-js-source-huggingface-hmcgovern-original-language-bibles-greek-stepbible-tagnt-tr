@@ -1,0 +1,151 @@
+{
+  "text": "εἰ οὖν με ἔχεις κοινωνόν, προσλαβοῦ αὐτὸν ὡς ἐμέ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "με",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "me",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἔχεις",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAI-2S",
+      "translation": "you consider",
+      "metadata": {},
+      "gematria": {
+        "standard": 820,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 5,
+      "text": "κοινωνόν,",
+      "lemma": [
+        "G2844"
+      ],
+      "strongs": "G2844",
+      "morph": "robinson:N-ASM",
+      "translation": "a partner,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1120,
+        "ordinal": 112,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 6,
+      "text": "προσλαβοῦ",
+      "lemma": [
+        "G4355"
+      ],
+      "strongs": "G4355",
+      "morph": "robinson:V-2AMM-2S",
+      "translation": "do yourself receive",
+      "metadata": {},
+      "gematria": {
+        "standard": 953,
+        "ordinal": 115,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 7,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐμέ.",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1AS",
+      "translation": "me myself.",
+      "metadata": {},
+      "gematria": {
+        "standard": 50,
+        "ordinal": 22,
+        "reduced": 13
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5344,
+    "ordinal": 497,
+    "reduced": 191
+  }
+}

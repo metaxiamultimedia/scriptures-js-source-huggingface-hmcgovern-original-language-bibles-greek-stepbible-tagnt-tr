@@ -1,0 +1,398 @@
+{
+  "text": "καὶ ἐβοήθησεν ἡ γῆ τῇ γυναικὶ καὶ ἤνοιξεν ἡ γῆ τὸ στόμα αὐτῆς καὶ κατέπιεν τὸν ποταμὸν ὃν ἔβαλεν ὁ δράκων ἐκ τοῦ στόματος αὐτοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐβοήθησεν",
+      "lemma": [
+        "G997"
+      ],
+      "strongs": "G997",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "gave help",
+      "metadata": {},
+      "gematria": {
+        "standard": 357,
+        "ordinal": 80,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "γῆ",
+      "lemma": null,
+      "morph": null,
+      "translation": "earth",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "γυναικὶ",
+      "lemma": null,
+      "morph": null,
+      "translation": "woman",
+      "metadata": {},
+      "gematria": {
+        "standard": 494,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἤνοιξεν",
+      "lemma": [
+        "G455"
+      ],
+      "strongs": "G455",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "opened",
+      "metadata": {},
+      "gematria": {
+        "standard": 253,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "γῆ",
+      "lemma": null,
+      "morph": null,
+      "translation": "earth",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 12,
+      "text": "στόμα",
+      "lemma": [
+        "G4750"
+      ],
+      "strongs": "G4750",
+      "morph": "robinson:N-ASN",
+      "translation": "mouth",
+      "metadata": {},
+      "gematria": {
+        "standard": 611,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτῆς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "of it",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "κατέπιεν",
+      "lemma": [
+        "G2666"
+      ],
+      "strongs": "G2666",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "swallowed up",
+      "metadata": {},
+      "gematria": {
+        "standard": 471,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 16,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "ποταμὸν",
+      "lemma": [
+        "G4215"
+      ],
+      "strongs": "G4215",
+      "morph": "robinson:N-ASM",
+      "translation": "river",
+      "metadata": {},
+      "gematria": {
+        "standard": 611,
+        "ordinal": 91,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 18,
+      "text": "ὃν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASM",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἔβαλεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "had cast",
+      "metadata": {},
+      "gematria": {
+        "standard": 93,
+        "ordinal": 37,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 20,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 21,
+      "text": "δράκων",
+      "lemma": [
+        "G1404"
+      ],
+      "strongs": "G1404",
+      "morph": "robinson:N-NSM",
+      "translation": "dragon",
+      "metadata": {},
+      "gematria": {
+        "standard": 975,
+        "ordinal": 69,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 23,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 24,
+      "text": "στόματος",
+      "lemma": [
+        "G4750"
+      ],
+      "strongs": "G4750",
+      "morph": "robinson:N-GSN",
+      "translation": "mouth",
+      "metadata": {},
+      "gematria": {
+        "standard": 1181,
+        "ordinal": 117,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 25,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9350,
+    "ordinal": 1140,
+    "reduced": 447
+  }
+}

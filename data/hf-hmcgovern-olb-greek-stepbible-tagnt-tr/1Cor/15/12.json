@@ -1,0 +1,286 @@
+{
+  "text": "Εἰ δὲ Χριστὸς κηρύσσεται ὅτι ἐκ νεκρῶν ἐγήγερται, πῶς λέγουσιν ἐν ὑμῖν τινες ὅτι ἀνάστασις νεκρῶν οὐκ ἔστιν;",
+  "words": [
+    {
+      "position": 1,
+      "text": "Εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "Χριστὸς",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-NSM-T",
+      "translation": "Christ",
+      "metadata": {},
+      "gematria": {
+        "standard": 1480,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 4,
+      "text": "κηρύσσεται",
+      "lemma": [
+        "G2784"
+      ],
+      "strongs": "G2784",
+      "morph": "robinson:V-PPI-3S",
+      "translation": "is preached",
+      "metadata": {},
+      "gematria": {
+        "standard": 1244,
+        "ordinal": 124,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out from",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "νεκρῶν",
+      "lemma": [
+        "G3498"
+      ],
+      "strongs": "G3498",
+      "morph": "robinson:A-GPM",
+      "translation": "[the] dead",
+      "metadata": {},
+      "gematria": {
+        "standard": 1025,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐγήγερται,",
+      "lemma": [
+        "G1453"
+      ],
+      "strongs": "G1453",
+      "morph": "robinson:V-RPI-3S",
+      "translation": "He has been raised,",
+      "metadata": {},
+      "gematria": {
+        "standard": 435,
+        "ordinal": 69,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 9,
+      "text": "πῶς",
+      "lemma": [
+        "G4459"
+      ],
+      "strongs": "G4459",
+      "morph": "robinson:PRT-I",
+      "translation": "how",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 10,
+      "text": "λέγουσιν",
+      "lemma": null,
+      "morph": null,
+      "translation": "say",
+      "metadata": {},
+      "gematria": {
+        "standard": 768,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "among",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 13,
+      "text": "τινες",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NPM",
+      "translation": "some",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀνάστασις",
+      "lemma": [
+        "G386"
+      ],
+      "strongs": "G386",
+      "morph": "robinson:N-NSF",
+      "translation": "a resurrection",
+      "metadata": {},
+      "gematria": {
+        "standard": 963,
+        "ordinal": 98,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 16,
+      "text": "νεκρῶν",
+      "lemma": [
+        "G3498"
+      ],
+      "strongs": "G3498",
+      "morph": "robinson:A-GPM",
+      "translation": "of [the] dead",
+      "metadata": {},
+      "gematria": {
+        "standard": 1025,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 17,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἔστιν;",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "there is?",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11004,
+    "ordinal": 1094,
+    "reduced": 455
+  }
+}

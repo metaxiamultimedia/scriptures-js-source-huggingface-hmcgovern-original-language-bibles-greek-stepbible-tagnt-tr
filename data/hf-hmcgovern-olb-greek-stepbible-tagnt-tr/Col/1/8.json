@@ -1,0 +1,151 @@
+{
+  "text": "ὁ καὶ δηλώσας ἡμῖν τὴν ὑμῶν ἀγάπην ἐν πνεύματι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "δηλώσας",
+      "lemma": [
+        "G1213"
+      ],
+      "strongs": "G1213",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having made known",
+      "metadata": {},
+      "gematria": {
+        "standard": 1243,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἡμῖν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DP",
+      "translation": "to us",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑμῶν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "your",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀγάπην",
+      "lemma": [
+        "G26"
+      ],
+      "strongs": "G26",
+      "morph": "robinson:N-ASF",
+      "translation": "love",
+      "metadata": {},
+      "gematria": {
+        "standard": 143,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "πνεύματι.",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] Spirit.",
+      "metadata": {},
+      "gematria": {
+        "standard": 886,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4184,
+    "ordinal": 421,
+    "reduced": 169
+  }
+}

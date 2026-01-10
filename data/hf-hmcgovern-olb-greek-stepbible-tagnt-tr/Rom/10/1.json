@@ -1,0 +1,282 @@
+{
+  "text": "Ἀδελφοί, ἡ μὲν εὐδοκία τῆς ἐμῆς καρδίας καὶ ἡ δέησις πρὸς τὸν θεὸν ὑπὲρ αὐτῶν εἰς σωτηρίαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἀδελφοί,",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-VPM",
+      "translation": "Brothers,",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "μὲν",
+      "lemma": [
+        "G3303"
+      ],
+      "strongs": "G3303",
+      "morph": "robinson:PRT",
+      "translation": "indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "εὐδοκία",
+      "lemma": [
+        "G2107"
+      ],
+      "strongs": "G2107",
+      "morph": "robinson:N-NSF",
+      "translation": "desire",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐμῆς",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:S-1SGSF",
+      "translation": "of my",
+      "metadata": {},
+      "gematria": {
+        "standard": 253,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "καρδίας",
+      "lemma": [
+        "G2588"
+      ],
+      "strongs": "G2588",
+      "morph": "robinson:N-GSF",
+      "translation": "heart",
+      "metadata": {},
+      "gematria": {
+        "standard": 336,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "δέησις",
+      "lemma": [
+        "G1162"
+      ],
+      "strongs": "G1162",
+      "morph": "robinson:N-NSF",
+      "translation": "supplication",
+      "metadata": {},
+      "gematria": {
+        "standard": 427,
+        "ordinal": 61,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 11,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "θεὸν",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-ASM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὑπὲρ",
+      "lemma": [
+        "G5228"
+      ],
+      "strongs": "G5228",
+      "morph": "robinson:PREP",
+      "translation": "on behalf",
+      "metadata": {},
+      "gematria": {
+        "standard": 585,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 15,
+      "text": "αὐτῶν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "of them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 17,
+      "text": "σωτηρίαν.",
+      "lemma": [
+        "G4991"
+      ],
+      "strongs": "G4991",
+      "morph": "robinson:N-ASF",
+      "translation": "salvation.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1469,
+        "ordinal": 108,
+        "reduced": 45
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7620,
+    "ordinal": 830,
+    "reduced": 380
+  }
+}

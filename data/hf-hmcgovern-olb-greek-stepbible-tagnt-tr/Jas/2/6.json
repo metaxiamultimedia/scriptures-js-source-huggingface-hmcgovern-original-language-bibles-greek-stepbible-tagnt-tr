@@ -1,0 +1,266 @@
+{
+  "text": "ὑμεῖς δὲ ἠτιμάσατε τὸν πτωχόν. οὐχ οἱ πλούσιοι καταδυναστεύουσιν ὑμῶν καὶ αὐτοὶ ἕλκουσιν ὑμᾶς εἰς κριτήρια;",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὑμεῖς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NP",
+      "translation": "You yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἠτιμάσατε",
+      "lemma": [
+        "G818"
+      ],
+      "strongs": "G818",
+      "morph": "robinson:V-AAI-2P",
+      "translation": "dishonored",
+      "metadata": {},
+      "gematria": {
+        "standard": 865,
+        "ordinal": 91,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "πτωχόν.",
+      "lemma": [
+        "G4434"
+      ],
+      "strongs": "G4434",
+      "morph": "robinson:N-ASM",
+      "translation": "poor.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1900,
+        "ordinal": 109,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὐχ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "Surely",
+      "metadata": {},
+      "gematria": {
+        "standard": 1070,
+        "ordinal": 57,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "πλούσιοι",
+      "lemma": [
+        "G4145"
+      ],
+      "strongs": "G4145",
+      "morph": "robinson:A-NPM",
+      "translation": "rich",
+      "metadata": {},
+      "gematria": {
+        "standard": 870,
+        "ordinal": 113,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 9,
+      "text": "καταδυναστεύουσιν",
+      "lemma": [
+        "G2616"
+      ],
+      "strongs": "G2616",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "are oppressing",
+      "metadata": {},
+      "gematria": {
+        "standard": 2412,
+        "ordinal": 206,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὑμῶν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "αὐτοὶ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NPM",
+      "translation": "they themselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἕλκουσιν",
+      "lemma": [
+        "G1670"
+      ],
+      "strongs": "G1670",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "dragging",
+      "metadata": {},
+      "gematria": {
+        "standard": 785,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 15,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "κριτήρια;",
+      "lemma": [
+        "G2922"
+      ],
+      "strongs": "G2922",
+      "morph": "robinson:N-APN",
+      "translation": "court?",
+      "metadata": {},
+      "gematria": {
+        "standard": 549,
+        "ordinal": 89,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12573,
+    "ordinal": 1146,
+    "reduced": 417
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "text": "καὶ ὁ πέμψας με μετ᾽ ἐμοῦ ἐστιν· οὐκ ἀφῆκέν με μόνον ὁ πατήρ, ὅτι ἐγὼ τὰ ἀρεστὰ αὐτῷ ποιῶ πάντοτε.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [One]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "πέμψας",
+      "lemma": [
+        "G3992"
+      ],
+      "strongs": "G3992",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having sent",
+      "metadata": {},
+      "gematria": {
+        "standard": 1026,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "με",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "Me",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "μετ᾽",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 345,
+        "ordinal": 36,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐμοῦ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:S-1SGSN",
+      "translation": "Me",
+      "metadata": {},
+      "gematria": {
+        "standard": 515,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐστιν·",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is;",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀφῆκέν",
+      "lemma": null,
+      "morph": null,
+      "translation": "He has left",
+      "metadata": {},
+      "gematria": {
+        "standard": 584,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 10,
+      "text": "με",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "Me",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 11,
+      "text": "μόνον",
+      "lemma": [
+        "G3441"
+      ],
+      "strongs": "G3441",
+      "morph": "robinson:A-ASM",
+      "translation": "alone",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "πατήρ,",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-NSM-T",
+      "translation": "Father",
+      "metadata": {},
+      "gematria": {
+        "standard": 489,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "because",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS",
+      "translation": "I myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the [things]",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀρεστὰ",
+      "lemma": [
+        "G701"
+      ],
+      "strongs": "G701",
+      "morph": "robinson:A-APN",
+      "translation": "pleasing",
+      "metadata": {},
+      "gematria": {
+        "standard": 607,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 18,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 19,
+      "text": "ποιῶ",
+      "lemma": null,
+      "morph": null,
+      "translation": "do",
+      "metadata": {},
+      "gematria": {
+        "standard": 960,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 20,
+      "text": "πάντοτε.",
+      "lemma": [
+        "G3842"
+      ],
+      "strongs": "G3842",
+      "morph": "robinson:ADV",
+      "translation": "always.",
+      "metadata": {},
+      "gematria": {
+        "standard": 806,
+        "ordinal": 88,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9928,
+    "ordinal": 922,
+    "reduced": 328
+  }
+}

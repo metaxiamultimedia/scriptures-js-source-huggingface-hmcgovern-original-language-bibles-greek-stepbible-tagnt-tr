@@ -1,0 +1,359 @@
+{
+  "text": "ἔλαβεν τοὺς ἄρτους ὁ Ἰησοῦς καὶ εὐχαριστήσας διέδωκεν τοῖς μαθηταῖς οἱ δὲ μαθηταὶ τοῖς ἀνακειμένοις, ὁμοίως καὶ ἐκ τῶν ὀψαρίων ὅσον ἤθελον.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἔλαβεν",
+      "lemma": [
+        "G2983"
+      ],
+      "strongs": "G2983",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "Took",
+      "metadata": {},
+      "gematria": {
+        "standard": 93,
+        "ordinal": 37,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 2,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἄρτους",
+      "lemma": [
+        "G740"
+      ],
+      "strongs": "G740",
+      "morph": "robinson:N-APM",
+      "translation": "loaves",
+      "metadata": {},
+      "gematria": {
+        "standard": 1071,
+        "ordinal": 90,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "εὐχαριστήσας",
+      "lemma": [
+        "G2168"
+      ],
+      "strongs": "G2168",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having given thanks",
+      "metadata": {},
+      "gematria": {
+        "standard": 2025,
+        "ordinal": 155,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 8,
+      "text": "διέδωκεν",
+      "lemma": [
+        "G1239"
+      ],
+      "strongs": "G1239",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "He distributed",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 9,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 10,
+      "text": "μαθηταῖς",
+      "lemma": [
+        "G3101"
+      ],
+      "strongs": "G3101",
+      "morph": "robinson:N-DPM",
+      "translation": "disciples",
+      "metadata": {},
+      "gematria": {
+        "standard": 569,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 11,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 12,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "μαθηταὶ",
+      "lemma": [
+        "G3101"
+      ],
+      "strongs": "G3101",
+      "morph": "robinson:N-NPM",
+      "translation": "the disciples",
+      "metadata": {},
+      "gematria": {
+        "standard": 369,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 14,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "to those",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀνακειμένοις,",
+      "lemma": [
+        "G345"
+      ],
+      "strongs": "G345",
+      "morph": "robinson:V-PNP-DPM",
+      "translation": "reclining,",
+      "metadata": {},
+      "gematria": {
+        "standard": 462,
+        "ordinal": 111,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὁμοίως",
+      "lemma": [
+        "G3668"
+      ],
+      "strongs": "G3668",
+      "morph": "robinson:ADV",
+      "translation": "likewise",
+      "metadata": {},
+      "gematria": {
+        "standard": 1190,
+        "ordinal": 93,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 17,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 19,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "ὀψαρίων",
+      "lemma": [
+        "G3795"
+      ],
+      "strongs": "G3795",
+      "morph": "robinson:N-GPN",
+      "translation": "fish",
+      "metadata": {},
+      "gematria": {
+        "standard": 1731,
+        "ordinal": 102,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 21,
+      "text": "ὅσον",
+      "lemma": [
+        "G3745"
+      ],
+      "strongs": "G3745",
+      "morph": "robinson:K-ASN",
+      "translation": "as much as",
+      "metadata": {},
+      "gematria": {
+        "standard": 390,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἤθελον.",
+      "lemma": [
+        "G2309"
+      ],
+      "strongs": "G2309",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "they were wishing.",
+      "metadata": {},
+      "gematria": {
+        "standard": 172,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13384,
+    "ordinal": 1354,
+    "reduced": 589
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "text": "ἀγρυπνεῖτε δὲ ἐν παντὶ καιρῷ δεόμενοι ἵνα κατισχύσητε ἐκφυγεῖν ταῦτα πάντα τὰ μέλλοντα γίνεσθαι καὶ σταθῆναι ἔμπροσθεν τοῦ υἱοῦ τοῦ ἀνθρώπου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀγρυπνεῖτε",
+      "lemma": [
+        "G69"
+      ],
+      "strongs": "G69",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do watch",
+      "metadata": {},
+      "gematria": {
+        "standard": 954,
+        "ordinal": 108,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "at",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "παντὶ",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-DSM",
+      "translation": "every",
+      "metadata": {},
+      "gematria": {
+        "standard": 441,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "καιρῷ",
+      "lemma": [
+        "G2540"
+      ],
+      "strongs": "G2540",
+      "morph": "robinson:N-DSM",
+      "translation": "season",
+      "metadata": {},
+      "gematria": {
+        "standard": 941,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 6,
+      "text": "δεόμενοι",
+      "lemma": [
+        "G1189"
+      ],
+      "strongs": "G1189",
+      "morph": "robinson:V-PNP-NPM",
+      "translation": "praying",
+      "metadata": {},
+      "gematria": {
+        "standard": 254,
+        "ordinal": 78,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "κατισχύσητε",
+      "lemma": [
+        "G2729"
+      ],
+      "strongs": "G2729",
+      "morph": "robinson:V-AAS-2P",
+      "translation": "you may have strength",
+      "metadata": {},
+      "gematria": {
+        "standard": 2044,
+        "ordinal": 148,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐκφυγεῖν",
+      "lemma": [
+        "G1628"
+      ],
+      "strongs": "G1628",
+      "morph": "robinson:V-2AAN",
+      "translation": "to escape",
+      "metadata": {},
+      "gematria": {
+        "standard": 993,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 10,
+      "text": "ταῦτα",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-APN",
+      "translation": "these things",
+      "metadata": {},
+      "gematria": {
+        "standard": 1002,
+        "ordinal": 60,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "πάντα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-APN",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 13,
+      "text": "μέλλοντα",
+      "lemma": [
+        "G3195"
+      ],
+      "strongs": "G3195",
+      "morph": "robinson:V-PAP-APN",
+      "translation": "are soon",
+      "metadata": {},
+      "gematria": {
+        "standard": 526,
+        "ordinal": 87,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 14,
+      "text": "γίνεσθαι",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-PNN",
+      "translation": "to come to pass",
+      "metadata": {},
+      "gematria": {
+        "standard": 288,
+        "ordinal": 66,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "σταθῆναι",
+      "lemma": [
+        "G2476"
+      ],
+      "strongs": "G2476",
+      "morph": "robinson:V-APN",
+      "translation": "to stand",
+      "metadata": {},
+      "gematria": {
+        "standard": 579,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἔμπροσθεν",
+      "lemma": [
+        "G1715"
+      ],
+      "strongs": "G1715",
+      "morph": "robinson:PREP",
+      "translation": "before",
+      "metadata": {},
+      "gematria": {
+        "standard": 559,
+        "ordinal": 109,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 18,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 19,
+      "text": "υἱοῦ",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-GSM-T",
+      "translation": "Son",
+      "metadata": {},
+      "gematria": {
+        "standard": 880,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 20,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἀνθρώπου.",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of Man.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1510,
+        "ordinal": 114,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13400,
+    "ordinal": 1372,
+    "reduced": 535
+  }
+}

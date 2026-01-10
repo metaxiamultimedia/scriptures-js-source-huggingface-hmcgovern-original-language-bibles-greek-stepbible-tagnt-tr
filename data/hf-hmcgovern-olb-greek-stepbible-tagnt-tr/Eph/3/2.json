@@ -1,0 +1,231 @@
+{
+  "text": "εἴ γε ἠκούσατε τὴν οἰκονομίαν τῆς χάριτος τοῦ θεοῦ τῆς δοθείσης μοι εἰς ὑμᾶς",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "γε",
+      "lemma": [
+        "G1065"
+      ],
+      "strongs": "G1065",
+      "morph": "robinson:PRT",
+      "translation": "indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 8,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἠκούσατε",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAI-2P",
+      "translation": "you have heard of",
+      "metadata": {},
+      "gematria": {
+        "standard": 1004,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "οἰκονομίαν",
+      "lemma": [
+        "G3622"
+      ],
+      "strongs": "G3622",
+      "morph": "robinson:N-ASF",
+      "translation": "administration",
+      "metadata": {},
+      "gematria": {
+        "standard": 391,
+        "ordinal": 112,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "χάριτος",
+      "lemma": [
+        "G5485"
+      ],
+      "strongs": "G5485",
+      "morph": "robinson:N-GSF",
+      "translation": "grace",
+      "metadata": {},
+      "gematria": {
+        "standard": 1281,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 10,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 11,
+      "text": "δοθείσης",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-APP-GSF",
+      "translation": "having been given",
+      "metadata": {},
+      "gematria": {
+        "standard": 506,
+        "ordinal": 84,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 12,
+      "text": "μοι",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DS",
+      "translation": "to me",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 13,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "toward",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6809,
+    "ordinal": 762,
+    "reduced": 330
+  }
+}

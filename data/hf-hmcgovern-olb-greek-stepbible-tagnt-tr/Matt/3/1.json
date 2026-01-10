@@ -1,0 +1,247 @@
+{
+  "text": "Ἐν δὲ ταῖς ἡμέραις ἐκείναις παραγίνεται Ἰωάννης ὁ βαπτιστὴς κηρύσσων ἐν τῇ ἐρήμῳ τῆς Ἰουδαίας",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "In",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ταῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἡμέραις",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-DPF",
+      "translation": "days",
+      "metadata": {},
+      "gematria": {
+        "standard": 364,
+        "ordinal": 69,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐκείναις",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-DPF",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 70,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 6,
+      "text": "παραγίνεται",
+      "lemma": [
+        "G3854"
+      ],
+      "strongs": "G3854",
+      "morph": "robinson:V-PNI-3S",
+      "translation": "comes",
+      "metadata": {},
+      "gematria": {
+        "standard": 561,
+        "ordinal": 94,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ἰωάννης",
+      "lemma": null,
+      "morph": null,
+      "translation": "John",
+      "metadata": {},
+      "gematria": {
+        "standard": 1119,
+        "ordinal": 85,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "βαπτιστὴς",
+      "lemma": [
+        "G910"
+      ],
+      "strongs": "G910",
+      "morph": "robinson:N-NSM",
+      "translation": "Baptist",
+      "metadata": {},
+      "gematria": {
+        "standard": 1101,
+        "ordinal": 109,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 10,
+      "text": "κηρύσσων",
+      "lemma": [
+        "G2784"
+      ],
+      "strongs": "G2784",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "preaching",
+      "metadata": {},
+      "gematria": {
+        "standard": 1778,
+        "ordinal": 127,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐρήμῳ",
+      "lemma": [
+        "G2048"
+      ],
+      "strongs": "G2048",
+      "morph": "robinson:A-DSF",
+      "translation": "wilderness",
+      "metadata": {},
+      "gematria": {
+        "standard": 963,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 14,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 15,
+      "text": "Ἰουδαίας",
+      "lemma": [
+        "G2449"
+      ],
+      "strongs": "G2449",
+      "morph": "robinson:N-GSF-L",
+      "translation": "of Judea",
+      "metadata": {},
+      "gematria": {
+        "standard": 696,
+        "ordinal": 77,
+        "reduced": 41
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8409,
+    "ordinal": 891,
+    "reduced": 432
+  }
+}

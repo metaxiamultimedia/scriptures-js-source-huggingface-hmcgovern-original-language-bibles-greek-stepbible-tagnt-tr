@@ -1,0 +1,295 @@
+{
+  "text": "Οὐαὶ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι ὑποκριταί, ὅτι οἰκοδομεῖτε τοὺς τάφους τῶν προφητῶν καὶ κοσμεῖτε τὰ μνημεῖα τῶν δικαίων",
+  "words": [
+    {
+      "position": 1,
+      "text": "Οὐαὶ",
+      "lemma": [
+        "G3759"
+      ],
+      "strongs": "G3759",
+      "morph": "robinson:INJ",
+      "translation": "Woe",
+      "metadata": {},
+      "gematria": {
+        "standard": 481,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὑμῖν,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "γραμματεῖς",
+      "lemma": [
+        "G1122"
+      ],
+      "strongs": "G1122",
+      "morph": "robinson:N-VPM",
+      "translation": "scribes",
+      "metadata": {},
+      "gematria": {
+        "standard": 700,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "Φαρισαῖοι",
+      "lemma": [
+        "G5330"
+      ],
+      "strongs": "G5330",
+      "morph": "robinson:N-VPM-T",
+      "translation": "Pharisees",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 100,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑποκριταί,",
+      "lemma": [
+        "G5273"
+      ],
+      "strongs": "G5273",
+      "morph": "robinson:N-VPM",
+      "translation": "hypocrites!",
+      "metadata": {},
+      "gematria": {
+        "standard": 991,
+        "ordinal": 116,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "For",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "οἰκοδομεῖτε",
+      "lemma": [
+        "G3618"
+      ],
+      "strongs": "G3618",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "you build",
+      "metadata": {},
+      "gematria": {
+        "standard": 604,
+        "ordinal": 118,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 9,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 10,
+      "text": "τάφους",
+      "lemma": [
+        "G5028"
+      ],
+      "strongs": "G5028",
+      "morph": "robinson:N-APM",
+      "translation": "tombs",
+      "metadata": {},
+      "gematria": {
+        "standard": 1471,
+        "ordinal": 94,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "προφητῶν",
+      "lemma": [
+        "G4396"
+      ],
+      "strongs": "G4396",
+      "morph": "robinson:N-GPM",
+      "translation": "prophets",
+      "metadata": {},
+      "gematria": {
+        "standard": 1908,
+        "ordinal": 132,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "κοσμεῖτε",
+      "lemma": [
+        "G2885"
+      ],
+      "strongs": "G2885",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "adorn",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 93,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 15,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 16,
+      "text": "μνημεῖα",
+      "lemma": [
+        "G3419"
+      ],
+      "strongs": "G3419",
+      "morph": "robinson:N-APN",
+      "translation": "monuments",
+      "metadata": {},
+      "gematria": {
+        "standard": 154,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 17,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "δικαίων",
+      "lemma": [
+        "G1342"
+      ],
+      "strongs": "G1342",
+      "morph": "robinson:A-GPM",
+      "translation": "righteous",
+      "metadata": {},
+      "gematria": {
+        "standard": 895,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13269,
+    "ordinal": 1265,
+    "reduced": 482
+  }
+}

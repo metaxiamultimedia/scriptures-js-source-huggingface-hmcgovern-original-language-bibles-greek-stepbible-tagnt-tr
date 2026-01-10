@@ -1,0 +1,148 @@
+{
+  "text": "καθὼς γέγραπται· τὸν Ἰακὼβ ἠγάπησα, τὸν δὲ Ἠσαῦ ἐμίσησα.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καθὼς",
+      "lemma": [
+        "G2531"
+      ],
+      "strongs": "G2531",
+      "morph": "robinson:CONJ",
+      "translation": "Even as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1030,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 2,
+      "text": "γέγραπται·",
+      "lemma": [
+        "G1125"
+      ],
+      "strongs": "G1125",
+      "morph": "robinson:V-RPI-3S",
+      "translation": "it has been written:",
+      "metadata": {},
+      "gematria": {
+        "standard": 503,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἰακὼβ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jacob",
+      "metadata": {},
+      "gematria": {
+        "standard": 833,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἠγάπησα,",
+      "lemma": [
+        "G25"
+      ],
+      "strongs": "G25",
+      "morph": "robinson:V-AAI-1S",
+      "translation": "I loved,",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 53,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "Ἠσαῦ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Esau",
+      "metadata": {},
+      "gematria": {
+        "standard": 609,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐμίσησα.",
+      "lemma": [
+        "G3404"
+      ],
+      "strongs": "G3404",
+      "morph": "robinson:V-AAI-1S",
+      "translation": "I hated.",
+      "metadata": {},
+      "gematria": {
+        "standard": 464,
+        "ordinal": 70,
+        "reduced": 43
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4589,
+    "ordinal": 453,
+    "reduced": 210
+  }
+}

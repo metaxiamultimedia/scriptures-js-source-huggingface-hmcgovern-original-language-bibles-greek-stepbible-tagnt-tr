@@ -1,0 +1,122 @@
+{
+  "text": "καὶ δώσω αὐτῷ τὸν ἀστέρα τὸν πρωϊνόν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "[28] And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "δώσω",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-FAI-1S",
+      "translation": "I will give",
+      "metadata": {},
+      "gematria": {
+        "standard": 1804,
+        "ordinal": 70,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀστέρα",
+      "lemma": [
+        "G792"
+      ],
+      "strongs": "G792",
+      "morph": "robinson:N-ASM",
+      "translation": "star",
+      "metadata": {},
+      "gematria": {
+        "standard": 607,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "πρωϊνόν.",
+      "lemma": [
+        "G4407"
+      ],
+      "strongs": "G4407",
+      "morph": "robinson:A-ASM",
+      "translation": "morning.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1160,
+        "ordinal": 107,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5953,
+    "ordinal": 425,
+    "reduced": 146
+  }
+}

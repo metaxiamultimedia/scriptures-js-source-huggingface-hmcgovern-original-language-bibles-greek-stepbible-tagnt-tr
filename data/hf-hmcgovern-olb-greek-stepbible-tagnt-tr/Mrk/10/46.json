@@ -1,0 +1,394 @@
+{
+  "text": "Καὶ ἔρχονται εἰς Ἰεριχώ. καὶ ἐκπορευομένου αὐτοῦ ἀπὸ Ἰεριχὼ καὶ τῶν μαθητῶν αὐτοῦ καὶ ὄχλου ἱκανοῦ υἱὸς Τιμαίου Βαρτιμαῖος, τυφλὸς ἐκάθητο παρὰ τὴν ὁδόν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἔρχονται",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-PNI-3P",
+      "translation": "they come",
+      "metadata": {},
+      "gematria": {
+        "standard": 1136,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 3,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἰεριχώ.",
+      "lemma": [
+        "G2410"
+      ],
+      "strongs": "G2410",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Jericho.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1525,
+        "ordinal": 86,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐκπορευομένου",
+      "lemma": [
+        "G1607"
+      ],
+      "strongs": "G1607",
+      "morph": "robinson:V-PNP-GSM",
+      "translation": "when was going out",
+      "metadata": {},
+      "gematria": {
+        "standard": 1315,
+        "ordinal": 168,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 7,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "He",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "Ἰεριχὼ",
+      "lemma": [
+        "G2410"
+      ],
+      "strongs": "G2410",
+      "morph": "robinson:N-GSF-L",
+      "translation": "Jericho —",
+      "metadata": {},
+      "gematria": {
+        "standard": 1525,
+        "ordinal": 86,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "μαθητῶν",
+      "lemma": [
+        "G3101"
+      ],
+      "strongs": "G3101",
+      "morph": "robinson:N-GPM",
+      "translation": "disciples",
+      "metadata": {},
+      "gematria": {
+        "standard": 1208,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὄχλου",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-GSM",
+      "translation": "a crowd",
+      "metadata": {},
+      "gematria": {
+        "standard": 1170,
+        "ordinal": 83,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἱκανοῦ",
+      "lemma": [
+        "G2425"
+      ],
+      "strongs": "G2425",
+      "morph": "robinson:A-GSM",
+      "translation": "large —",
+      "metadata": {},
+      "gematria": {
+        "standard": 551,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 17,
+      "text": "υἱὸς",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-NSM",
+      "translation": "son",
+      "metadata": {},
+      "gematria": {
+        "standard": 680,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 18,
+      "text": "Τιμαίου",
+      "lemma": [
+        "G5090"
+      ],
+      "strongs": "G5090",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of Timaeus",
+      "metadata": {},
+      "gematria": {
+        "standard": 831,
+        "ordinal": 85,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 19,
+      "text": "Βαρτιμαῖος,",
+      "lemma": [
+        "G924"
+      ],
+      "strongs": "G924",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Bartimaeus,",
+      "metadata": {},
+      "gematria": {
+        "standard": 734,
+        "ordinal": 103,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 20,
+      "text": "τυφλὸς",
+      "lemma": [
+        "G5185"
+      ],
+      "strongs": "G5185",
+      "morph": "robinson:A-NSM",
+      "translation": "blind",
+      "metadata": {},
+      "gematria": {
+        "standard": 1500,
+        "ordinal": 104,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἐκάθητο",
+      "lemma": [
+        "G2521"
+      ],
+      "strongs": "G2521",
+      "morph": "robinson:V-INI-3S",
+      "translation": "was sitting",
+      "metadata": {},
+      "gematria": {
+        "standard": 413,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 22,
+      "text": "παρὰ",
+      "lemma": [
+        "G3844"
+      ],
+      "strongs": "G3844",
+      "morph": "robinson:PREP",
+      "translation": "beside",
+      "metadata": {},
+      "gematria": {
+        "standard": 182,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 23,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 24,
+      "text": "ὁδόν.",
+      "lemma": [
+        "G3598"
+      ],
+      "strongs": "G3598",
+      "morph": "robinson:N-ASF",
+      "translation": "road.",
+      "metadata": {},
+      "gematria": {
+        "standard": 194,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 17304,
+    "ordinal": 1566,
+    "reduced": 576
+  }
+}

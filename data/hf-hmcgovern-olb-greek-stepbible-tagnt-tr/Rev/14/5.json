@@ -1,0 +1,234 @@
+{
+  "text": "καὶ ἐν τῷ στόματι αὐτῶν οὐχ εὑρέθη ἄμωμοί εἰσιν ἐνώπιον τοῦ θρόνου τοῦ θεοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "στόματι",
+      "lemma": [
+        "G4750"
+      ],
+      "strongs": "G4750",
+      "morph": "robinson:N-DSN",
+      "translation": "mouth",
+      "metadata": {},
+      "gematria": {
+        "standard": 921,
+        "ordinal": 93,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτῶν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "of them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὐχ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 1070,
+        "ordinal": 57,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "εὑρέθη",
+      "lemma": [
+        "G2147"
+      ],
+      "strongs": "G2147",
+      "morph": "robinson:V-API-3S",
+      "translation": "was found",
+      "metadata": {},
+      "gematria": {
+        "standard": 527,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἄμωμοί",
+      "lemma": [
+        "G299"
+      ],
+      "strongs": "G299",
+      "morph": "robinson:A-NPM",
+      "translation": "blameless",
+      "metadata": {},
+      "gematria": {
+        "standard": 961,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "εἰσιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "they are",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 54,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐνώπιον",
+      "lemma": [
+        "G1799"
+      ],
+      "strongs": "G1799",
+      "morph": "robinson:PREP",
+      "translation": "before",
+      "metadata": {},
+      "gematria": {
+        "standard": 1065,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "θρόνου",
+      "lemma": [
+        "G2362"
+      ],
+      "strongs": "G2362",
+      "morph": "robinson:N-GSM",
+      "translation": "throne",
+      "metadata": {},
+      "gematria": {
+        "standard": 699,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "θεοῦ.",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "God.",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10289,
+    "ordinal": 845,
+    "reduced": 305
+  }
+}

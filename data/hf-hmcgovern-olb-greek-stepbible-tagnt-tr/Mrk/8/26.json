@@ -1,0 +1,292 @@
+{
+  "text": "καὶ ἀπέστειλεν αὐτὸν εἰς οἶκον αὐτοῦ λέγων· μηδὲ εἰς τὴν κώμην εἰσέλθῃς μηδὲ εἴπῃς τινὶ ἐν τῇ κώμῃ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀπέστειλεν",
+      "lemma": [
+        "G649"
+      ],
+      "strongs": "G649",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "He sent",
+      "metadata": {},
+      "gematria": {
+        "standard": 686,
+        "ordinal": 102,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "οἶκον",
+      "lemma": null,
+      "morph": null,
+      "translation": "home",
+      "metadata": {},
+      "gematria": {
+        "standard": 220,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "λέγων·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "μηδὲ",
+      "lemma": [
+        "G3366"
+      ],
+      "strongs": "G3366",
+      "morph": "robinson:ADV-N",
+      "translation": "Not",
+      "metadata": {},
+      "gematria": {
+        "standard": 57,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
+      "text": "κώμην",
+      "lemma": [
+        "G2968"
+      ],
+      "strongs": "G2968",
+      "morph": "robinson:N-ASF",
+      "translation": "village",
+      "metadata": {},
+      "gematria": {
+        "standard": 918,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "εἰσέλθῃς",
+      "lemma": [
+        "G1525"
+      ],
+      "strongs": "G1525",
+      "morph": "robinson:V-2AAS-2S",
+      "translation": "shall you enter",
+      "metadata": {},
+      "gematria": {
+        "standard": 477,
+        "ordinal": 90,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 13,
+      "text": "μηδὲ",
+      "lemma": [
+        "G3366"
+      ],
+      "strongs": "G3366",
+      "morph": "robinson:CONJ-N",
+      "translation": "nor",
+      "metadata": {},
+      "gematria": {
+        "standard": 57,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 14,
+      "text": "εἴπῃς",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAS-2S",
+      "translation": "may you speak",
+      "metadata": {},
+      "gematria": {
+        "standard": 313,
+        "ordinal": 64,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 15,
+      "text": "τινὶ",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-DSM",
+      "translation": "to anyone",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 17,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "κώμῃ.",
+      "lemma": [
+        "G2968"
+      ],
+      "strongs": "G2968",
+      "morph": "robinson:N-DSF",
+      "translation": "village.",
+      "metadata": {},
+      "gematria": {
+        "standard": 878,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8048,
+    "ordinal": 927,
+    "reduced": 432
+  }
+}

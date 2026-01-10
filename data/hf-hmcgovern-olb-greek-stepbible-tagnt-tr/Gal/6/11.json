@@ -1,0 +1,135 @@
+{
+  "text": "Ἴδετε πηλίκοις ὑμῖν γράμμασιν ἔγραψα τῇ ἐμῇ χειρί.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἴδετε",
+      "lemma": null,
+      "morph": null,
+      "translation": "do see",
+      "metadata": {},
+      "gematria": {
+        "standard": 324,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "πηλίκοις",
+      "lemma": [
+        "G4080"
+      ],
+      "strongs": "G4080",
+      "morph": "robinson:A-DPN",
+      "translation": "in how large",
+      "metadata": {},
+      "gematria": {
+        "standard": 428,
+        "ordinal": 95,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "γράμμασιν",
+      "lemma": [
+        "G1121"
+      ],
+      "strongs": "G1121",
+      "morph": "robinson:N-DPN",
+      "translation": "letters",
+      "metadata": {},
+      "gematria": {
+        "standard": 445,
+        "ordinal": 86,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἔγραψα",
+      "lemma": [
+        "G1125"
+      ],
+      "strongs": "G1125",
+      "morph": "robinson:V-2AAI-1S",
+      "translation": "I have written",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐμῇ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:S-1SDSF",
+      "translation": "with my own",
+      "metadata": {},
+      "gematria": {
+        "standard": 63,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 8,
+      "text": "χειρί.",
+      "lemma": [
+        "G5495"
+      ],
+      "strongs": "G5495",
+      "morph": "robinson:N-DSF",
+      "translation": "hand.",
+      "metadata": {},
+      "gematria": {
+        "standard": 725,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3613,
+    "ordinal": 457,
+    "reduced": 232
+  }
+}

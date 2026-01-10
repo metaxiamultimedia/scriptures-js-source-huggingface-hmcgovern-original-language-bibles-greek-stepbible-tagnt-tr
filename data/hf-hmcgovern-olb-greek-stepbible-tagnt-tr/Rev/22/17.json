@@ -1,0 +1,308 @@
+{
+  "text": "καὶ τὸ πνεῦμα καὶ ἡ νύμφη λέγουσιν· καὶ ὁ ἀκούων εἰπάτω· καὶ ὁ διψῶν ὁ θέλων ὕδωρ ζωῆς δωρεάν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "πνεῦμα",
+      "lemma": null,
+      "morph": null,
+      "translation": "Spirit",
+      "metadata": {},
+      "gematria": {
+        "standard": 576,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "νύμφη",
+      "lemma": [
+        "G3565"
+      ],
+      "strongs": "G3565",
+      "morph": "robinson:N-NSF",
+      "translation": "bride",
+      "metadata": {},
+      "gematria": {
+        "standard": 998,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "λέγουσιν·",
+      "lemma": null,
+      "morph": null,
+      "translation": "say;",
+      "metadata": {},
+      "gematria": {
+        "standard": 768,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀκούων",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "hearing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1341,
+        "ordinal": 83,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 11,
+      "text": "εἰπάτω·",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAM-3S",
+      "translation": "he should say;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1196,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 14,
+      "text": "διψῶν",
+      "lemma": [
+        "G1372"
+      ],
+      "strongs": "G1372",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "thirsting",
+      "metadata": {},
+      "gematria": {
+        "standard": 1564,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 16,
+      "text": "θέλων",
+      "lemma": [
+        "G2309"
+      ],
+      "strongs": "G2309",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "desiring",
+      "metadata": {},
+      "gematria": {
+        "standard": 894,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὕδωρ",
+      "lemma": [
+        "G5204"
+      ],
+      "strongs": "G5204",
+      "morph": "robinson:N-ASN",
+      "translation": "water",
+      "metadata": {},
+      "gematria": {
+        "standard": 1304,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 18,
+      "text": "ζωῆς",
+      "lemma": [
+        "G2222"
+      ],
+      "strongs": "G2222",
+      "morph": "robinson:N-GSF",
+      "translation": "of life",
+      "metadata": {},
+      "gematria": {
+        "standard": 1015,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 19,
+      "text": "δωρεάν.",
+      "lemma": [
+        "G1432"
+      ],
+      "strongs": "G1432",
+      "morph": "robinson:ADV",
+      "translation": "freely.",
+      "metadata": {},
+      "gematria": {
+        "standard": 960,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11328,
+    "ordinal": 875,
+    "reduced": 335
+  }
+}

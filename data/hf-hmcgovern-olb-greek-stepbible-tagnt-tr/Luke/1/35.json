@@ -1,0 +1,379 @@
+{
+  "text": "Καὶ ἀποκριθεὶς ὁ ἄγγελος εἶπεν αὐτῇ· πνεῦμα ἅγιον ἐπελεύσεται ἐπὶ σὲ καὶ δύναμις ὑψίστου ἐπισκιάσει σοι· διὸ καὶ τὸ γεννώμενον ἅγιον κληθήσεται υἱὸς θεοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀποκριθεὶς",
+      "lemma": [
+        "G611"
+      ],
+      "strongs": "G611",
+      "morph": "robinson:V-AOP-NSM",
+      "translation": "answering",
+      "metadata": {},
+      "gematria": {
+        "standard": 505,
+        "ordinal": 108,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἄγγελος",
+      "lemma": null,
+      "morph": null,
+      "translation": "angel",
+      "metadata": {},
+      "gematria": {
+        "standard": 312,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "said",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτῇ·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSF",
+      "translation": "to her;",
+      "metadata": {},
+      "gematria": {
+        "standard": 719,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "πνεῦμα",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] Spirit",
+      "metadata": {},
+      "gematria": {
+        "standard": 576,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἅγιον",
+      "lemma": null,
+      "morph": null,
+      "translation": "Holy",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐπελεύσεται",
+      "lemma": [
+        "G1904"
+      ],
+      "strongs": "G1904",
+      "morph": "robinson:V-FDI-3S",
+      "translation": "will come",
+      "metadata": {},
+      "gematria": {
+        "standard": 1041,
+        "ordinal": 114,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "upon",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "σὲ",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AS",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 205,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "δύναμις",
+      "lemma": [
+        "G1411"
+      ],
+      "strongs": "G1411",
+      "morph": "robinson:N-NSF",
+      "translation": "power",
+      "metadata": {},
+      "gematria": {
+        "standard": 705,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὑψίστου",
+      "lemma": [
+        "G5310"
+      ],
+      "strongs": "G5310",
+      "morph": "robinson:A-GSM-S",
+      "translation": "of [the] Most High",
+      "metadata": {},
+      "gematria": {
+        "standard": 2080,
+        "ordinal": 124,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐπισκιάσει",
+      "lemma": [
+        "G1982"
+      ],
+      "strongs": "G1982",
+      "morph": "robinson:V-FAI-3S",
+      "translation": "will overshadow",
+      "metadata": {},
+      "gematria": {
+        "standard": 541,
+        "ordinal": 100,
+        "reduced": 64
+      }
+    },
+    {
+      "position": 16,
+      "text": "σοι·",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DS",
+      "translation": "you;",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 17,
+      "text": "διὸ",
+      "lemma": [
+        "G1352"
+      ],
+      "strongs": "G1352",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 84,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 20,
+      "text": "γεννώμενον",
+      "lemma": [
+        "G1080"
+      ],
+      "strongs": "G1080",
+      "morph": "robinson:V-PPP-NSN",
+      "translation": "being born",
+      "metadata": {},
+      "gematria": {
+        "standard": 1123,
+        "ordinal": 116,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἅγιον",
+      "lemma": null,
+      "morph": null,
+      "translation": "Holy [One]",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 22,
+      "text": "κληθήσεται",
+      "lemma": null,
+      "morph": null,
+      "translation": "will be called",
+      "metadata": {},
+      "gematria": {
+        "standard": 591,
+        "ordinal": 95,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 23,
+      "text": "υἱὸς",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-NSM",
+      "translation": "[the] Son",
+      "metadata": {},
+      "gematria": {
+        "standard": 680,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 24,
+      "text": "θεοῦ.",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God.",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10972,
+    "ordinal": 1385,
+    "reduced": 656
+  }
+}

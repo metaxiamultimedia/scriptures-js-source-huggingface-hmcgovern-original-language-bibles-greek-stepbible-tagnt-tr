@@ -1,0 +1,427 @@
+{
+  "text": "Καὶ εἶδον ἄλλον ἄγγελον ἀπὸ ἀνατολῆς ἡλίου ἔχοντα σφραγῖδα θεοῦ ζῶντος. καὶ ἔκραξεν φωνῇ μεγάλῃ τοῖς τέσσαρσιν ἀγγέλοις οἷς ἐδόθη αὐτοῖς ἀδικῆσαι τὴν γῆν καὶ τὴν θάλασσαν",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἶδον",
+      "lemma": null,
+      "morph": null,
+      "translation": "I saw",
+      "metadata": {},
+      "gematria": {
+        "standard": 139,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἄλλον",
+      "lemma": [
+        "G243"
+      ],
+      "strongs": "G243",
+      "morph": "robinson:A-ASM",
+      "translation": "another",
+      "metadata": {},
+      "gematria": {
+        "standard": 181,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἄγγελον",
+      "lemma": null,
+      "morph": null,
+      "translation": "angel",
+      "metadata": {},
+      "gematria": {
+        "standard": 162,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀνατολῆς",
+      "lemma": [
+        "G395"
+      ],
+      "strongs": "G395",
+      "morph": "robinson:N-GSF",
+      "translation": "[the] rising",
+      "metadata": {},
+      "gematria": {
+        "standard": 660,
+        "ordinal": 85,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἡλίου",
+      "lemma": [
+        "G2246"
+      ],
+      "strongs": "G2246",
+      "morph": "robinson:N-GSM",
+      "translation": "of [the] sun",
+      "metadata": {},
+      "gematria": {
+        "standard": 518,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἔχοντα",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAP-ASM",
+      "translation": "having",
+      "metadata": {},
+      "gematria": {
+        "standard": 1026,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 9,
+      "text": "σφραγῖδα",
+      "lemma": [
+        "G4973"
+      ],
+      "strongs": "G4973",
+      "morph": "robinson:N-ASF",
+      "translation": "[the] seal",
+      "metadata": {},
+      "gematria": {
+        "standard": 819,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 10,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "ζῶντος.",
+      "lemma": [
+        "G2198"
+      ],
+      "strongs": "G2198",
+      "morph": "robinson:V-PAP-GSM",
+      "translation": "[the] living.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1427,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἔκραξεν",
+      "lemma": [
+        "G2896"
+      ],
+      "strongs": "G2896",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he cried",
+      "metadata": {},
+      "gematria": {
+        "standard": 241,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 14,
+      "text": "φωνῇ",
+      "lemma": null,
+      "morph": null,
+      "translation": "in a voice",
+      "metadata": {},
+      "gematria": {
+        "standard": 1368,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 15,
+      "text": "μεγάλῃ",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-DSF",
+      "translation": "loud",
+      "metadata": {},
+      "gematria": {
+        "standard": 97,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 16,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 17,
+      "text": "τέσσαρσιν",
+      "lemma": [
+        "G5064"
+      ],
+      "strongs": "G5064",
+      "morph": "robinson:A-DPM",
+      "translation": "four",
+      "metadata": {},
+      "gematria": {
+        "standard": 1066,
+        "ordinal": 118,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἀγγέλοις",
+      "lemma": null,
+      "morph": null,
+      "translation": "angels",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 65,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 19,
+      "text": "οἷς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-DPM",
+      "translation": "to whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐδόθη",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-API-3S",
+      "translation": "it had been given",
+      "metadata": {},
+      "gematria": {
+        "standard": 96,
+        "ordinal": 39,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 21,
+      "text": "αὐτοῖς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἀδικῆσαι",
+      "lemma": [
+        "G91"
+      ],
+      "strongs": "G91",
+      "morph": "robinson:V-AAN",
+      "translation": "to harm",
+      "metadata": {},
+      "gematria": {
+        "standard": 254,
+        "ordinal": 59,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 23,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 24,
+      "text": "γῆν",
+      "lemma": null,
+      "morph": null,
+      "translation": "earth",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 25,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 26,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 27,
+      "text": "θάλασσαν",
+      "lemma": [
+        "G2281"
+      ],
+      "strongs": "G2281",
+      "morph": "robinson:N-ASF",
+      "translation": "sea",
+      "metadata": {},
+      "gematria": {
+        "standard": 492,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12214,
+    "ordinal": 1504,
+    "reduced": 685
+  }
+}

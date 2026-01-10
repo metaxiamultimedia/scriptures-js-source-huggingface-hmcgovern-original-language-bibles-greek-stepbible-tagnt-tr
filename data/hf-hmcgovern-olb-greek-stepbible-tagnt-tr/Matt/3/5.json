@@ -1,0 +1,250 @@
+{
+  "text": "Τότε ἐξεπορεύετο πρὸς αὐτὸν Ἱεροσόλυμα καὶ πᾶσα ἡ Ἰουδαία καὶ πᾶσα ἡ περίχωρος τοῦ Ἰορδάνου,",
+  "words": [
+    {
+      "position": 1,
+      "text": "Τότε",
+      "lemma": [
+        "G5119"
+      ],
+      "strongs": "G5119",
+      "morph": "robinson:ADV",
+      "translation": "At that time",
+      "metadata": {},
+      "gematria": {
+        "standard": 675,
+        "ordinal": 58,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐξεπορεύετο",
+      "lemma": [
+        "G1607"
+      ],
+      "strongs": "G1607",
+      "morph": "robinson:V-INI-3S",
+      "translation": "were going out",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 136,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 3,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "Ἱεροσόλυμα",
+      "lemma": [
+        "G2414"
+      ],
+      "strongs": "G2414",
+      "morph": "robinson:N-NPN-L",
+      "translation": "Jerusalem",
+      "metadata": {},
+      "gematria": {
+        "standard": 926,
+        "ordinal": 123,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "πᾶσα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NSF",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "Ἰουδαία",
+      "lemma": [
+        "G2449"
+      ],
+      "strongs": "G2449",
+      "morph": "robinson:N-NSF-L",
+      "translation": "Judea",
+      "metadata": {},
+      "gematria": {
+        "standard": 496,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "πᾶσα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NSF",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 13,
+      "text": "περίχωρος",
+      "lemma": [
+        "G4066"
+      ],
+      "strongs": "G4066",
+      "morph": "robinson:N-NSF",
+      "translation": "region around",
+      "metadata": {},
+      "gematria": {
+        "standard": 1965,
+        "ordinal": 143,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 14,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "Ἰορδάνου,",
+      "lemma": [
+        "G2446"
+      ],
+      "strongs": "G2446",
+      "morph": "robinson:N-GSM-L",
+      "translation": "Jordan,",
+      "metadata": {},
+      "gematria": {
+        "standard": 705,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8550,
+    "ordinal": 927,
+    "reduced": 378
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "text": "ἀπὸ ἀνατολῆς πυλῶνες τρεῖς, ἀπὸ βορρᾶ πυλῶνες τρεῖς, ἀπὸ νότου πυλῶνες τρεῖς, καὶ ἀπὸ δυσμῶν πυλῶνες τρεῖς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "On",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀνατολῆς",
+      "lemma": [
+        "G395"
+      ],
+      "strongs": "G395",
+      "morph": "robinson:N-GSF",
+      "translation": "[the] east",
+      "metadata": {},
+      "gematria": {
+        "standard": 660,
+        "ordinal": 85,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 3,
+      "text": "πυλῶνες",
+      "lemma": [
+        "G4440"
+      ],
+      "strongs": "G4440",
+      "morph": "robinson:N-NPM",
+      "translation": "[were] gates",
+      "metadata": {},
+      "gematria": {
+        "standard": 1565,
+        "ordinal": 107,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 4,
+      "text": "τρεῖς,",
+      "lemma": [
+        "G5140"
+      ],
+      "strongs": "G5140",
+      "morph": "robinson:A-NPM",
+      "translation": "three,",
+      "metadata": {},
+      "gematria": {
+        "standard": 615,
+        "ordinal": 68,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "on",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "βορρᾶ",
+      "lemma": [
+        "G1005"
+      ],
+      "strongs": "G1005",
+      "morph": "robinson:N-GSM",
+      "translation": "[the] north",
+      "metadata": {},
+      "gematria": {
+        "standard": 273,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "πυλῶνες",
+      "lemma": [
+        "G4440"
+      ],
+      "strongs": "G4440",
+      "morph": "robinson:N-NPM",
+      "translation": "gates",
+      "metadata": {},
+      "gematria": {
+        "standard": 1565,
+        "ordinal": 107,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "τρεῖς,",
+      "lemma": [
+        "G5140"
+      ],
+      "strongs": "G5140",
+      "morph": "robinson:A-NPM",
+      "translation": "three,",
+      "metadata": {},
+      "gematria": {
+        "standard": 615,
+        "ordinal": 68,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "on",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "νότου",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] south",
+      "metadata": {},
+      "gematria": {
+        "standard": 890,
+        "ordinal": 82,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 11,
+      "text": "πυλῶνες",
+      "lemma": [
+        "G4440"
+      ],
+      "strongs": "G4440",
+      "morph": "robinson:N-NPM",
+      "translation": "gates",
+      "metadata": {},
+      "gematria": {
+        "standard": 1565,
+        "ordinal": 107,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 12,
+      "text": "τρεῖς,",
+      "lemma": [
+        "G5140"
+      ],
+      "strongs": "G5140",
+      "morph": "robinson:A-NPM",
+      "translation": "three,",
+      "metadata": {},
+      "gematria": {
+        "standard": 615,
+        "ordinal": 68,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "on",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 15,
+      "text": "δυσμῶν",
+      "lemma": [
+        "G1424"
+      ],
+      "strongs": "G1424",
+      "morph": "robinson:N-GPF",
+      "translation": "[the] west",
+      "metadata": {},
+      "gematria": {
+        "standard": 1494,
+        "ordinal": 91,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 16,
+      "text": "πυλῶνες",
+      "lemma": [
+        "G4440"
+      ],
+      "strongs": "G4440",
+      "morph": "robinson:N-NPM",
+      "translation": "gates",
+      "metadata": {},
+      "gematria": {
+        "standard": 1565,
+        "ordinal": 107,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 17,
+      "text": "τρεῖς.",
+      "lemma": [
+        "G5140"
+      ],
+      "strongs": "G5140",
+      "morph": "robinson:A-NPM",
+      "translation": "three.",
+      "metadata": {},
+      "gematria": {
+        "standard": 615,
+        "ordinal": 68,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12672,
+    "ordinal": 1158,
+    "reduced": 438
+  }
+}

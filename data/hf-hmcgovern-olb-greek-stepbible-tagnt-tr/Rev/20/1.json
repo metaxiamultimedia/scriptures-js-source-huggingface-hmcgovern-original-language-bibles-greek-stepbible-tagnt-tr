@@ -1,0 +1,308 @@
+{
+  "text": "Καὶ εἶδον ἄγγελον καταβαίνοντα ἐκ τοῦ οὐρανοῦ ἔχοντα τὴν κλεῖν τῆς ἀβύσσου καὶ ἅλυσιν μεγάλην ἐπὶ τὴν χεῖρα αὐτοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἶδον",
+      "lemma": null,
+      "morph": null,
+      "translation": "I saw",
+      "metadata": {},
+      "gematria": {
+        "standard": 139,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἄγγελον",
+      "lemma": null,
+      "morph": null,
+      "translation": "an angel",
+      "metadata": {},
+      "gematria": {
+        "standard": 162,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "καταβαίνοντα",
+      "lemma": [
+        "G2597"
+      ],
+      "strongs": "G2597",
+      "morph": "robinson:V-PAP-ASM",
+      "translation": "descending",
+      "metadata": {},
+      "gematria": {
+        "standard": 806,
+        "ordinal": 104,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "οὐρανοῦ",
+      "lemma": [
+        "G3772"
+      ],
+      "strongs": "G3772",
+      "morph": "robinson:N-GSM",
+      "translation": "heaven",
+      "metadata": {},
+      "gematria": {
+        "standard": 1091,
+        "ordinal": 101,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἔχοντα",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAP-ASM",
+      "translation": "holding",
+      "metadata": {},
+      "gematria": {
+        "standard": 1026,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 9,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "κλεῖν",
+      "lemma": [
+        "G2807"
+      ],
+      "strongs": "G2807",
+      "morph": "robinson:N-ASF",
+      "translation": "key",
+      "metadata": {},
+      "gematria": {
+        "standard": 115,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀβύσσου",
+      "lemma": [
+        "G12"
+      ],
+      "strongs": "G12",
+      "morph": "robinson:N-GSF",
+      "translation": "Abyss",
+      "metadata": {},
+      "gematria": {
+        "standard": 1273,
+        "ordinal": 94,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἅλυσιν",
+      "lemma": [
+        "G254"
+      ],
+      "strongs": "G254",
+      "morph": "robinson:N-ASF",
+      "translation": "a chain",
+      "metadata": {},
+      "gematria": {
+        "standard": 691,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 15,
+      "text": "μεγάλην",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-ASF",
+      "translation": "great",
+      "metadata": {},
+      "gematria": {
+        "standard": 137,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 17,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 18,
+      "text": "χεῖρα",
+      "lemma": [
+        "G5495"
+      ],
+      "strongs": "G5495",
+      "morph": "robinson:N-ASF",
+      "translation": "hand",
+      "metadata": {},
+      "gematria": {
+        "standard": 716,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 19,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9503,
+    "ordinal": 1033,
+    "reduced": 376
+  }
+}

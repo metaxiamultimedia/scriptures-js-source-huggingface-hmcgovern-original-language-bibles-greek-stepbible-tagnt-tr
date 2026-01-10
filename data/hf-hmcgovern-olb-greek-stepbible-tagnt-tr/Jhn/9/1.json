@@ -1,0 +1,119 @@
+{
+  "text": "Καὶ παράγων εἶδεν ἄνθρωπον τυφλὸν ἐκ γενετῆς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "παράγων",
+      "lemma": [
+        "G3855"
+      ],
+      "strongs": "G3855",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "passing by",
+      "metadata": {},
+      "gematria": {
+        "standard": 1035,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "εἶδεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "He saw",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἄνθρωπον",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-ASM",
+      "translation": "a man",
+      "metadata": {},
+      "gematria": {
+        "standard": 1160,
+        "ordinal": 107,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 5,
+      "text": "τυφλὸν",
+      "lemma": [
+        "G5185"
+      ],
+      "strongs": "G5185",
+      "morph": "robinson:A-ASM",
+      "translation": "blind",
+      "metadata": {},
+      "gematria": {
+        "standard": 1350,
+        "ordinal": 99,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "γενετῆς.",
+      "lemma": [
+        "G1079"
+      ],
+      "strongs": "G1079",
+      "morph": "robinson:N-GSF",
+      "translation": "birth.",
+      "metadata": {},
+      "gematria": {
+        "standard": 571,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4246,
+    "ordinal": 422,
+    "reduced": 170
+  }
+}

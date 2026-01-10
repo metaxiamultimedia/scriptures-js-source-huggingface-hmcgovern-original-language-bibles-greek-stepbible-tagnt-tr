@@ -1,0 +1,337 @@
+{
+  "text": "Καὶ γενομένης ἡμέρας εὐκαίρου ὅτε Ἡρῴδης τοῖς γενεσίοις αὐτοῦ δεῖπνον τοῖς μεγιστᾶσιν αὐτοῦ καὶ τοῖς χιλιάρχοις καὶ τοῖς πρώτοις τῆς Γαλιλαίας",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "γενομένης",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADP-GSF",
+      "translation": "when was coming",
+      "metadata": {},
+      "gematria": {
+        "standard": 431,
+        "ordinal": 91,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἡμέρας",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-GSF",
+      "translation": "[a] day",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "εὐκαίρου",
+      "lemma": [
+        "G2121"
+      ],
+      "strongs": "G2121",
+      "morph": "robinson:A-GSF",
+      "translation": "opportune",
+      "metadata": {},
+      "gematria": {
+        "standard": 1006,
+        "ordinal": 97,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὅτε",
+      "lemma": [
+        "G3753"
+      ],
+      "strongs": "G3753",
+      "morph": "robinson:PREP",
+      "translation": "when",
+      "metadata": {},
+      "gematria": {
+        "standard": 375,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "Ἡρῴδης",
+      "lemma": null,
+      "morph": null,
+      "translation": "Herod",
+      "metadata": {},
+      "gematria": {
+        "standard": 1130,
+        "ordinal": 86,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 7,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPN",
+      "translation": "on the",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "γενεσίοις",
+      "lemma": [
+        "G1077"
+      ],
+      "strongs": "G1077",
+      "morph": "robinson:N-DPN",
+      "translation": "birthday",
+      "metadata": {},
+      "gematria": {
+        "standard": 553,
+        "ordinal": 95,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 9,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "δεῖπνον",
+      "lemma": [
+        "G1173"
+      ],
+      "strongs": "G1173",
+      "morph": "robinson:N-ASN",
+      "translation": "a banquet",
+      "metadata": {},
+      "gematria": {
+        "standard": 269,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "for the",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 12,
+      "text": "μεγιστᾶσιν",
+      "lemma": [
+        "G3175"
+      ],
+      "strongs": "G3175",
+      "morph": "robinson:N-DPM",
+      "translation": "great men",
+      "metadata": {},
+      "gematria": {
+        "standard": 819,
+        "ordinal": 107,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "for the",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 16,
+      "text": "χιλιάρχοις",
+      "lemma": [
+        "G5506"
+      ],
+      "strongs": "G5506",
+      "morph": "robinson:N-DPM",
+      "translation": "chief captains",
+      "metadata": {},
+      "gematria": {
+        "standard": 1631,
+        "ordinal": 133,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 17,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "for the",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 19,
+      "text": "πρώτοις",
+      "lemma": null,
+      "morph": null,
+      "translation": "leading [men]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1560,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 20,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 21,
+      "text": "Γαλιλαίας",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Galilee",
+      "metadata": {},
+      "gematria": {
+        "standard": 286,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13677,
+    "ordinal": 1463,
+    "reduced": 644
+  }
+}

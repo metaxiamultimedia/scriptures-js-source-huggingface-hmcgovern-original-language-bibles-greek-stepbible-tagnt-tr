@@ -1,0 +1,87 @@
+{
+  "text": "πάντα δοκιμάζετε· τὸ καλὸν κατέχετε·",
+  "words": [
+    {
+      "position": 1,
+      "text": "πάντα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-APN",
+      "translation": "All things",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δοκιμάζετε·",
+      "lemma": [
+        "G1381"
+      ],
+      "strongs": "G1381",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do test;",
+      "metadata": {},
+      "gematria": {
+        "standard": 462,
+        "ordinal": 86,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "To the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "καλὸν",
+      "lemma": null,
+      "morph": null,
+      "translation": "good",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "κατέχετε·",
+      "lemma": [
+        "G2722"
+      ],
+      "strongs": "G2722",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do hold fast;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1236,
+        "ordinal": 86,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2671,
+    "ordinal": 306,
+    "reduced": 99
+  }
+}

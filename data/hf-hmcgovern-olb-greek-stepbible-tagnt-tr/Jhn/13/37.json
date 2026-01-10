@@ -1,0 +1,286 @@
+{
+  "text": "λέγει αὐτῷ ὁ Πέτρος· κύριε, διὰ τί οὐ δύναμαί σοι ἀκολουθῆσαι ἄρτι; τὴν ψυχήν μου ὑπὲρ σοῦ θήσω.",
+  "words": [
+    {
+      "position": 1,
+      "text": "λέγει",
+      "lemma": null,
+      "morph": null,
+      "translation": "Says",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "Πέτρος·",
+      "lemma": null,
+      "morph": null,
+      "translation": "Peter;",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 5,
+      "text": "κύριε,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lord,",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "because of",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "τί",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-ASN",
+      "translation": "why",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 9,
+      "text": "δύναμαί",
+      "lemma": [
+        "G1410"
+      ],
+      "strongs": "G1410",
+      "morph": "robinson:V-PNI-1S",
+      "translation": "am I able",
+      "metadata": {},
+      "gematria": {
+        "standard": 506,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 10,
+      "text": "σοι",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DS",
+      "translation": "You",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἀκολουθῆσαι",
+      "lemma": [
+        "G190"
+      ],
+      "strongs": "G190",
+      "morph": "robinson:V-AAN",
+      "translation": "to follow",
+      "metadata": {},
+      "gematria": {
+        "standard": 819,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἄρτι;",
+      "lemma": [
+        "G737"
+      ],
+      "strongs": "G737",
+      "morph": "robinson:ADV",
+      "translation": "presently?",
+      "metadata": {},
+      "gematria": {
+        "standard": 411,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 13,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "ψυχήν",
+      "lemma": null,
+      "morph": null,
+      "translation": "life",
+      "metadata": {},
+      "gematria": {
+        "standard": 1758,
+        "ordinal": 85,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 15,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὑπὲρ",
+      "lemma": [
+        "G5228"
+      ],
+      "strongs": "G5228",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 585,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 17,
+      "text": "σοῦ",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "You",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "θήσω.",
+      "lemma": [
+        "G5087"
+      ],
+      "strongs": "G5087",
+      "morph": "robinson:V-FAI-1S",
+      "translation": "I will lay down.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1017,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10633,
+    "ordinal": 951,
+    "reduced": 375
+  }
+}

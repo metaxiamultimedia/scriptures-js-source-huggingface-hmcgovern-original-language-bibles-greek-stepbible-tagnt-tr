@@ -1,0 +1,385 @@
+{
+  "text": "Καὶ ὁ πέμπτος ἄγγελος ἐσάλπισεν, καὶ εἶδον ἀστέρα ἐκ τοῦ οὐρανοῦ πεπτωκότα εἰς τὴν γῆν, καὶ ἐδόθη αὐτῷ ἡ κλεὶς τοῦ φρέατος τῆς ἀβύσσου,",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "πέμπτος",
+      "lemma": [
+        "G3991"
+      ],
+      "strongs": "G3991",
+      "morph": "robinson:A-NSM",
+      "translation": "fifth",
+      "metadata": {},
+      "gematria": {
+        "standard": 775,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἄγγελος",
+      "lemma": null,
+      "morph": null,
+      "translation": "angel",
+      "metadata": {},
+      "gematria": {
+        "standard": 312,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐσάλπισεν,",
+      "lemma": [
+        "G4537"
+      ],
+      "strongs": "G4537",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "sounded [his] trumpet,",
+      "metadata": {},
+      "gematria": {
+        "standard": 581,
+        "ordinal": 96,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "εἶδον",
+      "lemma": null,
+      "morph": null,
+      "translation": "I saw",
+      "metadata": {},
+      "gematria": {
+        "standard": 139,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀστέρα",
+      "lemma": [
+        "G792"
+      ],
+      "strongs": "G792",
+      "morph": "robinson:N-ASM",
+      "translation": "a star",
+      "metadata": {},
+      "gematria": {
+        "standard": 607,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "οὐρανοῦ",
+      "lemma": [
+        "G3772"
+      ],
+      "strongs": "G3772",
+      "morph": "robinson:N-GSM",
+      "translation": "heaven",
+      "metadata": {},
+      "gematria": {
+        "standard": 1091,
+        "ordinal": 101,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 12,
+      "text": "πεπτωκότα",
+      "lemma": [
+        "G4098"
+      ],
+      "strongs": "G4098",
+      "morph": "robinson:V-RAP-ASM",
+      "translation": "having fallen",
+      "metadata": {},
+      "gematria": {
+        "standard": 1656,
+        "ordinal": 125,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 13,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 14,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 15,
+      "text": "γῆν,",
+      "lemma": null,
+      "morph": null,
+      "translation": "earth,",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐδόθη",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-API-3S",
+      "translation": "was given",
+      "metadata": {},
+      "gematria": {
+        "standard": 96,
+        "ordinal": 39,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 18,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to it",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 20,
+      "text": "κλεὶς",
+      "lemma": [
+        "G2807"
+      ],
+      "strongs": "G2807",
+      "morph": "robinson:N-NSF",
+      "translation": "key",
+      "metadata": {},
+      "gematria": {
+        "standard": 265,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 21,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 22,
+      "text": "φρέατος",
+      "lemma": [
+        "G5421"
+      ],
+      "strongs": "G5421",
+      "morph": "robinson:N-GSN",
+      "translation": "pit",
+      "metadata": {},
+      "gematria": {
+        "standard": 1176,
+        "ordinal": 96,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 23,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἀβύσσου,",
+      "lemma": [
+        "G12"
+      ],
+      "strongs": "G12",
+      "morph": "robinson:N-GSF",
+      "translation": "abyss,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1273,
+        "ordinal": 94,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12360,
+    "ordinal": 1284,
+    "reduced": 510
+  }
+}

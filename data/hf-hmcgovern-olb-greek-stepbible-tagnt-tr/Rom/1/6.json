@@ -1,0 +1,135 @@
+{
+  "text": "ἐν οἷς ἐστε καὶ ὑμεῖς, κλητοὶ Ἰησοῦ Χριστοῦ·",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "among",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "οἷς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-DPN",
+      "translation": "whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐστε",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "are",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὑμεῖς,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NP",
+      "translation": "you yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "κλητοὶ",
+      "lemma": [
+        "G2822"
+      ],
+      "strongs": "G2822",
+      "morph": "robinson:A-NPM",
+      "translation": "called",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ἰησοῦ",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 8,
+      "text": "Χριστοῦ·",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-GSM-T",
+      "translation": "Christ;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4337,
+    "ordinal": 451,
+    "reduced": 190
+  }
+}

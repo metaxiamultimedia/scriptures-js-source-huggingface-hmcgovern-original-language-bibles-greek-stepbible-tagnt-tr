@@ -1,0 +1,234 @@
+{
+  "text": "ὑμᾶς Τιμόθεος ὁ συνεργός μου καὶ Λούκιος καὶ Ἰάσων καὶ Σωσίπατρος οἱ συγγενεῖς μου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "Τιμόθεος",
+      "lemma": [
+        "G5095"
+      ],
+      "strongs": "G5095",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Timothy",
+      "metadata": {},
+      "gematria": {
+        "standard": 704,
+        "ordinal": 101,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "συνεργός",
+      "lemma": [
+        "G4904"
+      ],
+      "strongs": "G4904",
+      "morph": "robinson:A-NSM",
+      "translation": "fellow worker",
+      "metadata": {},
+      "gematria": {
+        "standard": 1028,
+        "ordinal": 109,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 5,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "Λούκιος",
+      "lemma": [
+        "G3066"
+      ],
+      "strongs": "G3066",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Lucius",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 98,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "Ἰάσων",
+      "lemma": [
+        "G2394"
+      ],
+      "strongs": "G2394",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Jason",
+      "metadata": {},
+      "gematria": {
+        "standard": 1061,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "Σωσίπατρος",
+      "lemma": [
+        "G4989"
+      ],
+      "strongs": "G4989",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Sosipater",
+      "metadata": {},
+      "gematria": {
+        "standard": 1961,
+        "ordinal": 155,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 12,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "συγγενεῖς",
+      "lemma": [
+        "G4773"
+      ],
+      "strongs": "G4773",
+      "morph": "robinson:A-NPM",
+      "translation": "kinsmen",
+      "metadata": {},
+      "gematria": {
+        "standard": 876,
+        "ordinal": 94,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 14,
+      "text": "μου.",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of mine.",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8334,
+    "ordinal": 866,
+    "reduced": 362
+  }
+}

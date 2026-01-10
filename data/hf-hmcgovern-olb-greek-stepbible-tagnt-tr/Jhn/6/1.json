@@ -1,0 +1,193 @@
+{
+  "text": "Μετὰ ταῦτα ἀπῆλθεν ὁ Ἰησοῦς πέραν τῆς θαλάσσης τῆς Γαλιλαίας τῆς Τιβεριάδος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Μετὰ",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "After",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "ταῦτα",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-APN",
+      "translation": "these things",
+      "metadata": {},
+      "gematria": {
+        "standard": 1002,
+        "ordinal": 60,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀπῆλθεν",
+      "lemma": [
+        "G565"
+      ],
+      "strongs": "G565",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "went away",
+      "metadata": {},
+      "gematria": {
+        "standard": 183,
+        "ordinal": 61,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 6,
+      "text": "πέραν",
+      "lemma": [
+        "G4008"
+      ],
+      "strongs": "G4008",
+      "morph": "robinson:PREP",
+      "translation": "over",
+      "metadata": {},
+      "gematria": {
+        "standard": 236,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "θαλάσσης",
+      "lemma": [
+        "G2281"
+      ],
+      "strongs": "G2281",
+      "morph": "robinson:N-GSF",
+      "translation": "Sea",
+      "metadata": {},
+      "gematria": {
+        "standard": 649,
+        "ordinal": 82,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 9,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
+      "text": "Γαλιλαίας",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Galilee —",
+      "metadata": {},
+      "gematria": {
+        "standard": 286,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 12,
+      "text": "Τιβεριάδος.",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Tiberias.",
+      "metadata": {},
+      "gematria": {
+        "standard": 702,
+        "ordinal": 99,
+        "reduced": 54
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5886,
+    "ordinal": 689,
+    "reduced": 311
+  }
+}

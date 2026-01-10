@@ -1,0 +1,228 @@
+{
+  "text": "ἐν τῷ λέγειν καινὴν πεπαλαίωκεν τὴν πρώτην· τὸ δὲ παλαιούμενον καὶ γηράσκον ἐγγὺς ἀφανισμοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "In",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "λέγειν",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying",
+      "metadata": {},
+      "gematria": {
+        "standard": 103,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "καινὴν",
+      "lemma": [
+        "G2537"
+      ],
+      "strongs": "G2537",
+      "morph": "robinson:A-ASF",
+      "translation": "new",
+      "metadata": {},
+      "gematria": {
+        "standard": 139,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "πεπαλαίωκεν",
+      "lemma": [
+        "G3822"
+      ],
+      "strongs": "G3822",
+      "morph": "robinson:V-RAI-3S",
+      "translation": "He has made obsolete",
+      "metadata": {},
+      "gematria": {
+        "standard": 1082,
+        "ordinal": 111,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "πρώτην·",
+      "lemma": null,
+      "morph": null,
+      "translation": "first;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1338,
+        "ordinal": 96,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "παλαιούμενον",
+      "lemma": [
+        "G3822"
+      ],
+      "strongs": "G3822",
+      "morph": "robinson:V-PPP-NSN",
+      "translation": "growing old",
+      "metadata": {},
+      "gematria": {
+        "standard": 807,
+        "ordinal": 131,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "γηράσκον",
+      "lemma": [
+        "G1095"
+      ],
+      "strongs": "G1095",
+      "morph": "robinson:V-PAP-NSN",
+      "translation": "aging",
+      "metadata": {},
+      "gematria": {
+        "standard": 452,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐγγὺς",
+      "lemma": [
+        "G1451"
+      ],
+      "strongs": "G1451",
+      "morph": "robinson:PREP",
+      "translation": "[is] near",
+      "metadata": {},
+      "gematria": {
+        "standard": 611,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀφανισμοῦ.",
+      "lemma": [
+        "G854"
+      ],
+      "strongs": "G854",
+      "morph": "robinson:N-GSM",
+      "translation": "vanishing.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1272,
+        "ordinal": 110,
+        "reduced": 38
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7737,
+    "ordinal": 852,
+    "reduced": 348
+  }
+}

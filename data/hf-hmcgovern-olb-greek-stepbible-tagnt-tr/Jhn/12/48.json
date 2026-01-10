@@ -1,0 +1,394 @@
+{
+  "text": "ὁ ἀθετῶν ἐμὲ καὶ μὴ λαμβάνων τὰ ῥήματά μου ἔχει τὸν κρίνοντα αὐτόν· ὁ λόγος ὃν ἐλάλησα, ἐκεῖνος κρινεῖ αὐτὸν ἐν τῇ ἐσχάτῃ ἡμέρᾳ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀθετῶν",
+      "lemma": [
+        "G114"
+      ],
+      "strongs": "G114",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "rejecting",
+      "metadata": {},
+      "gematria": {
+        "standard": 1165,
+        "ordinal": 70,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐμὲ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1AS",
+      "translation": "Me myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 50,
+        "ordinal": 22,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "λαμβάνων",
+      "lemma": [
+        "G2983"
+      ],
+      "strongs": "G2983",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "receiving",
+      "metadata": {},
+      "gematria": {
+        "standard": 974,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 8,
+      "text": "ῥήματά",
+      "lemma": [
+        "G4487"
+      ],
+      "strongs": "G4487",
+      "morph": "robinson:N-APN",
+      "translation": "declarations",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 9,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of Mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἔχει",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "has",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "[one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "κρίνοντα",
+      "lemma": [
+        "G2919"
+      ],
+      "strongs": "G2919",
+      "morph": "robinson:V-PAP-ASM",
+      "translation": "judging",
+      "metadata": {},
+      "gematria": {
+        "standard": 601,
+        "ordinal": 97,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτόν·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him:",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 15,
+      "text": "λόγος",
+      "lemma": [
+        "G3056"
+      ],
+      "strongs": "G3056",
+      "morph": "robinson:N-NSM",
+      "translation": "word",
+      "metadata": {},
+      "gematria": {
+        "standard": 373,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὃν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASM",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐλάλησα,",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-AAI-1S",
+      "translation": "I spoke,",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐκεῖνος",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-NSM",
+      "translation": "that [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 360,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 19,
+      "text": "κρινεῖ",
+      "lemma": [
+        "G2919"
+      ],
+      "strongs": "G2919",
+      "morph": "robinson:V-FAI-3S",
+      "translation": "will judge",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 20,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 22,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἐσχάτῃ",
+      "lemma": [
+        "G2078"
+      ],
+      "strongs": "G2078",
+      "morph": "robinson:A-DSF",
+      "translation": "last",
+      "metadata": {},
+      "gematria": {
+        "standard": 1124,
+        "ordinal": 81,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἡμέρᾳ.",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-DSF",
+      "translation": "day.",
+      "metadata": {},
+      "gematria": {
+        "standard": 164,
+        "ordinal": 51,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9936,
+    "ordinal": 1150,
+    "reduced": 457
+  }
+}

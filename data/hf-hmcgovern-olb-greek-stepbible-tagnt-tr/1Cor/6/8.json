@@ -1,0 +1,122 @@
+{
+  "text": "ἀλλ᾽ ὑμεῖς ἀδικεῖτε καὶ ἀποστερεῖτε, καὶ ἀδελφούς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "But",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὑμεῖς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NP",
+      "translation": "you yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀδικεῖτε",
+      "lemma": [
+        "G91"
+      ],
+      "strongs": "G91",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "do wrong",
+      "metadata": {},
+      "gematria": {
+        "standard": 355,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀποστερεῖτε,",
+      "lemma": [
+        "G650"
+      ],
+      "strongs": "G650",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "defraud,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1076,
+        "ordinal": 129,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀδελφούς.",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-APM",
+      "translation": "to brothers!",
+      "metadata": {},
+      "gematria": {
+        "standard": 1210,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3419,
+    "ordinal": 413,
+    "reduced": 179
+  }
+}

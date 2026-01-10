@@ -1,0 +1,90 @@
+{
+  "text": "ἀπὸ παντὸς εἴδους πονηροῦ ἀπέχεσθε.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "From",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "παντὸς",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-GSN",
+      "translation": "every",
+      "metadata": {},
+      "gematria": {
+        "standard": 701,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "εἴδους",
+      "lemma": [
+        "G1491"
+      ],
+      "strongs": "G1491",
+      "morph": "robinson:N-GSN",
+      "translation": "form",
+      "metadata": {},
+      "gematria": {
+        "standard": 689,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 4,
+      "text": "πονηροῦ",
+      "lemma": [
+        "G4190"
+      ],
+      "strongs": "G4190",
+      "morph": "robinson:A-GSN",
+      "translation": "of evil",
+      "metadata": {},
+      "gematria": {
+        "standard": 778,
+        "ordinal": 103,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀπέχεσθε.",
+      "lemma": [
+        "G568"
+      ],
+      "strongs": "G568",
+      "morph": "robinson:V-PMM-2P",
+      "translation": "do abstain.",
+      "metadata": {},
+      "gematria": {
+        "standard": 905,
+        "ordinal": 80,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3224,
+    "ordinal": 368,
+    "reduced": 161
+  }
+}

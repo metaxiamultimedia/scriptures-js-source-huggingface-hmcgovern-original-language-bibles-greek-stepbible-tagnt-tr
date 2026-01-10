@@ -1,0 +1,327 @@
+{
+  "text": "εἰ μὲν οὖν Δημήτριος καὶ οἱ σὺν αὐτῷ τεχνῖται ἔχουσι πρός τινα λόγον, ἀγοραῖοι ἄγονται καὶ ἀνθύπατοί εἰσιν· ἐγκαλείτωσαν ἀλλήλοις.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "μὲν",
+      "lemma": [
+        "G3303"
+      ],
+      "strongs": "G3303",
+      "morph": "robinson:PRT",
+      "translation": "indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "Δημήτριος",
+      "lemma": [
+        "G1216"
+      ],
+      "strongs": "G1216",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Demetrius",
+      "metadata": {},
+      "gematria": {
+        "standard": 740,
+        "ordinal": 108,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "σὺν",
+      "lemma": [
+        "G4862"
+      ],
+      "strongs": "G4862",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "τεχνῖται",
+      "lemma": [
+        "G5079"
+      ],
+      "strongs": "G5079",
+      "morph": "robinson:N-NPM",
+      "translation": "craftsmen",
+      "metadata": {},
+      "gematria": {
+        "standard": 1276,
+        "ordinal": 97,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἔχουσι",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "have",
+      "metadata": {},
+      "gematria": {
+        "standard": 1285,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 11,
+      "text": "πρός",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "against",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 12,
+      "text": "τινα",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-ASM",
+      "translation": "anyone",
+      "metadata": {},
+      "gematria": {
+        "standard": 361,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "λόγον,",
+      "lemma": [
+        "G3056"
+      ],
+      "strongs": "G3056",
+      "morph": "robinson:N-ASM",
+      "translation": "a matter",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀγοραῖοι",
+      "lemma": [
+        "G60"
+      ],
+      "strongs": "G60",
+      "morph": "robinson:A-NPF",
+      "translation": "courts",
+      "metadata": {},
+      "gematria": {
+        "standard": 265,
+        "ordinal": 70,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἄγονται",
+      "lemma": [
+        "G71"
+      ],
+      "strongs": "G71",
+      "morph": "robinson:V-PPI-3P",
+      "translation": "are conducted",
+      "metadata": {},
+      "gematria": {
+        "standard": 435,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀνθύπατοί",
+      "lemma": [
+        "G446"
+      ],
+      "strongs": "G446",
+      "morph": "robinson:N-NPM",
+      "translation": "proconsuls",
+      "metadata": {},
+      "gematria": {
+        "standard": 921,
+        "ordinal": 102,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 18,
+      "text": "εἰσιν·",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "there are;",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 54,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐγκαλείτωσαν",
+      "lemma": [
+        "G1458"
+      ],
+      "strongs": "G1458",
+      "morph": "robinson:V-PAM-3P",
+      "translation": "they should accuse",
+      "metadata": {},
+      "gematria": {
+        "standard": 1425,
+        "ordinal": 119,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀλλήλοις.",
+      "lemma": [
+        "G240"
+      ],
+      "strongs": "G240",
+      "morph": "robinson:C-DPM",
+      "translation": "to one another.",
+      "metadata": {},
+      "gematria": {
+        "standard": 379,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10968,
+    "ordinal": 1228,
+    "reduced": 526
+  }
+}

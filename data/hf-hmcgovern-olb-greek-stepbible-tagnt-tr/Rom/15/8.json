@@ -1,0 +1,260 @@
+{
+  "text": "λέγω Χριστὸν Ἰησοῦν διάκονον γεγενῆσθαι περιτομῆς ὑπὲρ ἀληθείας θεοῦ εἰς τὸ βεβαιῶσαι τὰς ἐπαγγελίας τῶν πατέρων,",
+  "words": [
+    {
+      "position": 1,
+      "text": "λέγω",
+      "lemma": null,
+      "morph": null,
+      "translation": "I say",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "Χριστὸν",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-ASM-T",
+      "translation": "Christ",
+      "metadata": {},
+      "gematria": {
+        "standard": 1330,
+        "ordinal": 113,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἰησοῦν",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 738,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 4,
+      "text": "διάκονον",
+      "lemma": [
+        "G1249"
+      ],
+      "strongs": "G1249",
+      "morph": "robinson:N-ASM",
+      "translation": "a servant",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "γεγενῆσθαι",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-RPN",
+      "translation": "to have become",
+      "metadata": {},
+      "gematria": {
+        "standard": 294,
+        "ordinal": 72,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 6,
+      "text": "περιτομῆς",
+      "lemma": [
+        "G4061"
+      ],
+      "strongs": "G4061",
+      "morph": "robinson:N-GSF",
+      "translation": "of [the] circumcision",
+      "metadata": {},
+      "gematria": {
+        "standard": 813,
+        "ordinal": 118,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὑπὲρ",
+      "lemma": [
+        "G5228"
+      ],
+      "strongs": "G5228",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 585,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀληθείας",
+      "lemma": [
+        "G225"
+      ],
+      "strongs": "G225",
+      "morph": "robinson:N-GSF",
+      "translation": "[the] truth",
+      "metadata": {},
+      "gematria": {
+        "standard": 264,
+        "ordinal": 60,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 9,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 10,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "in order",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 12,
+      "text": "βεβαιῶσαι",
+      "lemma": [
+        "G950"
+      ],
+      "strongs": "G950",
+      "morph": "robinson:V-AAN",
+      "translation": "to confirm",
+      "metadata": {},
+      "gematria": {
+        "standard": 1031,
+        "ordinal": 71,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 13,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐπαγγελίας",
+      "lemma": [
+        "G1860"
+      ],
+      "strongs": "G1860",
+      "morph": "robinson:N-APF",
+      "translation": "promises given",
+      "metadata": {},
+      "gematria": {
+        "standard": 338,
+        "ordinal": 72,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 15,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "πατέρων,",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-GPM",
+      "translation": "fathers,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1336,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10562,
+    "ordinal": 1072,
+    "reduced": 496
+  }
+}

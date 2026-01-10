@@ -1,0 +1,375 @@
+{
+  "text": "οὐ περὶ πάντων ὑμῶν λέγω· ἐγὼ οἶδα ἐξελεξάμην· ἀλλ᾽ ἵνα ἡ γραφὴ πληρωθῇ· ὁ τρώγων τὸν ἄρτον ἐπῆρεν ἐπ᾽ ἐμὲ τὴν πτέρναν αὐτοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "Not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "about",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "πάντων",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-GPM",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 1281,
+        "ordinal": 86,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὑμῶν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "λέγω·",
+      "lemma": null,
+      "morph": null,
+      "translation": "I speak;",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS",
+      "translation": "I myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "οἶδα",
+      "lemma": [
+        "G6063"
+      ],
+      "strongs": "G6063",
+      "morph": "robinson:V-RAI-1S",
+      "translation": "know",
+      "metadata": {},
+      "gematria": {
+        "standard": 85,
+        "ordinal": 29,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐξελεξάμην·",
+      "lemma": [
+        "G1586"
+      ],
+      "strongs": "G1586",
+      "morph": "robinson:V-AMI-1S",
+      "translation": "I chose;",
+      "metadata": {},
+      "gematria": {
+        "standard": 264,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 12,
+      "text": "γραφὴ",
+      "lemma": [
+        "G1124"
+      ],
+      "strongs": "G1124",
+      "morph": "robinson:N-NSF",
+      "translation": "Scripture",
+      "metadata": {},
+      "gematria": {
+        "standard": 612,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 13,
+      "text": "πληρωθῇ·",
+      "lemma": [
+        "G4137"
+      ],
+      "strongs": "G4137",
+      "morph": "robinson:V-APS-3S",
+      "translation": "may be fulfilled:",
+      "metadata": {},
+      "gematria": {
+        "standard": 1045,
+        "ordinal": 99,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 15,
+      "text": "τρώγων",
+      "lemma": [
+        "G5176"
+      ],
+      "strongs": "G5176",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "eating",
+      "metadata": {},
+      "gematria": {
+        "standard": 2053,
+        "ordinal": 100,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 16,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἄρτον",
+      "lemma": [
+        "G740"
+      ],
+      "strongs": "G740",
+      "morph": "robinson:N-ASM",
+      "translation": "bread",
+      "metadata": {},
+      "gematria": {
+        "standard": 521,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐπῆρεν",
+      "lemma": [
+        "G1869"
+      ],
+      "strongs": "G1869",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "lifted up",
+      "metadata": {},
+      "gematria": {
+        "standard": 248,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐπ᾽",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "against",
+      "metadata": {},
+      "gematria": {
+        "standard": 85,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐμὲ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1AS",
+      "translation": "Me myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 50,
+        "ordinal": 22,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 21,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 22,
+      "text": "πτέρναν",
+      "lemma": [
+        "G4418"
+      ],
+      "strongs": "G4418",
+      "morph": "robinson:N-ASF",
+      "translation": "heel",
+      "metadata": {},
+      "gematria": {
+        "standard": 586,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 23,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him.’",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12580,
+    "ordinal": 1160,
+    "reduced": 449
+  }
+}

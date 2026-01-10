@@ -1,0 +1,139 @@
+{
+  "text": "λέγοντας ὅτι ὄντως ἠγέρθη ὁ κύριος καὶ ὤφθη Σίμωνι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "λέγοντας",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying",
+      "metadata": {},
+      "gematria": {
+        "standard": 659,
+        "ordinal": 85,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὄντως",
+      "lemma": [
+        "G3689"
+      ],
+      "strongs": "G3689",
+      "morph": "robinson:ADV",
+      "translation": "Indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 1420,
+        "ordinal": 89,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἠγέρθη",
+      "lemma": [
+        "G1453"
+      ],
+      "strongs": "G1453",
+      "morph": "robinson:V-API-3S",
+      "translation": "has risen",
+      "metadata": {},
+      "gematria": {
+        "standard": 133,
+        "ordinal": 47,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "κύριος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lord",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὤφθη",
+      "lemma": null,
+      "morph": null,
+      "translation": "He has appeared",
+      "metadata": {},
+      "gematria": {
+        "standard": 1317,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 9,
+      "text": "Σίμωνι.",
+      "lemma": null,
+      "morph": null,
+      "translation": "to Simon.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 85,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5920,
+    "ordinal": 533,
+    "reduced": 227
+  }
+}

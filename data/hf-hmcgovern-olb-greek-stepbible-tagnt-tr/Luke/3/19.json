@@ -1,0 +1,373 @@
+{
+  "text": "Ὁ δὲ Ἡρῴδης ὁ τετραάρχης ἐλεγχόμενος ὑπ᾽ αὐτοῦ περὶ Ἡρῳδιάδος τῆς γυναικὸς φιλίππου τοῦ ἀδελφοῦ αὐτοῦ καὶ περὶ πάντων ὧν ἐποίησεν πονηρῶν ὁ Ἡρῴδης,",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἡρῴδης",
+      "lemma": null,
+      "morph": null,
+      "translation": "Herod",
+      "metadata": {},
+      "gematria": {
+        "standard": 1130,
+        "ordinal": 86,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "τετραάρχης",
+      "lemma": [
+        "G5076"
+      ],
+      "strongs": "G5076",
+      "morph": "robinson:N-NSM",
+      "translation": "tetrarch",
+      "metadata": {},
+      "gematria": {
+        "standard": 1615,
+        "ordinal": 126,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐλεγχόμενος",
+      "lemma": [
+        "G1651"
+      ],
+      "strongs": "G1651",
+      "morph": "robinson:V-PPP-NSM",
+      "translation": "being reproved",
+      "metadata": {},
+      "gematria": {
+        "standard": 1078,
+        "ordinal": 124,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὑπ᾽",
+      "lemma": null,
+      "morph": null,
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 480,
+        "ordinal": 36,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "concerning",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 10,
+      "text": "Ἡρῳδιάδος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Herodias",
+      "metadata": {},
+      "gematria": {
+        "standard": 1207,
+        "ordinal": 108,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 12,
+      "text": "γυναικὸς",
+      "lemma": null,
+      "morph": null,
+      "translation": "wife",
+      "metadata": {},
+      "gematria": {
+        "standard": 754,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 13,
+      "text": "φιλίππου",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Philip",
+      "metadata": {},
+      "gematria": {
+        "standard": 1180,
+        "ordinal": 117,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 14,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀδελφοῦ",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-GSM",
+      "translation": "brother",
+      "metadata": {},
+      "gematria": {
+        "standard": 1010,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 17,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "concerning",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 19,
+      "text": "πάντων",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-GPN",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 1281,
+        "ordinal": 86,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 20,
+      "text": "ὧν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-GPN",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἐποίησεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "did",
+      "metadata": {},
+      "gematria": {
+        "standard": 428,
+        "ordinal": 88,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 22,
+      "text": "πονηρῶν",
+      "lemma": [
+        "G4190"
+      ],
+      "strongs": "G4190",
+      "morph": "robinson:A-GPN",
+      "translation": "[the] evils",
+      "metadata": {},
+      "gematria": {
+        "standard": 1158,
+        "ordinal": 105,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 23,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 24,
+      "text": "Ἡρῴδης,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Herod,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1130,
+        "ordinal": 86,
+        "reduced": 50
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 17561,
+    "ordinal": 1581,
+    "reduced": 645
+  }
+}

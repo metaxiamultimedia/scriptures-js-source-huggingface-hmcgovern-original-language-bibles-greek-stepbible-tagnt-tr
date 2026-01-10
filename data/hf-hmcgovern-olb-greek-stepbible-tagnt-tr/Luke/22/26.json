@@ -1,0 +1,298 @@
+{
+  "text": "ὑμεῖς δὲ οὐχ οὕτως, ἀλλ᾽ ὁ μείζων ἐν ὑμῖν ὡς ὁ νεώτερος, καὶ ὁ ἡγούμενος ὡς ὁ διακονῶν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὑμεῖς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NP",
+      "translation": "You",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "οὐχ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 1070,
+        "ordinal": 57,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "οὕτως,",
+      "lemma": [
+        "G3779"
+      ],
+      "strongs": "G3779",
+      "morph": "robinson:ADV",
+      "translation": "thus [shall be],",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 96,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "Instead",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "μείζων",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-NSM-C",
+      "translation": "greater",
+      "metadata": {},
+      "gematria": {
+        "standard": 912,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "among",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 12,
+      "text": "νεώτερος,",
+      "lemma": [
+        "G3501"
+      ],
+      "strongs": "G3501",
+      "morph": "robinson:A-NSM-C",
+      "translation": "younger,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1530,
+        "ordinal": 116,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἡγούμενος",
+      "lemma": [
+        "G2233"
+      ],
+      "strongs": "G2233",
+      "morph": "robinson:V-PNP-NSM",
+      "translation": "leading",
+      "metadata": {},
+      "gematria": {
+        "standard": 846,
+        "ordinal": 108,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 18,
+      "text": "διακονῶν.",
+      "lemma": [
+        "G1247"
+      ],
+      "strongs": "G1247",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "serving.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10724,
+    "ordinal": 867,
+    "reduced": 327
+  }
+}

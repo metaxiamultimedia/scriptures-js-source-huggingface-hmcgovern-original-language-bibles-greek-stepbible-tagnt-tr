@@ -1,0 +1,462 @@
+{
+  "text": "ἀπεκρίθη ὁ Παῦλος· τί ποιεῖτε κλαίοντες καὶ συνθρύπτοντές μου τὴν καρδίαν; ἐγὼ γὰρ οὐ μόνον δεθῆναι ἀλλὰ καὶ ἀποθανεῖν εἰς Ἰερουσαλὴμ ἑτοίμως ἔχω ὑπὲρ τοῦ ὀνόματος τοῦ κυρίου Ἰησοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀπεκρίθη",
+      "lemma": [
+        "G611"
+      ],
+      "strongs": "G611",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "answered",
+      "metadata": {},
+      "gematria": {
+        "standard": 233,
+        "ordinal": 73,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "Παῦλος·",
+      "lemma": null,
+      "morph": null,
+      "translation": "Paul;",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "τί",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-ASN",
+      "translation": "What",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "ποιεῖτε",
+      "lemma": null,
+      "morph": null,
+      "translation": "are you doing",
+      "metadata": {},
+      "gematria": {
+        "standard": 480,
+        "ordinal": 78,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 6,
+      "text": "κλαίοντες",
+      "lemma": [
+        "G2799"
+      ],
+      "strongs": "G2799",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "weeping",
+      "metadata": {},
+      "gematria": {
+        "standard": 686,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "συνθρύπτοντές",
+      "lemma": [
+        "G4919"
+      ],
+      "strongs": "G4919",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "breaking",
+      "metadata": {},
+      "gematria": {
+        "standard": 2164,
+        "ordinal": 201,
+        "reduced": 66
+      }
+    },
+    {
+      "position": 9,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "my",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
+      "text": "καρδίαν;",
+      "lemma": [
+        "G2588"
+      ],
+      "strongs": "G2588",
+      "morph": "robinson:N-ASF",
+      "translation": "heart?",
+      "metadata": {},
+      "gematria": {
+        "standard": 186,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS",
+      "translation": "I myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 15,
+      "text": "μόνον",
+      "lemma": [
+        "G3441"
+      ],
+      "strongs": "G3441",
+      "morph": "robinson:A-ASN",
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "δεθῆναι",
+      "lemma": [
+        "G1210"
+      ],
+      "strongs": "G1210",
+      "morph": "robinson:V-APN",
+      "translation": "to be bound",
+      "metadata": {},
+      "gematria": {
+        "standard": 87,
+        "ordinal": 47,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀλλὰ",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἀποθανεῖν",
+      "lemma": [
+        "G599"
+      ],
+      "strongs": "G599",
+      "morph": "robinson:V-2AAN",
+      "translation": "to die",
+      "metadata": {},
+      "gematria": {
+        "standard": 276,
+        "ordinal": 81,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 20,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "at",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 21,
+      "text": "Ἰερουσαλὴμ",
+      "lemma": [
+        "G2419"
+      ],
+      "strongs": "G2419",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Jerusalem",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἑτοίμως",
+      "lemma": [
+        "G2093"
+      ],
+      "strongs": "G2093",
+      "morph": "robinson:ADV",
+      "translation": "readiness",
+      "metadata": {},
+      "gematria": {
+        "standard": 1425,
+        "ordinal": 102,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἔχω",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAI-1S",
+      "translation": "have",
+      "metadata": {},
+      "gematria": {
+        "standard": 1405,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 24,
+      "text": "ὑπὲρ",
+      "lemma": [
+        "G5228"
+      ],
+      "strongs": "G5228",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 585,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 25,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 26,
+      "text": "ὀνόματος",
+      "lemma": [
+        "G3686"
+      ],
+      "strongs": "G3686",
+      "morph": "robinson:N-GSN",
+      "translation": "name",
+      "metadata": {},
+      "gematria": {
+        "standard": 801,
+        "ordinal": 108,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 27,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 28,
+      "text": "κυρίου",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lord",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 91,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 29,
+      "text": "Ἰησοῦ.",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus.",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 16450,
+    "ordinal": 1800,
+    "reduced": 720
+  }
+}

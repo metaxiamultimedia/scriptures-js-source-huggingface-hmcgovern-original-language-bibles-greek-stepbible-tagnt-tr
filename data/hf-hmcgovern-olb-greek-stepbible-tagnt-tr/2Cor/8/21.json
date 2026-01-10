@@ -1,0 +1,148 @@
+{
+  "text": "καλὰ οὐ μόνον ἐνώπιον κυρίου ἀλλὰ καὶ ἐνώπιον ἀνθρώπων.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καλὰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "what is right",
+      "metadata": {},
+      "gematria": {
+        "standard": 52,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 3,
+      "text": "μόνον",
+      "lemma": [
+        "G3441"
+      ],
+      "strongs": "G3441",
+      "morph": "robinson:A-ASN",
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐνώπιον",
+      "lemma": [
+        "G1799"
+      ],
+      "strongs": "G1799",
+      "morph": "robinson:PREP",
+      "translation": "before",
+      "metadata": {},
+      "gematria": {
+        "standard": 1065,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 5,
+      "text": "κυρίου",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] Lord",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 91,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀλλὰ",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐνώπιον",
+      "lemma": [
+        "G1799"
+      ],
+      "strongs": "G1799",
+      "morph": "robinson:PREP",
+      "translation": "before",
+      "metadata": {},
+      "gematria": {
+        "standard": 1065,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀνθρώπων.",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-GPM",
+      "translation": "men.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1890,
+        "ordinal": 116,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5915,
+    "ordinal": 567,
+    "reduced": 207
+  }
+}

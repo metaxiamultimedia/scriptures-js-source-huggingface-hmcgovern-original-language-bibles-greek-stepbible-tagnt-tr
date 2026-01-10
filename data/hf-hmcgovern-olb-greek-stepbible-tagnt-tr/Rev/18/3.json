@@ -1,0 +1,513 @@
+{
+  "text": "ὅτι ἐκ τοῦ οἴνου τοῦ θυμοῦ τῆς πορνείας αὐτῆς πάντα τὰ ἔθνη, καὶ οἱ βασιλεῖς τῆς γῆς μετ᾽ αὐτῆς ἐπόρνευσαν, καὶ οἱ ἔμποροι τῆς γῆς ἐκ τῆς δυνάμεως τοῦ στρήνους αὐτῆς ἐπλούτησαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "For",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "οἴνου",
+      "lemma": [
+        "G3631"
+      ],
+      "strongs": "G3631",
+      "morph": "robinson:N-GSM",
+      "translation": "wine",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "θυμοῦ",
+      "lemma": [
+        "G2372"
+      ],
+      "strongs": "G2372",
+      "morph": "robinson:N-GSM",
+      "translation": "wrath",
+      "metadata": {},
+      "gematria": {
+        "standard": 919,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "πορνείας",
+      "lemma": [
+        "G4202"
+      ],
+      "strongs": "G4202",
+      "morph": "robinson:N-GSF",
+      "translation": "sexual immorality",
+      "metadata": {},
+      "gematria": {
+        "standard": 516,
+        "ordinal": 94,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 9,
+      "text": "αὐτῆς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "of her",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
+      "text": "πάντα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NPN",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἔθνη,",
+      "lemma": [
+        "G1484"
+      ],
+      "strongs": "G1484",
+      "morph": "robinson:N-NPN",
+      "translation": "nations,",
+      "metadata": {},
+      "gematria": {
+        "standard": 72,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 15,
+      "text": "βασιλεῖς",
+      "lemma": [
+        "G935"
+      ],
+      "strongs": "G935",
+      "morph": "robinson:N-NPM",
+      "translation": "kings",
+      "metadata": {},
+      "gematria": {
+        "standard": 458,
+        "ordinal": 73,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 16,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 17,
+      "text": "γῆς",
+      "lemma": null,
+      "morph": null,
+      "translation": "earth",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 18,
+      "text": "μετ᾽",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 345,
+        "ordinal": 36,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 19,
+      "text": "αὐτῆς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "her",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐπόρνευσαν,",
+      "lemma": [
+        "G4203"
+      ],
+      "strongs": "G4203",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "committed sexual immorality,",
+      "metadata": {},
+      "gematria": {
+        "standard": 961,
+        "ordinal": 123,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 21,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἔμποροι",
+      "lemma": [
+        "G1713"
+      ],
+      "strongs": "G1713",
+      "morph": "robinson:N-NPM",
+      "translation": "merchants",
+      "metadata": {},
+      "gematria": {
+        "standard": 375,
+        "ordinal": 89,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 24,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 25,
+      "text": "γῆς",
+      "lemma": null,
+      "morph": null,
+      "translation": "earth",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 26,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 27,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 28,
+      "text": "δυνάμεως",
+      "lemma": [
+        "G1411"
+      ],
+      "strongs": "G1411",
+      "morph": "robinson:N-GSF",
+      "translation": "power",
+      "metadata": {},
+      "gematria": {
+        "standard": 1500,
+        "ordinal": 97,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 29,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 30,
+      "text": "στρήνους",
+      "lemma": [
+        "G4764"
+      ],
+      "strongs": "G4764",
+      "morph": "robinson:N-GSN",
+      "translation": "sensuality",
+      "metadata": {},
+      "gematria": {
+        "standard": 1328,
+        "ordinal": 127,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 31,
+      "text": "αὐτῆς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "of her",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 32,
+      "text": "ἐπλούτησαν.",
+      "lemma": [
+        "G4147"
+      ],
+      "strongs": "G4147",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "were enriched.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1144,
+        "ordinal": 125,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 17094,
+    "ordinal": 1764,
+    "reduced": 684
+  }
+}

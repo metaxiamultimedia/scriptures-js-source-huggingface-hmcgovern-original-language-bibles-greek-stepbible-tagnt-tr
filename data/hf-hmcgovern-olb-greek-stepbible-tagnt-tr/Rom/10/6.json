@@ -1,0 +1,356 @@
+{
+  "text": "Ἡ δὲ ἐκ πίστεως δικαιοσύνη οὕτως λέγει· μὴ εἴπῃς ἐν τῇ καρδίᾳ σου· τίς ἀναβήσεται εἰς τὸν οὐρανόν; τοῦτ᾽ ἔστιν Χριστὸν καταγαγεῖν·",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "πίστεως",
+      "lemma": null,
+      "morph": null,
+      "translation": "faith",
+      "metadata": {},
+      "gematria": {
+        "standard": 1595,
+        "ordinal": 109,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 5,
+      "text": "δικαιοσύνη",
+      "lemma": [
+        "G1343"
+      ],
+      "strongs": "G1343",
+      "morph": "robinson:N-NSF",
+      "translation": "righteousness",
+      "metadata": {},
+      "gematria": {
+        "standard": 773,
+        "ordinal": 106,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὕτως",
+      "lemma": [
+        "G3779"
+      ],
+      "strongs": "G3779",
+      "morph": "robinson:ADV",
+      "translation": "thus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 96,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "λέγει·",
+      "lemma": null,
+      "morph": null,
+      "translation": "speaks:",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 8,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "Not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "εἴπῃς",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAS-2S",
+      "translation": "you may say",
+      "metadata": {},
+      "gematria": {
+        "standard": 313,
+        "ordinal": 64,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 12,
+      "text": "καρδίᾳ",
+      "lemma": [
+        "G2588"
+      ],
+      "strongs": "G2588",
+      "morph": "robinson:N-DSF",
+      "translation": "heart",
+      "metadata": {},
+      "gematria": {
+        "standard": 146,
+        "ordinal": 51,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 13,
+      "text": "σου·",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you;",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 14,
+      "text": "τίς",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-NSM",
+      "translation": "Who",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀναβήσεται",
+      "lemma": [
+        "G305"
+      ],
+      "strongs": "G305",
+      "morph": "robinson:V-FDI-3S",
+      "translation": "will ascend",
+      "metadata": {},
+      "gematria": {
+        "standard": 578,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 16,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 17,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "οὐρανόν;",
+      "lemma": [
+        "G3772"
+      ],
+      "strongs": "G3772",
+      "morph": "robinson:N-ASM",
+      "translation": "heaven?’",
+      "metadata": {},
+      "gematria": {
+        "standard": 741,
+        "ordinal": 94,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 19,
+      "text": "τοῦτ᾽",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSN",
+      "translation": "That",
+      "metadata": {},
+      "gematria": {
+        "standard": 1070,
+        "ordinal": 73,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἔστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 21,
+      "text": "Χριστὸν",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-ASM-T",
+      "translation": "Christ",
+      "metadata": {},
+      "gematria": {
+        "standard": 1330,
+        "ordinal": 113,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 22,
+      "text": "καταγαγεῖν·",
+      "lemma": [
+        "G2609"
+      ],
+      "strongs": "G2609",
+      "morph": "robinson:V-2AAN",
+      "translation": "to bring down;",
+      "metadata": {},
+      "gematria": {
+        "standard": 394,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11606,
+    "ordinal": 1225,
+    "reduced": 532
+  }
+}

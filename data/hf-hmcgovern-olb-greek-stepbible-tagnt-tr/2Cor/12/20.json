@@ -1,0 +1,394 @@
+{
+  "text": "φοβοῦμαι γὰρ μή πως ἐλθὼν οὐχ οἵους θέλω εὕρω ὑμᾶς, κἀγὼ εὑρεθῶ ὑμῖν οἷον οὐ θέλετε, μή πως θυμοί, ἐριθείαι, καταλαλιαί, ψιθυρισμοί, φυσιώσεις, ἀκαταστασίαι,",
+  "words": [
+    {
+      "position": 1,
+      "text": "φοβοῦμαι",
+      "lemma": [
+        "G5399"
+      ],
+      "strongs": "G5399",
+      "morph": "robinson:V-PNI-1S",
+      "translation": "I fear",
+      "metadata": {},
+      "gematria": {
+        "standard": 1093,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 2,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "μή",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "lest",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "πως",
+      "lemma": [
+        "G4458"
+      ],
+      "strongs": "G4458",
+      "morph": "robinson:PRT",
+      "translation": "perhaps",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐλθὼν",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having come",
+      "metadata": {},
+      "gematria": {
+        "standard": 894,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὐχ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 1070,
+        "ordinal": 57,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "οἵους",
+      "lemma": [
+        "G3634"
+      ],
+      "strongs": "G3634",
+      "morph": "robinson:K-APM",
+      "translation": "such as",
+      "metadata": {},
+      "gematria": {
+        "standard": 750,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 8,
+      "text": "θέλω",
+      "lemma": [
+        "G2309"
+      ],
+      "strongs": "G2309",
+      "morph": "robinson:V-PAI-1S",
+      "translation": "I wish",
+      "metadata": {},
+      "gematria": {
+        "standard": 844,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 9,
+      "text": "εὕρω",
+      "lemma": [
+        "G2147"
+      ],
+      "strongs": "G2147",
+      "morph": "robinson:V-2AAS-1S",
+      "translation": "I may find",
+      "metadata": {},
+      "gematria": {
+        "standard": 1305,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὑμᾶς,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "κἀγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS + G2532=CONJ",
+      "translation": "and I myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "εὑρεθῶ",
+      "lemma": [
+        "G2147"
+      ],
+      "strongs": "G2147",
+      "morph": "robinson:V-APS-1S",
+      "translation": "may be found",
+      "metadata": {},
+      "gematria": {
+        "standard": 1319,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "by you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 14,
+      "text": "οἷον",
+      "lemma": [
+        "G3634"
+      ],
+      "strongs": "G3634",
+      "morph": "robinson:K-ASM",
+      "translation": "such as",
+      "metadata": {},
+      "gematria": {
+        "standard": 200,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 15,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 16,
+      "text": "θέλετε,",
+      "lemma": [
+        "G2309"
+      ],
+      "strongs": "G2309",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "you do wish,",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 17,
+      "text": "μή",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "lest",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 18,
+      "text": "πως",
+      "lemma": [
+        "G4458"
+      ],
+      "strongs": "G4458",
+      "morph": "robinson:PRT",
+      "translation": "perhaps",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 19,
+      "text": "θυμοί,",
+      "lemma": [
+        "G2372"
+      ],
+      "strongs": "G2372",
+      "morph": "robinson:N-NPM",
+      "translation": "anger,",
+      "metadata": {},
+      "gematria": {
+        "standard": 529,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐριθείαι,",
+      "lemma": [
+        "G2052"
+      ],
+      "strongs": "G2052",
+      "morph": "robinson:N-NPF",
+      "translation": "contentions",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 63,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 21,
+      "text": "καταλαλιαί,",
+      "lemma": [
+        "G2636"
+      ],
+      "strongs": "G2636",
+      "morph": "robinson:N-NPF",
+      "translation": "slander,",
+      "metadata": {},
+      "gematria": {
+        "standard": 404,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 22,
+      "text": "ψιθυρισμοί,",
+      "lemma": [
+        "G5587"
+      ],
+      "strongs": "G5587",
+      "morph": "robinson:N-NPM",
+      "translation": "gossip,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1549,
+        "ordinal": 140,
+        "reduced": 68
+      }
+    },
+    {
+      "position": 23,
+      "text": "φυσιώσεις,",
+      "lemma": [
+        "G5450"
+      ],
+      "strongs": "G5450",
+      "morph": "robinson:N-NPF",
+      "translation": "conceit,",
+      "metadata": {},
+      "gematria": {
+        "standard": 2325,
+        "ordinal": 142,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἀκαταστασίαι,",
+      "lemma": [
+        "G181"
+      ],
+      "strongs": "G181",
+      "morph": "robinson:N-NPF",
+      "translation": "disorder,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1045,
+        "ordinal": 107,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 18626,
+    "ordinal": 1530,
+    "reduced": 639
+  }
+}

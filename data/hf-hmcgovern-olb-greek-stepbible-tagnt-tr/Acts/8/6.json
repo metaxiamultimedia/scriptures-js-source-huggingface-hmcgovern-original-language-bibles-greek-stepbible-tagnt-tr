@@ -1,0 +1,302 @@
+{
+  "text": "προσεῖχον οἱ ὄχλοι τοῖς λεγομένοις ὑπὸ τοῦ Φιλίππου ὁμοθυμαδὸν ἐν τῷ ἀκούειν αὐτοὺς καὶ βλέπειν τὰ σημεῖα ἃ ἐποίει·",
+  "words": [
+    {
+      "position": 1,
+      "text": "προσεῖχον",
+      "lemma": [
+        "G4337"
+      ],
+      "strongs": "G4337",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "Were giving heed",
+      "metadata": {},
+      "gematria": {
+        "standard": 1185,
+        "ordinal": 130,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 2,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὄχλοι",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-NPM",
+      "translation": "crowds",
+      "metadata": {},
+      "gematria": {
+        "standard": 780,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPN",
+      "translation": "to the [things]",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "λεγομένοις",
+      "lemma": null,
+      "morph": null,
+      "translation": "being spoken",
+      "metadata": {},
+      "gematria": {
+        "standard": 483,
+        "ordinal": 106,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑπὸ",
+      "lemma": null,
+      "morph": null,
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "Φιλίππου",
+      "lemma": null,
+      "morph": null,
+      "translation": "Philip",
+      "metadata": {},
+      "gematria": {
+        "standard": 1180,
+        "ordinal": 117,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὁμοθυμαδὸν",
+      "lemma": [
+        "G3661"
+      ],
+      "strongs": "G3661",
+      "morph": "robinson:ADV",
+      "translation": "with one accord",
+      "metadata": {},
+      "gematria": {
+        "standard": 754,
+        "ordinal": 115,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "the [time]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀκούειν",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-PAN",
+      "translation": "to hear",
+      "metadata": {},
+      "gematria": {
+        "standard": 556,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτοὺς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APM",
+      "translation": "them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 93,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "βλέπειν",
+      "lemma": [
+        "G991"
+      ],
+      "strongs": "G991",
+      "morph": "robinson:V-PAN",
+      "translation": "to see",
+      "metadata": {},
+      "gematria": {
+        "standard": 182,
+        "ordinal": 61,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 16,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 17,
+      "text": "σημεῖα",
+      "lemma": [
+        "G4592"
+      ],
+      "strongs": "G4592",
+      "morph": "robinson:N-APN",
+      "translation": "signs",
+      "metadata": {},
+      "gematria": {
+        "standard": 264,
+        "ordinal": 52,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-APN",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐποίει·",
+      "lemma": null,
+      "morph": null,
+      "translation": "he was performing;",
+      "metadata": {},
+      "gematria": {
+        "standard": 180,
+        "ordinal": 59,
+        "reduced": 41
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10413,
+    "ordinal": 1179,
+    "reduced": 486
+  }
+}

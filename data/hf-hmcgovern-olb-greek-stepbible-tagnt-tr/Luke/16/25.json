@@ -1,0 +1,401 @@
+{
+  "text": "Εἶπεν δὲ Ἀβραάμ· τέκνον, μνήσθητι ὅτι ἀπέλαβες τὰ ἀγαθά σου ἐν τῇ ζωῇ σου, καὶ Λάζαρος ὁμοίως τὰ κακά. νῦν δὲ παρακαλεῖται, σὺ δὲ ὀδυνᾶσαι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "Said",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἀβραάμ·",
+      "lemma": [
+        "G11"
+      ],
+      "strongs": "G11",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Abraham;",
+      "metadata": {},
+      "gematria": {
+        "standard": 145,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "τέκνον,",
+      "lemma": [
+        "G5043"
+      ],
+      "strongs": "G5043",
+      "morph": "robinson:N-VSN",
+      "translation": "Child,",
+      "metadata": {},
+      "gematria": {
+        "standard": 495,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "μνήσθητι",
+      "lemma": [
+        "G3403"
+      ],
+      "strongs": "G3403",
+      "morph": "robinson:V-APM-2S",
+      "translation": "do remember",
+      "metadata": {},
+      "gematria": {
+        "standard": 625,
+        "ordinal": 93,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀπέλαβες",
+      "lemma": [
+        "G618"
+      ],
+      "strongs": "G618",
+      "morph": "robinson:V-2AAI-2S",
+      "translation": "you did fully receive",
+      "metadata": {},
+      "gematria": {
+        "standard": 324,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the [things]",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀγαθά",
+      "lemma": [
+        "G18"
+      ],
+      "strongs": "G18",
+      "morph": "robinson:A-APN",
+      "translation": "good",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "σου",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 13,
+      "text": "ζωῇ",
+      "lemma": [
+        "G2222"
+      ],
+      "strongs": "G2222",
+      "morph": "robinson:N-DSF",
+      "translation": "lifetime",
+      "metadata": {},
+      "gematria": {
+        "standard": 825,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 14,
+      "text": "σου,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "Λάζαρος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lazarus",
+      "metadata": {},
+      "gematria": {
+        "standard": 409,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὁμοίως",
+      "lemma": [
+        "G3668"
+      ],
+      "strongs": "G3668",
+      "morph": "robinson:ADV",
+      "translation": "likewise",
+      "metadata": {},
+      "gematria": {
+        "standard": 1190,
+        "ordinal": 93,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 18,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the [things]",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 19,
+      "text": "κακά.",
+      "lemma": null,
+      "morph": null,
+      "translation": "harmful.",
+      "metadata": {},
+      "gematria": {
+        "standard": 42,
+        "ordinal": 22,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 20,
+      "text": "νῦν",
+      "lemma": [
+        "G3568"
+      ],
+      "strongs": "G3568",
+      "morph": "robinson:ADV",
+      "translation": "Now",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 46,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 21,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 22,
+      "text": "παρακαλεῖται,",
+      "lemma": [
+        "G3870"
+      ],
+      "strongs": "G3870",
+      "morph": "robinson:V-PPI-3S",
+      "translation": "he is comforted,",
+      "metadata": {},
+      "gematria": {
+        "standard": 559,
+        "ordinal": 100,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 23,
+      "text": "σὺ",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NS",
+      "translation": "you yourself",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 24,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 25,
+      "text": "ὀδυνᾶσαι.",
+      "lemma": [
+        "G3600"
+      ],
+      "strongs": "G3600",
+      "morph": "robinson:V-PMI-2S",
+      "translation": "are suffering.",
+      "metadata": {},
+      "gematria": {
+        "standard": 736,
+        "ordinal": 81,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9368,
+    "ordinal": 1107,
+    "reduced": 486
+  }
+}

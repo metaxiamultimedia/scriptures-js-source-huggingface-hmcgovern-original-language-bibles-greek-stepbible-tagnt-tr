@@ -1,0 +1,183 @@
+{
+  "text": "ὅτι κατηριθμημένος ἦν ἡμῖν καὶ ἔλαχεν τὸν κλῆρον τῆς διακονίας ταύτης.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "κατηριθμημένος",
+      "lemma": [
+        "G2674"
+      ],
+      "strongs": "G2674",
+      "morph": "robinson:V-RPP-NSM",
+      "translation": "numbered",
+      "metadata": {},
+      "gematria": {
+        "standard": 861,
+        "ordinal": 153,
+        "reduced": 72
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "he was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἡμῖν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DP",
+      "translation": "us",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἔλαχεν",
+      "lemma": [
+        "G2975"
+      ],
+      "strongs": "G2975",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "was allotted",
+      "metadata": {},
+      "gematria": {
+        "standard": 691,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "κλῆρον",
+      "lemma": [
+        "G2819"
+      ],
+      "strongs": "G2819",
+      "morph": "robinson:N-ASM",
+      "translation": "share",
+      "metadata": {},
+      "gematria": {
+        "standard": 278,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
+      "text": "διακονίας",
+      "lemma": [
+        "G1248"
+      ],
+      "strongs": "G1248",
+      "morph": "robinson:N-GSF",
+      "translation": "ministry",
+      "metadata": {},
+      "gematria": {
+        "standard": 366,
+        "ordinal": 80,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 11,
+      "text": "ταύτης.",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-GSF",
+      "translation": "this.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1209,
+        "ordinal": 84,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4910,
+    "ordinal": 662,
+    "reduced": 275
+  }
+}

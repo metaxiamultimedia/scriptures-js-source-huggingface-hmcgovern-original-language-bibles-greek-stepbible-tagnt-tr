@@ -1,0 +1,180 @@
+{
+  "text": "Παῦλος ἀπόστολος Χριστοῦ Ἰησοῦ διὰ θελήματος θεοῦ καὶ Τιμόθεος ὁ ἀδελφὸς",
+  "words": [
+    {
+      "position": 1,
+      "text": "Παῦλος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Paul",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀπόστολος",
+      "lemma": [
+        "G652"
+      ],
+      "strongs": "G652",
+      "morph": "robinson:N-NSM",
+      "translation": "an apostle",
+      "metadata": {},
+      "gematria": {
+        "standard": 1021,
+        "ordinal": 128,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 3,
+      "text": "Χριστοῦ",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of Christ",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἰησοῦ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "θελήματος",
+      "lemma": [
+        "G2307"
+      ],
+      "strongs": "G2307",
+      "morph": "robinson:N-GSN",
+      "translation": "[the] will",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 96,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 7,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "Τιμόθεος",
+      "lemma": [
+        "G5095"
+      ],
+      "strongs": "G5095",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Timothy",
+      "metadata": {},
+      "gematria": {
+        "standard": 704,
+        "ordinal": 101,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἀδελφὸς",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-NSM",
+      "translation": "brother",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6947,
+    "ordinal": 767,
+    "reduced": 317
+  }
+}

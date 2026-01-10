@@ -1,0 +1,186 @@
+{
+  "text": "ἀσπάσασθε Ἀπελλῆν τὸν δόκιμον ἐν Χριστῷ. ἀσπάσασθε τοὺς ἐκ τῶν Ἀριστοβούλου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀσπάσασθε",
+      "lemma": [
+        "G782"
+      ],
+      "strongs": "G782",
+      "morph": "robinson:V-ADM-2P",
+      "translation": "do greet",
+      "metadata": {},
+      "gematria": {
+        "standard": 697,
+        "ordinal": 86,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 2,
+      "text": "Ἀπελλῆν",
+      "lemma": [
+        "G559"
+      ],
+      "strongs": "G559",
+      "morph": "robinson:N-ASM-P",
+      "translation": "Apelles",
+      "metadata": {},
+      "gematria": {
+        "standard": 204,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "δόκιμον",
+      "lemma": [
+        "G1384"
+      ],
+      "strongs": "G1384",
+      "morph": "robinson:A-ASM",
+      "translation": "approved",
+      "metadata": {},
+      "gematria": {
+        "standard": 264,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "Χριστῷ.",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-DSM-T",
+      "translation": "Christ.",
+      "metadata": {},
+      "gematria": {
+        "standard": 2020,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀσπάσασθε",
+      "lemma": [
+        "G782"
+      ],
+      "strongs": "G782",
+      "morph": "robinson:V-ADM-2P",
+      "translation": "do greet",
+      "metadata": {},
+      "gematria": {
+        "standard": 697,
+        "ordinal": 86,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "the [household]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "Ἀριστοβούλου.",
+      "lemma": [
+        "G711"
+      ],
+      "strongs": "G711",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of Aristobulus.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1653,
+        "ordinal": 162,
+        "reduced": 54
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8155,
+    "ordinal": 802,
+    "reduced": 316
+  }
+}

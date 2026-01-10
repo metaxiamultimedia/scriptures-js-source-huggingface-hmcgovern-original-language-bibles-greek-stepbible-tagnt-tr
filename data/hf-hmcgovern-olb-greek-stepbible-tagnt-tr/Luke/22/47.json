@@ -1,0 +1,305 @@
+{
+  "text": "Ἔτι αὐτοῦ λαλοῦντος ἰδοὺ ὄχλος, καὶ ὁ λεγόμενος Ἰούδας εἷς τῶν δώδεκα προήρχετο καὶ ἤγγισεν τῷ Ἰησοῦ φιλῆσαι αὐτόν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἔτι",
+      "lemma": [
+        "G2089"
+      ],
+      "strongs": "G2089",
+      "morph": "robinson:ADV",
+      "translation": "While still",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "when he",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "λαλοῦντος",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-PAP-GSM",
+      "translation": "is speaking",
+      "metadata": {},
+      "gematria": {
+        "standard": 1151,
+        "ordinal": 123,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἰδοὺ",
+      "lemma": [
+        "G2400"
+      ],
+      "strongs": "G2400",
+      "morph": "robinson:INJ",
+      "translation": "behold",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὄχλος,",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-NSM",
+      "translation": "a crowd,",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "λεγόμενος",
+      "lemma": null,
+      "morph": null,
+      "translation": "named",
+      "metadata": {},
+      "gematria": {
+        "standard": 473,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 9,
+      "text": "Ἰούδας",
+      "lemma": null,
+      "morph": null,
+      "translation": "Judas",
+      "metadata": {},
+      "gematria": {
+        "standard": 685,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 10,
+      "text": "εἷς",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-NSM",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "δώδεκα",
+      "lemma": [
+        "G1427"
+      ],
+      "strongs": "G1427",
+      "morph": "robinson:A-NUI",
+      "translation": "Twelve",
+      "metadata": {},
+      "gematria": {
+        "standard": 834,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 13,
+      "text": "προήρχετο",
+      "lemma": [
+        "G4281"
+      ],
+      "strongs": "G4281",
+      "morph": "robinson:V-INI-3S",
+      "translation": "was going before",
+      "metadata": {},
+      "gematria": {
+        "standard": 1333,
+        "ordinal": 133,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἤγγισεν",
+      "lemma": [
+        "G1448"
+      ],
+      "strongs": "G1448",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he drew near",
+      "metadata": {},
+      "gematria": {
+        "standard": 279,
+        "ordinal": 58,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 16,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 17,
+      "text": "Ἰησοῦ",
+      "lemma": null,
+      "morph": null,
+      "translation": "to Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 18,
+      "text": "φιλῆσαι",
+      "lemma": [
+        "G5368"
+      ],
+      "strongs": "G5368",
+      "morph": "robinson:V-AAN",
+      "translation": "to kiss",
+      "metadata": {},
+      "gematria": {
+        "standard": 759,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 19,
+      "text": "αὐτόν.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12570,
+    "ordinal": 1171,
+    "reduced": 460
+  }
+}

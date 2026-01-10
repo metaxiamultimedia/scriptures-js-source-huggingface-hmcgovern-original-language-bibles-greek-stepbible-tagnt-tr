@@ -1,0 +1,388 @@
+{
+  "text": "λέγοντες φωνῇ μεγάλῃ· ἄξιόν ἐστιν τὸ ἀρνίον τὸ ἐσφαγμένον λαβεῖν τὴν δύναμιν καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν καὶ τιμὴν καὶ δόξαν καὶ εὐλογίαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "λέγοντες",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 2,
+      "text": "φωνῇ",
+      "lemma": null,
+      "morph": null,
+      "translation": "in a voice",
+      "metadata": {},
+      "gematria": {
+        "standard": 1368,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "μεγάλῃ·",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-DSF",
+      "translation": "loud:",
+      "metadata": {},
+      "gematria": {
+        "standard": 97,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἄξιόν",
+      "lemma": [
+        "G514"
+      ],
+      "strongs": "G514",
+      "morph": "robinson:A-NSN",
+      "translation": "Worthy",
+      "metadata": {},
+      "gematria": {
+        "standard": 191,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀρνίον",
+      "lemma": [
+        "G721"
+      ],
+      "strongs": "G721",
+      "morph": "robinson:N-NSN",
+      "translation": "Lamb",
+      "metadata": {},
+      "gematria": {
+        "standard": 281,
+        "ordinal": 68,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐσφαγμένον",
+      "lemma": [
+        "G4969"
+      ],
+      "strongs": "G4969",
+      "morph": "robinson:V-RPP-NSN",
+      "translation": "slain",
+      "metadata": {},
+      "gematria": {
+        "standard": 924,
+        "ordinal": 106,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 10,
+      "text": "λαβεῖν",
+      "lemma": [
+        "G2983"
+      ],
+      "strongs": "G2983",
+      "morph": "robinson:V-2AAN",
+      "translation": "to receive",
+      "metadata": {},
+      "gematria": {
+        "standard": 98,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
+      "text": "δύναμιν",
+      "lemma": [
+        "G1411"
+      ],
+      "strongs": "G1411",
+      "morph": "robinson:N-ASF",
+      "translation": "power",
+      "metadata": {},
+      "gematria": {
+        "standard": 555,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "πλοῦτον",
+      "lemma": [
+        "G4149"
+      ],
+      "strongs": "G4149",
+      "morph": "robinson:N-ASM",
+      "translation": "riches",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 109,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "σοφίαν",
+      "lemma": [
+        "G4678"
+      ],
+      "strongs": "G4678",
+      "morph": "robinson:N-ASF",
+      "translation": "wisdom",
+      "metadata": {},
+      "gematria": {
+        "standard": 831,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 17,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἰσχὺν",
+      "lemma": [
+        "G2479"
+      ],
+      "strongs": "G2479",
+      "morph": "robinson:N-ASF",
+      "translation": "strength",
+      "metadata": {},
+      "gematria": {
+        "standard": 1260,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 19,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "τιμὴν",
+      "lemma": [
+        "G5092"
+      ],
+      "strongs": "G5092",
+      "morph": "robinson:N-ASF",
+      "translation": "honor",
+      "metadata": {},
+      "gematria": {
+        "standard": 408,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 21,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "δόξαν",
+      "lemma": [
+        "G1391"
+      ],
+      "strongs": "G1391",
+      "morph": "robinson:N-ASF",
+      "translation": "glory",
+      "metadata": {},
+      "gematria": {
+        "standard": 185,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 23,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 24,
+      "text": "εὐλογίαν.",
+      "lemma": [
+        "G2129"
+      ],
+      "strongs": "G2129",
+      "morph": "robinson:N-ASF",
+      "translation": "blessing!",
+      "metadata": {},
+      "gematria": {
+        "standard": 569,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10279,
+    "ordinal": 1293,
+    "reduced": 528
+  }
+}

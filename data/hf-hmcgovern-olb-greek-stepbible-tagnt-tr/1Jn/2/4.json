@@ -1,0 +1,308 @@
+{
+  "text": "Ὁ λέγων ἔγνωκα αὐτὸν καὶ τὰς ἐντολὰς αὐτοῦ μὴ τηρῶν, ψεύστης ἐστίν, καὶ ἐν τούτῳ ἡ ἀλήθεια οὐκ ἔστιν·",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "λέγων",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἔγνωκα",
+      "lemma": [
+        "G1097"
+      ],
+      "strongs": "G1097",
+      "morph": "robinson:V-RAI-1S",
+      "translation": "I have known",
+      "metadata": {},
+      "gematria": {
+        "standard": 879,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐντολὰς",
+      "lemma": [
+        "G1785"
+      ],
+      "strongs": "G1785",
+      "morph": "robinson:N-APF",
+      "translation": "commandments",
+      "metadata": {},
+      "gematria": {
+        "standard": 656,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "τηρῶν,",
+      "lemma": null,
+      "morph": null,
+      "translation": "keeping,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1258,
+        "ordinal": 80,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 11,
+      "text": "ψεύστης",
+      "lemma": [
+        "G5583"
+      ],
+      "strongs": "G5583",
+      "morph": "robinson:N-NSM",
+      "translation": "a liar",
+      "metadata": {},
+      "gematria": {
+        "standard": 1813,
+        "ordinal": 110,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐστίν,",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "he is,",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "τούτῳ",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-DSM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1880,
+        "ordinal": 106,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀλήθεια",
+      "lemma": [
+        "G225"
+      ],
+      "strongs": "G225",
+      "morph": "robinson:N-NSF",
+      "translation": "truth",
+      "metadata": {},
+      "gematria": {
+        "standard": 64,
+        "ordinal": 42,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 18,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἔστιν·",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is;",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11794,
+    "ordinal": 985,
+    "reduced": 346
+  }
+}

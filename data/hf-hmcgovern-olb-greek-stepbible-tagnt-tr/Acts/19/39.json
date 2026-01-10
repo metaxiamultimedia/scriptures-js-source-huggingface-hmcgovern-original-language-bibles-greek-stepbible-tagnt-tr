@@ -1,0 +1,167 @@
+{
+  "text": "εἰ δέ τι περαιτέρω ἐπιζητεῖτε, ἐν τῇ ἐννόμῳ ἐκκλησίᾳ ἐπιλυθήσεται.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δέ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τι",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-ASN",
+      "translation": "anything",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "περαιτέρω",
+      "lemma": [
+        "G6071"
+      ],
+      "strongs": "G6071",
+      "morph": "robinson:ADV",
+      "translation": "beyond this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1401,
+        "ordinal": 113,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐπιζητεῖτε,",
+      "lemma": [
+        "G1934"
+      ],
+      "strongs": "G1934",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "you inquire,",
+      "metadata": {},
+      "gematria": {
+        "standard": 730,
+        "ordinal": 100,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐννόμῳ",
+      "lemma": [
+        "G1772"
+      ],
+      "strongs": "G1772",
+      "morph": "robinson:A-DSF",
+      "translation": "lawful",
+      "metadata": {},
+      "gematria": {
+        "standard": 1025,
+        "ordinal": 91,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐκκλησίᾳ",
+      "lemma": [
+        "G1577"
+      ],
+      "strongs": "G1577",
+      "morph": "robinson:N-DSF",
+      "translation": "assembly",
+      "metadata": {},
+      "gematria": {
+        "standard": 304,
+        "ordinal": 80,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐπιλυθήσεται.",
+      "lemma": [
+        "G1956"
+      ],
+      "strongs": "G1956",
+      "morph": "robinson:V-FPI-3S",
+      "translation": "it will be solved.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1058,
+        "ordinal": 128,
+        "reduced": 65
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5225,
+    "ordinal": 616,
+    "reduced": 310
+  }
+}

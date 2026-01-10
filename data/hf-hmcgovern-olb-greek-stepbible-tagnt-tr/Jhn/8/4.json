@@ -1,0 +1,148 @@
+{
+  "text": "λέγουσιν αὐτῷ, διδάσκαλε, αὕτη ἡ γυνὴ κατείληφθη αὐτοφώρῳ μοιχευομένη·",
+  "words": [
+    {
+      "position": 1,
+      "text": "λέγουσιν",
+      "lemma": null,
+      "morph": null,
+      "translation": "they say",
+      "metadata": {},
+      "gematria": {
+        "standard": 768,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 2,
+      "text": "αὐτῷ,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to Him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "διδάσκαλε,",
+      "lemma": [
+        "G1320"
+      ],
+      "strongs": "G1320",
+      "morph": "robinson:N-VSM-T",
+      "translation": "Teacher,",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 4,
+      "text": "αὕτη",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSF",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "γυνὴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "woman",
+      "metadata": {},
+      "gematria": {
+        "standard": 461,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "κατείληφθη",
+      "lemma": [
+        "G2638"
+      ],
+      "strongs": "G2638",
+      "morph": "robinson:V-2API-3S",
+      "translation": "was grasped",
+      "metadata": {},
+      "gematria": {
+        "standard": 891,
+        "ordinal": 98,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτοφώρῳ",
+      "lemma": [
+        "G1888"
+      ],
+      "strongs": "G1888",
+      "morph": "robinson:A-DSM",
+      "translation": "[the] very act",
+      "metadata": {},
+      "gematria": {
+        "standard": 2981,
+        "ordinal": 150,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 9,
+      "text": "μοιχευομένη·",
+      "lemma": [
+        "G3431"
+      ],
+      "strongs": "G3431",
+      "morph": "robinson:V-PPP-NSF",
+      "translation": "committing adultery;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1298,
+        "ordinal": 135,
+        "reduced": 54
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8902,
+    "ordinal": 710,
+    "reduced": 269
+  }
+}

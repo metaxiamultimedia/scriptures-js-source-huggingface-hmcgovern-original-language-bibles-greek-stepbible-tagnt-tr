@@ -1,0 +1,305 @@
+{
+  "text": "οἱ δὲ ἐπίσχυον λέγοντες ὅτι ἀνασείει τὸν λαὸν διδάσκων καθ᾽ ὅλης τῆς Ἰουδαίας ἀρξάμενος ἀπὸ τῆς Γαλιλαίας ἕως ὧδε.",
+  "words": [
+    {
+      "position": 1,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "But",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐπίσχυον",
+      "lemma": [
+        "G2001"
+      ],
+      "strongs": "G2001",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "they were insisting",
+      "metadata": {},
+      "gematria": {
+        "standard": 1415,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 4,
+      "text": "λέγοντες",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀνασείει",
+      "lemma": [
+        "G383"
+      ],
+      "strongs": "G383",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "He stirs up",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 61,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 7,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "λαὸν",
+      "lemma": [
+        "G2992"
+      ],
+      "strongs": "G2992",
+      "morph": "robinson:N-ASM",
+      "translation": "people",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 40,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 9,
+      "text": "διδάσκων",
+      "lemma": [
+        "G1321"
+      ],
+      "strongs": "G1321",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "teaching",
+      "metadata": {},
+      "gematria": {
+        "standard": 1089,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 10,
+      "text": "καθ᾽",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "throughout",
+      "metadata": {},
+      "gematria": {
+        "standard": 30,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὅλης",
+      "lemma": [
+        "G3650"
+      ],
+      "strongs": "G3650",
+      "morph": "robinson:A-GSF",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 308,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 12,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 13,
+      "text": "Ἰουδαίας",
+      "lemma": [
+        "G2449"
+      ],
+      "strongs": "G2449",
+      "morph": "robinson:N-GSF-L",
+      "translation": "of Judea",
+      "metadata": {},
+      "gematria": {
+        "standard": 696,
+        "ordinal": 77,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀρξάμενος",
+      "lemma": [
+        "G757"
+      ],
+      "strongs": "G757",
+      "morph": "robinson:V-AMP-NSM",
+      "translation": "He has begun",
+      "metadata": {},
+      "gematria": {
+        "standard": 527,
+        "ordinal": 96,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 17,
+      "text": "Γαλιλαίας",
+      "lemma": null,
+      "morph": null,
+      "translation": "Galilee",
+      "metadata": {},
+      "gematria": {
+        "standard": 286,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἕως",
+      "lemma": [
+        "G2193"
+      ],
+      "strongs": "G2193",
+      "morph": "robinson:PREP",
+      "translation": "until",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὧδε.",
+      "lemma": [
+        "G5602"
+      ],
+      "strongs": "G5602",
+      "morph": "robinson:ADV",
+      "translation": "here.",
+      "metadata": {},
+      "gematria": {
+        "standard": 809,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9317,
+    "ordinal": 1021,
+    "reduced": 463
+  }
+}

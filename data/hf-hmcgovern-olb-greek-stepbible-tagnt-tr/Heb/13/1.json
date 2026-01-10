@@ -1,0 +1,58 @@
+{
+  "text": "Ἡ φιλαδελφία μενέτω.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "φιλαδελφία",
+      "lemma": [
+        "G5360"
+      ],
+      "strongs": "G5360",
+      "morph": "robinson:N-NSF",
+      "translation": "Brotherly love",
+      "metadata": {},
+      "gematria": {
+        "standard": 1091,
+        "ordinal": 93,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 3,
+      "text": "μενέτω.",
+      "lemma": [
+        "G3306"
+      ],
+      "strongs": "G3306",
+      "morph": "robinson:V-PAM-3S",
+      "translation": "should abide.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1200,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2299,
+    "ordinal": 178,
+    "reduced": 70
+  }
+}

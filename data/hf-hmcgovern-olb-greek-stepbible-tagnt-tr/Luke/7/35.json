@@ -1,0 +1,154 @@
+{
+  "text": "καὶ ἐδικαιώθη ἡ σοφία ἀπὸ πάντων τῶν τέκνων αὐτῆς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐδικαιώθη",
+      "lemma": [
+        "G1344"
+      ],
+      "strongs": "G1344",
+      "morph": "robinson:V-API-3S",
+      "translation": "was justified",
+      "metadata": {},
+      "gematria": {
+        "standard": 867,
+        "ordinal": 77,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "σοφία",
+      "lemma": [
+        "G4678"
+      ],
+      "strongs": "G4678",
+      "morph": "robinson:N-NSF",
+      "translation": "wisdom",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "πάντων",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-GPN",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 1281,
+        "ordinal": 86,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "τέκνων",
+      "lemma": [
+        "G5043"
+      ],
+      "strongs": "G5043",
+      "morph": "robinson:N-GPN",
+      "translation": "children",
+      "metadata": {},
+      "gematria": {
+        "standard": 1225,
+        "ordinal": 84,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 9,
+      "text": "αὐτῆς.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "of her.",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6403,
+    "ordinal": 491,
+    "reduced": 185
+  }
+}

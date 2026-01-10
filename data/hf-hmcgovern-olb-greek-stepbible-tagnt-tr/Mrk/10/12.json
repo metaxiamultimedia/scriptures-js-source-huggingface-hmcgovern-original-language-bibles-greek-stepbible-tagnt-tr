@@ -1,0 +1,119 @@
+{
+  "text": "καὶ ἐὰν αὐτὴ τὸν ἄνδρα αὐτῆς μοιχᾶται.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτὴ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NSF",
+      "translation": "she",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἄνδρα",
+      "lemma": null,
+      "morph": null,
+      "translation": "husband",
+      "metadata": {},
+      "gematria": {
+        "standard": 156,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτῆς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "of her",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "μοιχᾶται.",
+      "lemma": [
+        "G3429"
+      ],
+      "strongs": "G3429",
+      "morph": "robinson:V-PNI-3S",
+      "translation": "she commits adultery.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1032,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3313,
+    "ordinal": 322,
+    "reduced": 115
+  }
+}

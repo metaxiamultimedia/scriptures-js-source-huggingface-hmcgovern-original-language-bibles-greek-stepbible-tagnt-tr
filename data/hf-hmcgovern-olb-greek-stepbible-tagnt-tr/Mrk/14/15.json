@@ -1,0 +1,186 @@
+{
+  "text": "καὶ αὐτὸς ὑμῖν δείξει ἀνάγαιον μέγα ἐστρωμένον ἕτοιμον· ἐκεῖ ἑτοιμάσατε ἡμῖν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "αὐτὸς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NSM",
+      "translation": "he himself",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "δείξει",
+      "lemma": [
+        "G1166"
+      ],
+      "strongs": "G1166",
+      "morph": "robinson:V-FAI-3S",
+      "translation": "will show",
+      "metadata": {},
+      "gematria": {
+        "standard": 94,
+        "ordinal": 46,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀνάγαιον",
+      "lemma": [
+        "G508"
+      ],
+      "strongs": "G508",
+      "morph": "robinson:N-ASN",
+      "translation": "an upper room",
+      "metadata": {},
+      "gematria": {
+        "standard": 186,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "μέγα",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-ASN",
+      "translation": "large",
+      "metadata": {},
+      "gematria": {
+        "standard": 49,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐστρωμένον",
+      "lemma": [
+        "G4766"
+      ],
+      "strongs": "G4766",
+      "morph": "robinson:V-RPP-ASN",
+      "translation": "furnished",
+      "metadata": {},
+      "gematria": {
+        "standard": 1620,
+        "ordinal": 141,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἕτοιμον·",
+      "lemma": [
+        "G2092"
+      ],
+      "strongs": "G2092",
+      "morph": "robinson:A-ASN",
+      "translation": "[and] ready;",
+      "metadata": {},
+      "gematria": {
+        "standard": 545,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐκεῖ",
+      "lemma": [
+        "G1563"
+      ],
+      "strongs": "G1563",
+      "morph": "robinson:ADV",
+      "translation": "there",
+      "metadata": {},
+      "gematria": {
+        "standard": 40,
+        "ordinal": 29,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἑτοιμάσατε",
+      "lemma": [
+        "G2090"
+      ],
+      "strongs": "G2090",
+      "morph": "robinson:V-AAM-2P",
+      "translation": "do prepare",
+      "metadata": {},
+      "gematria": {
+        "standard": 932,
+        "ordinal": 104,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἡμῖν.",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DP",
+      "translation": "for us.",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5076,
+    "ordinal": 673,
+    "reduced": 295
+  }
+}

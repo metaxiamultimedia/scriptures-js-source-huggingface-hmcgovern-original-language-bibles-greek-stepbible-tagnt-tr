@@ -1,0 +1,151 @@
+{
+  "text": "προσαγορευθεὶς ὑπὸ τοῦ θεοῦ ἀρχιερεὺς κατὰ τὴν τάξιν Μελχισέδεκ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "προσαγορευθεὶς",
+      "lemma": [
+        "G4316"
+      ],
+      "strongs": "G4316",
+      "morph": "robinson:V-APP-NSM",
+      "translation": "having been designated",
+      "metadata": {},
+      "gematria": {
+        "standard": 1253,
+        "ordinal": 167,
+        "reduced": 86
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὑπὸ",
+      "lemma": null,
+      "morph": null,
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀρχιερεὺς",
+      "lemma": [
+        "G749"
+      ],
+      "strongs": "G749",
+      "morph": "robinson:N-NSM",
+      "translation": "a high priest",
+      "metadata": {},
+      "gematria": {
+        "standard": 1421,
+        "ordinal": 114,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 6,
+      "text": "κατὰ",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "according to",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 31,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 8,
+      "text": "τάξιν",
+      "lemma": [
+        "G5010"
+      ],
+      "strongs": "G5010",
+      "morph": "robinson:N-ASF",
+      "translation": "order",
+      "metadata": {},
+      "gematria": {
+        "standard": 421,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 9,
+      "text": "Μελχισέδεκ.",
+      "lemma": [
+        "G3198"
+      ],
+      "strongs": "G3198",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of Melchizedek.",
+      "metadata": {},
+      "gematria": {
+        "standard": 919,
+        "ordinal": 101,
+        "reduced": 47
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6498,
+    "ordinal": 661,
+    "reduced": 265
+  }
+}

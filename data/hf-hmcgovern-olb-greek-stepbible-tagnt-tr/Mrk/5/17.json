@@ -1,0 +1,154 @@
+{
+  "text": "καὶ ἤρξαντο παρακαλεῖν αὐτὸν ἀπελθεῖν ἀπὸ τῶν ὁρίων αὐτῶν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἤρξαντο",
+      "lemma": [
+        "G757"
+      ],
+      "strongs": "G757",
+      "morph": "robinson:V-ADI-3P",
+      "translation": "they began",
+      "metadata": {},
+      "gematria": {
+        "standard": 589,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 3,
+      "text": "παρακαλεῖν",
+      "lemma": [
+        "G3870"
+      ],
+      "strongs": "G3870",
+      "morph": "robinson:V-PAN",
+      "translation": "to implore",
+      "metadata": {},
+      "gematria": {
+        "standard": 298,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 4,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀπελθεῖν",
+      "lemma": [
+        "G565"
+      ],
+      "strongs": "G565",
+      "morph": "robinson:V-2AAN",
+      "translation": "to depart",
+      "metadata": {},
+      "gematria": {
+        "standard": 190,
+        "ordinal": 68,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὁρίων",
+      "lemma": [
+        "G3725"
+      ],
+      "strongs": "G3725",
+      "morph": "robinson:N-GPN",
+      "translation": "region",
+      "metadata": {},
+      "gematria": {
+        "standard": 1030,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 9,
+      "text": "αὐτῶν.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "of them.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5811,
+    "ordinal": 569,
+    "reduced": 209
+  }
+}

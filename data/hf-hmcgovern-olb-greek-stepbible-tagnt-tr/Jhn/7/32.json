@@ -1,0 +1,330 @@
+{
+  "text": "ἤκουσαν οἱ Φαρισαῖοι τοῦ ὄχλου γογγύζοντος περὶ αὐτοῦ ταῦτα, καὶ ἀπέστειλαν οἱ ἀρχιερεῖς καὶ οἱ Φαρισαῖοι ὑπηρέτας ἵνα πιάσωσιν αὐτόν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἤκουσαν",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "Heard",
+      "metadata": {},
+      "gematria": {
+        "standard": 749,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "Φαρισαῖοι",
+      "lemma": [
+        "G5330"
+      ],
+      "strongs": "G5330",
+      "morph": "robinson:N-NPM-T",
+      "translation": "Pharisees",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 100,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 4,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὄχλου",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-GSM",
+      "translation": "crowd",
+      "metadata": {},
+      "gematria": {
+        "standard": 1170,
+        "ordinal": 83,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "γογγύζοντος",
+      "lemma": [
+        "G1111"
+      ],
+      "strongs": "G1111",
+      "morph": "robinson:V-PAP-GSM",
+      "translation": "murmuring",
+      "metadata": {},
+      "gematria": {
+        "standard": 1176,
+        "ordinal": 130,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 7,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "about",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "ταῦτα,",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-APN",
+      "translation": "these things,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1002,
+        "ordinal": 60,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἀπέστειλαν",
+      "lemma": [
+        "G649"
+      ],
+      "strongs": "G649",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "sent",
+      "metadata": {},
+      "gematria": {
+        "standard": 682,
+        "ordinal": 98,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 12,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἀρχιερεῖς",
+      "lemma": [
+        "G749"
+      ],
+      "strongs": "G749",
+      "morph": "robinson:N-NPM",
+      "translation": "chief priests",
+      "metadata": {},
+      "gematria": {
+        "standard": 1031,
+        "ordinal": 103,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 16,
+      "text": "Φαρισαῖοι",
+      "lemma": [
+        "G5330"
+      ],
+      "strongs": "G5330",
+      "morph": "robinson:N-NPM-T",
+      "translation": "Pharisees",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 100,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὑπηρέτας",
+      "lemma": [
+        "G5257"
+      ],
+      "strongs": "G5257",
+      "morph": "robinson:N-APM",
+      "translation": "officers",
+      "metadata": {},
+      "gematria": {
+        "standard": 1094,
+        "ordinal": 103,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 19,
+      "text": "πιάσωσιν",
+      "lemma": [
+        "G4084"
+      ],
+      "strongs": "G4084",
+      "morph": "robinson:V-AAS-3P",
+      "translation": "they may seize",
+      "metadata": {},
+      "gematria": {
+        "standard": 1351,
+        "ordinal": 108,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 20,
+      "text": "αὐτόν.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13379,
+    "ordinal": 1348,
+    "reduced": 556
+  }
+}

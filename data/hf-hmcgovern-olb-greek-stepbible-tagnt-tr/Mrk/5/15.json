@@ -1,0 +1,295 @@
+{
+  "text": "Καὶ ἔρχονται πρὸς τὸν Ἰησοῦν καὶ θεωροῦσιν τὸν δαιμονιζόμενον καθήμενον ἱματισμένον καὶ σωφρονοῦντα, τὸν ἐσχηκότα τὸν καὶ ἐφοβήθησαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἔρχονται",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-PNI-3P",
+      "translation": "they come",
+      "metadata": {},
+      "gematria": {
+        "standard": 1136,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 3,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "Ἰησοῦν",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 738,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "θεωροῦσιν",
+      "lemma": [
+        "G2334"
+      ],
+      "strongs": "G2334",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "see",
+      "metadata": {},
+      "gematria": {
+        "standard": 1644,
+        "ordinal": 129,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the [man]",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "δαιμονιζόμενον",
+      "lemma": [
+        "G1139"
+      ],
+      "strongs": "G1139",
+      "morph": "robinson:V-PNP-ASM",
+      "translation": "being demonised",
+      "metadata": {},
+      "gematria": {
+        "standard": 477,
+        "ordinal": 142,
+        "reduced": 70
+      }
+    },
+    {
+      "position": 10,
+      "text": "καθήμενον",
+      "lemma": [
+        "G2521"
+      ],
+      "strongs": "G2521",
+      "morph": "robinson:V-PNP-ASM",
+      "translation": "sitting",
+      "metadata": {},
+      "gematria": {
+        "standard": 253,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἱματισμένον",
+      "lemma": [
+        "G2439"
+      ],
+      "strongs": "G2439",
+      "morph": "robinson:V-RPP-ASM",
+      "translation": "clothed",
+      "metadata": {},
+      "gematria": {
+        "standard": 776,
+        "ordinal": 126,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "σωφρονοῦντα,",
+      "lemma": [
+        "G4993"
+      ],
+      "strongs": "G4993",
+      "morph": "robinson:V-PAP-ASM",
+      "translation": "sound minded,",
+      "metadata": {},
+      "gematria": {
+        "standard": 2541,
+        "ordinal": 176,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 14,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the [one] who",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐσχηκότα",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-RAP-ASM",
+      "translation": "having had",
+      "metadata": {},
+      "gematria": {
+        "standard": 1204,
+        "ordinal": 97,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 16,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐφοβήθησαν.",
+      "lemma": [
+        "G5399"
+      ],
+      "strongs": "G5399",
+      "morph": "robinson:V-AOI-3P",
+      "translation": "they were afraid.",
+      "metadata": {},
+      "gematria": {
+        "standard": 853,
+        "ordinal": 97,
+        "reduced": 52
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11876,
+    "ordinal": 1368,
+    "reduced": 549
+  }
+}

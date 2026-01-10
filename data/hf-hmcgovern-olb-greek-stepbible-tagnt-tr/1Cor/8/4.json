@@ -1,0 +1,305 @@
+{
+  "text": "Περὶ τῆς βρώσεως οὖν τῶν εἰδωλοθύτων οἴδαμεν ὅτι οὐδὲν εἴδωλον ἐν κόσμῳ καὶ ὅτι οὐδεὶς θεὸς εἰ μὴ εἷς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "Concerning",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
+      "text": "βρώσεως",
+      "lemma": [
+        "G1035"
+      ],
+      "strongs": "G1035",
+      "morph": "robinson:N-GSF",
+      "translation": "eating",
+      "metadata": {},
+      "gematria": {
+        "standard": 2107,
+        "ordinal": 108,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 4,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "εἰδωλοθύτων",
+      "lemma": [
+        "G1494"
+      ],
+      "strongs": "G1494",
+      "morph": "robinson:A-GPN",
+      "translation": "idol-sacrifices",
+      "metadata": {},
+      "gematria": {
+        "standard": 2478,
+        "ordinal": 152,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 7,
+      "text": "οἴδαμεν",
+      "lemma": [
+        "G6063"
+      ],
+      "strongs": "G6063",
+      "morph": "robinson:V-RAI-1P",
+      "translation": "we know",
+      "metadata": {},
+      "gematria": {
+        "standard": 180,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "οὐδὲν",
+      "lemma": [
+        "G3762"
+      ],
+      "strongs": "G3762",
+      "morph": "robinson:A-NSN",
+      "translation": "no [thing]",
+      "metadata": {},
+      "gematria": {
+        "standard": 529,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 10,
+      "text": "εἴδωλον",
+      "lemma": [
+        "G1497"
+      ],
+      "strongs": "G1497",
+      "morph": "robinson:N-NSN",
+      "translation": "an idol",
+      "metadata": {},
+      "gematria": {
+        "standard": 969,
+        "ordinal": 81,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "[is] in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "κόσμῳ",
+      "lemma": [
+        "G2889"
+      ],
+      "strongs": "G2889",
+      "morph": "robinson:N-DSM",
+      "translation": "[the] world",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that [there is]",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "οὐδεὶς",
+      "lemma": [
+        "G3762"
+      ],
+      "strongs": "G3762",
+      "morph": "robinson:A-NSM",
+      "translation": "no",
+      "metadata": {},
+      "gematria": {
+        "standard": 689,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 16,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 17,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 18,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "except",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 19,
+      "text": "εἷς.",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-NSM",
+      "translation": "one.",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11873,
+    "ordinal": 1046,
+    "reduced": 452
+  }
+}

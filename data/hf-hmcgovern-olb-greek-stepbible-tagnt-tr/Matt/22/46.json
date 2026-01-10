@@ -1,0 +1,266 @@
+{
+  "text": "καὶ οὐδεὶς ἐδύνατο ἀποκριθῆναι αὐτῷ λόγον οὐδὲ ἐτόλμησέν τις ἀπ᾽ ἐκείνης τῆς ἡμέρας ἐπερωτῆσαι αὐτὸν οὐκέτι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὐδεὶς",
+      "lemma": [
+        "G3762"
+      ],
+      "strongs": "G3762",
+      "morph": "robinson:A-NSM",
+      "translation": "no [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 689,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐδύνατο",
+      "lemma": [
+        "G1410"
+      ],
+      "strongs": "G1410",
+      "morph": "robinson:V-INI-3S",
+      "translation": "was able",
+      "metadata": {},
+      "gematria": {
+        "standard": 830,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀποκριθῆναι",
+      "lemma": [
+        "G611"
+      ],
+      "strongs": "G611",
+      "morph": "robinson:V-AON",
+      "translation": "to answer",
+      "metadata": {},
+      "gematria": {
+        "standard": 359,
+        "ordinal": 106,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "λόγον",
+      "lemma": [
+        "G3056"
+      ],
+      "strongs": "G3056",
+      "morph": "robinson:N-ASM",
+      "translation": "a word",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
+      "text": "οὐδὲ",
+      "lemma": [
+        "G3761"
+      ],
+      "strongs": "G3761",
+      "morph": "robinson:CONJ-N",
+      "translation": "nor",
+      "metadata": {},
+      "gematria": {
+        "standard": 479,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐτόλμησέν",
+      "lemma": [
+        "G5111"
+      ],
+      "strongs": "G5111",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "dared",
+      "metadata": {},
+      "gematria": {
+        "standard": 708,
+        "ordinal": 105,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 9,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSM",
+      "translation": "anyone",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀπ᾽",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 81,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐκείνης",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-GSF",
+      "translation": "that [very]",
+      "metadata": {},
+      "gematria": {
+        "standard": 298,
+        "ordinal": 67,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 12,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἡμέρας",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-GSF",
+      "translation": "day",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐπερωτῆσαι",
+      "lemma": [
+        "G1905"
+      ],
+      "strongs": "G1905",
+      "morph": "robinson:V-AAN",
+      "translation": "to question",
+      "metadata": {},
+      "gematria": {
+        "standard": 1509,
+        "ordinal": 121,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 15,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "οὐκέτι.",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N + G2089=ADV",
+      "translation": "no longer.",
+      "metadata": {},
+      "gematria": {
+        "standard": 805,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9716,
+    "ordinal": 1054,
+    "reduced": 442
+  }
+}

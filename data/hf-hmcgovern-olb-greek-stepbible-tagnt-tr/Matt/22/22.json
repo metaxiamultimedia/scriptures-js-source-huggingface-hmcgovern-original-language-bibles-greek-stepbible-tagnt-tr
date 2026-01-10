@@ -1,0 +1,119 @@
+{
+  "text": "καὶ ἀκούσαντες ἐθαύμασαν, καὶ ἀφέντες αὐτὸν ἀπῆλθαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀκούσαντες",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "having heard",
+      "metadata": {},
+      "gematria": {
+        "standard": 1247,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐθαύμασαν,",
+      "lemma": [
+        "G2296"
+      ],
+      "strongs": "G2296",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "they marveled,",
+      "metadata": {},
+      "gematria": {
+        "standard": 707,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀφέντες",
+      "lemma": null,
+      "morph": null,
+      "translation": "having left",
+      "metadata": {},
+      "gematria": {
+        "standard": 1061,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀπῆλθαν.",
+      "lemma": [
+        "G565"
+      ],
+      "strongs": "G565",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "they went away.",
+      "metadata": {},
+      "gematria": {
+        "standard": 179,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4077,
+    "ordinal": 446,
+    "reduced": 167
+  }
+}

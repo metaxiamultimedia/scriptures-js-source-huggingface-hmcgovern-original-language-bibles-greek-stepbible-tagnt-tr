@@ -1,0 +1,279 @@
+{
+  "text": "Οὐαὶ ὑμῖν τοῖς Φαρισαίοις, ὅτι ἀγαπᾶτε τὴν πρωτοκαθεδρίαν ἐν ταῖς συναγωγαῖς καὶ τοὺς ἀσπασμοὺς ἐν ταῖς ἀγοραῖς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Οὐαὶ",
+      "lemma": [
+        "G3759"
+      ],
+      "strongs": "G3759",
+      "morph": "robinson:INJ",
+      "translation": "Woe",
+      "metadata": {},
+      "gematria": {
+        "standard": 481,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
+      "text": "Φαρισαίοις,",
+      "lemma": [
+        "G5330"
+      ],
+      "strongs": "G5330",
+      "morph": "robinson:N-DPM-T",
+      "translation": "Pharisees,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1102,
+        "ordinal": 118,
+        "reduced": 64
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀγαπᾶτε",
+      "lemma": [
+        "G25"
+      ],
+      "strongs": "G25",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "you love",
+      "metadata": {},
+      "gematria": {
+        "standard": 391,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 8,
+      "text": "πρωτοκαθεδρίαν",
+      "lemma": [
+        "G4410"
+      ],
+      "strongs": "G4410",
+      "morph": "robinson:N-ASF",
+      "translation": "first seat",
+      "metadata": {},
+      "gematria": {
+        "standard": 1550,
+        "ordinal": 159,
+        "reduced": 69
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "ταῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 11,
+      "text": "συναγωγαῖς",
+      "lemma": [
+        "G4864"
+      ],
+      "strongs": "G4864",
+      "morph": "robinson:N-DPF",
+      "translation": "synagogues",
+      "metadata": {},
+      "gematria": {
+        "standard": 1668,
+        "ordinal": 110,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀσπασμοὺς",
+      "lemma": [
+        "G783"
+      ],
+      "strongs": "G783",
+      "morph": "robinson:N-APM",
+      "translation": "greetings",
+      "metadata": {},
+      "gematria": {
+        "standard": 1192,
+        "ordinal": 119,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 16,
+      "text": "ταῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀγοραῖς.",
+      "lemma": [
+        "G58"
+      ],
+      "strongs": "G58",
+      "morph": "robinson:N-DPF",
+      "translation": "marketplaces.",
+      "metadata": {},
+      "gematria": {
+        "standard": 385,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10720,
+    "ordinal": 1080,
+    "reduced": 459
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "text": "καὶ λέγοντες· ποῦ ἐστιν ἡ ἐπαγγελία τῆς παρουσίας αὐτοῦ; ἀφ᾽ ἧς γὰρ οἱ πατέρες ἐκοιμήθησαν, πάντα οὕτως διαμένει ἀπ᾽ ἀρχῆς κτίσεως.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "λέγοντες·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 3,
+      "text": "ποῦ",
+      "lemma": [
+        "G4226"
+      ],
+      "strongs": "G4226",
+      "morph": "robinson:ADV-I",
+      "translation": "Where",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐπαγγελία",
+      "lemma": [
+        "G1860"
+      ],
+      "strongs": "G1860",
+      "morph": "robinson:N-NSF",
+      "translation": "promise",
+      "metadata": {},
+      "gematria": {
+        "standard": 138,
+        "ordinal": 54,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "παρουσίας",
+      "lemma": [
+        "G3952"
+      ],
+      "strongs": "G3952",
+      "morph": "robinson:N-GSF",
+      "translation": "coming",
+      "metadata": {},
+      "gematria": {
+        "standard": 1062,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 9,
+      "text": "αὐτοῦ;",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him?",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀφ᾽",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "From",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 22,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἧς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-GSF",
+      "translation": "[the time] that",
+      "metadata": {},
+      "gematria": {
+        "standard": 208,
+        "ordinal": 25,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "πατέρες",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-NPM",
+      "translation": "fathers",
+      "metadata": {},
+      "gematria": {
+        "standard": 691,
+        "ordinal": 81,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐκοιμήθησαν,",
+      "lemma": [
+        "G2837"
+      ],
+      "strongs": "G2837",
+      "morph": "robinson:V-API-3P",
+      "translation": "fell asleep,",
+      "metadata": {},
+      "gematria": {
+        "standard": 421,
+        "ordinal": 105,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 16,
+      "text": "πάντα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NPN",
+      "translation": "all things",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 17,
+      "text": "οὕτως",
+      "lemma": [
+        "G3779"
+      ],
+      "strongs": "G3779",
+      "morph": "robinson:ADV",
+      "translation": "as they were",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 96,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 18,
+      "text": "διαμένει",
+      "lemma": [
+        "G1265"
+      ],
+      "strongs": "G1265",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "continue",
+      "metadata": {},
+      "gematria": {
+        "standard": 125,
+        "ordinal": 58,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἀπ᾽",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 81,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀρχῆς",
+      "lemma": [
+        "G746"
+      ],
+      "strongs": "G746",
+      "morph": "robinson:N-GSF",
+      "translation": "[the] beginning",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 21,
+      "text": "κτίσεως.",
+      "lemma": [
+        "G2937"
+      ],
+      "strongs": "G2937",
+      "morph": "robinson:N-GSF",
+      "translation": "of creation.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1535,
+        "ordinal": 103,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11553,
+    "ordinal": 1186,
+    "reduced": 511
+  }
+}

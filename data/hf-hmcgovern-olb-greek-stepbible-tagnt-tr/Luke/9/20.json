@@ -1,0 +1,276 @@
+{
+  "text": "εἶπεν δὲ αὐτοῖς· ὑμεῖς δὲ τίνα με λέγετε εἶναι; Πέτρος δὲ ἀποκριθεὶς εἶπεν· τὸν χριστὸν τοῦ θεοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "He said",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτοῖς·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them;",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὑμεῖς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NP",
+      "translation": "You yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "τίνα",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-ASM",
+      "translation": "whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 361,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "με",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "Me",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 8,
+      "text": "λέγετε",
+      "lemma": null,
+      "morph": null,
+      "translation": "do pronounce",
+      "metadata": {},
+      "gematria": {
+        "standard": 348,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 9,
+      "text": "εἶναι;",
+      "lemma": [
+        "G1511"
+      ],
+      "strongs": "G1511",
+      "morph": "robinson:V-PAN",
+      "translation": "to be?",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 37,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 10,
+      "text": "Πέτρος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Peter",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 11,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀποκριθεὶς",
+      "lemma": [
+        "G611"
+      ],
+      "strongs": "G611",
+      "morph": "robinson:V-AOP-NSM",
+      "translation": "answering",
+      "metadata": {},
+      "gematria": {
+        "standard": 505,
+        "ordinal": 108,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 13,
+      "text": "εἶπεν·",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "said;",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 14,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "χριστὸν",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-ASM-T",
+      "translation": "Christ",
+      "metadata": {},
+      "gematria": {
+        "standard": 1330,
+        "ordinal": 113,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 16,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 17,
+      "text": "θεοῦ.",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God.",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7057,
+    "ordinal": 873,
+    "reduced": 396
+  }
+}

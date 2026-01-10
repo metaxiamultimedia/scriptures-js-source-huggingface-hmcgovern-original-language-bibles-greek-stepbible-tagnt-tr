@@ -1,0 +1,231 @@
+{
+  "text": "οὐκ ἔστιν ὧδε ἀλλ᾽ ἠγέρθη· μνήσθητε ὡς ἐλάλησεν ὑμῖν ἔτι ὢν ἐν τῇ Γαλιλαίᾳ",
+  "words": [
+    {
+      "position": 1,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "Not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἔστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "He is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὧδε",
+      "lemma": [
+        "G5602"
+      ],
+      "strongs": "G5602",
+      "morph": "robinson:ADV",
+      "translation": "here",
+      "metadata": {},
+      "gematria": {
+        "standard": 809,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἠγέρθη·",
+      "lemma": [
+        "G1453"
+      ],
+      "strongs": "G1453",
+      "morph": "robinson:V-API-3S",
+      "translation": "He is risen!",
+      "metadata": {},
+      "gematria": {
+        "standard": 133,
+        "ordinal": 47,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 6,
+      "text": "μνήσθητε",
+      "lemma": [
+        "G3403"
+      ],
+      "strongs": "G3403",
+      "morph": "robinson:V-APM-2P",
+      "translation": "do remember",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 89,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "how",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐλάλησεν",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "He spoke",
+      "metadata": {},
+      "gematria": {
+        "standard": 329,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἔτι",
+      "lemma": [
+        "G2089"
+      ],
+      "strongs": "G2089",
+      "morph": "robinson:ADV",
+      "translation": "yet",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὢν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "being",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 14,
+      "text": "Γαλιλαίᾳ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Galilee",
+      "metadata": {},
+      "gematria": {
+        "standard": 96,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6141,
+    "ordinal": 646,
+    "reduced": 295
+  }
+}

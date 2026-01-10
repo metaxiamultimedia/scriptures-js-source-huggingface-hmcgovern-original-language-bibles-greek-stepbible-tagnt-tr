@@ -1,0 +1,343 @@
+{
+  "text": "Ἀσπάζεται ὑμᾶς Ἀρίσταρχος ὁ συναιχμάλωτός μου καὶ Μᾶρκος ὁ ἀνεψιὸς Βαρναβᾶ, περὶ οὗ ἐλάβετε ἐντολάς· ἐὰν ἔλθῃ πρὸς ὑμᾶς, δέξασθε αὐτόν·",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἀσπάζεται",
+      "lemma": [
+        "G782"
+      ],
+      "strongs": "G782",
+      "morph": "robinson:V-PNI-3S",
+      "translation": "Greets",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἀρίσταρχος",
+      "lemma": [
+        "G708"
+      ],
+      "strongs": "G708",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Aristarchus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1582,
+        "ordinal": 137,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "συναιχμάλωτός",
+      "lemma": [
+        "G4869"
+      ],
+      "strongs": "G4869",
+      "morph": "robinson:N-NSM",
+      "translation": "fellow prisoner",
+      "metadata": {},
+      "gematria": {
+        "standard": 2702,
+        "ordinal": 183,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 6,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "Μᾶρκος",
+      "lemma": [
+        "G3138"
+      ],
+      "strongs": "G3138",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Mark",
+      "metadata": {},
+      "gematria": {
+        "standard": 431,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀνεψιὸς",
+      "lemma": [
+        "G431"
+      ],
+      "strongs": "G431",
+      "morph": "robinson:N-NSM",
+      "translation": "cousin",
+      "metadata": {},
+      "gematria": {
+        "standard": 1036,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 11,
+      "text": "Βαρναβᾶ,",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Barnabas,",
+      "metadata": {},
+      "gematria": {
+        "standard": 157,
+        "ordinal": 37,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "concerning",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 13,
+      "text": "οὗ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-GSM",
+      "translation": "whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐλάβετε",
+      "lemma": [
+        "G2983"
+      ],
+      "strongs": "G2983",
+      "morph": "robinson:V-2AAI-2P",
+      "translation": "you have received",
+      "metadata": {},
+      "gematria": {
+        "standard": 348,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐντολάς·",
+      "lemma": [
+        "G1785"
+      ],
+      "strongs": "G1785",
+      "morph": "robinson:N-APF",
+      "translation": "instructions:",
+      "metadata": {},
+      "gematria": {
+        "standard": 656,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἔλθῃ",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "he shall come",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 40,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 18,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὑμᾶς,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 20,
+      "text": "δέξασθε",
+      "lemma": [
+        "G1209"
+      ],
+      "strongs": "G1209",
+      "morph": "robinson:V-ADM-2P",
+      "translation": "do welcome",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 21,
+      "text": "αὐτόν·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11818,
+    "ordinal": 1249,
+    "reduced": 511
+  }
+}

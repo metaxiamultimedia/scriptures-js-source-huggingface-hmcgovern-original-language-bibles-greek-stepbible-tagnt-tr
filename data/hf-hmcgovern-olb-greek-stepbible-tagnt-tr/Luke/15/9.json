@@ -1,0 +1,244 @@
+{
+  "text": "καὶ εὑροῦσα τὰς φίλας καὶ γείτονας λέγουσα· συγχάρητέ μοι, ὅτι εὗρον τὴν δραχμὴν ἣν ἀπώλεσα.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "εὑροῦσα",
+      "lemma": [
+        "G2147"
+      ],
+      "strongs": "G2147",
+      "morph": "robinson:V-2AAP-NSF",
+      "translation": "having found [it]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1176,
+        "ordinal": 96,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "φίλας",
+      "lemma": [
+        "G5384"
+      ],
+      "strongs": "G5384",
+      "morph": "robinson:A-APF",
+      "translation": "friends",
+      "metadata": {},
+      "gematria": {
+        "standard": 741,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "γείτονας",
+      "lemma": [
+        "G1069"
+      ],
+      "strongs": "G1069",
+      "morph": "robinson:N-APF",
+      "translation": "neighbours",
+      "metadata": {},
+      "gematria": {
+        "standard": 639,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 7,
+      "text": "λέγουσα·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "συγχάρητέ",
+      "lemma": [
+        "G4796"
+      ],
+      "strongs": "G4796",
+      "morph": "robinson:V-2AOM-2P",
+      "translation": "do rejoice with",
+      "metadata": {},
+      "gematria": {
+        "standard": 1617,
+        "ordinal": 112,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 9,
+      "text": "μοι,",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DS",
+      "translation": "me,",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "εὗρον",
+      "lemma": [
+        "G2147"
+      ],
+      "strongs": "G2147",
+      "morph": "robinson:V-2AAI-1S",
+      "translation": "I have found",
+      "metadata": {},
+      "gematria": {
+        "standard": 625,
+        "ordinal": 70,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
+      "text": "δραχμὴν",
+      "lemma": [
+        "G1406"
+      ],
+      "strongs": "G1406",
+      "morph": "robinson:N-ASF",
+      "translation": "drachma",
+      "metadata": {},
+      "gematria": {
+        "standard": 803,
+        "ordinal": 76,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἣν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASF",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀπώλεσα.",
+      "lemma": [
+        "G622"
+      ],
+      "strongs": "G622",
+      "morph": "robinson:V-AAI-1S",
+      "translation": "I lost.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1117,
+        "ordinal": 76,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8906,
+    "ordinal": 862,
+    "reduced": 340
+  }
+}

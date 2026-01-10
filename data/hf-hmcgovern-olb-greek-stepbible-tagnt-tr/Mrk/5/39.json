@@ -1,0 +1,231 @@
+{
+  "text": "καὶ εἰσελθὼν λέγει αὐτοῖς· τί θορυβεῖσθε καὶ κλαίετε; τὸ παιδίον οὐκ ἀπέθανεν ἀλλὰ καθεύδει.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἰσελθὼν",
+      "lemma": [
+        "G1525"
+      ],
+      "strongs": "G1525",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having entered",
+      "metadata": {},
+      "gematria": {
+        "standard": 1109,
+        "ordinal": 93,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 3,
+      "text": "λέγει",
+      "lemma": null,
+      "morph": null,
+      "translation": "He says",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "αὐτοῖς·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them;",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "τί",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-ASN",
+      "translation": "Why",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "θορυβεῖσθε",
+      "lemma": [
+        "G2350"
+      ],
+      "strongs": "G2350",
+      "morph": "robinson:V-PPI-2P",
+      "translation": "make you commotion",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 107,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "κλαίετε;",
+      "lemma": [
+        "G2799"
+      ],
+      "strongs": "G2799",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "weep?",
+      "metadata": {},
+      "gematria": {
+        "standard": 371,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 9,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "παιδίον",
+      "lemma": [
+        "G3813"
+      ],
+      "strongs": "G3813",
+      "morph": "robinson:N-NSN",
+      "translation": "child",
+      "metadata": {},
+      "gematria": {
+        "standard": 225,
+        "ordinal": 67,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 11,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀπέθανεν",
+      "lemma": [
+        "G599"
+      ],
+      "strongs": "G599",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "is dead",
+      "metadata": {},
+      "gematria": {
+        "standard": 201,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἀλλὰ",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 14,
+      "text": "καθεύδει.",
+      "lemma": [
+        "G2518"
+      ],
+      "strongs": "G2518",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "sleeps.",
+      "metadata": {},
+      "gematria": {
+        "standard": 454,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5498,
+    "ordinal": 737,
+    "reduced": 350
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "text": "ὁ ἐμὲ μισῶν καὶ τὸν πατέρα μου μισεῖ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐμὲ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1AS",
+      "translation": "Me myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 50,
+        "ordinal": 22,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "μισῶν",
+      "lemma": [
+        "G3404"
+      ],
+      "strongs": "G3404",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "hating",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 76,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "πατέρα",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-ASM-T",
+      "translation": "Father",
+      "metadata": {},
+      "gematria": {
+        "standard": 487,
+        "ordinal": 59,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of Mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "μισεῖ.",
+      "lemma": [
+        "G3404"
+      ],
+      "strongs": "G3404",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "hates.",
+      "metadata": {},
+      "gematria": {
+        "standard": 265,
+        "ordinal": 53,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2933,
+    "ordinal": 339,
+    "reduced": 141
+  }
+}

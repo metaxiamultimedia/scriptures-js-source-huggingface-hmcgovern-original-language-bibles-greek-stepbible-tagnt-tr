@@ -1,0 +1,263 @@
+{
+  "text": "λαβεῖν τὸν τῆς διακονίας ταύτης καὶ ἀποστολῆς ἧς παρέβη Ἰούδας πορευθῆναι εἰς τὸν τόπον τὸν ἴδιον.",
+  "words": [
+    {
+      "position": 1,
+      "text": "λαβεῖν",
+      "lemma": [
+        "G2983"
+      ],
+      "strongs": "G2983",
+      "morph": "robinson:V-2AAN",
+      "translation": "to take",
+      "metadata": {},
+      "gematria": {
+        "standard": 98,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 2,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
+      "text": "διακονίας",
+      "lemma": [
+        "G1248"
+      ],
+      "strongs": "G1248",
+      "morph": "robinson:N-GSF",
+      "translation": "ministry",
+      "metadata": {},
+      "gematria": {
+        "standard": 366,
+        "ordinal": 80,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 5,
+      "text": "ταύτης",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-GSF",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1209,
+        "ordinal": 84,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀποστολῆς",
+      "lemma": [
+        "G651"
+      ],
+      "strongs": "G651",
+      "morph": "robinson:N-GSF",
+      "translation": "apostleship",
+      "metadata": {},
+      "gematria": {
+        "standard": 959,
+        "ordinal": 120,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἧς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-GSF",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 208,
+        "ordinal": 25,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "παρέβη",
+      "lemma": [
+        "G3845"
+      ],
+      "strongs": "G3845",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "turned aside",
+      "metadata": {},
+      "gematria": {
+        "standard": 196,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 10,
+      "text": "Ἰούδας",
+      "lemma": null,
+      "morph": null,
+      "translation": "Judas",
+      "metadata": {},
+      "gematria": {
+        "standard": 685,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 11,
+      "text": "πορευθῆναι",
+      "lemma": [
+        "G4198"
+      ],
+      "strongs": "G4198",
+      "morph": "robinson:V-AON",
+      "translation": "to go",
+      "metadata": {},
+      "gematria": {
+        "standard": 733,
+        "ordinal": 111,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 12,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 13,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "τόπον",
+      "lemma": [
+        "G5117"
+      ],
+      "strongs": "G5117",
+      "morph": "robinson:N-ASM",
+      "translation": "place",
+      "metadata": {},
+      "gematria": {
+        "standard": 570,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἴδιον.",
+      "lemma": [
+        "G2398"
+      ],
+      "strongs": "G2398",
+      "morph": "robinson:A-ASM",
+      "translation": "[his] own.",
+      "metadata": {},
+      "gematria": {
+        "standard": 144,
+        "ordinal": 50,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7182,
+    "ordinal": 941,
+    "reduced": 410
+  }
+}

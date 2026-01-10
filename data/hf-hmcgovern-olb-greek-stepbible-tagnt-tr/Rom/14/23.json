@@ -1,0 +1,289 @@
+{
+  "text": "ὁ δὲ διακρινόμενος ἐὰν φάγῃ κατακέκριται, ὅτι οὐκ ἐκ πίστεως· πᾶν δὲ ὃ οὐκ ἐκ πίστεως ἁμαρτία ἐστίν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "διακρινόμενος",
+      "lemma": [
+        "G1252"
+      ],
+      "strongs": "G1252",
+      "morph": "robinson:V-PMP-NSM",
+      "translation": "doubting",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 141,
+        "reduced": 69
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "φάγῃ",
+      "lemma": [
+        "G5315"
+      ],
+      "strongs": "G5315",
+      "morph": "robinson:V-AAS-3S",
+      "translation": "he shall eat",
+      "metadata": {},
+      "gematria": {
+        "standard": 522,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "κατακέκριται,",
+      "lemma": [
+        "G2632"
+      ],
+      "strongs": "G2632",
+      "morph": "robinson:V-RPI-3S",
+      "translation": "has been condemned,",
+      "metadata": {},
+      "gematria": {
+        "standard": 788,
+        "ordinal": 111,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "because [it is]",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "πίστεως·",
+      "lemma": null,
+      "morph": null,
+      "translation": "faith;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1595,
+        "ordinal": 109,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 11,
+      "text": "πᾶν",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NSN",
+      "translation": "everything",
+      "metadata": {},
+      "gematria": {
+        "standard": 131,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSN",
+      "translation": "that [is]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 14,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 16,
+      "text": "πίστεως",
+      "lemma": null,
+      "morph": null,
+      "translation": "faith",
+      "metadata": {},
+      "gematria": {
+        "standard": 1595,
+        "ordinal": 109,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἁμαρτία",
+      "lemma": [
+        "G266"
+      ],
+      "strongs": "G266",
+      "morph": "robinson:N-NSF",
+      "translation": "sin",
+      "metadata": {},
+      "gematria": {
+        "standard": 453,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐστίν.",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is.",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7903,
+    "ordinal": 895,
+    "reduced": 373
+  }
+}

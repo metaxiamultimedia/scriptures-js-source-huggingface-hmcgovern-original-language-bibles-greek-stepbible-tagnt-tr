@@ -1,0 +1,282 @@
+{
+  "text": "ἐὰν μείνητε ἐν ἐμοὶ καὶ τὰ ῥήματά μου ἐν ὑμῖν μείνῃ, ὃ ἐὰν θέλητε καὶ γενήσεται ὑμῖν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "μείνητε",
+      "lemma": [
+        "G3306"
+      ],
+      "strongs": "G3306",
+      "morph": "robinson:V-AAS-2P",
+      "translation": "you shall abide",
+      "metadata": {},
+      "gematria": {
+        "standard": 418,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐμοὶ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1DS",
+      "translation": "Me myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 125,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 7,
+      "text": "ῥήματά",
+      "lemma": [
+        "G4487"
+      ],
+      "strongs": "G4487",
+      "morph": "robinson:N-NPN",
+      "translation": "declarations",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 8,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of Mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 11,
+      "text": "μείνῃ,",
+      "lemma": [
+        "G3306"
+      ],
+      "strongs": "G3306",
+      "morph": "robinson:V-AAS-3S",
+      "translation": "shall abide,",
+      "metadata": {},
+      "gematria": {
+        "standard": 123,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASN",
+      "translation": "whatever",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "θέλητε",
+      "lemma": [
+        "G2309"
+      ],
+      "strongs": "G2309",
+      "morph": "robinson:V-PAS-2P",
+      "translation": "you shall wish",
+      "metadata": {},
+      "gematria": {
+        "standard": 357,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "γενήσεται",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-FDI-3S",
+      "translation": "it will happen",
+      "metadata": {},
+      "gematria": {
+        "standard": 582,
+        "ordinal": 80,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὑμῖν.",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you.",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4220,
+    "ordinal": 662,
+    "reduced": 302
+  }
+}

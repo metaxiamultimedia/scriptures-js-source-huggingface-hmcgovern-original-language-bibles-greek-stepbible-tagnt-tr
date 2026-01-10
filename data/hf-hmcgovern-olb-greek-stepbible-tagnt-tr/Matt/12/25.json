@@ -1,0 +1,375 @@
+{
+  "text": "Εἰδὼς δὲ τὰς ἐνθυμήσεις αὐτῶν εἶπεν αὐτοῖς· πᾶσα βασιλεία μερισθεῖσα καθ᾽ ἑαυτῆς ἐρημοῦται, καὶ πᾶσα πόλις ἢ οἰκία μερισθεῖσα καθ᾽ ἑαυτῆς οὐ σταθήσεται.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Εἰδὼς",
+      "lemma": [
+        "G6063"
+      ],
+      "strongs": "G6063",
+      "morph": "robinson:V-RAP-NSM",
+      "translation": "knowing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1019,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐνθυμήσεις",
+      "lemma": [
+        "G1761"
+      ],
+      "strongs": "G1761",
+      "morph": "robinson:N-APF",
+      "translation": "thoughts",
+      "metadata": {},
+      "gematria": {
+        "standard": 927,
+        "ordinal": 115,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτῶν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "of them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "He said",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "αὐτοῖς·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them;",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "πᾶσα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NSF",
+      "translation": "Every",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "βασιλεία",
+      "lemma": [
+        "G932"
+      ],
+      "strongs": "G932",
+      "morph": "robinson:N-NSF",
+      "translation": "kingdom",
+      "metadata": {},
+      "gematria": {
+        "standard": 259,
+        "ordinal": 56,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 10,
+      "text": "μερισθεῖσα",
+      "lemma": [
+        "G3307"
+      ],
+      "strongs": "G3307",
+      "morph": "robinson:V-APP-NSF",
+      "translation": "having been divided",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 102,
+        "reduced": 66
+      }
+    },
+    {
+      "position": 11,
+      "text": "καθ᾽",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "against",
+      "metadata": {},
+      "gematria": {
+        "standard": 30,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἑαυτῆς",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-3GSF",
+      "translation": "itself",
+      "metadata": {},
+      "gematria": {
+        "standard": 914,
+        "ordinal": 70,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐρημοῦται,",
+      "lemma": [
+        "G2049"
+      ],
+      "strongs": "G2049",
+      "morph": "robinson:V-PPI-3S",
+      "translation": "is brought to desolation,",
+      "metadata": {},
+      "gematria": {
+        "standard": 934,
+        "ordinal": 105,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "πᾶσα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NSF",
+      "translation": "every",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 16,
+      "text": "πόλις",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-NSF",
+      "translation": "city",
+      "metadata": {},
+      "gematria": {
+        "standard": 390,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 18,
+      "text": "οἰκία",
+      "lemma": null,
+      "morph": null,
+      "translation": "house",
+      "metadata": {},
+      "gematria": {
+        "standard": 111,
+        "ordinal": 44,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 19,
+      "text": "μερισθεῖσα",
+      "lemma": [
+        "G3307"
+      ],
+      "strongs": "G3307",
+      "morph": "robinson:V-APP-NSF",
+      "translation": "having been divided",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 102,
+        "reduced": 66
+      }
+    },
+    {
+      "position": 20,
+      "text": "καθ᾽",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "against",
+      "metadata": {},
+      "gematria": {
+        "standard": 30,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἑαυτῆς",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-3GSF",
+      "translation": "itself",
+      "metadata": {},
+      "gematria": {
+        "standard": 914,
+        "ordinal": 70,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 22,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 23,
+      "text": "σταθήσεται.",
+      "lemma": [
+        "G2476"
+      ],
+      "strongs": "G2476",
+      "morph": "robinson:V-FPI-3S",
+      "translation": "will stand.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1034,
+        "ordinal": 105,
+        "reduced": 51
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11987,
+    "ordinal": 1324,
+    "reduced": 640
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "text": "ὅτι ἐκολλήθησαν αὐτῆς αἱ ἁμαρτίαι ἄχρι τοῦ οὐρανοῦ, καὶ ἐμνημόνευσεν ὁ θεὸς τὰ ἀδικήματα αὐτῆς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "For",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐκολλήθησαν",
+      "lemma": [
+        "G2853"
+      ],
+      "strongs": "G2853",
+      "morph": "robinson:V-API-3P",
+      "translation": "they were heaped",
+      "metadata": {},
+      "gematria": {
+        "standard": 431,
+        "ordinal": 106,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτῆς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "in her",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "αἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἁμαρτίαι",
+      "lemma": [
+        "G266"
+      ],
+      "strongs": "G266",
+      "morph": "robinson:N-NPF",
+      "translation": "sins",
+      "metadata": {},
+      "gematria": {
+        "standard": 463,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἄχρι",
+      "lemma": [
+        "G891"
+      ],
+      "strongs": "G891",
+      "morph": "robinson:PREP",
+      "translation": "as high as",
+      "metadata": {},
+      "gematria": {
+        "standard": 711,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 7,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "οὐρανοῦ,",
+      "lemma": [
+        "G3772"
+      ],
+      "strongs": "G3772",
+      "morph": "robinson:N-GSM",
+      "translation": "heaven,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1091,
+        "ordinal": 101,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐμνημόνευσεν",
+      "lemma": [
+        "G3421"
+      ],
+      "strongs": "G3421",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "has remembered",
+      "metadata": {},
+      "gematria": {
+        "standard": 923,
+        "ordinal": 138,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 12,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 13,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀδικήματα",
+      "lemma": [
+        "G92"
+      ],
+      "strongs": "G92",
+      "morph": "robinson:N-APN",
+      "translation": "iniquities",
+      "metadata": {},
+      "gematria": {
+        "standard": 385,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "αὐτῆς.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "of her.",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7669,
+    "ordinal": 865,
+    "reduced": 343
+  }
+}

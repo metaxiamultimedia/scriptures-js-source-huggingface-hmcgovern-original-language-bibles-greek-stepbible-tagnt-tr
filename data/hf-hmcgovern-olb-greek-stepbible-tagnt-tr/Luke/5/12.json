@@ -1,0 +1,475 @@
+{
+  "text": "Καὶ ἐγένετο ἐν τῷ εἶναι αὐτὸν ἐν μιᾷ τῶν πόλεων καὶ ἰδοὺ ἀνὴρ πλήρης λέπρας· ἰδὼν τὸν Ἰησοῦν, πεσὼν ἐπὶ πρόσωπον ἐδεήθη αὐτοῦ λέγων· κύριε, ἐὰν θέλῃς, δύνασαί με καθαρίσαι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "it came to pass",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἶναι",
+      "lemma": [
+        "G1511"
+      ],
+      "strongs": "G1511",
+      "morph": "robinson:V-PAN",
+      "translation": "being",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 37,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "μιᾷ",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-DSF",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 31,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 9,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "πόλεων",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-GPF",
+      "translation": "cities",
+      "metadata": {},
+      "gematria": {
+        "standard": 1035,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἰδοὺ",
+      "lemma": [
+        "G2400"
+      ],
+      "strongs": "G2400",
+      "morph": "robinson:INJ",
+      "translation": "behold",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἀνὴρ",
+      "lemma": null,
+      "morph": null,
+      "translation": "a man",
+      "metadata": {},
+      "gematria": {
+        "standard": 159,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 14,
+      "text": "πλήρης",
+      "lemma": [
+        "G4134"
+      ],
+      "strongs": "G4134",
+      "morph": "robinson:A-NSM",
+      "translation": "full",
+      "metadata": {},
+      "gematria": {
+        "standard": 426,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 15,
+      "text": "λέπρας·",
+      "lemma": [
+        "G3014"
+      ],
+      "strongs": "G3014",
+      "morph": "robinson:N-GSF",
+      "translation": "of leprosy;",
+      "metadata": {},
+      "gematria": {
+        "standard": 416,
+        "ordinal": 68,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἰδὼν",
+      "lemma": null,
+      "morph": null,
+      "translation": "having seen",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 17,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "Ἰησοῦν,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus,",
+      "metadata": {},
+      "gematria": {
+        "standard": 738,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 19,
+      "text": "πεσὼν",
+      "lemma": [
+        "G4098"
+      ],
+      "strongs": "G4098",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having fallen",
+      "metadata": {},
+      "gematria": {
+        "standard": 1135,
+        "ordinal": 76,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "upon",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 21,
+      "text": "πρόσωπον",
+      "lemma": [
+        "G4383"
+      ],
+      "strongs": "G4383",
+      "morph": "robinson:N-ASN",
+      "translation": "[his] face",
+      "metadata": {},
+      "gematria": {
+        "standard": 1450,
+        "ordinal": 134,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἐδεήθη",
+      "lemma": [
+        "G1189"
+      ],
+      "strongs": "G1189",
+      "morph": "robinson:V-API-3S",
+      "translation": "begged",
+      "metadata": {},
+      "gematria": {
+        "standard": 39,
+        "ordinal": 36,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 23,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 24,
+      "text": "λέγων·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 25,
+      "text": "κύριε,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lord,",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 26,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 27,
+      "text": "θέλῃς,",
+      "lemma": [
+        "G2309"
+      ],
+      "strongs": "G2309",
+      "morph": "robinson:V-PAS-2S",
+      "translation": "You shall be willing,",
+      "metadata": {},
+      "gematria": {
+        "standard": 262,
+        "ordinal": 58,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 28,
+      "text": "δύνασαί",
+      "lemma": [
+        "G1410"
+      ],
+      "strongs": "G1410",
+      "morph": "robinson:V-PNI-2S",
+      "translation": "You are able",
+      "metadata": {},
+      "gematria": {
+        "standard": 666,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 29,
+      "text": "με",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "me",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 30,
+      "text": "καθαρίσαι.",
+      "lemma": [
+        "G2511"
+      ],
+      "strongs": "G2511",
+      "morph": "robinson:V-AAN",
+      "translation": "to cleanse.",
+      "metadata": {},
+      "gematria": {
+        "standard": 352,
+        "ordinal": 74,
+        "reduced": 47
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15064,
+    "ordinal": 1580,
+    "reduced": 707
+  }
+}

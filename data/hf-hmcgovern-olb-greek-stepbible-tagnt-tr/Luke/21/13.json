@@ -1,0 +1,74 @@
+{
+  "text": "ἀποβήσεται ὑμῖν εἰς μαρτύριον.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀποβήσεται",
+      "lemma": [
+        "G576"
+      ],
+      "strongs": "G576",
+      "morph": "robinson:V-FDI-3S",
+      "translation": "It will result",
+      "metadata": {},
+      "gematria": {
+        "standard": 677,
+        "ordinal": 93,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "μαρτύριον.",
+      "lemma": [
+        "G3142"
+      ],
+      "strongs": "G3142",
+      "morph": "robinson:N-ASN",
+      "translation": "a testimony.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1071,
+        "ordinal": 123,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2463,
+    "ordinal": 302,
+    "reduced": 131
+  }
+}

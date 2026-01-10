@@ -1,0 +1,308 @@
+{
+  "text": "Λέγει οὖν αὐτοῖς ὁ Ἰησοῦς· ὁ καιρὸς ὁ ἐμὸς οὔπω πάρεστιν, ὁ δὲ καιρὸς ὁ ὑμέτερος πάντοτέ ἐστιν ἕτοιμος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Λέγει",
+      "lemma": null,
+      "morph": null,
+      "translation": "Says",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτοῖς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "Ἰησοῦς·",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "καιρὸς",
+      "lemma": [
+        "G2540"
+      ],
+      "strongs": "G2540",
+      "morph": "robinson:N-NSM",
+      "translation": "time",
+      "metadata": {},
+      "gematria": {
+        "standard": 401,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐμὸς",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:S-1SNSM",
+      "translation": "for Me",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "οὔπω",
+      "lemma": [
+        "G3768"
+      ],
+      "strongs": "G3768",
+      "morph": "robinson:ADV-N",
+      "translation": "not yet",
+      "metadata": {},
+      "gematria": {
+        "standard": 1350,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "πάρεστιν,",
+      "lemma": [
+        "G3918"
+      ],
+      "strongs": "G3918",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is come,",
+      "metadata": {},
+      "gematria": {
+        "standard": 746,
+        "ordinal": 98,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "καιρὸς",
+      "lemma": [
+        "G2540"
+      ],
+      "strongs": "G2540",
+      "morph": "robinson:N-NSM",
+      "translation": "the time",
+      "metadata": {},
+      "gematria": {
+        "standard": 401,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὑμέτερος",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:A-NSM",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 1120,
+        "ordinal": 111,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 17,
+      "text": "πάντοτέ",
+      "lemma": [
+        "G3842"
+      ],
+      "strongs": "G3842",
+      "morph": "robinson:ADV",
+      "translation": "always",
+      "metadata": {},
+      "gematria": {
+        "standard": 806,
+        "ordinal": 88,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἕτοιμος.",
+      "lemma": [
+        "G2092"
+      ],
+      "strongs": "G2092",
+      "morph": "robinson:A-NSM",
+      "translation": "ready.",
+      "metadata": {},
+      "gematria": {
+        "standard": 695,
+        "ordinal": 93,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9200,
+    "ordinal": 1053,
+    "reduced": 432
+  }
+}

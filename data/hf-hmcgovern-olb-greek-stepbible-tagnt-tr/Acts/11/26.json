@@ -1,0 +1,404 @@
+{
+  "text": "καὶ εὑρὼν ἤγαγεν εἰς Ἀντιόχειαν. ἐγένετο δὲ καὶ ἐνιαυτὸν ὅλον συναχθῆναι ἐν τῇ ἐκκλησίᾳ καὶ διδάξαι ὄχλον ἱκανόν, χρηματίσαι τε ἐν Ἀντιοχείᾳ τοὺς μαθητὰς Χριστιανούς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "εὑρὼν",
+      "lemma": [
+        "G2147"
+      ],
+      "strongs": "G2147",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having found",
+      "metadata": {},
+      "gematria": {
+        "standard": 1355,
+        "ordinal": 79,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἤγαγεν",
+      "lemma": [
+        "G71"
+      ],
+      "strongs": "G71",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "he brought",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "Ἀντιόχειαν.",
+      "lemma": null,
+      "morph": null,
+      "translation": "Antioch.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1097,
+        "ordinal": 107,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "It came to pass [that]",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐνιαυτὸν",
+      "lemma": [
+        "G1763"
+      ],
+      "strongs": "G1763",
+      "morph": "robinson:N-ASM",
+      "translation": "a year",
+      "metadata": {},
+      "gematria": {
+        "standard": 886,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὅλον",
+      "lemma": [
+        "G3650"
+      ],
+      "strongs": "G3650",
+      "morph": "robinson:A-ASM",
+      "translation": "whole",
+      "metadata": {},
+      "gematria": {
+        "standard": 220,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 11,
+      "text": "συναχθῆναι",
+      "lemma": [
+        "G4863"
+      ],
+      "strongs": "G4863",
+      "morph": "robinson:V-APN",
+      "translation": "gathering together",
+      "metadata": {},
+      "gematria": {
+        "standard": 1329,
+        "ordinal": 112,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐκκλησίᾳ",
+      "lemma": [
+        "G1577"
+      ],
+      "strongs": "G1577",
+      "morph": "robinson:N-DSF",
+      "translation": "church",
+      "metadata": {},
+      "gematria": {
+        "standard": 304,
+        "ordinal": 80,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "διδάξαι",
+      "lemma": [
+        "G1321"
+      ],
+      "strongs": "G1321",
+      "morph": "robinson:V-AAN",
+      "translation": "teaching",
+      "metadata": {},
+      "gematria": {
+        "standard": 90,
+        "ordinal": 42,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὄχλον",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-ASM",
+      "translation": "a crowd",
+      "metadata": {},
+      "gematria": {
+        "standard": 820,
+        "ordinal": 76,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἱκανόν,",
+      "lemma": [
+        "G2425"
+      ],
+      "strongs": "G2425",
+      "morph": "robinson:A-ASM",
+      "translation": "large,",
+      "metadata": {},
+      "gematria": {
+        "standard": 201,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 19,
+      "text": "χρηματίσαι",
+      "lemma": [
+        "G5537"
+      ],
+      "strongs": "G5537",
+      "morph": "robinson:V-AAN",
+      "translation": "Were calling",
+      "metadata": {},
+      "gematria": {
+        "standard": 1270,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 20,
+      "text": "τε",
+      "lemma": [
+        "G5037"
+      ],
+      "strongs": "G5037",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 22,
+      "text": "Ἀντιοχείᾳ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Antioch",
+      "metadata": {},
+      "gematria": {
+        "standard": 1057,
+        "ordinal": 103,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 23,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 24,
+      "text": "μαθητὰς",
+      "lemma": [
+        "G3101"
+      ],
+      "strongs": "G3101",
+      "morph": "robinson:N-APM",
+      "translation": "disciples",
+      "metadata": {},
+      "gematria": {
+        "standard": 559,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 25,
+      "text": "Χριστιανούς.",
+      "lemma": [
+        "G5546"
+      ],
+      "strongs": "G5546",
+      "morph": "robinson:N-APM-T",
+      "translation": "Christians.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1941,
+        "ordinal": 161,
+        "reduced": 62
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13657,
+    "ordinal": 1516,
+    "reduced": 661
+  }
+}

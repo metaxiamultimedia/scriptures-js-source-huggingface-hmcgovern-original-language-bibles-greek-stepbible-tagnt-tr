@@ -1,0 +1,122 @@
+{
+  "text": "καὶ ἦραν δώδεκα καὶ ἀπὸ τῶν ἰχθύων.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἦραν",
+      "lemma": [
+        "G142"
+      ],
+      "strongs": "G142",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "they took up",
+      "metadata": {},
+      "gematria": {
+        "standard": 159,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 3,
+      "text": "δώδεκα",
+      "lemma": [
+        "G1427"
+      ],
+      "strongs": "G1427",
+      "morph": "robinson:A-NUI",
+      "translation": "twelve",
+      "metadata": {},
+      "gematria": {
+        "standard": 834,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἰχθύων.",
+      "lemma": [
+        "G2486"
+      ],
+      "strongs": "G2486",
+      "morph": "robinson:N-GPM",
+      "translation": "fish.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1869,
+        "ordinal": 96,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4225,
+    "ordinal": 310,
+    "reduced": 121
+  }
+}

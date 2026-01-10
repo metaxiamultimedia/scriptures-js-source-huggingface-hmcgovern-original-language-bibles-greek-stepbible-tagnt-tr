@@ -1,0 +1,106 @@
+{
+  "text": "ἐγώ εἰμι ὁ ἄρτος τῆς ζωῆς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐγώ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS",
+      "translation": "I myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἰμι",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-1S",
+      "translation": "am",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 35,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἄρτος",
+      "lemma": [
+        "G740"
+      ],
+      "strongs": "G740",
+      "morph": "robinson:N-NSM",
+      "translation": "bread",
+      "metadata": {},
+      "gematria": {
+        "standard": 671,
+        "ordinal": 70,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "ζωῆς.",
+      "lemma": [
+        "G2222"
+      ],
+      "strongs": "G2222",
+      "morph": "robinson:N-GSF",
+      "translation": "of life.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1015,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3137,
+    "ordinal": 251,
+    "reduced": 116
+  }
+}

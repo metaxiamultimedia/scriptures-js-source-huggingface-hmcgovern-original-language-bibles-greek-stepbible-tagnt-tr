@@ -1,0 +1,225 @@
+{
+  "text": "Ἀγρίππας δὲ τῷ Φήστῳ ἔφη· ἀπολελύσθαι ἐδύνατο ὁ ἄνθρωπος οὗτος, εἰ μὴ ἐπεκέκλητο Καίσαρα.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἀγρίππας",
+      "lemma": [
+        "G67"
+      ],
+      "strongs": "G67",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Agrippa",
+      "metadata": {},
+      "gematria": {
+        "standard": 475,
+        "ordinal": 81,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "Φήστῳ",
+      "lemma": [
+        "G5347"
+      ],
+      "strongs": "G5347",
+      "morph": "robinson:N-DSM-P",
+      "translation": "to Festus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1818,
+        "ordinal": 98,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἔφη·",
+      "lemma": [
+        "G5346"
+      ],
+      "strongs": "G5346",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 513,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀπολελύσθαι",
+      "lemma": null,
+      "morph": null,
+      "translation": "to have been released",
+      "metadata": {},
+      "gematria": {
+        "standard": 836,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐδύνατο",
+      "lemma": [
+        "G1410"
+      ],
+      "strongs": "G1410",
+      "morph": "robinson:V-INI-3S",
+      "translation": "was able",
+      "metadata": {},
+      "gematria": {
+        "standard": 830,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἄνθρωπος",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-NSM",
+      "translation": "man",
+      "metadata": {},
+      "gematria": {
+        "standard": 1310,
+        "ordinal": 112,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 10,
+      "text": "οὗτος,",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSM",
+      "translation": "this,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1040,
+        "ordinal": 87,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 11,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "unless",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐπεκέκλητο",
+      "lemma": [
+        "G1941"
+      ],
+      "strongs": "G1941",
+      "morph": "robinson:V-LDI-3S",
+      "translation": "he had appealed",
+      "metadata": {},
+      "gematria": {
+        "standard": 543,
+        "ordinal": 103,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 14,
+      "text": "Καίσαρα.",
+      "lemma": null,
+      "morph": null,
+      "translation": "to Caesar.",
+      "metadata": {},
+      "gematria": {
+        "standard": 333,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8950,
+    "ordinal": 872,
+    "reduced": 368
+  }
+}

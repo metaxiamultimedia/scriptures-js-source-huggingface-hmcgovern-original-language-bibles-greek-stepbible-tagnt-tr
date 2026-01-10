@@ -1,0 +1,244 @@
+{
+  "text": "ἀγωνίζεσθε εἰσελθεῖν διὰ τῆς στενῆς θύρας· ὅτι πολλοί, λέγω ὑμῖν, ζητήσουσιν εἰσελθεῖν καὶ οὐκ ἰσχύσουσιν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀγωνίζεσθε",
+      "lemma": [
+        "G75"
+      ],
+      "strongs": "G75",
+      "morph": "robinson:V-PNM-2P",
+      "translation": "do strive",
+      "metadata": {},
+      "gematria": {
+        "standard": 1090,
+        "ordinal": 92,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἰσελθεῖν",
+      "lemma": [
+        "G1525"
+      ],
+      "strongs": "G1525",
+      "morph": "robinson:V-2AAN",
+      "translation": "to enter in",
+      "metadata": {},
+      "gematria": {
+        "standard": 324,
+        "ordinal": 83,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 3,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
+      "text": "στενῆς",
+      "lemma": [
+        "G4728"
+      ],
+      "strongs": "G4728",
+      "morph": "robinson:A-GSF",
+      "translation": "narrow",
+      "metadata": {},
+      "gematria": {
+        "standard": 763,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 6,
+      "text": "θύρας·",
+      "lemma": [
+        "G2374"
+      ],
+      "strongs": "G2374",
+      "morph": "robinson:N-GSF",
+      "translation": "door;",
+      "metadata": {},
+      "gematria": {
+        "standard": 710,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "πολλοί,",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-NPM",
+      "translation": "many,",
+      "metadata": {},
+      "gematria": {
+        "standard": 290,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 9,
+      "text": "λέγω",
+      "lemma": null,
+      "morph": null,
+      "translation": "I say",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὑμῖν,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 11,
+      "text": "ζητήσουσιν",
+      "lemma": [
+        "G2212"
+      ],
+      "strongs": "G2212",
+      "morph": "robinson:V-FAI-3P",
+      "translation": "will seek",
+      "metadata": {},
+      "gematria": {
+        "standard": 1253,
+        "ordinal": 132,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 12,
+      "text": "εἰσελθεῖν",
+      "lemma": [
+        "G1525"
+      ],
+      "strongs": "G1525",
+      "morph": "robinson:V-2AAN",
+      "translation": "to enter in",
+      "metadata": {},
+      "gematria": {
+        "standard": 324,
+        "ordinal": 83,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἰσχύσουσιν.",
+      "lemma": [
+        "G2480"
+      ],
+      "strongs": "G2480",
+      "morph": "robinson:V-FAI-3P",
+      "translation": "will be able.",
+      "metadata": {},
+      "gematria": {
+        "standard": 2140,
+        "ordinal": 162,
+        "reduced": 63
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9656,
+    "ordinal": 1036,
+    "reduced": 487
+  }
+}

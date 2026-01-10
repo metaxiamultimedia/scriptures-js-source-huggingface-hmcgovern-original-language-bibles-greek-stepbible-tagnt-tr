@@ -1,0 +1,439 @@
+{
+  "text": "καὶ οὐκ ἔδωκεν αὐτῷ κληρονομίαν ἐν αὐτῇ οὐδὲ βῆμα ποδὸς καὶ ἐπηγγείλατο δοῦναι αὐτῷ εἰς κατάσχεσιν αὐτὴν καὶ τῷ σπέρματι αὐτοῦ μετ᾽ αὐτόν, οὐκ ὄντος αὐτῷ τέκνου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἔδωκεν",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "He did give",
+      "metadata": {},
+      "gematria": {
+        "standard": 884,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "κληρονομίαν",
+      "lemma": [
+        "G2817"
+      ],
+      "strongs": "G2817",
+      "morph": "robinson:N-ASF",
+      "translation": "an inheritance",
+      "metadata": {},
+      "gematria": {
+        "standard": 449,
+        "ordinal": 123,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "αὐτῇ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSF",
+      "translation": "it",
+      "metadata": {},
+      "gematria": {
+        "standard": 719,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "οὐδὲ",
+      "lemma": [
+        "G3761"
+      ],
+      "strongs": "G3761",
+      "morph": "robinson:CONJ-N",
+      "translation": "not even [give]",
+      "metadata": {},
+      "gematria": {
+        "standard": 479,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 9,
+      "text": "βῆμα",
+      "lemma": [
+        "G968"
+      ],
+      "strongs": "G968",
+      "morph": "robinson:N-ASN",
+      "translation": "[the] length",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 22,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 10,
+      "text": "ποδὸς",
+      "lemma": [
+        "G4228"
+      ],
+      "strongs": "G4228",
+      "morph": "robinson:N-GSM",
+      "translation": "of a foot",
+      "metadata": {},
+      "gematria": {
+        "standard": 424,
+        "ordinal": 68,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐπηγγείλατο",
+      "lemma": [
+        "G1861"
+      ],
+      "strongs": "G1861",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "He promised",
+      "metadata": {},
+      "gematria": {
+        "standard": 515,
+        "ordinal": 94,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 13,
+      "text": "δοῦναι",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-2AAN",
+      "translation": "to give",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 14,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 15,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "κατάσχεσιν",
+      "lemma": [
+        "G2697"
+      ],
+      "strongs": "G2697",
+      "morph": "robinson:N-ASF",
+      "translation": "a possession",
+      "metadata": {},
+      "gematria": {
+        "standard": 1387,
+        "ordinal": 116,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 17,
+      "text": "αὐτὴν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASF",
+      "translation": "it",
+      "metadata": {},
+      "gematria": {
+        "standard": 759,
+        "ordinal": 60,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 20,
+      "text": "σπέρματι",
+      "lemma": null,
+      "morph": null,
+      "translation": "descendants",
+      "metadata": {},
+      "gematria": {
+        "standard": 736,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 21,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 22,
+      "text": "μετ᾽",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "after",
+      "metadata": {},
+      "gematria": {
+        "standard": 345,
+        "ordinal": 36,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 23,
+      "text": "αὐτόν,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 24,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 25,
+      "text": "ὄντος",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAP-GSN",
+      "translation": "there being",
+      "metadata": {},
+      "gematria": {
+        "standard": 690,
+        "ordinal": 80,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 26,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 27,
+      "text": "τέκνου.",
+      "lemma": [
+        "G5043"
+      ],
+      "strongs": "G5043",
+      "morph": "robinson:N-GSN",
+      "translation": "a child.",
+      "metadata": {},
+      "gematria": {
+        "standard": 845,
+        "ordinal": 82,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 17796,
+    "ordinal": 1615,
+    "reduced": 571
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "text": "Καί τινες κατελθόντες ἀπὸ τῆς Ἰουδαίας ἐδίδασκον τοὺς ἀδελφοὺς ὅτι ἐὰν μὴ τῷ ἔθει Μωϋσέως, οὐ δύνασθε σωθῆναι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καί",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "τινες",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NPM",
+      "translation": "certain ones",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "κατελθόντες",
+      "lemma": [
+        "G2718"
+      ],
+      "strongs": "G2718",
+      "morph": "robinson:V-2AAP-NPM",
+      "translation": "having come down",
+      "metadata": {},
+      "gematria": {
+        "standard": 990,
+        "ordinal": 124,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "Ἰουδαίας",
+      "lemma": [
+        "G2449"
+      ],
+      "strongs": "G2449",
+      "morph": "robinson:N-GSF-L",
+      "translation": "Judea",
+      "metadata": {},
+      "gematria": {
+        "standard": 696,
+        "ordinal": 77,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐδίδασκον",
+      "lemma": [
+        "G1321"
+      ],
+      "strongs": "G1321",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "were teaching",
+      "metadata": {},
+      "gematria": {
+        "standard": 364,
+        "ordinal": 79,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀδελφοὺς",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-APM",
+      "translation": "brothers",
+      "metadata": {},
+      "gematria": {
+        "standard": 1210,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "Only",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "unless",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "according to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἔθει",
+      "lemma": [
+        "G1485"
+      ],
+      "strongs": "G1485",
+      "morph": "robinson:N-DSN",
+      "translation": "custom",
+      "metadata": {},
+      "gematria": {
+        "standard": 29,
+        "ordinal": 27,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 15,
+      "text": "Μωϋσέως,",
+      "lemma": [
+        "G3475"
+      ],
+      "strongs": "G3475",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of Moses,",
+      "metadata": {},
+      "gematria": {
+        "standard": 2445,
+        "ordinal": 121,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 16,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "[then] not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 17,
+      "text": "δύνασθε",
+      "lemma": [
+        "G1410"
+      ],
+      "strongs": "G1410",
+      "morph": "robinson:V-PNI-2P",
+      "translation": "you are able",
+      "metadata": {},
+      "gematria": {
+        "standard": 669,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 18,
+      "text": "σωθῆναι.",
+      "lemma": [
+        "G4982"
+      ],
+      "strongs": "G4982",
+      "morph": "robinson:V-APN",
+      "translation": "to be saved.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1078,
+        "ordinal": 80,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11770,
+    "ordinal": 1072,
+    "reduced": 451
+  }
+}

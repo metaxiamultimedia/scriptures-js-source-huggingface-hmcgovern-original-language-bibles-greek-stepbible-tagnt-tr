@@ -1,0 +1,359 @@
+{
+  "text": "ἀλλ᾽ ἐὰν πεινᾷ ὁ ἐχθρός σου, ψώμιζε αὐτόν· ἐὰν διψᾷ, πότιζε αὐτόν· τοῦτο γὰρ ποιῶν ἄνθρακας πυρὸς σωρεύσεις ἐπὶ τὴν κεφαλὴν αὐτοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "On the contrary",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "πεινᾷ",
+      "lemma": [
+        "G3983"
+      ],
+      "strongs": "G3983",
+      "morph": "robinson:V-PAS-3S",
+      "translation": "shall hunger",
+      "metadata": {},
+      "gematria": {
+        "standard": 156,
+        "ordinal": 53,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐχθρός",
+      "lemma": [
+        "G2190"
+      ],
+      "strongs": "G2190",
+      "morph": "robinson:N-NSM",
+      "translation": "enemy",
+      "metadata": {},
+      "gematria": {
+        "standard": 984,
+        "ordinal": 85,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 6,
+      "text": "σου,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "ψώμιζε",
+      "lemma": [
+        "G5595"
+      ],
+      "strongs": "G5595",
+      "morph": "robinson:V-PAM-2S",
+      "translation": "do feed",
+      "metadata": {},
+      "gematria": {
+        "standard": 1562,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτόν·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "διψᾷ,",
+      "lemma": [
+        "G1372"
+      ],
+      "strongs": "G1372",
+      "morph": "robinson:V-PAS-3S",
+      "translation": "he shall thirst,",
+      "metadata": {},
+      "gematria": {
+        "standard": 725,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 11,
+      "text": "πότιζε",
+      "lemma": [
+        "G4222"
+      ],
+      "strongs": "G4222",
+      "morph": "robinson:V-PAM-2S",
+      "translation": "do give drink",
+      "metadata": {},
+      "gematria": {
+        "standard": 472,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 12,
+      "text": "αὐτόν·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῦτο",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-ASN",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 15,
+      "text": "ποιῶν",
+      "lemma": null,
+      "morph": null,
+      "translation": "doing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1010,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἄνθρακας",
+      "lemma": [
+        "G440"
+      ],
+      "strongs": "G440",
+      "morph": "robinson:N-APM",
+      "translation": "coals",
+      "metadata": {},
+      "gematria": {
+        "standard": 382,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 17,
+      "text": "πυρὸς",
+      "lemma": [
+        "G4442"
+      ],
+      "strongs": "G4442",
+      "morph": "robinson:N-GSN",
+      "translation": "of fire",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 18,
+      "text": "σωρεύσεις",
+      "lemma": [
+        "G4987"
+      ],
+      "strongs": "G4987",
+      "morph": "robinson:V-FAI-2S",
+      "translation": "you will heap",
+      "metadata": {},
+      "gematria": {
+        "standard": 1920,
+        "ordinal": 134,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "upon",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 20,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 21,
+      "text": "κεφαλὴν",
+      "lemma": [
+        "G2776"
+      ],
+      "strongs": "G2776",
+      "morph": "robinson:N-ASF",
+      "translation": "head",
+      "metadata": {},
+      "gematria": {
+        "standard": 614,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 22,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14098,
+    "ordinal": 1285,
+    "reduced": 502
+  }
+}

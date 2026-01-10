@@ -1,0 +1,391 @@
+{
+  "text": "ὅπως γένησθε υἱοὶ τοῦ πατρὸς ὑμῶν τοῦ ἐν οὐρανοῖς, ὅτι τὸν ἥλιον αὐτοῦ ἀνατέλλει ἐπὶ πονηροὺς καὶ ἀγαθοὺς καὶ βρέχει ἐπὶ δικαίους καὶ ἀδίκους.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅπως",
+      "lemma": [
+        "G3704"
+      ],
+      "strongs": "G3704",
+      "morph": "robinson:CONJ",
+      "translation": "so that",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 2,
+      "text": "γένησθε",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADS-2P",
+      "translation": "you may be",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 59,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 3,
+      "text": "υἱοὶ",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-NPM",
+      "translation": "sons",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "πατρὸς",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-GSM-T",
+      "translation": "Father",
+      "metadata": {},
+      "gematria": {
+        "standard": 751,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑμῶν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "who is",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "οὐρανοῖς,",
+      "lemma": [
+        "G3772"
+      ],
+      "strongs": "G3772",
+      "morph": "robinson:N-DPM",
+      "translation": "heavens,",
+      "metadata": {},
+      "gematria": {
+        "standard": 901,
+        "ordinal": 108,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "For",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἥλιον",
+      "lemma": [
+        "G2246"
+      ],
+      "strongs": "G2246",
+      "morph": "robinson:N-ASM",
+      "translation": "sun",
+      "metadata": {},
+      "gematria": {
+        "standard": 168,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀνατέλλει",
+      "lemma": [
+        "G393"
+      ],
+      "strongs": "G393",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "He makes rise",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "on",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 16,
+      "text": "πονηροὺς",
+      "lemma": [
+        "G4190"
+      ],
+      "strongs": "G4190",
+      "morph": "robinson:A-APM",
+      "translation": "evil",
+      "metadata": {},
+      "gematria": {
+        "standard": 978,
+        "ordinal": 121,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 17,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἀγαθοὺς",
+      "lemma": [
+        "G18"
+      ],
+      "strongs": "G18",
+      "morph": "robinson:A-APM",
+      "translation": "good",
+      "metadata": {},
+      "gematria": {
+        "standard": 684,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 19,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "βρέχει",
+      "lemma": [
+        "G1026"
+      ],
+      "strongs": "G1026",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "He sends rain",
+      "metadata": {},
+      "gematria": {
+        "standard": 722,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "on",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 22,
+      "text": "δικαίους",
+      "lemma": [
+        "G1342"
+      ],
+      "strongs": "G1342",
+      "morph": "robinson:A-APM",
+      "translation": "righteous",
+      "metadata": {},
+      "gematria": {
+        "standard": 715,
+        "ordinal": 86,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 23,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἀδίκους.",
+      "lemma": [
+        "G94"
+      ],
+      "strongs": "G94",
+      "morph": "robinson:A-APM",
+      "translation": "unrighteous.",
+      "metadata": {},
+      "gematria": {
+        "standard": 705,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13115,
+    "ordinal": 1399,
+    "reduced": 571
+  }
+}

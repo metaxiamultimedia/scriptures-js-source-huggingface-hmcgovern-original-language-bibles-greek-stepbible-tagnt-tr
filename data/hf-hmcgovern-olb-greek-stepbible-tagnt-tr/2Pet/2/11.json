@@ -1,0 +1,244 @@
+{
+  "text": "ὅπου ἄγγελοι ἰσχύϊ καὶ δυνάμει μείζονες ὄντες οὐ φέρουσιν κατ᾽ αὐτῶν παρὰ κυρίου βλάσφημον κρίσιν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅπου",
+      "lemma": [
+        "G3699"
+      ],
+      "strongs": "G3699",
+      "morph": "robinson:CONJ",
+      "translation": "whereas",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἄγγελοι",
+      "lemma": null,
+      "morph": null,
+      "translation": "angels",
+      "metadata": {},
+      "gematria": {
+        "standard": 122,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἰσχύϊ",
+      "lemma": [
+        "G2479"
+      ],
+      "strongs": "G2479",
+      "morph": "robinson:N-DSF",
+      "translation": "in strength",
+      "metadata": {},
+      "gematria": {
+        "standard": 1220,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "δυνάμει",
+      "lemma": [
+        "G1411"
+      ],
+      "strongs": "G1411",
+      "morph": "robinson:N-DSF",
+      "translation": "in power",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "μείζονες",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-NPM-C",
+      "translation": "greater",
+      "metadata": {},
+      "gematria": {
+        "standard": 387,
+        "ordinal": 83,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὄντες",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "being",
+      "metadata": {},
+      "gematria": {
+        "standard": 625,
+        "ordinal": 70,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 9,
+      "text": "φέρουσιν",
+      "lemma": [
+        "G5342"
+      ],
+      "strongs": "G5342",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "they do bring",
+      "metadata": {},
+      "gematria": {
+        "standard": 1335,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 10,
+      "text": "κατ᾽",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "against",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 30,
+        "reduced": 3
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτῶν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "παρὰ",
+      "lemma": [
+        "G3844"
+      ],
+      "strongs": "G3844",
+      "morph": "robinson:PREP",
+      "translation": "<from/before>",
+      "metadata": {},
+      "gematria": {
+        "standard": 182,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 13,
+      "text": "κυρίου",
+      "lemma": null,
+      "morph": null,
+      "translation": "[from the] Lord",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 91,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 14,
+      "text": "βλάσφημον",
+      "lemma": [
+        "G989"
+      ],
+      "strongs": "G989",
+      "morph": "robinson:A-ASF",
+      "translation": "a reviling",
+      "metadata": {},
+      "gematria": {
+        "standard": 901,
+        "ordinal": 100,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 15,
+      "text": "κρίσιν.",
+      "lemma": [
+        "G2920"
+      ],
+      "strongs": "G2920",
+      "morph": "robinson:N-ASF",
+      "translation": "judgment.",
+      "metadata": {},
+      "gematria": {
+        "standard": 390,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9665,
+    "ordinal": 990,
+    "reduced": 387
+  }
+}

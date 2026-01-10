@@ -1,0 +1,295 @@
+{
+  "text": "εἰ δὲ ζῆλον πικρὸν ἔχετε καὶ ἐριθείαν ἐν τῇ καρδίᾳ ὑμῶν, μὴ κατακαυχᾶσθε καὶ ψεύδεσθε κατὰ τῆς ἀληθείας.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ζῆλον",
+      "lemma": [
+        "G2205"
+      ],
+      "strongs": "G2205",
+      "morph": "robinson:N-ASM",
+      "translation": "jealousy",
+      "metadata": {},
+      "gematria": {
+        "standard": 165,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
+      "text": "πικρὸν",
+      "lemma": [
+        "G4089"
+      ],
+      "strongs": "G4089",
+      "morph": "robinson:A-ASM",
+      "translation": "bitter",
+      "metadata": {},
+      "gematria": {
+        "standard": 330,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἔχετε",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "you have",
+      "metadata": {},
+      "gematria": {
+        "standard": 915,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐριθείαν",
+      "lemma": [
+        "G2052"
+      ],
+      "strongs": "G2052",
+      "morph": "robinson:N-ASF",
+      "translation": "self-interest",
+      "metadata": {},
+      "gematria": {
+        "standard": 190,
+        "ordinal": 67,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
+      "text": "καρδίᾳ",
+      "lemma": [
+        "G2588"
+      ],
+      "strongs": "G2588",
+      "morph": "robinson:N-DSF",
+      "translation": "heart",
+      "metadata": {},
+      "gematria": {
+        "standard": 146,
+        "ordinal": 51,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὑμῶν,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "of you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 12,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "κατακαυχᾶσθε",
+      "lemma": [
+        "G2620"
+      ],
+      "strongs": "G2620",
+      "morph": "robinson:V-PNM-2P",
+      "translation": "do boast [of it]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1558,
+        "ordinal": 116,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "ψεύδεσθε",
+      "lemma": [
+        "G5574"
+      ],
+      "strongs": "G5574",
+      "morph": "robinson:V-PNM-2P",
+      "translation": "do lie",
+      "metadata": {},
+      "gematria": {
+        "standard": 1328,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 16,
+      "text": "κατὰ",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "against",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 31,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 17,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἀληθείας.",
+      "lemma": [
+        "G225"
+      ],
+      "strongs": "G225",
+      "morph": "robinson:N-GSF",
+      "translation": "truth.",
+      "metadata": {},
+      "gematria": {
+        "standard": 264,
+        "ordinal": 60,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7523,
+    "ordinal": 849,
+    "reduced": 399
+  }
+}

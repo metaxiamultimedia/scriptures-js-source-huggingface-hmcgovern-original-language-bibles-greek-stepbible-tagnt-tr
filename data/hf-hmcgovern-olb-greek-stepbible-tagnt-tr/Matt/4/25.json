@@ -1,0 +1,295 @@
+{
+  "text": "καὶ ἠκολούθησαν αὐτῷ ὄχλοι πολλοὶ ἀπὸ τῆς Γαλιλαίας καὶ Δεκαπόλεως καὶ Ἱεροσολύμων καὶ Ἰουδαίας καὶ πέραν τοῦ Ἰορδάνου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἠκολούθησαν",
+      "lemma": [
+        "G190"
+      ],
+      "strongs": "G190",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "followed",
+      "metadata": {},
+      "gematria": {
+        "standard": 866,
+        "ordinal": 125,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὄχλοι",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-NPM",
+      "translation": "crowds",
+      "metadata": {},
+      "gematria": {
+        "standard": 780,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 5,
+      "text": "πολλοὶ",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-NPM",
+      "translation": "great",
+      "metadata": {},
+      "gematria": {
+        "standard": 290,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "Γαλιλαίας",
+      "lemma": null,
+      "morph": null,
+      "translation": "Galilee",
+      "metadata": {},
+      "gematria": {
+        "standard": 286,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "Δεκαπόλεως",
+      "lemma": [
+        "G1179"
+      ],
+      "strongs": "G1179",
+      "morph": "robinson:N-GSF-L",
+      "translation": "[the] Decapolis",
+      "metadata": {},
+      "gematria": {
+        "standard": 1215,
+        "ordinal": 109,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "Ἱεροσολύμων",
+      "lemma": [
+        "G2414"
+      ],
+      "strongs": "G2414",
+      "morph": "robinson:N-GPN-L",
+      "translation": "Jerusalem",
+      "metadata": {},
+      "gematria": {
+        "standard": 1775,
+        "ordinal": 159,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "Ἰουδαίας",
+      "lemma": [
+        "G2449"
+      ],
+      "strongs": "G2449",
+      "morph": "robinson:N-GSF-L",
+      "translation": "Judea",
+      "metadata": {},
+      "gematria": {
+        "standard": 696,
+        "ordinal": 77,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "πέραν",
+      "lemma": [
+        "G4008"
+      ],
+      "strongs": "G4008",
+      "morph": "robinson:PREP",
+      "translation": "beyond",
+      "metadata": {},
+      "gematria": {
+        "standard": 236,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 17,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "Ἰορδάνου.",
+      "lemma": [
+        "G2446"
+      ],
+      "strongs": "G2446",
+      "morph": "robinson:N-GSM-L",
+      "translation": "Jordan.",
+      "metadata": {},
+      "gematria": {
+        "standard": 705,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9944,
+    "ordinal": 1132,
+    "reduced": 475
+  }
+}

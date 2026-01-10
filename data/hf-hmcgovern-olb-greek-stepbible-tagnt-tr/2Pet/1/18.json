@@ -1,0 +1,260 @@
+{
+  "text": "καὶ ταύτην τὴν φωνὴν ἡμεῖς ἠκούσαμεν ἐξ οὐρανοῦ ἐνεχθεῖσαν σὺν αὐτῷ ὄντες ἐν τῷ ἁγίῳ ὄρει.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ταύτην",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-ASF",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1059,
+        "ordinal": 79,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "φωνὴν",
+      "lemma": null,
+      "morph": null,
+      "translation": "voice",
+      "metadata": {},
+      "gematria": {
+        "standard": 1408,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἡμεῖς",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1NP",
+      "translation": "we ourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 263,
+        "ordinal": 51,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἠκούσαμεν",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAI-1P",
+      "translation": "heard",
+      "metadata": {},
+      "gematria": {
+        "standard": 794,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐξ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "οὐρανοῦ",
+      "lemma": [
+        "G3772"
+      ],
+      "strongs": "G3772",
+      "morph": "robinson:N-GSM",
+      "translation": "heaven",
+      "metadata": {},
+      "gematria": {
+        "standard": 1091,
+        "ordinal": 101,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐνεχθεῖσαν",
+      "lemma": [
+        "G5342"
+      ],
+      "strongs": "G5342",
+      "morph": "robinson:V-APP-ASF",
+      "translation": "having been brought",
+      "metadata": {},
+      "gematria": {
+        "standard": 935,
+        "ordinal": 99,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 10,
+      "text": "σὺν",
+      "lemma": [
+        "G4862"
+      ],
+      "strongs": "G4862",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὄντες",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "being",
+      "metadata": {},
+      "gematria": {
+        "standard": 625,
+        "ordinal": 70,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἁγίῳ",
+      "lemma": null,
+      "morph": null,
+      "translation": "holy",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὄρει.",
+      "lemma": [
+        "G3735"
+      ],
+      "strongs": "G3735",
+      "morph": "robinson:N-DSN",
+      "translation": "mountain.",
+      "metadata": {},
+      "gematria": {
+        "standard": 185,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10964,
+    "ordinal": 943,
+    "reduced": 367
+  }
+}

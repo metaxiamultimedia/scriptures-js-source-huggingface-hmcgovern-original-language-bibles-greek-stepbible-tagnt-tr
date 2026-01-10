@@ -1,0 +1,135 @@
+{
+  "text": "ὃν δὲ ὁ θεὸς ἤγειρεν, οὐκ εἶδεν διαφθοράν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὃν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASM",
+      "translation": "The [One]",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἤγειρεν,",
+      "lemma": [
+        "G1453"
+      ],
+      "strongs": "G1453",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "raised up",
+      "metadata": {},
+      "gematria": {
+        "standard": 181,
+        "ordinal": 59,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "εἶδεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "did see",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 8,
+      "text": "διαφθοράν.",
+      "lemma": [
+        "G1312"
+      ],
+      "strongs": "G1312",
+      "morph": "robinson:N-ASF",
+      "translation": "decay.",
+      "metadata": {},
+      "gematria": {
+        "standard": 745,
+        "ordinal": 89,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1973,
+    "ordinal": 327,
+    "reduced": 174
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "text": "καὶ ἐγένετο ἐν τῷ ὁμιλεῖν αὐτοὺς καὶ συζητεῖν καὶ αὐτὸς Ἰησοῦς ἐγγίσας συνεπορεύετο αὐτοῖς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "it came to pass",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "during",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὁμιλεῖν",
+      "lemma": [
+        "G3656"
+      ],
+      "strongs": "G3656",
+      "morph": "robinson:V-PAN",
+      "translation": "talking",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτοὺς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APM",
+      "translation": "by them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 93,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "συζητεῖν",
+      "lemma": [
+        "G4802"
+      ],
+      "strongs": "G4802",
+      "morph": "robinson:V-PAN",
+      "translation": "reasoning",
+      "metadata": {},
+      "gematria": {
+        "standard": 980,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "αὐτὸς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NSM",
+      "translation": "Himself",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 11,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐγγίσας",
+      "lemma": [
+        "G1448"
+      ],
+      "strongs": "G1448",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having drawn near",
+      "metadata": {},
+      "gematria": {
+        "standard": 422,
+        "ordinal": 57,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 13,
+      "text": "συνεπορεύετο",
+      "lemma": [
+        "G4848"
+      ],
+      "strongs": "G4848",
+      "morph": "robinson:V-INI-3S",
+      "translation": "He was walking along",
+      "metadata": {},
+      "gematria": {
+        "standard": 1685,
+        "ordinal": 168,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 14,
+      "text": "αὐτοῖς.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "with them.",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9209,
+    "ordinal": 926,
+    "reduced": 377
+  }
+}

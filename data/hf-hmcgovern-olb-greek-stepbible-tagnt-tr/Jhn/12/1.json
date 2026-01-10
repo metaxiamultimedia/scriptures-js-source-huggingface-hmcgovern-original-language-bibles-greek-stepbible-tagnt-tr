@@ -1,0 +1,324 @@
+{
+  "text": "Ὁ οὖν Ἰησοῦς πρὸ ἓξ ἡμερῶν τοῦ πάσχα ἦλθεν εἰς Βηθανίαν, ὅπου ἦν Λάζαρος ὁ τεθνηκώς ὃν ἤγειρεν ἐκ νεκρῶν",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "Therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 4,
+      "text": "πρὸ",
+      "lemma": [
+        "G4253"
+      ],
+      "strongs": "G4253",
+      "morph": "robinson:PREP",
+      "translation": "before",
+      "metadata": {},
+      "gematria": {
+        "standard": 250,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἓξ",
+      "lemma": [
+        "G1803"
+      ],
+      "strongs": "G1803",
+      "morph": "robinson:A-NUI",
+      "translation": "six",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἡμερῶν",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-GPF",
+      "translation": "days",
+      "metadata": {},
+      "gematria": {
+        "standard": 1003,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 7,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "πάσχα",
+      "lemma": [
+        "G3957"
+      ],
+      "strongs": "G3957",
+      "morph": "robinson:N-GSN",
+      "translation": "Passover",
+      "metadata": {},
+      "gematria": {
+        "standard": 882,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἦλθεν",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "came",
+      "metadata": {},
+      "gematria": {
+        "standard": 102,
+        "ordinal": 44,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 10,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "Βηθανίαν,",
+      "lemma": [
+        "G963"
+      ],
+      "strongs": "G963",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Bethany,",
+      "metadata": {},
+      "gematria": {
+        "standard": 131,
+        "ordinal": 54,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὅπου",
+      "lemma": [
+        "G3699"
+      ],
+      "strongs": "G3699",
+      "morph": "robinson:PREP",
+      "translation": "where",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "Λάζαρος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lazarus",
+      "metadata": {},
+      "gematria": {
+        "standard": 409,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 16,
+      "text": "τεθνηκώς",
+      "lemma": [
+        "G2348"
+      ],
+      "strongs": "G2348",
+      "morph": "robinson:V-RAP-NSM",
+      "translation": "having died",
+      "metadata": {},
+      "gematria": {
+        "standard": 1392,
+        "ordinal": 104,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὃν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASM",
+      "translation": "whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἤγειρεν",
+      "lemma": [
+        "G1453"
+      ],
+      "strongs": "G1453",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "raised",
+      "metadata": {},
+      "gematria": {
+        "standard": 181,
+        "ordinal": 59,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out from",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 20,
+      "text": "νεκρῶν",
+      "lemma": [
+        "G3498"
+      ],
+      "strongs": "G3498",
+      "morph": "robinson:A-GPM",
+      "translation": "[the] dead",
+      "metadata": {},
+      "gematria": {
+        "standard": 1025,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8796,
+    "ordinal": 995,
+    "reduced": 437
+  }
+}

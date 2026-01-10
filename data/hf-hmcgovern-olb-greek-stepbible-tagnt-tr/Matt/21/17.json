@@ -1,0 +1,202 @@
+{
+  "text": "Καὶ καταλιπὼν αὐτοὺς ἐξῆλθεν ἔξω τῆς πόλεως εἰς Βηθανίαν καὶ ηὐλίσθη ἐκεῖ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "καταλιπὼν",
+      "lemma": [
+        "G2641"
+      ],
+      "strongs": "G2641",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having left",
+      "metadata": {},
+      "gematria": {
+        "standard": 1292,
+        "ordinal": 104,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτοὺς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APM",
+      "translation": "them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 93,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐξῆλθεν",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "He went",
+      "metadata": {},
+      "gematria": {
+        "standard": 167,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἔξω",
+      "lemma": [
+        "G1854"
+      ],
+      "strongs": "G1854",
+      "morph": "robinson:PREP",
+      "translation": "out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 865,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "πόλεως",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-GSF",
+      "translation": "city",
+      "metadata": {},
+      "gematria": {
+        "standard": 1185,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "Βηθανίαν",
+      "lemma": [
+        "G963"
+      ],
+      "strongs": "G963",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Bethany",
+      "metadata": {},
+      "gematria": {
+        "standard": 131,
+        "ordinal": 54,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ηὐλίσθη",
+      "lemma": [
+        "G835"
+      ],
+      "strongs": "G835",
+      "morph": "robinson:V-AOI-3S",
+      "translation": "He passed the night",
+      "metadata": {},
+      "gematria": {
+        "standard": 665,
+        "ordinal": 80,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐκεῖ.",
+      "lemma": [
+        "G1563"
+      ],
+      "strongs": "G1563",
+      "morph": "robinson:ADV",
+      "translation": "there.",
+      "metadata": {},
+      "gematria": {
+        "standard": 40,
+        "ordinal": 29,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6501,
+    "ordinal": 671,
+    "reduced": 302
+  }
+}

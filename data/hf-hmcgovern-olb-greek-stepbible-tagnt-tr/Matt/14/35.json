@@ -1,0 +1,343 @@
+{
+  "text": "καὶ ἐπιγνόντες αὐτὸν οἱ ἄνδρες τοῦ τόπου ἐκείνου ἀπέστειλαν εἰς ὅλην τὴν περίχωρον ἐκείνην καὶ προσήνεγκαν αὐτῷ πάντας τοὺς κακῶς ἔχοντας",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐπιγνόντες",
+      "lemma": [
+        "G1921"
+      ],
+      "strongs": "G1921",
+      "morph": "robinson:V-2AAP-NPM",
+      "translation": "having recognized",
+      "metadata": {},
+      "gematria": {
+        "standard": 773,
+        "ordinal": 116,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἄνδρες",
+      "lemma": null,
+      "morph": null,
+      "translation": "men",
+      "metadata": {},
+      "gematria": {
+        "standard": 360,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "τόπου",
+      "lemma": [
+        "G5117"
+      ],
+      "strongs": "G5117",
+      "morph": "robinson:N-GSM",
+      "translation": "place",
+      "metadata": {},
+      "gematria": {
+        "standard": 920,
+        "ordinal": 85,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐκείνου",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-GSM",
+      "translation": "that one",
+      "metadata": {},
+      "gematria": {
+        "standard": 560,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀπέστειλαν",
+      "lemma": [
+        "G649"
+      ],
+      "strongs": "G649",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "sent",
+      "metadata": {},
+      "gematria": {
+        "standard": 682,
+        "ordinal": 98,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 10,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὅλην",
+      "lemma": [
+        "G3650"
+      ],
+      "strongs": "G3650",
+      "morph": "robinson:A-ASF",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 158,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
+      "text": "περίχωρον",
+      "lemma": [
+        "G4066"
+      ],
+      "strongs": "G4066",
+      "morph": "robinson:N-ASF",
+      "translation": "surrounding region",
+      "metadata": {},
+      "gematria": {
+        "standard": 1815,
+        "ordinal": 138,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐκείνην",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-ASF",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 148,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "προσήνεγκαν",
+      "lemma": [
+        "G4374"
+      ],
+      "strongs": "G4374",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "brought",
+      "metadata": {},
+      "gematria": {
+        "standard": 587,
+        "ordinal": 118,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 17,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 18,
+      "text": "πάντας",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-APM",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 632,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 19,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 20,
+      "text": "κακῶς",
+      "lemma": [
+        "G2560"
+      ],
+      "strongs": "G2560",
+      "morph": "robinson:ADV",
+      "translation": "sick",
+      "metadata": {},
+      "gematria": {
+        "standard": 1041,
+        "ordinal": 63,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἔχοντας",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAP-APM",
+      "translation": "being",
+      "metadata": {},
+      "gematria": {
+        "standard": 1226,
+        "ordinal": 93,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13689,
+    "ordinal": 1424,
+    "reduced": 551
+  }
+}

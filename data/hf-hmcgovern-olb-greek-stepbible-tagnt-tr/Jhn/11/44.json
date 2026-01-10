@@ -1,0 +1,417 @@
+{
+  "text": "ἐξῆλθεν ὁ τεθνηκὼς δεδεμένος τοὺς πόδας καὶ τὰς χεῖρας κειρίαις, καὶ ἡ ὄψις αὐτοῦ σουδαρίῳ περιεδέδετο. λέγει αὐτοῖς ὁ Ἰησοῦς· λύσατε αὐτὸν καὶ ἄφετε αὐτὸν ὑπάγειν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐξῆλθεν",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "Came forth",
+      "metadata": {},
+      "gematria": {
+        "standard": 167,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "τεθνηκὼς",
+      "lemma": [
+        "G2348"
+      ],
+      "strongs": "G2348",
+      "morph": "robinson:V-RAP-NSM",
+      "translation": "having died",
+      "metadata": {},
+      "gematria": {
+        "standard": 1392,
+        "ordinal": 104,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 4,
+      "text": "δεδεμένος",
+      "lemma": [
+        "G1210"
+      ],
+      "strongs": "G1210",
+      "morph": "robinson:V-RPP-NSM",
+      "translation": "bound",
+      "metadata": {},
+      "gematria": {
+        "standard": 383,
+        "ordinal": 81,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "πόδας",
+      "lemma": [
+        "G4228"
+      ],
+      "strongs": "G4228",
+      "morph": "robinson:N-APM",
+      "translation": "feet",
+      "metadata": {},
+      "gematria": {
+        "standard": 355,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "χεῖρας",
+      "lemma": [
+        "G5495"
+      ],
+      "strongs": "G5495",
+      "morph": "robinson:N-APF",
+      "translation": "hands",
+      "metadata": {},
+      "gematria": {
+        "standard": 916,
+        "ordinal": 72,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 10,
+      "text": "κειρίαις,",
+      "lemma": [
+        "G2750"
+      ],
+      "strongs": "G2750",
+      "morph": "robinson:N-DPF",
+      "translation": "with linen strips,",
+      "metadata": {},
+      "gematria": {
+        "standard": 356,
+        "ordinal": 78,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὄψις",
+      "lemma": [
+        "G3799"
+      ],
+      "strongs": "G3799",
+      "morph": "robinson:N-NSF",
+      "translation": "face",
+      "metadata": {},
+      "gematria": {
+        "standard": 980,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 14,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 15,
+      "text": "σουδαρίῳ",
+      "lemma": [
+        "G4676"
+      ],
+      "strongs": "G4676",
+      "morph": "robinson:N-DSN",
+      "translation": "in a headcloth",
+      "metadata": {},
+      "gematria": {
+        "standard": 1595,
+        "ordinal": 117,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 16,
+      "text": "περιεδέδετο.",
+      "lemma": [
+        "G4019"
+      ],
+      "strongs": "G4019",
+      "morph": "robinson:V-LPI-3S",
+      "translation": "had bound about.",
+      "metadata": {},
+      "gematria": {
+        "standard": 588,
+        "ordinal": 104,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 17,
+      "text": "λέγει",
+      "lemma": null,
+      "morph": null,
+      "translation": "Says",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 18,
+      "text": "αὐτοῖς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 20,
+      "text": "Ἰησοῦς·",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus:",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 21,
+      "text": "λύσατε",
+      "lemma": [
+        "G3089"
+      ],
+      "strongs": "G3089",
+      "morph": "robinson:V-AAM-2P",
+      "translation": "do unbind",
+      "metadata": {},
+      "gematria": {
+        "standard": 936,
+        "ordinal": 74,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 22,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 23,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἄφετε",
+      "lemma": null,
+      "morph": null,
+      "translation": "do allow",
+      "metadata": {},
+      "gematria": {
+        "standard": 811,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 25,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 26,
+      "text": "ὑπάγειν.",
+      "lemma": [
+        "G5217"
+      ],
+      "strongs": "G5217",
+      "morph": "robinson:V-PAN",
+      "translation": "to go.",
+      "metadata": {},
+      "gematria": {
+        "standard": 549,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15475,
+    "ordinal": 1550,
+    "reduced": 659
+  }
+}

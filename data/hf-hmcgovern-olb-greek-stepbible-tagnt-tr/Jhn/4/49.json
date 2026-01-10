@@ -1,0 +1,196 @@
+{
+  "text": "λέγει πρὸς αὐτὸν ὁ βασιλικός· κύριε, κατάβηθι πρὶν ἀποθανεῖν τὸ παιδίον μου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "λέγει",
+      "lemma": null,
+      "morph": null,
+      "translation": "Says",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "βασιλικός·",
+      "lemma": [
+        "G937"
+      ],
+      "strongs": "G937",
+      "morph": "robinson:A-NSM",
+      "translation": "royal official;",
+      "metadata": {},
+      "gematria": {
+        "standard": 543,
+        "ordinal": 93,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 6,
+      "text": "κύριε,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Sir,",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "κατάβηθι",
+      "lemma": [
+        "G2597"
+      ],
+      "strongs": "G2597",
+      "morph": "robinson:V-2AAM-2S",
+      "translation": "do come down",
+      "metadata": {},
+      "gematria": {
+        "standard": 351,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "πρὶν",
+      "lemma": [
+        "G4250"
+      ],
+      "strongs": "G4250",
+      "morph": "robinson:PREP",
+      "translation": "before",
+      "metadata": {},
+      "gematria": {
+        "standard": 240,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀποθανεῖν",
+      "lemma": [
+        "G599"
+      ],
+      "strongs": "G599",
+      "morph": "robinson:V-2AAN",
+      "translation": "to die",
+      "metadata": {},
+      "gematria": {
+        "standard": 276,
+        "ordinal": 81,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 10,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 11,
+      "text": "παιδίον",
+      "lemma": [
+        "G3813"
+      ],
+      "strongs": "G3813",
+      "morph": "robinson:N-ASN",
+      "translation": "child",
+      "metadata": {},
+      "gematria": {
+        "standard": 225,
+        "ordinal": 67,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 12,
+      "text": "μου.",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of mine.",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4444,
+    "ordinal": 677,
+    "reduced": 308
+  }
+}

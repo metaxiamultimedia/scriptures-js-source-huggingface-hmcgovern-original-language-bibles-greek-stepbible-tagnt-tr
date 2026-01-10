@@ -1,0 +1,84 @@
+{
+  "text": "Σολομὼν δὲ οἰκοδόμησεν αὐτῷ οἶκον.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Σολομὼν",
+      "lemma": null,
+      "morph": null,
+      "translation": "Solomon",
+      "metadata": {},
+      "gematria": {
+        "standard": 1260,
+        "ordinal": 108,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "οἰκοδόμησεν",
+      "lemma": [
+        "G3618"
+      ],
+      "strongs": "G3618",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "built",
+      "metadata": {},
+      "gematria": {
+        "standard": 547,
+        "ordinal": 123,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 4,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "for Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "οἶκον.",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] house.",
+      "metadata": {},
+      "gematria": {
+        "standard": 220,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3547,
+    "ordinal": 375,
+    "reduced": 150
+  }
+}

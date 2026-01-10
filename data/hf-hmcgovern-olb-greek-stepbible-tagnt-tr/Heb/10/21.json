@@ -1,0 +1,135 @@
+{
+  "text": "καὶ ἱερέα μέγαν ἐπὶ τὸν οἶκον τοῦ θεοῦ,",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and [having]",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἱερέα",
+      "lemma": [
+        "G2409"
+      ],
+      "strongs": "G2409",
+      "morph": "robinson:N-ASM",
+      "translation": "a priest",
+      "metadata": {},
+      "gematria": {
+        "standard": 121,
+        "ordinal": 37,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "μέγαν",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-ASM",
+      "translation": "great",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "over",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "οἶκον",
+      "lemma": null,
+      "morph": null,
+      "translation": "house",
+      "metadata": {},
+      "gematria": {
+        "standard": 220,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 7,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "θεοῦ,",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God,",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2240,
+    "ordinal": 332,
+    "reduced": 143
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "text": "ἀναβὰς δὲ καὶ κλάσας ἄρτον καὶ γευσάμενος, ἐφ᾽ ἱκανόν τε ὁμιλήσας ἄχρι αὐγῆς, οὕτως ἐξῆλθεν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀναβὰς",
+      "lemma": [
+        "G305"
+      ],
+      "strongs": "G305",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "Having gone up",
+      "metadata": {},
+      "gematria": {
+        "standard": 255,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "κλάσας",
+      "lemma": [
+        "G2806"
+      ],
+      "strongs": "G2806",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having broken",
+      "metadata": {},
+      "gematria": {
+        "standard": 452,
+        "ordinal": 59,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἄρτον",
+      "lemma": [
+        "G740"
+      ],
+      "strongs": "G740",
+      "morph": "robinson:N-ASM",
+      "translation": "bread",
+      "metadata": {},
+      "gematria": {
+        "standard": 521,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "γευσάμενος,",
+      "lemma": [
+        "G1089"
+      ],
+      "strongs": "G1089",
+      "morph": "robinson:V-ADP-NSM",
+      "translation": "having eaten,",
+      "metadata": {},
+      "gematria": {
+        "standard": 974,
+        "ordinal": 110,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐφ᾽",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 505,
+        "ordinal": 26,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἱκανόν",
+      "lemma": [
+        "G2425"
+      ],
+      "strongs": "G2425",
+      "morph": "robinson:A-ASM",
+      "translation": "long",
+      "metadata": {},
+      "gematria": {
+        "standard": 201,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 10,
+      "text": "τε",
+      "lemma": [
+        "G5037"
+      ],
+      "strongs": "G5037",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὁμιλήσας",
+      "lemma": [
+        "G3656"
+      ],
+      "strongs": "G3656",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having talked",
+      "metadata": {},
+      "gematria": {
+        "standard": 559,
+        "ordinal": 91,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἄχρι",
+      "lemma": [
+        "G891"
+      ],
+      "strongs": "G891",
+      "morph": "robinson:PREP",
+      "translation": "until",
+      "metadata": {},
+      "gematria": {
+        "standard": 711,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐγῆς,",
+      "lemma": [
+        "G827"
+      ],
+      "strongs": "G827",
+      "morph": "robinson:N-GSF",
+      "translation": "daybreak,",
+      "metadata": {},
+      "gematria": {
+        "standard": 612,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 14,
+      "text": "οὕτως",
+      "lemma": [
+        "G3779"
+      ],
+      "strongs": "G3779",
+      "morph": "robinson:ADV",
+      "translation": "so",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 96,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐξῆλθεν.",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "he departed.",
+      "metadata": {},
+      "gematria": {
+        "standard": 167,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7103,
+    "ordinal": 778,
+    "reduced": 328
+  }
+}

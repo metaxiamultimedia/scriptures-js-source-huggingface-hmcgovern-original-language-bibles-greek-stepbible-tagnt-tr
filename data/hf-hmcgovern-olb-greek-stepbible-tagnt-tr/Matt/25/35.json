@@ -1,0 +1,250 @@
+{
+  "text": "ἐπείνασα γὰρ καὶ ἐδώκατέ μοι φαγεῖν, ἐδίψησα καὶ ἐποτίσατέ με, ξένος ἤμην καὶ συνηγάγετέ με,",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐπείνασα",
+      "lemma": [
+        "G3983"
+      ],
+      "strongs": "G3983",
+      "morph": "robinson:V-AAI-1S",
+      "translation": "I hungered",
+      "metadata": {},
+      "gematria": {
+        "standard": 352,
+        "ordinal": 68,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 2,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐδώκατέ",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-AAI-2P",
+      "translation": "you gave",
+      "metadata": {},
+      "gematria": {
+        "standard": 1135,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "μοι",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DS",
+      "translation": "Me",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "φαγεῖν,",
+      "lemma": [
+        "G5315"
+      ],
+      "strongs": "G5315",
+      "morph": "robinson:V-AAN",
+      "translation": "to eat,",
+      "metadata": {},
+      "gematria": {
+        "standard": 569,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐδίψησα",
+      "lemma": [
+        "G1372"
+      ],
+      "strongs": "G1372",
+      "morph": "robinson:V-AAI-1S",
+      "translation": "I thirsted",
+      "metadata": {},
+      "gematria": {
+        "standard": 928,
+        "ordinal": 67,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐποτίσατέ",
+      "lemma": [
+        "G4222"
+      ],
+      "strongs": "G4222",
+      "morph": "robinson:V-AAI-2P",
+      "translation": "you gave to drink",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 107,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 10,
+      "text": "με,",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "me,",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 11,
+      "text": "ξένος",
+      "lemma": [
+        "G3581"
+      ],
+      "strongs": "G3581",
+      "morph": "robinson:A-NSM",
+      "translation": "a stranger",
+      "metadata": {},
+      "gematria": {
+        "standard": 385,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἤμην",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IMI-1S",
+      "translation": "I was",
+      "metadata": {},
+      "gematria": {
+        "standard": 106,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "συνηγάγετέ",
+      "lemma": [
+        "G4863"
+      ],
+      "strongs": "G4863",
+      "morph": "robinson:V-2AAI-2P",
+      "translation": "you took in",
+      "metadata": {},
+      "gematria": {
+        "standard": 975,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 15,
+      "text": "με,",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "Me,",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5828,
+    "ordinal": 711,
+    "reduced": 342
+  }
+}

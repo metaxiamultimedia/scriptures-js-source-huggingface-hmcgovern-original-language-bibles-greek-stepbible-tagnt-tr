@@ -1,0 +1,474 @@
+{
+  "text": "Πᾶσαι οὖν αἱ γενεαὶ ἀπὸ Ἀβραὰμ ἕως Δαυὶδ γενεαὶ δεκατέσσαρες καὶ ἀπὸ Δαυὶδ ἕως τῆς μετοικεσίας Βαβυλῶνος γενεαὶ δεκατέσσαρες καὶ ἀπὸ τῆς μετοικεσίας Βαβυλῶνος ἕως τοῦ Χριστοῦ γενεαὶ δεκατέσσαρες.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Πᾶσαι",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NPF",
+      "translation": "All",
+      "metadata": {},
+      "gematria": {
+        "standard": 292,
+        "ordinal": 45,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "αἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "γενεαὶ",
+      "lemma": [
+        "G1074"
+      ],
+      "strongs": "G1074",
+      "morph": "robinson:N-NPF",
+      "translation": "generations",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "Ἀβραὰμ",
+      "lemma": [
+        "G11"
+      ],
+      "strongs": "G11",
+      "morph": "robinson:N-GSM-P",
+      "translation": "Abraham",
+      "metadata": {},
+      "gematria": {
+        "standard": 145,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἕως",
+      "lemma": [
+        "G2193"
+      ],
+      "strongs": "G2193",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "Δαυὶδ",
+      "lemma": [
+        "G1138"
+      ],
+      "strongs": "G1138",
+      "morph": "robinson:N-GSM-P",
+      "translation": "David [were]",
+      "metadata": {},
+      "gematria": {
+        "standard": 419,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 9,
+      "text": "γενεαὶ",
+      "lemma": [
+        "G1074"
+      ],
+      "strongs": "G1074",
+      "morph": "robinson:N-NPF",
+      "translation": "generations",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 10,
+      "text": "δεκατέσσαρες",
+      "lemma": [
+        "G1180"
+      ],
+      "strongs": "G1180",
+      "morph": "robinson:A-NPF",
+      "translation": "fourteen",
+      "metadata": {},
+      "gematria": {
+        "standard": 1041,
+        "ordinal": 121,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "Δαυὶδ",
+      "lemma": [
+        "G1138"
+      ],
+      "strongs": "G1138",
+      "morph": "robinson:N-GSM-P",
+      "translation": "David",
+      "metadata": {},
+      "gematria": {
+        "standard": 419,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἕως",
+      "lemma": [
+        "G2193"
+      ],
+      "strongs": "G2193",
+      "morph": "robinson:PREP",
+      "translation": "until",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 16,
+      "text": "μετοικεσίας",
+      "lemma": [
+        "G3350"
+      ],
+      "strongs": "G3350",
+      "morph": "robinson:N-GSF",
+      "translation": "carrying away",
+      "metadata": {},
+      "gematria": {
+        "standard": 861,
+        "ordinal": 121,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 17,
+      "text": "Βαβυλῶνος",
+      "lemma": [
+        "G897"
+      ],
+      "strongs": "G897",
+      "morph": "robinson:N-GSF-L",
+      "translation": "to Babylon",
+      "metadata": {},
+      "gematria": {
+        "standard": 1555,
+        "ordinal": 106,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 18,
+      "text": "γενεαὶ",
+      "lemma": [
+        "G1074"
+      ],
+      "strongs": "G1074",
+      "morph": "robinson:N-NPF",
+      "translation": "generations",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 19,
+      "text": "δεκατέσσαρες",
+      "lemma": [
+        "G1180"
+      ],
+      "strongs": "G1180",
+      "morph": "robinson:A-NPF",
+      "translation": "fourteen",
+      "metadata": {},
+      "gematria": {
+        "standard": 1041,
+        "ordinal": 121,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 20,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 22,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 23,
+      "text": "μετοικεσίας",
+      "lemma": [
+        "G3350"
+      ],
+      "strongs": "G3350",
+      "morph": "robinson:N-GSF",
+      "translation": "carrying away",
+      "metadata": {},
+      "gematria": {
+        "standard": 861,
+        "ordinal": 121,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 24,
+      "text": "Βαβυλῶνος",
+      "lemma": [
+        "G897"
+      ],
+      "strongs": "G897",
+      "morph": "robinson:N-GSF-L",
+      "translation": "to Babylon",
+      "metadata": {},
+      "gematria": {
+        "standard": 1555,
+        "ordinal": 106,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἕως",
+      "lemma": [
+        "G2193"
+      ],
+      "strongs": "G2193",
+      "morph": "robinson:PREP",
+      "translation": "until",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 26,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 27,
+      "text": "Χριστοῦ",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-GSM-T",
+      "translation": "Christ",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 28,
+      "text": "γενεαὶ",
+      "lemma": [
+        "G1074"
+      ],
+      "strongs": "G1074",
+      "morph": "robinson:N-NPF",
+      "translation": "generations",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 29,
+      "text": "δεκατέσσαρες.",
+      "lemma": [
+        "G1180"
+      ],
+      "strongs": "G1180",
+      "morph": "robinson:A-NPF",
+      "translation": "fourteen.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1041,
+        "ordinal": 121,
+        "reduced": 58
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 17053,
+    "ordinal": 1713,
+    "reduced": 777
+  }
+}

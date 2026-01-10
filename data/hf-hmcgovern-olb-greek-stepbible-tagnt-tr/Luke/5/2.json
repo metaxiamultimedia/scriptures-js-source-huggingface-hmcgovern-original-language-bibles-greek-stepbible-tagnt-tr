@@ -1,0 +1,263 @@
+{
+  "text": "καὶ εἶδεν δύο πλοῖα ἑστῶτα παρὰ τὴν λίμνην. οἱ δὲ ἁλιεῖς ἀπ᾽ αὐτῶν ἀποβάντες τὰ δίκτυα.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἶδεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "He saw",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 3,
+      "text": "δύο",
+      "lemma": [
+        "G1417"
+      ],
+      "strongs": "G1417",
+      "morph": "robinson:A-NUI",
+      "translation": "two",
+      "metadata": {},
+      "gematria": {
+        "standard": 474,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "πλοῖα",
+      "lemma": [
+        "G4143"
+      ],
+      "strongs": "G4143",
+      "morph": "robinson:N-APN",
+      "translation": "boats",
+      "metadata": {},
+      "gematria": {
+        "standard": 191,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἑστῶτα",
+      "lemma": [
+        "G2476"
+      ],
+      "strongs": "G2476",
+      "morph": "robinson:V-RAP-APN",
+      "translation": "already lying",
+      "metadata": {},
+      "gematria": {
+        "standard": 1606,
+        "ordinal": 86,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "παρὰ",
+      "lemma": [
+        "G3844"
+      ],
+      "strongs": "G3844",
+      "morph": "robinson:PREP",
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 182,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 8,
+      "text": "λίμνην.",
+      "lemma": [
+        "G3041"
+      ],
+      "strongs": "G3041",
+      "morph": "robinson:N-ASF",
+      "translation": "lake.",
+      "metadata": {},
+      "gematria": {
+        "standard": 188,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 9,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἁλιεῖς",
+      "lemma": [
+        "G231"
+      ],
+      "strongs": "G231",
+      "morph": "robinson:N-NPM",
+      "translation": "the fishermen",
+      "metadata": {},
+      "gematria": {
+        "standard": 256,
+        "ordinal": 53,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀπ᾽",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 81,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτῶν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPN",
+      "translation": "them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀποβάντες",
+      "lemma": [
+        "G576"
+      ],
+      "strongs": "G576",
+      "morph": "robinson:V-2AAP-NPM",
+      "translation": "having gone out",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 15,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 16,
+      "text": "δίκτυα.",
+      "lemma": [
+        "G1350"
+      ],
+      "strongs": "G1350",
+      "morph": "robinson:N-APN",
+      "translation": "nets.",
+      "metadata": {},
+      "gematria": {
+        "standard": 735,
+        "ordinal": 63,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6826,
+    "ordinal": 725,
+    "reduced": 293
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "text": "καὶ ἀκούσαντες οἱ μαθηταὶ ἔπεσαν ἐπὶ πρόσωπον αὐτῶν καὶ ἐφοβήθησαν σφόδρα.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀκούσαντες",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "having heard [it]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1247,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 3,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "μαθηταὶ",
+      "lemma": [
+        "G3101"
+      ],
+      "strongs": "G3101",
+      "morph": "robinson:N-NPM",
+      "translation": "disciples",
+      "metadata": {},
+      "gematria": {
+        "standard": 369,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἔπεσαν",
+      "lemma": [
+        "G4098"
+      ],
+      "strongs": "G4098",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "fell",
+      "metadata": {},
+      "gematria": {
+        "standard": 341,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "upon",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
+      "text": "πρόσωπον",
+      "lemma": [
+        "G4383"
+      ],
+      "strongs": "G4383",
+      "morph": "robinson:N-ASN",
+      "translation": "face",
+      "metadata": {},
+      "gematria": {
+        "standard": 1450,
+        "ordinal": 134,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτῶν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "of them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐφοβήθησαν",
+      "lemma": [
+        "G5399"
+      ],
+      "strongs": "G5399",
+      "morph": "robinson:V-AOI-3P",
+      "translation": "were terrified",
+      "metadata": {},
+      "gematria": {
+        "standard": 853,
+        "ordinal": 97,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 11,
+      "text": "σφόδρα.",
+      "lemma": [
+        "G4970"
+      ],
+      "strongs": "G4970",
+      "morph": "robinson:ADV",
+      "translation": "greatly.",
+      "metadata": {},
+      "gematria": {
+        "standard": 875,
+        "ordinal": 76,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6923,
+    "ordinal": 713,
+    "reduced": 308
+  }
+}

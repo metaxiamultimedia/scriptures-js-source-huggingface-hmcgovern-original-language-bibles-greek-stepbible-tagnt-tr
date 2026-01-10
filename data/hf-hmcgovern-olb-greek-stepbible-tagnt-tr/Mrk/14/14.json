@@ -1,0 +1,372 @@
+{
+  "text": "καὶ ὅπου ἐὰν εἰσέλθῃ, εἴπατε τῷ οἰκοδεσπότῃ ὅτι ὁ διδάσκαλος λέγει· ποῦ ἐστιν τὸ κατάλυμά ὅπου τὸ πάσχα μετὰ τῶν μαθητῶν μου φάγω;",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὅπου",
+      "lemma": [
+        "G3699"
+      ],
+      "strongs": "G3699",
+      "morph": "robinson:CONJ",
+      "translation": "wherever",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "maybe",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἰσέλθῃ,",
+      "lemma": [
+        "G1525"
+      ],
+      "strongs": "G1525",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "he shall enter,",
+      "metadata": {},
+      "gematria": {
+        "standard": 277,
+        "ordinal": 72,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἴπατε",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAM-2P",
+      "translation": "do say",
+      "metadata": {},
+      "gematria": {
+        "standard": 401,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "οἰκοδεσπότῃ",
+      "lemma": [
+        "G3617"
+      ],
+      "strongs": "G3617",
+      "morph": "robinson:N-DSM",
+      "translation": "master of the house",
+      "metadata": {},
+      "gematria": {
+        "standard": 847,
+        "ordinal": 142,
+        "reduced": 70
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "διδάσκαλος",
+      "lemma": [
+        "G1320"
+      ],
+      "strongs": "G1320",
+      "morph": "robinson:N-NSM-T",
+      "translation": "Teacher",
+      "metadata": {},
+      "gematria": {
+        "standard": 540,
+        "ordinal": 91,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 11,
+      "text": "λέγει·",
+      "lemma": null,
+      "morph": null,
+      "translation": "says;",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 12,
+      "text": "ποῦ",
+      "lemma": [
+        "G4226"
+      ],
+      "strongs": "G4226",
+      "morph": "robinson:ADV-I",
+      "translation": "Where",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 14,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 15,
+      "text": "κατάλυμά",
+      "lemma": [
+        "G2646"
+      ],
+      "strongs": "G2646",
+      "morph": "robinson:N-NSN",
+      "translation": "guest room",
+      "metadata": {},
+      "gematria": {
+        "standard": 793,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὅπου",
+      "lemma": [
+        "G3699"
+      ],
+      "strongs": "G3699",
+      "morph": "robinson:PREP",
+      "translation": "where",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 17,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 18,
+      "text": "πάσχα",
+      "lemma": [
+        "G3957"
+      ],
+      "strongs": "G3957",
+      "morph": "robinson:N-ASN",
+      "translation": "Passover",
+      "metadata": {},
+      "gematria": {
+        "standard": 882,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 19,
+      "text": "μετὰ",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 20,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "μαθητῶν",
+      "lemma": [
+        "G3101"
+      ],
+      "strongs": "G3101",
+      "morph": "robinson:N-GPM",
+      "translation": "disciples",
+      "metadata": {},
+      "gematria": {
+        "standard": 1208,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 22,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of Mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 23,
+      "text": "φάγω;",
+      "lemma": [
+        "G5315"
+      ],
+      "strongs": "G5315",
+      "morph": "robinson:V-AAS-1S",
+      "translation": "I may eat?",
+      "metadata": {},
+      "gematria": {
+        "standard": 1304,
+        "ordinal": 49,
+        "reduced": 13
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13053,
+    "ordinal": 1263,
+    "reduced": 489
+  }
+}

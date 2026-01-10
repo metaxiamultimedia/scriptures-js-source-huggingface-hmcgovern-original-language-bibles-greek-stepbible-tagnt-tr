@@ -1,0 +1,244 @@
+{
+  "text": "καὶ πρὸς Ἅνναν πρῶτον· ἦν γὰρ πενθερὸς τοῦ Καϊάφα ὃς ἦν ἀρχιερεὺς τοῦ ἐνιαυτοῦ ἐκείνου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἅνναν",
+      "lemma": [
+        "G452"
+      ],
+      "strongs": "G452",
+      "morph": "robinson:N-ASM-P",
+      "translation": "Annas",
+      "metadata": {},
+      "gematria": {
+        "standard": 152,
+        "ordinal": 41,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "πρῶτον·",
+      "lemma": null,
+      "morph": null,
+      "translation": "first;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1400,
+        "ordinal": 104,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "he was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "πενθερὸς",
+      "lemma": [
+        "G3995"
+      ],
+      "strongs": "G3995",
+      "morph": "robinson:N-NSM",
+      "translation": "father-in-law",
+      "metadata": {},
+      "gematria": {
+        "standard": 519,
+        "ordinal": 97,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "Καϊάφα",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Caiaphas",
+      "metadata": {},
+      "gematria": {
+        "standard": 533,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὃς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀρχιερεὺς",
+      "lemma": [
+        "G749"
+      ],
+      "strongs": "G749",
+      "morph": "robinson:N-NSM",
+      "translation": "high priest",
+      "metadata": {},
+      "gematria": {
+        "standard": 1421,
+        "ordinal": 114,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "on the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐνιαυτοῦ",
+      "lemma": [
+        "G1763"
+      ],
+      "strongs": "G1763",
+      "morph": "robinson:N-GSM",
+      "translation": "year",
+      "metadata": {},
+      "gematria": {
+        "standard": 1236,
+        "ordinal": 102,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐκείνου.",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-GSM",
+      "translation": "same.",
+      "metadata": {},
+      "gematria": {
+        "standard": 560,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8332,
+    "ordinal": 866,
+    "reduced": 335
+  }
+}

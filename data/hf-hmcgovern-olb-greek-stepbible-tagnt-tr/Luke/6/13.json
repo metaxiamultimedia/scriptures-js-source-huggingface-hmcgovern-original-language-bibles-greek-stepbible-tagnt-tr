@@ -1,0 +1,282 @@
+{
+  "text": "καὶ ὅτε ἐγένετο ἡμέρα, προσεφώνησεν τοὺς μαθητὰς αὐτοῦ, καὶ ἐκλεξάμενος ἀπ᾽ αὐτῶν δώδεκα οὓς καὶ ἀποστόλους ὠνόμασεν·",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὅτε",
+      "lemma": [
+        "G3753"
+      ],
+      "strongs": "G3753",
+      "morph": "robinson:CONJ",
+      "translation": "when",
+      "metadata": {},
+      "gematria": {
+        "standard": 375,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "it became",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἡμέρα,",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-NSF",
+      "translation": "day,",
+      "metadata": {},
+      "gematria": {
+        "standard": 154,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "προσεφώνησεν",
+      "lemma": [
+        "G4377"
+      ],
+      "strongs": "G4377",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "He called to [Him]",
+      "metadata": {},
+      "gematria": {
+        "standard": 2068,
+        "ordinal": 172,
+        "reduced": 73
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "μαθητὰς",
+      "lemma": [
+        "G3101"
+      ],
+      "strongs": "G3101",
+      "morph": "robinson:N-APM",
+      "translation": "disciples",
+      "metadata": {},
+      "gematria": {
+        "standard": 559,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτοῦ,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐκλεξάμενος",
+      "lemma": [
+        "G1586"
+      ],
+      "strongs": "G1586",
+      "morph": "robinson:V-AMP-NSM",
+      "translation": "having chosen out",
+      "metadata": {},
+      "gematria": {
+        "standard": 486,
+        "ordinal": 109,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἀπ᾽",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 81,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 12,
+      "text": "αὐτῶν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "δώδεκα",
+      "lemma": [
+        "G1427"
+      ],
+      "strongs": "G1427",
+      "morph": "robinson:A-NUI",
+      "translation": "twelve",
+      "metadata": {},
+      "gematria": {
+        "standard": 834,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "οὓς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-APM",
+      "translation": "whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἀποστόλους",
+      "lemma": [
+        "G652"
+      ],
+      "strongs": "G652",
+      "morph": "robinson:N-APM",
+      "translation": "apostles",
+      "metadata": {},
+      "gematria": {
+        "standard": 1421,
+        "ordinal": 148,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὠνόμασεν·",
+      "lemma": [
+        "G3687"
+      ],
+      "strongs": "G3687",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "He named:",
+      "metadata": {},
+      "gematria": {
+        "standard": 1216,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12087,
+    "ordinal": 1144,
+    "reduced": 424
+  }
+}

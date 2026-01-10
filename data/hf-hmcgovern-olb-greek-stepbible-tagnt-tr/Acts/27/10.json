@@ -1,0 +1,398 @@
+{
+  "text": "λέγων αὐτοῖς· ἄνδρες, θεωρῶ ὅτι μετὰ ὕβρεως καὶ πολλῆς ζημίας οὐ μόνον τοῦ καὶ τοῦ πλοίου ἀλλὰ καὶ τῶν ψυχῶν ἡμῶν μέλλειν ἔσεσθαι τὸν πλοῦν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "λέγων",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "αὐτοῖς·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them;",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἄνδρες,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Men,",
+      "metadata": {},
+      "gematria": {
+        "standard": 360,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 4,
+      "text": "θεωρῶ",
+      "lemma": [
+        "G2334"
+      ],
+      "strongs": "G2334",
+      "morph": "robinson:V-PAI-1S",
+      "translation": "I understand",
+      "metadata": {},
+      "gematria": {
+        "standard": 1714,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "μετὰ",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὕβρεως",
+      "lemma": [
+        "G5196"
+      ],
+      "strongs": "G5196",
+      "morph": "robinson:N-GSF",
+      "translation": "disaster",
+      "metadata": {},
+      "gematria": {
+        "standard": 1507,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "πολλῆς",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-GSF",
+      "translation": "much",
+      "metadata": {},
+      "gematria": {
+        "standard": 418,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 10,
+      "text": "ζημίας",
+      "lemma": [
+        "G2209"
+      ],
+      "strongs": "G2209",
+      "morph": "robinson:N-GSF",
+      "translation": "loss",
+      "metadata": {},
+      "gematria": {
+        "standard": 266,
+        "ordinal": 53,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 11,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 12,
+      "text": "μόνον",
+      "lemma": [
+        "G3441"
+      ],
+      "strongs": "G3441",
+      "morph": "robinson:A-ASN",
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 16,
+      "text": "πλοίου",
+      "lemma": [
+        "G4143"
+      ],
+      "strongs": "G4143",
+      "morph": "robinson:N-GSN",
+      "translation": "ship",
+      "metadata": {},
+      "gematria": {
+        "standard": 660,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀλλὰ",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "ψυχῶν",
+      "lemma": null,
+      "morph": null,
+      "translation": "lives",
+      "metadata": {},
+      "gematria": {
+        "standard": 2550,
+        "ordinal": 102,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἡμῶν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GP",
+      "translation": "of us",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 22,
+      "text": "μέλλειν",
+      "lemma": [
+        "G3195"
+      ],
+      "strongs": "G3195",
+      "morph": "robinson:V-PAN",
+      "translation": "ensuing",
+      "metadata": {},
+      "gematria": {
+        "standard": 170,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἔσεσθαι",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-FDN",
+      "translation": "to be",
+      "metadata": {},
+      "gematria": {
+        "standard": 430,
+        "ordinal": 64,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 24,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 25,
+      "text": "πλοῦν.",
+      "lemma": [
+        "G4144"
+      ],
+      "strongs": "G4144",
+      "morph": "robinson:N-ASM",
+      "translation": "voyage.",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 16213,
+    "ordinal": 1418,
+    "reduced": 518
+  }
+}

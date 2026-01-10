@@ -1,0 +1,212 @@
+{
+  "text": "καὶ τοὺς ἀσπασμοὺς ἐν ταῖς ἀγοραῖς καὶ καλεῖσθαι ὑπὸ τῶν ἀνθρώπων ῥαββί ῥαββί.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀσπασμοὺς",
+      "lemma": [
+        "G783"
+      ],
+      "strongs": "G783",
+      "morph": "robinson:N-APM",
+      "translation": "greetings",
+      "metadata": {},
+      "gematria": {
+        "standard": 1192,
+        "ordinal": 119,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "ταῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀγοραῖς",
+      "lemma": [
+        "G58"
+      ],
+      "strongs": "G58",
+      "morph": "robinson:N-DPF",
+      "translation": "marketplaces",
+      "metadata": {},
+      "gematria": {
+        "standard": 385,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "καλεῖσθαι",
+      "lemma": null,
+      "morph": null,
+      "translation": "to be called",
+      "metadata": {},
+      "gematria": {
+        "standard": 286,
+        "ordinal": 72,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὑπὸ",
+      "lemma": null,
+      "morph": null,
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἀνθρώπων",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-GPM",
+      "translation": "men",
+      "metadata": {},
+      "gematria": {
+        "standard": 1890,
+        "ordinal": 116,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 12,
+      "text": "ῥαββί",
+      "lemma": [
+        "G4461"
+      ],
+      "strongs": "G4461",
+      "morph": "robinson:N-NSM-T",
+      "translation": "Rabbi",
+      "metadata": {},
+      "gematria": {
+        "standard": 115,
+        "ordinal": 31,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 13,
+      "text": "ῥαββί.",
+      "lemma": [
+        "G4461"
+      ],
+      "strongs": "G4461",
+      "morph": "robinson:N-NSM-T",
+      "translation": "Rabbi.",
+      "metadata": {},
+      "gematria": {
+        "standard": 115,
+        "ordinal": 31,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7281,
+    "ordinal": 717,
+    "reduced": 312
+  }
+}

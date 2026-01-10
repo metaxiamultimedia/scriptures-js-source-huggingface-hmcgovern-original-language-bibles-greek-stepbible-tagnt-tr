@@ -1,0 +1,298 @@
+{
+  "text": "εἰς Φιλίππους, ἥτις ἐστὶν μερίδος τῆς Μακεδονίας πόλις, κολωνία. ἦμεν δὲ ἐν ταύτῃ τῇ πόλει διατρίβοντες ἡμέρας τινάς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 2,
+      "text": "Φιλίππους,",
+      "lemma": [
+        "G5375"
+      ],
+      "strongs": "G5375",
+      "morph": "robinson:N-APM-L",
+      "translation": "Philippi,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1380,
+        "ordinal": 135,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἥτις",
+      "lemma": [
+        "G3748"
+      ],
+      "strongs": "G3748",
+      "morph": "robinson:R-NSF",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 518,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐστὶν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "μερίδος",
+      "lemma": [
+        "G3310"
+      ],
+      "strongs": "G3310",
+      "morph": "robinson:N-GSF",
+      "translation": "district",
+      "metadata": {},
+      "gematria": {
+        "standard": 429,
+        "ordinal": 80,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "Μακεδονίας",
+      "lemma": [
+        "G3109"
+      ],
+      "strongs": "G3109",
+      "morph": "robinson:N-GSF-L",
+      "translation": "of Macedonia",
+      "metadata": {},
+      "gematria": {
+        "standard": 401,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 8,
+      "text": "πόλις,",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-NSF",
+      "translation": "[the] city,",
+      "metadata": {},
+      "gematria": {
+        "standard": 390,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 9,
+      "text": "κολωνία.",
+      "lemma": [
+        "G2862"
+      ],
+      "strongs": "G2862",
+      "morph": "robinson:N-NSF",
+      "translation": "[and Roman] colony.",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἦμεν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-1P",
+      "translation": "We were",
+      "metadata": {},
+      "gematria": {
+        "standard": 103,
+        "ordinal": 37,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 11,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "ταύτῃ",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-DSF",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1019,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 15,
+      "text": "πόλει",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-DSF",
+      "translation": "city",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 16,
+      "text": "διατρίβοντες",
+      "lemma": [
+        "G1304"
+      ],
+      "strongs": "G1304",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "staying",
+      "metadata": {},
+      "gematria": {
+        "standard": 1052,
+        "ordinal": 131,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἡμέρας",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-APF",
+      "translation": "days",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 18,
+      "text": "τινάς.",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-APF",
+      "translation": "some.",
+      "metadata": {},
+      "gematria": {
+        "standard": 561,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9053,
+    "ordinal": 1129,
+    "reduced": 517
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "text": "Καὶ μετὰ ἡμέρας ἓξ παραλαμβάνει ὁ Ἰησοῦς τὸν Πέτρον καὶ τὸν Ἰάκωβον καὶ τὸν Ἰωάννην καὶ ἀναφέρει αὐτοὺς εἰς ὄρος ὑψηλὸν κατ᾽ ἰδίαν μόνους. καὶ μετεμορφώθη ἔμπροσθεν αὐτῶν,",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "μετὰ",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "after",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἡμέρας",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-APF",
+      "translation": "days",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἓξ",
+      "lemma": [
+        "G1803"
+      ],
+      "strongs": "G1803",
+      "morph": "robinson:A-NUI",
+      "translation": "six",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "παραλαμβάνει",
+      "lemma": [
+        "G3880"
+      ],
+      "strongs": "G3880",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "takes along",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 89,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "Πέτρον",
+      "lemma": null,
+      "morph": null,
+      "translation": "Peter",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 85,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "Ἰάκωβον",
+      "lemma": null,
+      "morph": null,
+      "translation": "James",
+      "metadata": {},
+      "gematria": {
+        "standard": 953,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "Ἰωάννην",
+      "lemma": null,
+      "morph": null,
+      "translation": "John",
+      "metadata": {},
+      "gematria": {
+        "standard": 969,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀναφέρει",
+      "lemma": [
+        "G399"
+      ],
+      "strongs": "G399",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "brings up",
+      "metadata": {},
+      "gematria": {
+        "standard": 672,
+        "ordinal": 72,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 18,
+      "text": "αὐτοὺς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APM",
+      "translation": "them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 93,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 19,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 20,
+      "text": "ὄρος",
+      "lemma": [
+        "G3735"
+      ],
+      "strongs": "G3735",
+      "morph": "robinson:N-ASN",
+      "translation": "a mountain",
+      "metadata": {},
+      "gematria": {
+        "standard": 440,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 21,
+      "text": "ὑψηλὸν",
+      "lemma": [
+        "G5308"
+      ],
+      "strongs": "G5308",
+      "morph": "robinson:A-ASN",
+      "translation": "high",
+      "metadata": {},
+      "gematria": {
+        "standard": 1258,
+        "ordinal": 89,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 22,
+      "text": "κατ᾽",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "apart",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 30,
+        "reduced": 3
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἰδίαν",
+      "lemma": [
+        "G2398"
+      ],
+      "strongs": "G2398",
+      "morph": "robinson:A-ASF",
+      "translation": "[on their] own",
+      "metadata": {},
+      "gematria": {
+        "standard": 75,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 24,
+      "text": "μόνους.",
+      "lemma": [
+        "G3441"
+      ],
+      "strongs": "G3441",
+      "morph": "robinson:A-APM",
+      "translation": "alone.",
+      "metadata": {},
+      "gematria": {
+        "standard": 830,
+        "ordinal": 93,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 25,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 26,
+      "text": "μετεμορφώθη",
+      "lemma": [
+        "G3339"
+      ],
+      "strongs": "G3339",
+      "morph": "robinson:V-API-3S",
+      "translation": "He was transfigured",
+      "metadata": {},
+      "gematria": {
+        "standard": 1877,
+        "ordinal": 145,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 27,
+      "text": "ἔμπροσθεν",
+      "lemma": [
+        "G1715"
+      ],
+      "strongs": "G1715",
+      "morph": "robinson:PREP",
+      "translation": "before",
+      "metadata": {},
+      "gematria": {
+        "standard": 559,
+        "ordinal": 109,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 28,
+      "text": "αὐτῶν,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "them,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15155,
+    "ordinal": 1628,
+    "reduced": 647
+  }
+}

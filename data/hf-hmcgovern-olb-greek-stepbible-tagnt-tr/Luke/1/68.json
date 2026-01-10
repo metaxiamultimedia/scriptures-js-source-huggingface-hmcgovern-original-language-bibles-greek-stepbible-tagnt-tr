@@ -1,0 +1,225 @@
+{
+  "text": "εὐλογητὸς κύριος ὁ θεὸς τοῦ Ἰσραήλ, ὅτι ἐπεσκέψατο καὶ ἐποίησεν λύτρωσιν τῷ λαῷ αὐτοῦ,",
+  "words": [
+    {
+      "position": 1,
+      "text": "εὐλογητὸς",
+      "lemma": [
+        "G2128"
+      ],
+      "strongs": "G2128",
+      "morph": "robinson:A-NSM",
+      "translation": "Blessed [be]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1086,
+        "ordinal": 113,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 2,
+      "text": "κύριος",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] Lord",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "Ἰσραήλ,",
+      "lemma": [
+        "G2474"
+      ],
+      "strongs": "G2474",
+      "morph": "robinson:N-GSM-L",
+      "translation": "of Israel,",
+      "metadata": {},
+      "gematria": {
+        "standard": 349,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "because",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐπεσκέψατο",
+      "lemma": [
+        "G1980"
+      ],
+      "strongs": "G1980",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "He has visited",
+      "metadata": {},
+      "gematria": {
+        "standard": 1386,
+        "ordinal": 117,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐποίησεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "He has performed",
+      "metadata": {},
+      "gematria": {
+        "standard": 428,
+        "ordinal": 88,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 11,
+      "text": "λύτρωσιν",
+      "lemma": [
+        "G3085"
+      ],
+      "strongs": "G3085",
+      "morph": "robinson:N-ASF",
+      "translation": "redemption",
+      "metadata": {},
+      "gematria": {
+        "standard": 1890,
+        "ordinal": 131,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 12,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "[on] the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "λαῷ",
+      "lemma": [
+        "G2992"
+      ],
+      "strongs": "G2992",
+      "morph": "robinson:N-DSM",
+      "translation": "people",
+      "metadata": {},
+      "gematria": {
+        "standard": 841,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 14,
+      "text": "αὐτοῦ,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10596,
+    "ordinal": 951,
+    "reduced": 366
+  }
+}

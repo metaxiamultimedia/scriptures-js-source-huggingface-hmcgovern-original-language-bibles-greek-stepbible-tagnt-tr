@@ -1,0 +1,359 @@
+{
+  "text": "ἰδοὺ ἡ παρθένος ἐν γαστρὶ ἕξει καὶ τέξεται υἱόν, καὶ καλέσουσιν τὸ ὄνομα αὐτοῦ Ἐμμανουήλ, ὅ ἐστιν μεθερμηνευόμενον· μεθ᾽ ἡμῶν ὁ θεός.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἰδοὺ",
+      "lemma": [
+        "G2400"
+      ],
+      "strongs": "G2400",
+      "morph": "robinson:INJ",
+      "translation": "Behold",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "παρθένος",
+      "lemma": [
+        "G3933"
+      ],
+      "strongs": "G3933",
+      "morph": "robinson:N-NSF",
+      "translation": "virgin",
+      "metadata": {},
+      "gematria": {
+        "standard": 515,
+        "ordinal": 93,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "γαστρὶ",
+      "lemma": [
+        "G1064"
+      ],
+      "strongs": "G1064",
+      "morph": "robinson:N-DSF",
+      "translation": "womb [pregnancy]",
+      "metadata": {},
+      "gematria": {
+        "standard": 614,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἕξει",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-FAI-3S",
+      "translation": "will have",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "τέξεται",
+      "lemma": [
+        "G5088"
+      ],
+      "strongs": "G5088",
+      "morph": "robinson:V-FDI-3S",
+      "translation": "she will bear",
+      "metadata": {},
+      "gematria": {
+        "standard": 681,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 9,
+      "text": "υἱόν,",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-ASM",
+      "translation": "a son,",
+      "metadata": {},
+      "gematria": {
+        "standard": 530,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "καλέσουσιν",
+      "lemma": null,
+      "morph": null,
+      "translation": "they will call",
+      "metadata": {},
+      "gematria": {
+        "standard": 986,
+        "ordinal": 120,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὄνομα",
+      "lemma": [
+        "G3686"
+      ],
+      "strongs": "G3686",
+      "morph": "robinson:N-ASN",
+      "translation": "name",
+      "metadata": {},
+      "gematria": {
+        "standard": 231,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 14,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 15,
+      "text": "Ἐμμανουήλ,",
+      "lemma": [
+        "G1694"
+      ],
+      "strongs": "G1694",
+      "morph": "robinson:N-ASM-T",
+      "translation": "Immanuel,",
+      "metadata": {},
+      "gematria": {
+        "standard": 644,
+        "ordinal": 96,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὅ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSN",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 18,
+      "text": "μεθερμηνευόμενον·",
+      "lemma": [
+        "G3177"
+      ],
+      "strongs": "G3177",
+      "morph": "robinson:V-PPP-NSN",
+      "translation": "being translated;",
+      "metadata": {},
+      "gematria": {
+        "standard": 947,
+        "ordinal": 177,
+        "reduced": 78
+      }
+    },
+    {
+      "position": 19,
+      "text": "μεθ᾽",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "With",
+      "metadata": {},
+      "gematria": {
+        "standard": 54,
+        "ordinal": 25,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἡμῶν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GP",
+      "translation": "us",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 21,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 22,
+      "text": "θεός.",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God.",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9319,
+    "ordinal": 1214,
+    "reduced": 512
+  }
+}

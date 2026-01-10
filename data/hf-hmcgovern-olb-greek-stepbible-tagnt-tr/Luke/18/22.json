@@ -1,0 +1,407 @@
+{
+  "text": "Ἀκούσας δὲ ὁ Ἰησοῦς εἶπεν αὐτῷ· ἔτι ἕν σοι λείπει· πάντα ὅσα ἔχεις πώλησον καὶ διάδος πτωχοῖς, καὶ ἕξεις θησαυρὸν ἐν καὶ δεῦρο, ἀκολούθει μοι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἀκούσας",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "Having heard",
+      "metadata": {},
+      "gematria": {
+        "standard": 892,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "said",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτῷ·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἔτι",
+      "lemma": [
+        "G2089"
+      ],
+      "strongs": "G2089",
+      "morph": "robinson:ADV",
+      "translation": "Yet",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἕν",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-NSN",
+      "translation": "one thing",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "σοι",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DS",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 10,
+      "text": "λείπει·",
+      "lemma": [
+        "G3007"
+      ],
+      "strongs": "G3007",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is lacking:",
+      "metadata": {},
+      "gematria": {
+        "standard": 140,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 11,
+      "text": "πάντα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-APN",
+      "translation": "All",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὅσα",
+      "lemma": [
+        "G3745"
+      ],
+      "strongs": "G3745",
+      "morph": "robinson:K-APN",
+      "translation": "as much as",
+      "metadata": {},
+      "gematria": {
+        "standard": 271,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἔχεις",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAI-2S",
+      "translation": "you have",
+      "metadata": {},
+      "gematria": {
+        "standard": 820,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 14,
+      "text": "πώλησον",
+      "lemma": [
+        "G4453"
+      ],
+      "strongs": "G4453",
+      "morph": "robinson:V-AAM-2S",
+      "translation": "do sell",
+      "metadata": {},
+      "gematria": {
+        "standard": 1238,
+        "ordinal": 104,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "διάδος",
+      "lemma": [
+        "G1239"
+      ],
+      "strongs": "G1239",
+      "morph": "robinson:V-2AAM-2S",
+      "translation": "do distribute",
+      "metadata": {},
+      "gematria": {
+        "standard": 289,
+        "ordinal": 51,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 17,
+      "text": "πτωχοῖς,",
+      "lemma": [
+        "G4434"
+      ],
+      "strongs": "G4434",
+      "morph": "robinson:N-DPM",
+      "translation": "to [the] poor,",
+      "metadata": {},
+      "gematria": {
+        "standard": 2060,
+        "ordinal": 123,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἕξεις",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-FAI-2S",
+      "translation": "you will have",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 51,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 20,
+      "text": "θησαυρὸν",
+      "lemma": [
+        "G2344"
+      ],
+      "strongs": "G2344",
+      "morph": "robinson:N-ASM",
+      "translation": "treasure",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 99,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 22,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 23,
+      "text": "δεῦρο,",
+      "lemma": [
+        "G1204"
+      ],
+      "strongs": "G1204",
+      "morph": "robinson:INJ",
+      "translation": "come,",
+      "metadata": {},
+      "gematria": {
+        "standard": 579,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἀκολούθει",
+      "lemma": [
+        "G190"
+      ],
+      "strongs": "G190",
+      "morph": "robinson:V-PAM-2S",
+      "translation": "do follow",
+      "metadata": {},
+      "gematria": {
+        "standard": 615,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 25,
+      "text": "μοι.",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DS",
+      "translation": "Me.",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12000,
+    "ordinal": 1303,
+    "reduced": 601
+  }
+}

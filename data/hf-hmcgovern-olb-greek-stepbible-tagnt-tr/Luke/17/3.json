@@ -1,0 +1,247 @@
+{
+  "text": "προσέχετε ἑαυτοῖς. ἐὰν ἁμάρτῃ σὲ ὁ ἀδελφός σου, ἐπιτίμησον αὐτῷ· καὶ ἐὰν μετανοήσῃ, ἄφες αὐτῷ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "προσέχετε",
+      "lemma": [
+        "G4337"
+      ],
+      "strongs": "G4337",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do take heed",
+      "metadata": {},
+      "gematria": {
+        "standard": 1365,
+        "ordinal": 122,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἑαυτοῖς.",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-2DPM",
+      "translation": "to yourselves.",
+      "metadata": {},
+      "gematria": {
+        "standard": 986,
+        "ordinal": 87,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἁμάρτῃ",
+      "lemma": [
+        "G264"
+      ],
+      "strongs": "G264",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "shall sin",
+      "metadata": {},
+      "gematria": {
+        "standard": 460,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "σὲ",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AS",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 205,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀδελφός",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-NSM",
+      "translation": "brother",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "σου,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐπιτίμησον",
+      "lemma": [
+        "G2008"
+      ],
+      "strongs": "G2008",
+      "morph": "robinson:V-AAM-2S",
+      "translation": "do rebuke",
+      "metadata": {},
+      "gematria": {
+        "standard": 773,
+        "ordinal": 123,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 10,
+      "text": "αὐτῷ·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "μετανοήσῃ,",
+      "lemma": [
+        "G3340"
+      ],
+      "strongs": "G3340",
+      "morph": "robinson:V-AAS-3S",
+      "translation": "he shall repent,",
+      "metadata": {},
+      "gematria": {
+        "standard": 692,
+        "ordinal": 106,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἄφες",
+      "lemma": null,
+      "morph": null,
+      "translation": "do forgive",
+      "metadata": {},
+      "gematria": {
+        "standard": 706,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 15,
+      "text": "αὐτῷ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9902,
+    "ordinal": 919,
+    "reduced": 379
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "text": "ἀνέβη δὲ καὶ Ἰωσὴφ ἀπὸ τῆς Γαλιλαίας ἐκ πόλεως Ναζαρὲθ εἰς τὴν Ἰουδαίαν εἰς πόλιν Δαυὶδ ἥτις καλεῖται Βηθλέεμ, διὰ τὸ εἶναι αὐτὸν ἐξ οἴκου καὶ πατριᾶς Δαυίδ,",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀνέβη",
+      "lemma": [
+        "G305"
+      ],
+      "strongs": "G305",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "Went up",
+      "metadata": {},
+      "gematria": {
+        "standard": 66,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἰωσὴφ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Joseph",
+      "metadata": {},
+      "gematria": {
+        "standard": 1518,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "Γαλιλαίας",
+      "lemma": null,
+      "morph": null,
+      "translation": "Galilee",
+      "metadata": {},
+      "gematria": {
+        "standard": 286,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "πόλεως",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-GSF",
+      "translation": "[the] town",
+      "metadata": {},
+      "gematria": {
+        "standard": 1185,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 10,
+      "text": "Ναζαρὲθ",
+      "lemma": [
+        "G3478"
+      ],
+      "strongs": "G3478",
+      "morph": "robinson:N-GSF-L",
+      "translation": "of Nazareth",
+      "metadata": {},
+      "gematria": {
+        "standard": 173,
+        "ordinal": 51,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 11,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
+      "text": "Ἰουδαίαν",
+      "lemma": [
+        "G2449"
+      ],
+      "strongs": "G2449",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Judea",
+      "metadata": {},
+      "gematria": {
+        "standard": 546,
+        "ordinal": 72,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 14,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 15,
+      "text": "πόλιν",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-ASF",
+      "translation": "[the] City",
+      "metadata": {},
+      "gematria": {
+        "standard": 240,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 16,
+      "text": "Δαυὶδ",
+      "lemma": [
+        "G1138"
+      ],
+      "strongs": "G1138",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of David",
+      "metadata": {},
+      "gematria": {
+        "standard": 419,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἥτις",
+      "lemma": [
+        "G3748"
+      ],
+      "strongs": "G3748",
+      "morph": "robinson:R-NSF",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 518,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 18,
+      "text": "καλεῖται",
+      "lemma": null,
+      "morph": null,
+      "translation": "is called",
+      "metadata": {},
+      "gematria": {
+        "standard": 377,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 19,
+      "text": "Βηθλέεμ,",
+      "lemma": [
+        "G965"
+      ],
+      "strongs": "G965",
+      "morph": "robinson:N-NSF-L",
+      "translation": "Bethlehem,",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 50,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 20,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "because of",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 21,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 22,
+      "text": "εἶναι",
+      "lemma": [
+        "G1511"
+      ],
+      "strongs": "G1511",
+      "morph": "robinson:V-PAN",
+      "translation": "being",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 37,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 23,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἐξ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 25,
+      "text": "οἴκου",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] house",
+      "metadata": {},
+      "gematria": {
+        "standard": 570,
+        "ordinal": 69,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 26,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 27,
+      "text": "πατριᾶς",
+      "lemma": [
+        "G3965"
+      ],
+      "strongs": "G3965",
+      "morph": "robinson:N-GSF",
+      "translation": "family",
+      "metadata": {},
+      "gematria": {
+        "standard": 692,
+        "ordinal": 81,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 28,
+      "text": "Δαυίδ,",
+      "lemma": [
+        "G1138"
+      ],
+      "strongs": "G1138",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of David,",
+      "metadata": {},
+      "gematria": {
+        "standard": 419,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9998,
+    "ordinal": 1256,
+    "reduced": 608
+  }
+}

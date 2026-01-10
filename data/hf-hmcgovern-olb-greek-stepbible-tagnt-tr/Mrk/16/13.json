@@ -1,0 +1,138 @@
+{
+  "text": "κἀκεῖνοι ἀπελθόντες ἀπήγγειλαν τοῖς λοιποῖς· οὐδὲ ἐκείνοις ἐπίστευσαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "κἀκεῖνοι",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ + G1565=D-NPM",
+      "translation": "And they",
+      "metadata": {},
+      "gematria": {
+        "standard": 186,
+        "ordinal": 72,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀπελθόντες",
+      "lemma": [
+        "G565"
+      ],
+      "strongs": "G565",
+      "morph": "robinson:V-2AAP-NPM",
+      "translation": "having gone",
+      "metadata": {},
+      "gematria": {
+        "standard": 750,
+        "ordinal": 111,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀπήγγειλαν",
+      "lemma": [
+        "G518"
+      ],
+      "strongs": "G518",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "told [it]",
+      "metadata": {},
+      "gematria": {
+        "standard": 191,
+        "ordinal": 69,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 4,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "λοιποῖς·",
+      "lemma": [
+        "G3062"
+      ],
+      "strongs": "G3062",
+      "morph": "robinson:A-DPM",
+      "translation": "rest;",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 93,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὐδὲ",
+      "lemma": [
+        "G3761"
+      ],
+      "strongs": "G3761",
+      "morph": "robinson:CONJ-N",
+      "translation": "neither",
+      "metadata": {},
+      "gematria": {
+        "standard": 479,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐκείνοις",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-DPM",
+      "translation": "them",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 84,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐπίστευσαν.",
+      "lemma": [
+        "G4100"
+      ],
+      "strongs": "G4100",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "did they believe.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1251,
+        "ordinal": 124,
+        "reduced": 52
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4277,
+    "ordinal": 658,
+    "reduced": 316
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "text": "Παρεγένετο δὲ ὁ πρῶτος λέγων· κύριε, ἡ μνᾶ σου δέκα μνᾶς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Παρεγένετο",
+      "lemma": [
+        "G3854"
+      ],
+      "strongs": "G3854",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "Came up",
+      "metadata": {},
+      "gematria": {
+        "standard": 619,
+        "ordinal": 99,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "πρῶτος",
+      "lemma": null,
+      "morph": null,
+      "translation": "first",
+      "metadata": {},
+      "gematria": {
+        "standard": 1550,
+        "ordinal": 109,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 5,
+      "text": "λέγων·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "κύριε,",
+      "lemma": null,
+      "morph": null,
+      "translation": "lord,",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "μνᾶ",
+      "lemma": [
+        "G3414"
+      ],
+      "strongs": "G3414",
+      "morph": "robinson:N-NSF",
+      "translation": "mina",
+      "metadata": {},
+      "gematria": {
+        "standard": 91,
+        "ordinal": 26,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 9,
+      "text": "σου",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
+      "text": "δέκα",
+      "lemma": [
+        "G1176"
+      ],
+      "strongs": "G1176",
+      "morph": "robinson:A-NUI",
+      "translation": "ten",
+      "metadata": {},
+      "gematria": {
+        "standard": 30,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "μνᾶς.",
+      "lemma": [
+        "G3414"
+      ],
+      "strongs": "G3414",
+      "morph": "robinson:N-APF",
+      "translation": "more minas.",
+      "metadata": {},
+      "gematria": {
+        "standard": 291,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4761,
+    "ordinal": 499,
+    "reduced": 202
+  }
+}

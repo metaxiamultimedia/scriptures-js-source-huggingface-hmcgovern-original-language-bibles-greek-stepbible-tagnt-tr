@@ -1,0 +1,394 @@
+{
+  "text": "καὶ προσελθὼν κατέδησεν τὰ τραύματα αὐτοῦ ἐπιχέων ἔλαιον καὶ οἶνον. ἐπιβιβάσας δὲ αὐτὸν ἐπὶ τὸ ἴδιον κτῆνος ἤγαγεν αὐτὸν εἰς πανδοχεῖον καὶ ἐπεμελήθη αὐτοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "προσελθὼν",
+      "lemma": [
+        "G4334"
+      ],
+      "strongs": "G4334",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having approached",
+      "metadata": {},
+      "gematria": {
+        "standard": 1344,
+        "ordinal": 127,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 3,
+      "text": "κατέδησεν",
+      "lemma": [
+        "G2611"
+      ],
+      "strongs": "G2611",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he bound up",
+      "metadata": {},
+      "gematria": {
+        "standard": 593,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 5,
+      "text": "τραύματα",
+      "lemma": [
+        "G5134"
+      ],
+      "strongs": "G5134",
+      "morph": "robinson:N-APN",
+      "translation": "wounds",
+      "metadata": {},
+      "gematria": {
+        "standard": 1143,
+        "ordinal": 90,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐπιχέων",
+      "lemma": [
+        "G2022"
+      ],
+      "strongs": "G2022",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "pouring on",
+      "metadata": {},
+      "gematria": {
+        "standard": 1550,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἔλαιον",
+      "lemma": [
+        "G1637"
+      ],
+      "strongs": "G1637",
+      "morph": "robinson:N-ASN",
+      "translation": "oil",
+      "metadata": {},
+      "gematria": {
+        "standard": 166,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "οἶνον.",
+      "lemma": [
+        "G3631"
+      ],
+      "strongs": "G3631",
+      "morph": "robinson:N-ASM",
+      "translation": "wine.",
+      "metadata": {},
+      "gematria": {
+        "standard": 250,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐπιβιβάσας",
+      "lemma": [
+        "G1913"
+      ],
+      "strongs": "G1913",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having put",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 81,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 12,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "on",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἴδιον",
+      "lemma": [
+        "G2398"
+      ],
+      "strongs": "G2398",
+      "morph": "robinson:A-ASN",
+      "translation": "[his] own",
+      "metadata": {},
+      "gematria": {
+        "standard": 144,
+        "ordinal": 50,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 17,
+      "text": "κτῆνος",
+      "lemma": [
+        "G2934"
+      ],
+      "strongs": "G2934",
+      "morph": "robinson:N-ASN",
+      "translation": "beast",
+      "metadata": {},
+      "gematria": {
+        "standard": 648,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἤγαγεν",
+      "lemma": [
+        "G71"
+      ],
+      "strongs": "G71",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "he brought",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 19,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 20,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 21,
+      "text": "πανδοχεῖον",
+      "lemma": [
+        "G3829"
+      ],
+      "strongs": "G3829",
+      "morph": "robinson:N-ASN",
+      "translation": "an inn",
+      "metadata": {},
+      "gematria": {
+        "standard": 940,
+        "ordinal": 113,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 22,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἐπεμελήθη",
+      "lemma": [
+        "G1959"
+      ],
+      "strongs": "G1959",
+      "morph": "robinson:V-AOI-3S",
+      "translation": "took care",
+      "metadata": {},
+      "gematria": {
+        "standard": 190,
+        "ordinal": 76,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 24,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12616,
+    "ordinal": 1417,
+    "reduced": 589
+  }
+}

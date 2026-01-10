@@ -1,0 +1,500 @@
+{
+  "text": "ὅταν ὑμᾶς παραδιδόντες, μὴ προμεριμνᾶτε τί λαλήσητε μηδὲ μελετᾶτε· ἀλλ᾽ ὃ ἐὰν δοθῇ ὑμῖν ἐν ἐκείνῃ τῇ ὥρᾳ, τοῦτο λαλεῖτε· οὐ γάρ ἐστε ὑμεῖς οἱ λαλοῦντες ἀλλὰ τὸ πνεῦμα τὸ ἅγιον.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅταν",
+      "lemma": [
+        "G3752"
+      ],
+      "strongs": "G3752",
+      "morph": "robinson:CONJ",
+      "translation": "when",
+      "metadata": {},
+      "gematria": {
+        "standard": 421,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "παραδιδόντες,",
+      "lemma": [
+        "G3860"
+      ],
+      "strongs": "G3860",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "delivering [you] up,",
+      "metadata": {},
+      "gematria": {
+        "standard": 825,
+        "ordinal": 122,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 4,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "προμεριμνᾶτε",
+      "lemma": [
+        "G4305"
+      ],
+      "strongs": "G4305",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do be anxious beforehand",
+      "metadata": {},
+      "gematria": {
+        "standard": 801,
+        "ordinal": 141,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 6,
+      "text": "τί",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-ASN",
+      "translation": "what",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "λαλήσητε",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-AAS-2P",
+      "translation": "you may say",
+      "metadata": {},
+      "gematria": {
+        "standard": 582,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "μηδὲ",
+      "lemma": [
+        "G3366"
+      ],
+      "strongs": "G3366",
+      "morph": "robinson:CONJ-N",
+      "translation": "nor",
+      "metadata": {},
+      "gematria": {
+        "standard": 57,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "μελετᾶτε·",
+      "lemma": [
+        "G3191"
+      ],
+      "strongs": "G3191",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do devise;",
+      "metadata": {},
+      "gematria": {
+        "standard": 686,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSN",
+      "translation": "whatever",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "δοθῇ",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-APS-3S",
+      "translation": "shall be given",
+      "metadata": {},
+      "gematria": {
+        "standard": 101,
+        "ordinal": 43,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐκείνῃ",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-DSF",
+      "translation": "that [very]",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 58,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 17,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "ὥρᾳ,",
+      "lemma": [
+        "G5610"
+      ],
+      "strongs": "G5610",
+      "morph": "robinson:N-DSF",
+      "translation": "hour,",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 19,
+      "text": "τοῦτο",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-ASN",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 20,
+      "text": "λαλεῖτε·",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do speak;",
+      "metadata": {},
+      "gematria": {
+        "standard": 381,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 21,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 22,
+      "text": "γάρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἐστε",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "are",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 24,
+      "text": "ὑμεῖς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NP",
+      "translation": "you yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 25,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 26,
+      "text": "λαλοῦντες",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "speaking",
+      "metadata": {},
+      "gematria": {
+        "standard": 1086,
+        "ordinal": 113,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 27,
+      "text": "ἀλλὰ",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 28,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 29,
+      "text": "πνεῦμα",
+      "lemma": null,
+      "morph": null,
+      "translation": "Spirit",
+      "metadata": {},
+      "gematria": {
+        "standard": 576,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 30,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 31,
+      "text": "ἅγιον.",
+      "lemma": null,
+      "morph": null,
+      "translation": "Holy.",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12489,
+    "ordinal": 1562,
+    "reduced": 626
+  }
+}

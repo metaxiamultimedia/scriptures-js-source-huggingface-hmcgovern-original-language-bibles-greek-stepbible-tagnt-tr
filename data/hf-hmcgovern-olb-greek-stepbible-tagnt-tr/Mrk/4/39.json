@@ -1,0 +1,314 @@
+{
+  "text": "καὶ διεγερθεὶς ἐπετίμησεν τῷ ἀνέμῳ καὶ εἶπεν τῇ θαλάσσῃ· σιώπα, πεφίμωσο. καὶ ἐκόπασεν ὁ ἄνεμος, καὶ ἐγένετο γαλήνη μεγάλη.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "διεγερθεὶς",
+      "lemma": [
+        "G1326"
+      ],
+      "strongs": "G1326",
+      "morph": "robinson:V-APP-NSM",
+      "translation": "having been awoken",
+      "metadata": {},
+      "gematria": {
+        "standard": 351,
+        "ordinal": 83,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐπετίμησεν",
+      "lemma": [
+        "G2008"
+      ],
+      "strongs": "G2008",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "He rebuked",
+      "metadata": {},
+      "gematria": {
+        "standard": 703,
+        "ordinal": 109,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀνέμῳ",
+      "lemma": [
+        "G417"
+      ],
+      "strongs": "G417",
+      "morph": "robinson:N-DSM",
+      "translation": "wind",
+      "metadata": {},
+      "gematria": {
+        "standard": 906,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "said",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 9,
+      "text": "θαλάσσῃ·",
+      "lemma": [
+        "G2281"
+      ],
+      "strongs": "G2281",
+      "morph": "robinson:N-DSF",
+      "translation": "sea;",
+      "metadata": {},
+      "gematria": {
+        "standard": 459,
+        "ordinal": 73,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 10,
+      "text": "σιώπα,",
+      "lemma": [
+        "G4623"
+      ],
+      "strongs": "G4623",
+      "morph": "robinson:V-PAM-2S",
+      "translation": "Silence!",
+      "metadata": {},
+      "gematria": {
+        "standard": 1091,
+        "ordinal": 68,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 11,
+      "text": "πεφίμωσο.",
+      "lemma": [
+        "G5392"
+      ],
+      "strongs": "G5392",
+      "morph": "robinson:V-RPM-2S",
+      "translation": "you must be still!",
+      "metadata": {},
+      "gematria": {
+        "standard": 1705,
+        "ordinal": 120,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐκόπασεν",
+      "lemma": [
+        "G2869"
+      ],
+      "strongs": "G2869",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "abated",
+      "metadata": {},
+      "gematria": {
+        "standard": 431,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἄνεμος,",
+      "lemma": [
+        "G417"
+      ],
+      "strongs": "G417",
+      "morph": "robinson:N-NSM",
+      "translation": "wind,",
+      "metadata": {},
+      "gematria": {
+        "standard": 366,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "there was",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 18,
+      "text": "γαλήνη",
+      "lemma": [
+        "G1055"
+      ],
+      "strongs": "G1055",
+      "morph": "robinson:N-NSF",
+      "translation": "a calm",
+      "metadata": {},
+      "gematria": {
+        "standard": 100,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 19,
+      "text": "μεγάλη.",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-NSF",
+      "translation": "great.",
+      "metadata": {},
+      "gematria": {
+        "standard": 87,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8409,
+    "ordinal": 1040,
+    "reduced": 527
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "text": "Καὶ ὀψίας γενομένης ἔρχεται μετὰ τῶν δώδεκα.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὀψίας",
+      "lemma": [
+        "G3798"
+      ],
+      "strongs": "G3798",
+      "morph": "robinson:A-GSF",
+      "translation": "when evening",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "γενομένης",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADP-GSF",
+      "translation": "having arrived",
+      "metadata": {},
+      "gematria": {
+        "standard": 431,
+        "ordinal": 91,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἔρχεται",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-PNI-3S",
+      "translation": "He comes",
+      "metadata": {},
+      "gematria": {
+        "standard": 1021,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "μετὰ",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "δώδεκα.",
+      "lemma": [
+        "G1427"
+      ],
+      "strongs": "G1427",
+      "morph": "robinson:A-NUI",
+      "translation": "Twelve.",
+      "metadata": {},
+      "gematria": {
+        "standard": 834,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4794,
+    "ordinal": 396,
+    "reduced": 162
+  }
+}

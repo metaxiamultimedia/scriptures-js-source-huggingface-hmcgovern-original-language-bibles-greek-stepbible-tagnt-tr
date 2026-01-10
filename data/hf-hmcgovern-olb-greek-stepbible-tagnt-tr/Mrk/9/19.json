@@ -1,0 +1,343 @@
+{
+  "text": "Ὁ δὲ ἀποκριθεὶς αὐτοῖς λέγει· ὦ γενεὰ ἄπιστος, ἕως πότε πρὸς ὑμᾶς ἔσομαι, ἕως πότε ἀνέξομαι ὑμῶν; φέρετε αὐτὸν πρός με.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀποκριθεὶς",
+      "lemma": [
+        "G611"
+      ],
+      "strongs": "G611",
+      "morph": "robinson:V-AOP-NSM",
+      "translation": "answering",
+      "metadata": {},
+      "gematria": {
+        "standard": 505,
+        "ordinal": 108,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 4,
+      "text": "αὐτοῖς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "λέγει·",
+      "lemma": null,
+      "morph": null,
+      "translation": "He says;",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὦ",
+      "lemma": [
+        "G5599"
+      ],
+      "strongs": "G5599",
+      "morph": "robinson:INJ",
+      "translation": "O",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "γενεὰ",
+      "lemma": [
+        "G1074"
+      ],
+      "strongs": "G1074",
+      "morph": "robinson:N-VSF",
+      "translation": "generation",
+      "metadata": {},
+      "gematria": {
+        "standard": 64,
+        "ordinal": 27,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἄπιστος,",
+      "lemma": [
+        "G571"
+      ],
+      "strongs": "G571",
+      "morph": "robinson:A-VSF",
+      "translation": "unbelieving!",
+      "metadata": {},
+      "gematria": {
+        "standard": 861,
+        "ordinal": 96,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἕως",
+      "lemma": [
+        "G2193"
+      ],
+      "strongs": "G2193",
+      "morph": "robinson:PREP",
+      "translation": "Until",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
+      "text": "πότε",
+      "lemma": [
+        "G4219"
+      ],
+      "strongs": "G4219",
+      "morph": "robinson:PRT-I",
+      "translation": "when",
+      "metadata": {},
+      "gematria": {
+        "standard": 455,
+        "ordinal": 55,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 11,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἔσομαι,",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-FDI-1S",
+      "translation": "will I be?",
+      "metadata": {},
+      "gematria": {
+        "standard": 326,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἕως",
+      "lemma": [
+        "G2193"
+      ],
+      "strongs": "G2193",
+      "morph": "robinson:PREP",
+      "translation": "Until",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
+      "text": "πότε",
+      "lemma": [
+        "G4219"
+      ],
+      "strongs": "G4219",
+      "morph": "robinson:PRT-I",
+      "translation": "when",
+      "metadata": {},
+      "gematria": {
+        "standard": 455,
+        "ordinal": 55,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἀνέξομαι",
+      "lemma": [
+        "G430"
+      ],
+      "strongs": "G430",
+      "morph": "robinson:V-FDI-1S",
+      "translation": "will I bear with",
+      "metadata": {},
+      "gematria": {
+        "standard": 237,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὑμῶν;",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "you?",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 18,
+      "text": "φέρετε",
+      "lemma": [
+        "G5342"
+      ],
+      "strongs": "G5342",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do bring",
+      "metadata": {},
+      "gematria": {
+        "standard": 915,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 19,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 20,
+      "text": "πρός",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 21,
+      "text": "με.",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "Me.",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11438,
+    "ordinal": 1137,
+    "reduced": 480
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "text": "Καὶ ἄλλος ἄγγελος ἠκολούθησεν λέγων· ἔπεσεν ἔπεσεν Βαβυλὼν ἡ πόλις ἡ μεγάλη ἐκ τοῦ οἴνου τοῦ θυμοῦ τῆς πορνείας αὐτῆς πεπότικεν πάντα τὰ ἔθνη.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἄλλος",
+      "lemma": [
+        "G243"
+      ],
+      "strongs": "G243",
+      "morph": "robinson:A-NSM",
+      "translation": "another",
+      "metadata": {},
+      "gematria": {
+        "standard": 331,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἄγγελος",
+      "lemma": null,
+      "morph": null,
+      "translation": "angel",
+      "metadata": {},
+      "gematria": {
+        "standard": 312,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἠκολούθησεν",
+      "lemma": [
+        "G190"
+      ],
+      "strongs": "G190",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "followed",
+      "metadata": {},
+      "gematria": {
+        "standard": 870,
+        "ordinal": 129,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 5,
+      "text": "λέγων·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἔπεσεν",
+      "lemma": [
+        "G4098"
+      ],
+      "strongs": "G4098",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "Fallen",
+      "metadata": {},
+      "gematria": {
+        "standard": 345,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἔπεσεν",
+      "lemma": [
+        "G4098"
+      ],
+      "strongs": "G4098",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "Fallen is",
+      "metadata": {},
+      "gematria": {
+        "standard": 345,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "Βαβυλὼν",
+      "lemma": [
+        "G897"
+      ],
+      "strongs": "G897",
+      "morph": "robinson:N-NSF-L",
+      "translation": "Babylon",
+      "metadata": {},
+      "gematria": {
+        "standard": 1285,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "πόλις",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-NSF",
+      "translation": "city",
+      "metadata": {},
+      "gematria": {
+        "standard": 390,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 12,
+      "text": "μεγάλη",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-NSF",
+      "translation": "great",
+      "metadata": {},
+      "gematria": {
+        "standard": 87,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 14,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "οἴνου",
+      "lemma": [
+        "G3631"
+      ],
+      "strongs": "G3631",
+      "morph": "robinson:N-GSM",
+      "translation": "wine",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 16,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 17,
+      "text": "θυμοῦ",
+      "lemma": [
+        "G2372"
+      ],
+      "strongs": "G2372",
+      "morph": "robinson:N-GSM",
+      "translation": "of wrath",
+      "metadata": {},
+      "gematria": {
+        "standard": 919,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 18,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "for the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 19,
+      "text": "πορνείας",
+      "lemma": [
+        "G4202"
+      ],
+      "strongs": "G4202",
+      "morph": "robinson:N-GSF",
+      "translation": "immorality",
+      "metadata": {},
+      "gematria": {
+        "standard": 516,
+        "ordinal": 94,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 20,
+      "text": "αὐτῆς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "of her",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 21,
+      "text": "πεπότικεν",
+      "lemma": [
+        "G4222"
+      ],
+      "strongs": "G4222",
+      "morph": "robinson:V-RAI-3S",
+      "translation": "she has given to drink",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 108,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 22,
+      "text": "πάντα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-APN",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 23,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἔθνη.",
+      "lemma": [
+        "G1484"
+      ],
+      "strongs": "G1484",
+      "morph": "robinson:N-APN",
+      "translation": "Gentiles.",
+      "metadata": {},
+      "gematria": {
+        "standard": 72,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11342,
+    "ordinal": 1320,
+    "reduced": 537
+  }
+}

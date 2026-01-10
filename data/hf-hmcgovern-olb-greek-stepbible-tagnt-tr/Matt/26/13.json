@@ -1,0 +1,340 @@
+{
+  "text": "Ἀμὴν λέγω ὑμῖν· ὅπου ἐὰν κηρυχθῇ τὸ εὐαγγέλιον τοῦτο ἐν ὅλῳ τῷ κόσμῳ, λαληθήσεται καὶ ὃ ἐποίησεν αὕτη εἰς μνημόσυνον αὐτῆς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἀμὴν",
+      "lemma": [
+        "G281"
+      ],
+      "strongs": "G281",
+      "morph": "robinson:INJ-HEB",
+      "translation": "Amen",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "λέγω",
+      "lemma": null,
+      "morph": null,
+      "translation": "I say",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὑμῖν·",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you;",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὅπου",
+      "lemma": [
+        "G3699"
+      ],
+      "strongs": "G3699",
+      "morph": "robinson:CONJ",
+      "translation": "wherever",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "κηρυχθῇ",
+      "lemma": [
+        "G2784"
+      ],
+      "strongs": "G2784",
+      "morph": "robinson:V-APS-3S",
+      "translation": "shall be proclaimed",
+      "metadata": {},
+      "gematria": {
+        "standard": 1155,
+        "ordinal": 100,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 7,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "εὐαγγέλιον",
+      "lemma": [
+        "G2098"
+      ],
+      "strongs": "G2098",
+      "morph": "robinson:N-NSN",
+      "translation": "gospel",
+      "metadata": {},
+      "gematria": {
+        "standard": 577,
+        "ordinal": 85,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 9,
+      "text": "τοῦτο",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSN",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὅλῳ",
+      "lemma": [
+        "G3650"
+      ],
+      "strongs": "G3650",
+      "morph": "robinson:A-DSM",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 910,
+        "ordinal": 59,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 12,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "κόσμῳ,",
+      "lemma": [
+        "G2889"
+      ],
+      "strongs": "G2889",
+      "morph": "robinson:N-DSM",
+      "translation": "world,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 14,
+      "text": "λαληθήσεται",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-FPI-3S",
+      "translation": "will be spoken of",
+      "metadata": {},
+      "gematria": {
+        "standard": 602,
+        "ordinal": 97,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASN",
+      "translation": "that which",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐποίησεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "did",
+      "metadata": {},
+      "gematria": {
+        "standard": 428,
+        "ordinal": 88,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 18,
+      "text": "αὕτη",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSF",
+      "translation": "this [woman]",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 20,
+      "text": "μνημόσυνον",
+      "lemma": [
+        "G3422"
+      ],
+      "strongs": "G3422",
+      "morph": "robinson:N-ASN",
+      "translation": "a memorial",
+      "metadata": {},
+      "gematria": {
+        "standard": 978,
+        "ordinal": 138,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 21,
+      "text": "αὐτῆς.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "of her.",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12512,
+    "ordinal": 1241,
+    "reduced": 494
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "text": "Λέγει αὐτῷ ὁ Ἰησοῦς· ὁ λελουμένος οὐκ ἔχει χρείαν μὴ τοὺς πόδας νίψασθαι, ἀλλ᾽ ἔστιν καθαρὸς ὅλος· καὶ ὑμεῖς καθαροί ἐστε ἀλλ᾽ οὐχὶ πάντες.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Λέγει",
+      "lemma": null,
+      "morph": null,
+      "translation": "Says",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἰησοῦς·",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "λελουμένος",
+      "lemma": [
+        "G3068"
+      ],
+      "strongs": "G3068",
+      "morph": "robinson:V-RMP-NSM",
+      "translation": "having bathed himself",
+      "metadata": {},
+      "gematria": {
+        "standard": 900,
+        "ordinal": 125,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 7,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἔχει",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "has",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "χρείαν",
+      "lemma": [
+        "G5532"
+      ],
+      "strongs": "G5532",
+      "morph": "robinson:N-ASF",
+      "translation": "need",
+      "metadata": {},
+      "gematria": {
+        "standard": 766,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 10,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "except",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 12,
+      "text": "πόδας",
+      "lemma": [
+        "G4228"
+      ],
+      "strongs": "G4228",
+      "morph": "robinson:N-APM",
+      "translation": "feet",
+      "metadata": {},
+      "gematria": {
+        "standard": 355,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 13,
+      "text": "νίψασθαι,",
+      "lemma": [
+        "G3538"
+      ],
+      "strongs": "G3538",
+      "morph": "robinson:V-AMN",
+      "translation": "to wash,",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἔστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 16,
+      "text": "καθαρὸς",
+      "lemma": [
+        "G2513"
+      ],
+      "strongs": "G2513",
+      "morph": "robinson:A-NSM",
+      "translation": "clean",
+      "metadata": {},
+      "gematria": {
+        "standard": 401,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὅλος·",
+      "lemma": [
+        "G3650"
+      ],
+      "strongs": "G3650",
+      "morph": "robinson:A-NSM",
+      "translation": "wholly;",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 59,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὑμεῖς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NP",
+      "translation": "you yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 20,
+      "text": "καθαροί",
+      "lemma": [
+        "G2513"
+      ],
+      "strongs": "G2513",
+      "morph": "robinson:A-NPM",
+      "translation": "clean",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 61,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἐστε",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "are",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 23,
+      "text": "οὐχὶ",
+      "lemma": [
+        "G3780"
+      ],
+      "strongs": "G3780",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 24,
+      "text": "πάντες.",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NPM",
+      "translation": "all.",
+      "metadata": {},
+      "gematria": {
+        "standard": 636,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12303,
+    "ordinal": 1297,
+    "reduced": 541
+  }
+}

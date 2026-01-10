@@ -1,0 +1,420 @@
+{
+  "text": "Θέλω δὲ πάντας ὑμᾶς λαλεῖν γλώσσαις, μᾶλλον δὲ ἵνα προφητεύητε· μείζων ὁ προφητεύων ἢ ὁ λαλῶν γλώσσαις ἐκτὸς εἰ μὴ διερμηνεύῃ, ἵνα ἡ ἐκκλησία οἰκοδομὴν λάβῃ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Θέλω",
+      "lemma": [
+        "G2309"
+      ],
+      "strongs": "G2309",
+      "morph": "robinson:V-PAI-1S",
+      "translation": "I desire",
+      "metadata": {},
+      "gematria": {
+        "standard": 844,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "πάντας",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-APM",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 632,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "λαλεῖν",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-PAN",
+      "translation": "to speak",
+      "metadata": {},
+      "gematria": {
+        "standard": 126,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "γλώσσαις,",
+      "lemma": [
+        "G1100"
+      ],
+      "strongs": "G1100",
+      "morph": "robinson:N-DPF",
+      "translation": "in tongues,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1444,
+        "ordinal": 102,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 7,
+      "text": "μᾶλλον",
+      "lemma": null,
+      "morph": null,
+      "translation": "rather",
+      "metadata": {},
+      "gematria": {
+        "standard": 221,
+        "ordinal": 63,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 8,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "προφητεύητε·",
+      "lemma": [
+        "G4395"
+      ],
+      "strongs": "G4395",
+      "morph": "robinson:V-PAS-2P",
+      "translation": "you may prophesy;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1776,
+        "ordinal": 151,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 11,
+      "text": "μείζων",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-NSM-C",
+      "translation": "greater [is]",
+      "metadata": {},
+      "gematria": {
+        "standard": 912,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "προφητεύων",
+      "lemma": [
+        "G4395"
+      ],
+      "strongs": "G4395",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "prophesying",
+      "metadata": {},
+      "gematria": {
+        "standard": 2313,
+        "ordinal": 157,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "than",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 16,
+      "text": "λαλῶν",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "speaking",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 60,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 17,
+      "text": "γλώσσαις",
+      "lemma": [
+        "G1100"
+      ],
+      "strongs": "G1100",
+      "morph": "robinson:N-DPF",
+      "translation": "in tongues",
+      "metadata": {},
+      "gematria": {
+        "standard": 1444,
+        "ordinal": 102,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐκτὸς",
+      "lemma": [
+        "G1622"
+      ],
+      "strongs": "G1622",
+      "morph": "robinson:PREP",
+      "translation": "except",
+      "metadata": {},
+      "gematria": {
+        "standard": 595,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 19,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 20,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "unless",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 21,
+      "text": "διερμηνεύῃ,",
+      "lemma": [
+        "G1329"
+      ],
+      "strongs": "G1329",
+      "morph": "robinson:V-PAS-3S",
+      "translation": "he shall interpret,",
+      "metadata": {},
+      "gematria": {
+        "standard": 640,
+        "ordinal": 108,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "so that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἐκκλησία",
+      "lemma": [
+        "G1577"
+      ],
+      "strongs": "G1577",
+      "morph": "robinson:N-NSF",
+      "translation": "church",
+      "metadata": {},
+      "gematria": {
+        "standard": 294,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 25,
+      "text": "οἰκοδομὴν",
+      "lemma": [
+        "G3619"
+      ],
+      "strongs": "G3619",
+      "morph": "robinson:N-ASF",
+      "translation": "edification",
+      "metadata": {},
+      "gematria": {
+        "standard": 342,
+        "ordinal": 100,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 26,
+      "text": "λάβῃ.",
+      "lemma": [
+        "G2983"
+      ],
+      "strongs": "G2983",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "may receive.",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13545,
+    "ordinal": 1438,
+    "reduced": 628
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "text": "ἐὰν ὁμολογῶμεν τὰς ἁμαρτίας ἡμῶν, πιστός ἐστιν καὶ δίκαιος ἵνα ἀφῇ ἡμῖν τὰς ἁμαρτίας καὶ καθαρίσῃ ἡμᾶς ἀπὸ πάσης ἀδικίας.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὁμολογῶμεν",
+      "lemma": [
+        "G3670"
+      ],
+      "strongs": "G3670",
+      "morph": "robinson:V-PAS-1P",
+      "translation": "we shall confess",
+      "metadata": {},
+      "gematria": {
+        "standard": 1178,
+        "ordinal": 125,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἁμαρτίας",
+      "lemma": [
+        "G266"
+      ],
+      "strongs": "G266",
+      "morph": "robinson:N-APF",
+      "translation": "sins",
+      "metadata": {},
+      "gematria": {
+        "standard": 653,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἡμῶν,",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GP",
+      "translation": "of us,",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "πιστός",
+      "lemma": [
+        "G4103"
+      ],
+      "strongs": "G4103",
+      "morph": "robinson:A-NSM",
+      "translation": "faithful",
+      "metadata": {},
+      "gematria": {
+        "standard": 860,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "He is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "δίκαιος",
+      "lemma": [
+        "G1342"
+      ],
+      "strongs": "G1342",
+      "morph": "robinson:A-NSM",
+      "translation": "just",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 66,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἀφῇ",
+      "lemma": null,
+      "morph": null,
+      "translation": "He may forgive",
+      "metadata": {},
+      "gematria": {
+        "standard": 519,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἡμῖν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DP",
+      "translation": "us",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 13,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἁμαρτίας",
+      "lemma": [
+        "G266"
+      ],
+      "strongs": "G266",
+      "morph": "robinson:N-APF",
+      "translation": "[our] sins",
+      "metadata": {},
+      "gematria": {
+        "standard": 653,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "καθαρίσῃ",
+      "lemma": [
+        "G2511"
+      ],
+      "strongs": "G2511",
+      "morph": "robinson:V-AAS-3S",
+      "translation": "may cleanse",
+      "metadata": {},
+      "gematria": {
+        "standard": 359,
+        "ordinal": 80,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἡμᾶς",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AP",
+      "translation": "us",
+      "metadata": {},
+      "gematria": {
+        "standard": 249,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 19,
+      "text": "πάσης",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-GSF",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 489,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀδικίας.",
+      "lemma": [
+        "G93"
+      ],
+      "strongs": "G93",
+      "morph": "robinson:N-GSF",
+      "translation": "unrighteousness.",
+      "metadata": {},
+      "gematria": {
+        "standard": 246,
+        "ordinal": 52,
+        "reduced": 34
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8424,
+    "ordinal": 1061,
+    "reduced": 503
+  }
+}

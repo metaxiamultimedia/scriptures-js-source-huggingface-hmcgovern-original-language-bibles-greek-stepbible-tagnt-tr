@@ -1,0 +1,170 @@
+{
+  "text": "οὐκ ἔστιν θεὸς νεκρῶν ἀλλὰ ζώντων· ὑμεῖς οὖν πολὺ πλανᾶσθε.",
+  "words": [
+    {
+      "position": 1,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "Not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἔστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "He is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "νεκρῶν",
+      "lemma": [
+        "G3498"
+      ],
+      "strongs": "G3498",
+      "morph": "robinson:A-GPM",
+      "translation": "of [the] dead",
+      "metadata": {},
+      "gematria": {
+        "standard": 1025,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀλλὰ",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "ζώντων·",
+      "lemma": [
+        "G2198"
+      ],
+      "strongs": "G2198",
+      "morph": "robinson:V-PAP-GPM",
+      "translation": "of [the] living;",
+      "metadata": {},
+      "gematria": {
+        "standard": 2007,
+        "ordinal": 99,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὑμεῖς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NP",
+      "translation": "you yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "πολὺ",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-ASN",
+      "translation": "Greatly",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 62,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
+      "text": "πλανᾶσθε.",
+      "lemma": [
+        "G4105"
+      ],
+      "strongs": "G4105",
+      "morph": "robinson:V-PPI-2P",
+      "translation": "you err.",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 73,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6564,
+    "ordinal": 607,
+    "reduced": 220
+  }
+}

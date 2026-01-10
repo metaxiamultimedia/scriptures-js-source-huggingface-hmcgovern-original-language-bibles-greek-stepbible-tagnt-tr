@@ -1,0 +1,122 @@
+{
+  "text": "ἀλλ᾽ ἐν αὐταῖς ἀνάμνησις ἁμαρτιῶν κατ᾽ ἐνιαυτόν·",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "But",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐταῖς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPF",
+      "translation": "these",
+      "metadata": {},
+      "gematria": {
+        "standard": 912,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀνάμνησις",
+      "lemma": [
+        "G364"
+      ],
+      "strongs": "G364",
+      "morph": "robinson:N-NSF",
+      "translation": "[there is] a reminder",
+      "metadata": {},
+      "gematria": {
+        "standard": 560,
+        "ordinal": 92,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἁμαρτιῶν",
+      "lemma": [
+        "G266"
+      ],
+      "strongs": "G266",
+      "morph": "robinson:N-GPF",
+      "translation": "of sins",
+      "metadata": {},
+      "gematria": {
+        "standard": 1302,
+        "ordinal": 96,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "κατ᾽",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "every",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 30,
+        "reduced": 3
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐνιαυτόν·",
+      "lemma": [
+        "G1763"
+      ],
+      "strongs": "G1763",
+      "morph": "robinson:N-ASM",
+      "translation": "year;",
+      "metadata": {},
+      "gematria": {
+        "standard": 886,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4097,
+    "ordinal": 422,
+    "reduced": 152
+  }
+}

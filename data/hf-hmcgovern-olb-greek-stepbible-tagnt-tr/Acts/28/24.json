@@ -1,0 +1,151 @@
+{
+  "text": "καὶ οἱ μὲν ἐπείθοντο τοῖς λεγομένοις, οἱ δὲ ἠπίστουν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "some",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "μὲν",
+      "lemma": [
+        "G3303"
+      ],
+      "strongs": "G3303",
+      "morph": "robinson:PRT",
+      "translation": "indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐπείθοντο",
+      "lemma": [
+        "G3982"
+      ],
+      "strongs": "G3982",
+      "morph": "robinson:V-IPI-3P",
+      "translation": "were persuaded",
+      "metadata": {},
+      "gematria": {
+        "standard": 599,
+        "ordinal": 105,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPN",
+      "translation": "by the [things]",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "λεγομένοις,",
+      "lemma": null,
+      "morph": null,
+      "translation": "he is speaking,",
+      "metadata": {},
+      "gematria": {
+        "standard": 483,
+        "ordinal": 106,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 7,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "some",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἠπίστουν.",
+      "lemma": [
+        "G569"
+      ],
+      "strongs": "G569",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "were disbelieving.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1118,
+        "ordinal": 117,
+        "reduced": 45
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3075,
+    "ordinal": 496,
+    "reduced": 235
+  }
+}

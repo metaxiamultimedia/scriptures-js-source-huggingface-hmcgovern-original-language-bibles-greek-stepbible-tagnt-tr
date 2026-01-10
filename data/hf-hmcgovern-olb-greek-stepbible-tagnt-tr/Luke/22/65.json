@@ -1,0 +1,119 @@
+{
+  "text": "καὶ ἕτερα πολλὰ βλασφημοῦντες ἔλεγον εἰς αὐτόν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἕτερα",
+      "lemma": [
+        "G2087"
+      ],
+      "strongs": "G2087",
+      "morph": "robinson:A-APN",
+      "translation": "other things",
+      "metadata": {},
+      "gematria": {
+        "standard": 411,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 3,
+      "text": "πολλὰ",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-APN",
+      "translation": "many",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "βλασφημοῦντες",
+      "lemma": [
+        "G987"
+      ],
+      "strongs": "G987",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "blaspheming",
+      "metadata": {},
+      "gematria": {
+        "standard": 1806,
+        "ordinal": 162,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἔλεγον",
+      "lemma": null,
+      "morph": null,
+      "translation": "they were saying",
+      "metadata": {},
+      "gematria": {
+        "standard": 163,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "αὐτόν.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3658,
+    "ordinal": 435,
+    "reduced": 165
+  }
+}

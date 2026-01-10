@@ -1,0 +1,334 @@
+{
+  "text": "προσελθόντες δὲ οἱ δοῦλοι τοῦ οἰκοδεσπότου εἶπον αὐτῷ· κύριε, οὐχὶ καλὸν σπέρμα ἔσπειρας ἐν τῷ σῷ ἀγρῷ; πόθεν οὖν ἔχει ζιζάνια;",
+  "words": [
+    {
+      "position": 1,
+      "text": "προσελθόντες",
+      "lemma": [
+        "G4334"
+      ],
+      "strongs": "G4334",
+      "morph": "robinson:V-2AAP-NPM",
+      "translation": "Having come to [him]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1119,
+        "ordinal": 160,
+        "reduced": 70
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "δοῦλοι",
+      "lemma": [
+        "G1401"
+      ],
+      "strongs": "G1401",
+      "morph": "robinson:N-NPM",
+      "translation": "servants",
+      "metadata": {},
+      "gematria": {
+        "standard": 584,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "οἰκοδεσπότου",
+      "lemma": [
+        "G3617"
+      ],
+      "strongs": "G3617",
+      "morph": "robinson:N-GSM",
+      "translation": "master of the house",
+      "metadata": {},
+      "gematria": {
+        "standard": 1299,
+        "ordinal": 161,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 7,
+      "text": "εἶπον",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "said",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτῷ·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "κύριε,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Sir,",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 10,
+      "text": "οὐχὶ",
+      "lemma": [
+        "G3780"
+      ],
+      "strongs": "G3780",
+      "morph": "robinson:PRT-N",
+      "translation": "surely",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "καλὸν",
+      "lemma": null,
+      "morph": null,
+      "translation": "good",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "σπέρμα",
+      "lemma": null,
+      "morph": null,
+      "translation": "seed",
+      "metadata": {},
+      "gematria": {
+        "standard": 426,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἔσπειρας",
+      "lemma": [
+        "G4687"
+      ],
+      "strongs": "G4687",
+      "morph": "robinson:V-AAI-2S",
+      "translation": "did you sow",
+      "metadata": {},
+      "gematria": {
+        "standard": 601,
+        "ordinal": 89,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "σῷ",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:S-2SDSM",
+      "translation": "your",
+      "metadata": {},
+      "gematria": {
+        "standard": 1010,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀγρῷ;",
+      "lemma": null,
+      "morph": null,
+      "translation": "field?",
+      "metadata": {},
+      "gematria": {
+        "standard": 914,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 18,
+      "text": "πόθεν",
+      "lemma": [
+        "G4159"
+      ],
+      "strongs": "G4159",
+      "morph": "robinson:ADV-I",
+      "translation": "How",
+      "metadata": {},
+      "gematria": {
+        "standard": 214,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 19,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἔχει",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "has it",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 21,
+      "text": "ζιζάνια;",
+      "lemma": [
+        "G2215"
+      ],
+      "strongs": "G2215",
+      "morph": "robinson:N-APN",
+      "translation": "weeds?",
+      "metadata": {},
+      "gematria": {
+        "standard": 86,
+        "ordinal": 45,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12929,
+    "ordinal": 1314,
+    "reduced": 567
+  }
+}

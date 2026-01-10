@@ -1,0 +1,327 @@
+{
+  "text": "τούτῳ ὁ θυρωρὸς ἀνοίγει, καὶ τὰ πρόβατα τῆς φωνῆς αὐτοῦ ἀκούει, καὶ τὰ ἴδια πρόβατα κατ᾽ ὄνομα καὶ ἐξάγει αὐτά.",
+  "words": [
+    {
+      "position": 1,
+      "text": "τούτῳ",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-DSM",
+      "translation": "To him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1880,
+        "ordinal": 106,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "θυρωρὸς",
+      "lemma": [
+        "G2377"
+      ],
+      "strongs": "G2377",
+      "morph": "robinson:N-NSM",
+      "translation": "doorkeeper",
+      "metadata": {},
+      "gematria": {
+        "standard": 1679,
+        "ordinal": 119,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀνοίγει,",
+      "lemma": [
+        "G455"
+      ],
+      "strongs": "G455",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "opens,",
+      "metadata": {},
+      "gematria": {
+        "standard": 149,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 7,
+      "text": "πρόβατα",
+      "lemma": [
+        "G4263"
+      ],
+      "strongs": "G4263",
+      "morph": "robinson:N-NPN",
+      "translation": "sheep",
+      "metadata": {},
+      "gematria": {
+        "standard": 554,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 8,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 9,
+      "text": "φωνῆς",
+      "lemma": null,
+      "morph": null,
+      "translation": "voice",
+      "metadata": {},
+      "gematria": {
+        "standard": 1558,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 10,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἀκούει,",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "listen,",
+      "metadata": {},
+      "gematria": {
+        "standard": 506,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἴδια",
+      "lemma": [
+        "G2398"
+      ],
+      "strongs": "G2398",
+      "morph": "robinson:A-APN",
+      "translation": "[his] own",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 23,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 15,
+      "text": "πρόβατα",
+      "lemma": [
+        "G4263"
+      ],
+      "strongs": "G4263",
+      "morph": "robinson:N-APN",
+      "translation": "sheep",
+      "metadata": {},
+      "gematria": {
+        "standard": 554,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 16,
+      "text": "κατ᾽",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 30,
+        "reduced": 3
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὄνομα",
+      "lemma": [
+        "G3686"
+      ],
+      "strongs": "G3686",
+      "morph": "robinson:N-ASN",
+      "translation": "name",
+      "metadata": {},
+      "gematria": {
+        "standard": 231,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐξάγει",
+      "lemma": [
+        "G1806"
+      ],
+      "strongs": "G1806",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "leads out",
+      "metadata": {},
+      "gematria": {
+        "standard": 84,
+        "ordinal": 37,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 20,
+      "text": "αὐτά.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APN",
+      "translation": "them.",
+      "metadata": {},
+      "gematria": {
+        "standard": 702,
+        "ordinal": 41,
+        "reduced": 5
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10687,
+    "ordinal": 986,
+    "reduced": 365
+  }
+}

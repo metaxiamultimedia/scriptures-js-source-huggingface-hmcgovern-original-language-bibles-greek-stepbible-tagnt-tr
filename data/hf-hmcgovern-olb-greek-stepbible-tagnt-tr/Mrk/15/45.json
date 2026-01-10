@@ -1,0 +1,151 @@
+{
+  "text": "καὶ γνοὺς ἀπὸ τοῦ κεντυρίωνος ἐδωρήσατο τὸ τῷ Ἰωσήφ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "γνοὺς",
+      "lemma": [
+        "G1097"
+      ],
+      "strongs": "G1097",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having known [it]",
+      "metadata": {},
+      "gematria": {
+        "standard": 723,
+        "ordinal": 69,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "κεντυρίωνος",
+      "lemma": [
+        "G2760"
+      ],
+      "strongs": "G2760",
+      "morph": "robinson:N-GSM",
+      "translation": "centurion",
+      "metadata": {},
+      "gematria": {
+        "standard": 2005,
+        "ordinal": 163,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐδωρήσατο",
+      "lemma": [
+        "G1433"
+      ],
+      "strongs": "G1433",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "He granted",
+      "metadata": {},
+      "gematria": {
+        "standard": 1488,
+        "ordinal": 110,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 7,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "Ἰωσήφ.",
+      "lemma": null,
+      "morph": null,
+      "translation": "to Joseph.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1518,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8166,
+    "ordinal": 613,
+    "reduced": 217
+  }
+}

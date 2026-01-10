@@ -1,0 +1,151 @@
+{
+  "text": "διὰ τί; ὅτι οὐκ ἀγαπῶ ὑμᾶς; ὁ θεὸς οἶδεν·",
+  "words": [
+    {
+      "position": 1,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "Because of",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "τί;",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-ASN",
+      "translation": "why?",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "Because",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "surely",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀγαπῶ",
+      "lemma": [
+        "G25"
+      ],
+      "strongs": "G25",
+      "morph": "robinson:V-PAI-1S",
+      "translation": "I do love",
+      "metadata": {},
+      "gematria": {
+        "standard": 885,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑμᾶς;",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you?",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "οἶδεν·",
+      "lemma": [
+        "G6063"
+      ],
+      "strongs": "G6063",
+      "morph": "robinson:V-RAI-3S",
+      "translation": "knows [I do]!",
+      "metadata": {},
+      "gematria": {
+        "standard": 139,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3214,
+    "ordinal": 333,
+    "reduced": 144
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "text": "Τοῦ δὲ Ἰησοῦ γεννηθέντος ἐν Βηθλέεμ τῆς Ἰουδαίας ἐν ἡμέραις Ἡρῴδου τοῦ βασιλέως ἰδοὺ μάγοι ἀπὸ ἀνατολῶν παρεγένοντο εἰς Ἱεροσόλυμα",
+  "words": [
+    {
+      "position": 1,
+      "text": "Τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "Now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἰησοῦ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "γεννηθέντος",
+      "lemma": [
+        "G1080"
+      ],
+      "strongs": "G1080",
+      "morph": "robinson:V-APP-GSM",
+      "translation": "having been born",
+      "metadata": {},
+      "gematria": {
+        "standard": 750,
+        "ordinal": 119,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "Βηθλέεμ",
+      "lemma": [
+        "G965"
+      ],
+      "strongs": "G965",
+      "morph": "robinson:N-DSF-L",
+      "translation": "Bethlehem",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 50,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "Ἰουδαίας",
+      "lemma": [
+        "G2449"
+      ],
+      "strongs": "G2449",
+      "morph": "robinson:N-GSF-L",
+      "translation": "of Judea",
+      "metadata": {},
+      "gematria": {
+        "standard": 696,
+        "ordinal": 77,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἡμέραις",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-DPF",
+      "translation": "[the] days",
+      "metadata": {},
+      "gematria": {
+        "standard": 364,
+        "ordinal": 69,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 11,
+      "text": "Ἡρῴδου",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Herod",
+      "metadata": {},
+      "gematria": {
+        "standard": 1392,
+        "ordinal": 96,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 12,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "βασιλέως",
+      "lemma": [
+        "G935"
+      ],
+      "strongs": "G935",
+      "morph": "robinson:N-GSM",
+      "translation": "king",
+      "metadata": {},
+      "gematria": {
+        "standard": 1248,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἰδοὺ",
+      "lemma": [
+        "G2400"
+      ],
+      "strongs": "G2400",
+      "morph": "robinson:INJ",
+      "translation": "behold",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "μάγοι",
+      "lemma": [
+        "G3097"
+      ],
+      "strongs": "G3097",
+      "morph": "robinson:N-NPM",
+      "translation": "Magi",
+      "metadata": {},
+      "gematria": {
+        "standard": 124,
+        "ordinal": 40,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from [the]",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀνατολῶν",
+      "lemma": [
+        "G395"
+      ],
+      "strongs": "G395",
+      "morph": "robinson:N-GPF",
+      "translation": "east",
+      "metadata": {},
+      "gematria": {
+        "standard": 1302,
+        "ordinal": 97,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 18,
+      "text": "παρεγένοντο",
+      "lemma": [
+        "G3854"
+      ],
+      "strongs": "G3854",
+      "morph": "robinson:V-2ADI-3P",
+      "translation": "arrived",
+      "metadata": {},
+      "gematria": {
+        "standard": 734,
+        "ordinal": 122,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 19,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 20,
+      "text": "Ἱεροσόλυμα",
+      "lemma": [
+        "G2414"
+      ],
+      "strongs": "G2414",
+      "morph": "robinson:N-APN-L",
+      "translation": "Jerusalem",
+      "metadata": {},
+      "gematria": {
+        "standard": 926,
+        "ordinal": 123,
+        "reduced": 51
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11340,
+    "ordinal": 1259,
+    "reduced": 557
+  }
+}

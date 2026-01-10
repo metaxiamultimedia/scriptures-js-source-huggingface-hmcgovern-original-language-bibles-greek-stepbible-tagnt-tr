@@ -1,0 +1,340 @@
+{
+  "text": "Ἄχρι δὲ οὗ ἡμέρα ἤμελλεν γίνεσθαι, παρεκάλει ὁ Παῦλος ἅπαντας μεταλαβεῖν τροφῆς λέγων· τεσσαρεσκαιδεκάτην σήμερον ἡμέραν προσδοκῶντες ἄσιτοι διατελεῖτε μηθὲν προσλαβόμενοι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἄχρι",
+      "lemma": [
+        "G891"
+      ],
+      "strongs": "G891",
+      "morph": "robinson:PREP",
+      "translation": "Until",
+      "metadata": {},
+      "gematria": {
+        "standard": 711,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "οὗ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-GSM",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἡμέρα",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-NSF",
+      "translation": "day",
+      "metadata": {},
+      "gematria": {
+        "standard": 154,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἤμελλεν",
+      "lemma": [
+        "G3195"
+      ],
+      "strongs": "G3195",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was about",
+      "metadata": {},
+      "gematria": {
+        "standard": 168,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "γίνεσθαι,",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-PNN",
+      "translation": "to come,",
+      "metadata": {},
+      "gematria": {
+        "standard": 288,
+        "ordinal": 66,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 7,
+      "text": "παρεκάλει",
+      "lemma": [
+        "G3870"
+      ],
+      "strongs": "G3870",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was urging",
+      "metadata": {},
+      "gematria": {
+        "standard": 252,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "Παῦλος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Paul",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἅπαντας",
+      "lemma": [
+        "G537"
+      ],
+      "strongs": "G537",
+      "morph": "robinson:A-APM",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 633,
+        "ordinal": 69,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 11,
+      "text": "μεταλαβεῖν",
+      "lemma": [
+        "G3335"
+      ],
+      "strongs": "G3335",
+      "morph": "robinson:V-2AAN",
+      "translation": "to partake",
+      "metadata": {},
+      "gematria": {
+        "standard": 444,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 12,
+      "text": "τροφῆς",
+      "lemma": [
+        "G5160"
+      ],
+      "strongs": "G5160",
+      "morph": "robinson:N-GSF",
+      "translation": "of food",
+      "metadata": {},
+      "gematria": {
+        "standard": 1178,
+        "ordinal": 97,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 13,
+      "text": "λέγων·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 14,
+      "text": "τεσσαρεσκαιδεκάτην",
+      "lemma": [
+        "G5065"
+      ],
+      "strongs": "G5065",
+      "morph": "robinson:A-ASF",
+      "translation": "[the] fourteenth",
+      "metadata": {},
+      "gematria": {
+        "standard": 1430,
+        "ordinal": 180,
+        "reduced": 81
+      }
+    },
+    {
+      "position": 15,
+      "text": "σήμερον",
+      "lemma": [
+        "G4594"
+      ],
+      "strongs": "G4594",
+      "morph": "robinson:ADV",
+      "translation": "today",
+      "metadata": {},
+      "gematria": {
+        "standard": 473,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἡμέραν",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-ASF",
+      "translation": "[is] day",
+      "metadata": {},
+      "gematria": {
+        "standard": 204,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 17,
+      "text": "προσδοκῶντες",
+      "lemma": [
+        "G4328"
+      ],
+      "strongs": "G4328",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "watching",
+      "metadata": {},
+      "gematria": {
+        "standard": 1899,
+        "ordinal": 174,
+        "reduced": 66
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἄσιτοι",
+      "lemma": [
+        "G777"
+      ],
+      "strongs": "G777",
+      "morph": "robinson:A-NPM",
+      "translation": "without eating",
+      "metadata": {},
+      "gematria": {
+        "standard": 591,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 19,
+      "text": "διατελεῖτε",
+      "lemma": [
+        "G1300"
+      ],
+      "strongs": "G1300",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "you continue",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 20,
+      "text": "μηθὲν",
+      "lemma": [
+        "G3367"
+      ],
+      "strongs": "G3367",
+      "morph": "robinson:A-ASN-N",
+      "translation": "nothing",
+      "metadata": {},
+      "gematria": {
+        "standard": 112,
+        "ordinal": 45,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 21,
+      "text": "προσλαβόμενοι.",
+      "lemma": [
+        "G4355"
+      ],
+      "strongs": "G4355",
+      "morph": "robinson:V-2AMP-NPM",
+      "translation": "having taken.",
+      "metadata": {},
+      "gematria": {
+        "standard": 728,
+        "ordinal": 149,
+        "reduced": 68
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12153,
+    "ordinal": 1584,
+    "reduced": 711
+  }
+}

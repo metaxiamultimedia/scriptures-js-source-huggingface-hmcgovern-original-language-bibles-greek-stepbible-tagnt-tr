@@ -1,0 +1,231 @@
+{
+  "text": "εἰ δὲ μή γε, ἔτι αὐτοῦ πόρρω ὄντος πρεσβείαν ἀποστείλας ἐρωτᾷ τὰ πρὸς εἰρήνην.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "lest",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "μή",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "except",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "γε,",
+      "lemma": [
+        "G1065"
+      ],
+      "strongs": "G1065",
+      "morph": "robinson:PRT",
+      "translation": "indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 8,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἔτι",
+      "lemma": [
+        "G2089"
+      ],
+      "strongs": "G2089",
+      "morph": "robinson:ADV",
+      "translation": "still",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "πόρρω",
+      "lemma": [
+        "G4206"
+      ],
+      "strongs": "G4206",
+      "morph": "robinson:ADV-C",
+      "translation": "far off",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὄντος",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAP-GSM",
+      "translation": "being",
+      "metadata": {},
+      "gematria": {
+        "standard": 690,
+        "ordinal": 80,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 9,
+      "text": "πρεσβείαν",
+      "lemma": [
+        "G4242"
+      ],
+      "strongs": "G4242",
+      "morph": "robinson:N-ASF",
+      "translation": "an embassy",
+      "metadata": {},
+      "gematria": {
+        "standard": 453,
+        "ordinal": 86,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀποστείλας",
+      "lemma": [
+        "G649"
+      ],
+      "strongs": "G649",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having sent",
+      "metadata": {},
+      "gematria": {
+        "standard": 897,
+        "ordinal": 113,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐρωτᾷ",
+      "lemma": [
+        "G2065"
+      ],
+      "strongs": "G2065",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "he asks",
+      "metadata": {},
+      "gematria": {
+        "standard": 1216,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 13,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 14,
+      "text": "εἰρήνην.",
+      "lemma": [
+        "G1515"
+      ],
+      "strongs": "G1515",
+      "morph": "robinson:N-ASF",
+      "translation": "peace.",
+      "metadata": {},
+      "gematria": {
+        "standard": 231,
+        "ordinal": 71,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6954,
+    "ordinal": 758,
+    "reduced": 335
+  }
+}

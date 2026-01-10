@@ -1,0 +1,372 @@
+{
+  "text": "ἐμβὰς δὲ εἰς ἓν τῶν πλοίων ὃ ἦν Σίμωνος, ἠρώτησεν αὐτὸν ἀπὸ τῆς γῆς ἐπαναγαγεῖν ὀλίγον. καθίσας ἐκ τοῦ πλοίου ἐδίδασκεν τοὺς ὄχλους.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐμβὰς",
+      "lemma": [
+        "G1684"
+      ],
+      "strongs": "G1684",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "Having climbed",
+      "metadata": {},
+      "gematria": {
+        "standard": 248,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἓν",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-ASN",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "πλοίων",
+      "lemma": [
+        "G4143"
+      ],
+      "strongs": "G4143",
+      "morph": "robinson:N-GPN",
+      "translation": "boats",
+      "metadata": {},
+      "gematria": {
+        "standard": 1040,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSN",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "Σίμωνος,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Simon’s,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1370,
+        "ordinal": 109,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἠρώτησεν",
+      "lemma": [
+        "G2065"
+      ],
+      "strongs": "G2065",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "He asked",
+      "metadata": {},
+      "gematria": {
+        "standard": 1471,
+        "ordinal": 110,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 14,
+      "text": "γῆς",
+      "lemma": null,
+      "morph": null,
+      "translation": "land",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐπαναγαγεῖν",
+      "lemma": [
+        "G1877"
+      ],
+      "strongs": "G1877",
+      "morph": "robinson:V-2AAN",
+      "translation": "to put off",
+      "metadata": {},
+      "gematria": {
+        "standard": 209,
+        "ordinal": 70,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὀλίγον.",
+      "lemma": [
+        "G3641"
+      ],
+      "strongs": "G3641",
+      "morph": "robinson:A-ASN",
+      "translation": "a little.",
+      "metadata": {},
+      "gematria": {
+        "standard": 233,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 17,
+      "text": "καθίσας",
+      "lemma": [
+        "G2523"
+      ],
+      "strongs": "G2523",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "Having sat down",
+      "metadata": {},
+      "gematria": {
+        "standard": 441,
+        "ordinal": 65,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 19,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 20,
+      "text": "πλοίου",
+      "lemma": [
+        "G4143"
+      ],
+      "strongs": "G4143",
+      "morph": "robinson:N-GSN",
+      "translation": "boat",
+      "metadata": {},
+      "gematria": {
+        "standard": 660,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἐδίδασκεν",
+      "lemma": [
+        "G1321"
+      ],
+      "strongs": "G1321",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "He was teaching",
+      "metadata": {},
+      "gematria": {
+        "standard": 299,
+        "ordinal": 69,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 22,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 23,
+      "text": "ὄχλους.",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-APM",
+      "translation": "crowds.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1370,
+        "ordinal": 101,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12354,
+    "ordinal": 1265,
+    "reduced": 527
+  }
+}

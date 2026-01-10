@@ -1,0 +1,119 @@
+{
+  "text": "καὶ εἶπαν αὐτῷ· κύριε, ἔχει δέκα μνᾶς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἶπαν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "they said",
+      "metadata": {},
+      "gematria": {
+        "standard": 146,
+        "ordinal": 44,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτῷ·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "κύριε,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Master,",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἔχει",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "he has",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "δέκα",
+      "lemma": [
+        "G1176"
+      ],
+      "strongs": "G1176",
+      "morph": "robinson:A-NUI",
+      "translation": "ten",
+      "metadata": {},
+      "gematria": {
+        "standard": 30,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "μνᾶς.",
+      "lemma": [
+        "G3414"
+      ],
+      "strongs": "G3414",
+      "morph": "robinson:N-APF",
+      "translation": "minas.",
+      "metadata": {},
+      "gematria": {
+        "standard": 291,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3164,
+    "ordinal": 303,
+    "reduced": 132
+  }
+}

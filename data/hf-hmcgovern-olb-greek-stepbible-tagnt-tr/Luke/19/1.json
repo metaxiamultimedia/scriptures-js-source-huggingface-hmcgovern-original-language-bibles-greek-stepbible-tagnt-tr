@@ -1,0 +1,90 @@
+{
+  "text": "Καὶ εἰσελθὼν διήρχετο τὴν Ἰεριχώ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἰσελθὼν",
+      "lemma": [
+        "G1525"
+      ],
+      "strongs": "G1525",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having entered",
+      "metadata": {},
+      "gematria": {
+        "standard": 1109,
+        "ordinal": 93,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 3,
+      "text": "διήρχετο",
+      "lemma": [
+        "G1330"
+      ],
+      "strongs": "G1330",
+      "morph": "robinson:V-INI-3S",
+      "translation": "He was passing through",
+      "metadata": {},
+      "gematria": {
+        "standard": 1097,
+        "ordinal": 98,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "Ἰεριχώ.",
+      "lemma": [
+        "G2410"
+      ],
+      "strongs": "G2410",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Jericho.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1525,
+        "ordinal": 86,
+        "reduced": 41
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4120,
+    "ordinal": 336,
+    "reduced": 156
+  }
+}

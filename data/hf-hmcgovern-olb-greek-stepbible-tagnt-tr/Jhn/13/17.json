@@ -1,0 +1,132 @@
+{
+  "text": "εἰ ταῦτα οἴδατε, μακάριοί ἐστε ἐὰν ποιῆτε αὐτά.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "ταῦτα",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-APN",
+      "translation": "these things",
+      "metadata": {},
+      "gematria": {
+        "standard": 1002,
+        "ordinal": 60,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "οἴδατε,",
+      "lemma": [
+        "G6063"
+      ],
+      "strongs": "G6063",
+      "morph": "robinson:V-RAI-2P",
+      "translation": "you know,",
+      "metadata": {},
+      "gematria": {
+        "standard": 390,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "μακάριοί",
+      "lemma": [
+        "G3107"
+      ],
+      "strongs": "G3107",
+      "morph": "robinson:A-NPM",
+      "translation": "blessed",
+      "metadata": {},
+      "gematria": {
+        "standard": 252,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐστε",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "are you",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "ποιῆτε",
+      "lemma": null,
+      "morph": null,
+      "translation": "you shall do",
+      "metadata": {},
+      "gematria": {
+        "standard": 473,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτά.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APN",
+      "translation": "them.",
+      "metadata": {},
+      "gematria": {
+        "standard": 702,
+        "ordinal": 41,
+        "reduced": 5
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3400,
+    "ordinal": 379,
+    "reduced": 154
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "text": "εἰ ὑπομένομεν, καὶ συμβασιλεύσομεν· εἰ κἀκεῖνος ἀρνήσεται ἡμᾶς·",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὑπομένομεν,",
+      "lemma": [
+        "G5278"
+      ],
+      "strongs": "G5278",
+      "morph": "robinson:V-PAI-1P",
+      "translation": "we endure,",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 126,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "συμβασιλεύσομεν·",
+      "lemma": [
+        "G4821"
+      ],
+      "strongs": "G4821",
+      "morph": "robinson:V-FAI-1P",
+      "translation": "we will reign with [Him];",
+      "metadata": {},
+      "gematria": {
+        "standard": 1653,
+        "ordinal": 179,
+        "reduced": 71
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "κἀκεῖνος",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ + G1565=D-NSM",
+      "translation": "He also",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 81,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀρνήσεται",
+      "lemma": [
+        "G720"
+      ],
+      "strongs": "G720",
+      "morph": "robinson:V-FDI-3S",
+      "translation": "will deny",
+      "metadata": {},
+      "gematria": {
+        "standard": 675,
+        "ordinal": 90,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἡμᾶς·",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AP",
+      "translation": "us;",
+      "metadata": {},
+      "gematria": {
+        "standard": 249,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3824,
+    "ordinal": 562,
+    "reduced": 256
+  }
+}

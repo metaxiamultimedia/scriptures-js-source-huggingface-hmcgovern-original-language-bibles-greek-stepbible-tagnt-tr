@@ -1,0 +1,292 @@
+{
+  "text": "Εἶπεν δὲ πρὸς ἕτερον· ἀκολούθει μοι. ὁ δὲ εἶπεν· κύριε, ἐπίτρεψόν μοι ἀπελθόντι πρῶτον θάψαι τὸν πατέρα μου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "He said",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἕτερον·",
+      "lemma": [
+        "G2087"
+      ],
+      "strongs": "G2087",
+      "morph": "robinson:A-ASM",
+      "translation": "another;",
+      "metadata": {},
+      "gematria": {
+        "standard": 530,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀκολούθει",
+      "lemma": [
+        "G190"
+      ],
+      "strongs": "G190",
+      "morph": "robinson:V-PAM-2S",
+      "translation": "do follow",
+      "metadata": {},
+      "gematria": {
+        "standard": 615,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 6,
+      "text": "μοι.",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DS",
+      "translation": "Me.",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "But",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "εἶπεν·",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "he said;",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 10,
+      "text": "κύριε,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lord",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐπίτρεψόν",
+      "lemma": [
+        "G2010"
+      ],
+      "strongs": "G2010",
+      "morph": "robinson:V-AAM-2S",
+      "translation": "do allow",
+      "metadata": {},
+      "gematria": {
+        "standard": 1320,
+        "ordinal": 122,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 12,
+      "text": "μοι",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DS",
+      "translation": "me",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἀπελθόντι",
+      "lemma": [
+        "G565"
+      ],
+      "strongs": "G565",
+      "morph": "robinson:V-2AAP-DSM",
+      "translation": "having gone away",
+      "metadata": {},
+      "gematria": {
+        "standard": 555,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 14,
+      "text": "πρῶτον",
+      "lemma": null,
+      "morph": null,
+      "translation": "first",
+      "metadata": {},
+      "gematria": {
+        "standard": 1400,
+        "ordinal": 104,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 15,
+      "text": "θάψαι",
+      "lemma": [
+        "G2290"
+      ],
+      "strongs": "G2290",
+      "morph": "robinson:V-AAN",
+      "translation": "to bury",
+      "metadata": {},
+      "gematria": {
+        "standard": 721,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 16,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "πατέρα",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-ASM",
+      "translation": "father",
+      "metadata": {},
+      "gematria": {
+        "standard": 487,
+        "ordinal": 59,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 18,
+      "text": "μου.",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of mine.",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8171,
+    "ordinal": 1014,
+    "reduced": 438
+  }
+}

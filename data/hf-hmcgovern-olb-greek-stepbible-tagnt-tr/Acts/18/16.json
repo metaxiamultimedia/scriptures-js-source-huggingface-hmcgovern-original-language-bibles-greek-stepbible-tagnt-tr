@@ -1,0 +1,106 @@
+{
+  "text": "καὶ ἀπήλασεν αὐτοὺς ἀπὸ τοῦ βήματος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀπήλασεν",
+      "lemma": [
+        "G556"
+      ],
+      "strongs": "G556",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he drove",
+      "metadata": {},
+      "gematria": {
+        "standard": 375,
+        "ordinal": 72,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτοὺς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APM",
+      "translation": "them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 93,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "βήματος.",
+      "lemma": [
+        "G968"
+      ],
+      "strongs": "G968",
+      "morph": "robinson:N-GSN",
+      "translation": "judgment seat.",
+      "metadata": {},
+      "gematria": {
+        "standard": 621,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3319,
+    "ordinal": 345,
+    "reduced": 120
+  }
+}

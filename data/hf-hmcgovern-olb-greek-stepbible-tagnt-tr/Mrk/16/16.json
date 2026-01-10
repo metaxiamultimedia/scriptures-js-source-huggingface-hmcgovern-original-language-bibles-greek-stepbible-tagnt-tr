@@ -1,0 +1,154 @@
+{
+  "text": "ὁ πιστεύσας καὶ βαπτισθεὶς σωθήσεται· ὁ δὲ ἀπιστήσας κατακριθήσεται.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "πιστεύσας",
+      "lemma": [
+        "G4100"
+      ],
+      "strongs": "G4100",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having believed",
+      "metadata": {},
+      "gematria": {
+        "standard": 1396,
+        "ordinal": 124,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "βαπτισθεὶς",
+      "lemma": [
+        "G907"
+      ],
+      "strongs": "G907",
+      "morph": "robinson:V-APP-NSM",
+      "translation": "having been baptized",
+      "metadata": {},
+      "gematria": {
+        "standard": 817,
+        "ordinal": 105,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 5,
+      "text": "σωθήσεται·",
+      "lemma": [
+        "G4982"
+      ],
+      "strongs": "G4982",
+      "morph": "robinson:V-FPI-3S",
+      "translation": "will be saved;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1533,
+        "ordinal": 109,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀπιστήσας",
+      "lemma": [
+        "G569"
+      ],
+      "strongs": "G569",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having disbelieved",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 107,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 9,
+      "text": "κατακριθήσεται.",
+      "lemma": [
+        "G2632"
+      ],
+      "strongs": "G2632",
+      "morph": "robinson:V-FPI-3S",
+      "translation": "will be condemned.",
+      "metadata": {},
+      "gematria": {
+        "standard": 985,
+        "ordinal": 134,
+        "reduced": 62
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5911,
+    "ordinal": 638,
+    "reduced": 314
+  }
+}

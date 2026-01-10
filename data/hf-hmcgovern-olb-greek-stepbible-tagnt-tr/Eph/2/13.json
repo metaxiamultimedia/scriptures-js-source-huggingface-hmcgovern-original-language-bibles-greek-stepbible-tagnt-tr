@@ -1,0 +1,276 @@
+{
+  "text": "νυνὶ δὲ ἐν Χριστῷ Ἰησοῦ ὑμεῖς οἵ ποτε ὄντες μακρὰν ἐγενήθητε ἐγγὺς ἐν τῷ αἵματι τοῦ Χριστοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "νυνὶ",
+      "lemma": [
+        "G3570"
+      ],
+      "strongs": "G3570",
+      "morph": "robinson:ADV",
+      "translation": "Now",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 55,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "Χριστῷ",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-DSM-T",
+      "translation": "Christ",
+      "metadata": {},
+      "gematria": {
+        "standard": 2020,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 5,
+      "text": "Ἰησοῦ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑμεῖς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NP",
+      "translation": "you yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "οἵ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NPM",
+      "translation": "the [ones]",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "ποτε",
+      "lemma": [
+        "G4218"
+      ],
+      "strongs": "G4218",
+      "morph": "robinson:PRT",
+      "translation": "once",
+      "metadata": {},
+      "gematria": {
+        "standard": 455,
+        "ordinal": 55,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὄντες",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "being",
+      "metadata": {},
+      "gematria": {
+        "standard": 625,
+        "ordinal": 70,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 10,
+      "text": "μακρὰν",
+      "lemma": [
+        "G3112"
+      ],
+      "strongs": "G3112",
+      "morph": "robinson:ADV",
+      "translation": "far off",
+      "metadata": {},
+      "gematria": {
+        "standard": 212,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐγενήθητε",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2AOI-2P",
+      "translation": "have become",
+      "metadata": {},
+      "gematria": {
+        "standard": 393,
+        "ordinal": 72,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐγγὺς",
+      "lemma": [
+        "G1451"
+      ],
+      "strongs": "G1451",
+      "morph": "robinson:PREP",
+      "translation": "near",
+      "metadata": {},
+      "gematria": {
+        "standard": 611,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "αἵματι",
+      "lemma": null,
+      "morph": null,
+      "translation": "blood",
+      "metadata": {},
+      "gematria": {
+        "standard": 362,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 16,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 17,
+      "text": "Χριστοῦ.",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of Christ.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10290,
+    "ordinal": 952,
+    "reduced": 385
+  }
+}

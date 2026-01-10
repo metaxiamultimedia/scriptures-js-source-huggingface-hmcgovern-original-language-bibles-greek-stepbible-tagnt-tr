@@ -1,0 +1,215 @@
+{
+  "text": "Καὶ ἐγγὺς ἦν τὸ πάσχα τῶν Ἰουδαίων, καὶ ἀνέβη εἰς Ἱεροσόλυμα ὁ Ἰησοῦς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐγγὺς",
+      "lemma": [
+        "G1451"
+      ],
+      "strongs": "G1451",
+      "morph": "robinson:PREP",
+      "translation": "near",
+      "metadata": {},
+      "gematria": {
+        "standard": 611,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "πάσχα",
+      "lemma": [
+        "G3957"
+      ],
+      "strongs": "G3957",
+      "morph": "robinson:N-NSN-T",
+      "translation": "Passover",
+      "metadata": {},
+      "gematria": {
+        "standard": 882,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ἰουδαίων,",
+      "lemma": [
+        "G2453"
+      ],
+      "strongs": "G2453",
+      "morph": "robinson:N-GPM-PG",
+      "translation": "Jews,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1345,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀνέβη",
+      "lemma": [
+        "G305"
+      ],
+      "strongs": "G305",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "went up",
+      "metadata": {},
+      "gematria": {
+        "standard": 66,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 10,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "Ἱεροσόλυμα",
+      "lemma": [
+        "G2414"
+      ],
+      "strongs": "G2414",
+      "morph": "robinson:N-APN-L",
+      "translation": "Jerusalem",
+      "metadata": {},
+      "gematria": {
+        "standard": 926,
+        "ordinal": 123,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "Ἰησοῦς.",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus.",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6643,
+    "ordinal": 637,
+    "reduced": 277
+  }
+}

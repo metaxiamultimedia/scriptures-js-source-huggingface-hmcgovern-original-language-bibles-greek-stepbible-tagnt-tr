@@ -1,0 +1,154 @@
+{
+  "text": "καὶ λαβόντες αὐτὸν ἐξέβαλον ἔξω τοῦ ἀμπελῶνος καὶ ἀπέκτειναν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "λαβόντες",
+      "lemma": [
+        "G2983"
+      ],
+      "strongs": "G2983",
+      "morph": "robinson:V-2AAP-NPM",
+      "translation": "having taking",
+      "metadata": {},
+      "gematria": {
+        "standard": 658,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐξέβαλον",
+      "lemma": [
+        "G1544"
+      ],
+      "strongs": "G1544",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "they cast [him]",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἔξω",
+      "lemma": [
+        "G1854"
+      ],
+      "strongs": "G1854",
+      "morph": "robinson:PREP",
+      "translation": "out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 865,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀμπελῶνος",
+      "lemma": [
+        "G290"
+      ],
+      "strongs": "G290",
+      "morph": "robinson:N-GSM",
+      "translation": "vineyard",
+      "metadata": {},
+      "gematria": {
+        "standard": 1276,
+        "ordinal": 115,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀπέκτειναν.",
+      "lemma": [
+        "G615"
+      ],
+      "strongs": "G615",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "killed [him].",
+      "metadata": {},
+      "gematria": {
+        "standard": 522,
+        "ordinal": 92,
+        "reduced": 38
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5197,
+    "ordinal": 562,
+    "reduced": 202
+  }
+}

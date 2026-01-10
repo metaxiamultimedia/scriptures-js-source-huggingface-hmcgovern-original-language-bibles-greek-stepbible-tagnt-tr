@@ -1,0 +1,106 @@
+{
+  "text": "μὴ ἐλθὼν ἐξαίφνης εὕρῃ ὑμᾶς καθεύδοντας.",
+  "words": [
+    {
+      "position": 1,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "lest",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐλθὼν",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having come",
+      "metadata": {},
+      "gematria": {
+        "standard": 894,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐξαίφνης",
+      "lemma": [
+        "G1810"
+      ],
+      "strongs": "G1810",
+      "morph": "robinson:ADV",
+      "translation": "suddenly",
+      "metadata": {},
+      "gematria": {
+        "standard": 834,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 4,
+      "text": "εὕρῃ",
+      "lemma": [
+        "G2147"
+      ],
+      "strongs": "G2147",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "he may find",
+      "metadata": {},
+      "gematria": {
+        "standard": 523,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "καθεύδοντας.",
+      "lemma": [
+        "G2518"
+      ],
+      "strongs": "G2518",
+      "morph": "robinson:V-PAP-APM",
+      "translation": "sleeping.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1060,
+        "ordinal": 114,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4000,
+    "ordinal": 391,
+    "reduced": 166
+  }
+}

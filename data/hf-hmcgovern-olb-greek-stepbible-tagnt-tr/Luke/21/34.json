@@ -1,0 +1,362 @@
+{
+  "text": "Προσέχετε δὲ ἑαυτοῖς μήποτε ὑμῶν αἱ καρδίαι ἐν κραιπάλῃ καὶ μέθῃ καὶ μερίμναις βιωτικαῖς, καὶ ἐπιστῇ ἐφ᾽ ὑμᾶς αἰφνίδιος ἡ ἡμέρα ἐκείνη",
+  "words": [
+    {
+      "position": 1,
+      "text": "Προσέχετε",
+      "lemma": [
+        "G4337"
+      ],
+      "strongs": "G4337",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do take heed",
+      "metadata": {},
+      "gematria": {
+        "standard": 1365,
+        "ordinal": 122,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἑαυτοῖς",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-2DPM",
+      "translation": "to yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 986,
+        "ordinal": 87,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "μήποτε",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N + G4218=PRT",
+      "translation": "otherwise",
+      "metadata": {},
+      "gematria": {
+        "standard": 503,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὑμῶν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "αἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "καρδίαι",
+      "lemma": [
+        "G2588"
+      ],
+      "strongs": "G2588",
+      "morph": "robinson:N-NPF",
+      "translation": "hearts",
+      "metadata": {},
+      "gematria": {
+        "standard": 146,
+        "ordinal": 51,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "κραιπάλῃ",
+      "lemma": [
+        "G2897"
+      ],
+      "strongs": "G2897",
+      "morph": "robinson:N-DSF",
+      "translation": "dissipation",
+      "metadata": {},
+      "gematria": {
+        "standard": 260,
+        "ordinal": 81,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "μέθῃ",
+      "lemma": [
+        "G3178"
+      ],
+      "strongs": "G3178",
+      "morph": "robinson:N-DSF",
+      "translation": "drunkenness",
+      "metadata": {},
+      "gematria": {
+        "standard": 72,
+        "ordinal": 41,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "μερίμναις",
+      "lemma": [
+        "G3308"
+      ],
+      "strongs": "G3308",
+      "morph": "robinson:N-DPF",
+      "translation": "cares",
+      "metadata": {},
+      "gematria": {
+        "standard": 456,
+        "ordinal": 96,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 14,
+      "text": "βιωτικαῖς,",
+      "lemma": [
+        "G982"
+      ],
+      "strongs": "G982",
+      "morph": "robinson:A-DPF",
+      "translation": "of life —",
+      "metadata": {},
+      "gematria": {
+        "standard": 1353,
+        "ordinal": 101,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐπιστῇ",
+      "lemma": [
+        "G2186"
+      ],
+      "strongs": "G2186",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "may come",
+      "metadata": {},
+      "gematria": {
+        "standard": 613,
+        "ordinal": 83,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐφ᾽",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "upon",
+      "metadata": {},
+      "gematria": {
+        "standard": 505,
+        "ordinal": 26,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 18,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 19,
+      "text": "αἰφνίδιος",
+      "lemma": [
+        "G160"
+      ],
+      "strongs": "G160",
+      "morph": "robinson:A-NSF",
+      "translation": "suddenly",
+      "metadata": {},
+      "gematria": {
+        "standard": 855,
+        "ordinal": 99,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἡμέρα",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-NSF",
+      "translation": "day",
+      "metadata": {},
+      "gematria": {
+        "standard": 154,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἐκείνη",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-NSF",
+      "translation": "that [very]",
+      "metadata": {},
+      "gematria": {
+        "standard": 98,
+        "ordinal": 49,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9473,
+    "ordinal": 1176,
+    "reduced": 582
+  }
+}

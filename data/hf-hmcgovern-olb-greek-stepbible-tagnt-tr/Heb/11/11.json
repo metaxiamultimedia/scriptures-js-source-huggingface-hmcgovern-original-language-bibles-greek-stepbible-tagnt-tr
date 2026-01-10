@@ -1,0 +1,308 @@
+{
+  "text": "Πίστει καὶ αὐτὴ Σάρρα δύναμιν εἰς καταβολὴν σπέρματος ἔλαβεν καὶ παρὰ καιρὸν ἡλικίας ἔτεκεν, ἐπεὶ πιστὸν ἡγήσατο τὸν ἐπαγγειλάμενον.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Πίστει",
+      "lemma": null,
+      "morph": null,
+      "translation": "By faith",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 2,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτὴ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NSF",
+      "translation": "herself",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "Σάρρα",
+      "lemma": [
+        "G4564"
+      ],
+      "strongs": "G4564",
+      "morph": "robinson:N-NSF-P",
+      "translation": "Sarah",
+      "metadata": {},
+      "gematria": {
+        "standard": 402,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 5,
+      "text": "δύναμιν",
+      "lemma": [
+        "G1411"
+      ],
+      "strongs": "G1411",
+      "morph": "robinson:N-ASF",
+      "translation": "power",
+      "metadata": {},
+      "gematria": {
+        "standard": 555,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 6,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "καταβολὴν",
+      "lemma": [
+        "G2602"
+      ],
+      "strongs": "G2602",
+      "morph": "robinson:N-ASF",
+      "translation": "[the] conception",
+      "metadata": {},
+      "gematria": {
+        "standard": 482,
+        "ordinal": 79,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "σπέρματος",
+      "lemma": null,
+      "morph": null,
+      "translation": "of seed",
+      "metadata": {},
+      "gematria": {
+        "standard": 996,
+        "ordinal": 121,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἔλαβεν",
+      "lemma": [
+        "G2983"
+      ],
+      "strongs": "G2983",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "received",
+      "metadata": {},
+      "gematria": {
+        "standard": 93,
+        "ordinal": 37,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "even",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "παρὰ",
+      "lemma": [
+        "G3844"
+      ],
+      "strongs": "G3844",
+      "morph": "robinson:PREP",
+      "translation": "beyond",
+      "metadata": {},
+      "gematria": {
+        "standard": 182,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 12,
+      "text": "καιρὸν",
+      "lemma": [
+        "G2540"
+      ],
+      "strongs": "G2540",
+      "morph": "robinson:N-ASM",
+      "translation": "[the] opportune",
+      "metadata": {},
+      "gematria": {
+        "standard": 251,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἡλικίας",
+      "lemma": [
+        "G2244"
+      ],
+      "strongs": "G2244",
+      "morph": "robinson:N-GSF",
+      "translation": "age",
+      "metadata": {},
+      "gematria": {
+        "standard": 279,
+        "ordinal": 65,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἔτεκεν,",
+      "lemma": [
+        "G5088"
+      ],
+      "strongs": "G5088",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "she brought forth",
+      "metadata": {},
+      "gematria": {
+        "standard": 385,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐπεὶ",
+      "lemma": [
+        "G1893"
+      ],
+      "strongs": "G1893",
+      "morph": "robinson:CONJ",
+      "translation": "since",
+      "metadata": {},
+      "gematria": {
+        "standard": 100,
+        "ordinal": 35,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 16,
+      "text": "πιστὸν",
+      "lemma": [
+        "G4103"
+      ],
+      "strongs": "G4103",
+      "morph": "robinson:A-ASM",
+      "translation": "faithful",
+      "metadata": {},
+      "gematria": {
+        "standard": 710,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἡγήσατο",
+      "lemma": [
+        "G2233"
+      ],
+      "strongs": "G2233",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "she considered",
+      "metadata": {},
+      "gematria": {
+        "standard": 590,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 18,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the [One]",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐπαγγειλάμενον.",
+      "lemma": [
+        "G1861"
+      ],
+      "strongs": "G1861",
+      "morph": "robinson:V-ADP-ASM",
+      "translation": "having promised.",
+      "metadata": {},
+      "gematria": {
+        "standard": 353,
+        "ordinal": 112,
+        "reduced": 58
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7389,
+    "ordinal": 1134,
+    "reduced": 513
+  }
+}

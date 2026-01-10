@@ -1,0 +1,231 @@
+{
+  "text": "ἀπέχεσθαι εἰδωλοθύτων καὶ αἵματος καὶ καὶ πορνείας· ἐξ ὧν διατηροῦντες ἑαυτοὺς εὖ πράξετε. ἔρρωσθε.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀπέχεσθαι",
+      "lemma": [
+        "G568"
+      ],
+      "strongs": "G568",
+      "morph": "robinson:V-PMN",
+      "translation": "to abstain",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 85,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἰδωλοθύτων",
+      "lemma": [
+        "G1494"
+      ],
+      "strongs": "G1494",
+      "morph": "robinson:A-GPN",
+      "translation": "from idol-sacrifices",
+      "metadata": {},
+      "gematria": {
+        "standard": 2478,
+        "ordinal": 152,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "αἵματος",
+      "lemma": null,
+      "morph": null,
+      "translation": "from blood",
+      "metadata": {},
+      "gematria": {
+        "standard": 622,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "πορνείας·",
+      "lemma": [
+        "G4202"
+      ],
+      "strongs": "G4202",
+      "morph": "robinson:N-GSF",
+      "translation": "from sexual immorality;",
+      "metadata": {},
+      "gematria": {
+        "standard": 516,
+        "ordinal": 94,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐξ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "From",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὧν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-GPN",
+      "translation": "these",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "διατηροῦντες",
+      "lemma": [
+        "G1301"
+      ],
+      "strongs": "G1301",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "keeping",
+      "metadata": {},
+      "gematria": {
+        "standard": 1448,
+        "ordinal": 147,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἑαυτοὺς",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-2APM",
+      "translation": "yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 1376,
+        "ordinal": 98,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 12,
+      "text": "εὖ",
+      "lemma": [
+        "G2095"
+      ],
+      "strongs": "G2095",
+      "morph": "robinson:ADV",
+      "translation": "well",
+      "metadata": {},
+      "gematria": {
+        "standard": 405,
+        "ordinal": 25,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 13,
+      "text": "πράξετε.",
+      "lemma": [
+        "G4238"
+      ],
+      "strongs": "G4238",
+      "morph": "robinson:V-FAI-2P",
+      "translation": "you will do.",
+      "metadata": {},
+      "gematria": {
+        "standard": 551,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἔρρωσθε.",
+      "lemma": [
+        "G4517"
+      ],
+      "strongs": "G4517",
+      "morph": "robinson:V-RMM-2P",
+      "translation": "Farewell!",
+      "metadata": {},
+      "gematria": {
+        "standard": 1219,
+        "ordinal": 94,
+        "reduced": 49
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10534,
+    "ordinal": 963,
+    "reduced": 405
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "text": "Ἀκούσαντες δὲ οἱ ἀπόστολοι Βαρναβᾶς καὶ Παῦλος διαρρήξαντες τὰ ἱμάτια αὐτῶν εἰς τὸν ὄχλον κράζοντες",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἀκούσαντες",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "Having heard",
+      "metadata": {},
+      "gematria": {
+        "standard": 1247,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀπόστολοι",
+      "lemma": [
+        "G652"
+      ],
+      "strongs": "G652",
+      "morph": "robinson:N-NPM",
+      "translation": "apostles",
+      "metadata": {},
+      "gematria": {
+        "standard": 831,
+        "ordinal": 119,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 5,
+      "text": "Βαρναβᾶς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Barnabas",
+      "metadata": {},
+      "gematria": {
+        "standard": 357,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "Παῦλος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Paul",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 8,
+      "text": "διαρρήξαντες",
+      "lemma": [
+        "G1284"
+      ],
+      "strongs": "G1284",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "having torn",
+      "metadata": {},
+      "gematria": {
+        "standard": 839,
+        "ordinal": 125,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 9,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἱμάτια",
+      "lemma": [
+        "G2440"
+      ],
+      "strongs": "G2440",
+      "morph": "robinson:N-APN",
+      "translation": "garments",
+      "metadata": {},
+      "gematria": {
+        "standard": 362,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτῶν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "of them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 13,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὄχλον",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-ASM",
+      "translation": "crowd",
+      "metadata": {},
+      "gematria": {
+        "standard": 820,
+        "ordinal": 76,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 15,
+      "text": "κράζοντες",
+      "lemma": [
+        "G2896"
+      ],
+      "strongs": "G2896",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "crying out",
+      "metadata": {},
+      "gematria": {
+        "standard": 753,
+        "ordinal": 104,
+        "reduced": 41
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8597,
+    "ordinal": 960,
+    "reduced": 375
+  }
+}

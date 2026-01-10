@@ -1,0 +1,263 @@
+{
+  "text": "ὅς ἐστιν ἐν δεξιᾷ τοῦ θεοῦ πορευθεὶς εἰς οὐρανόν, ὑποταγέντων αὐτῷ ἀγγέλων καὶ ἐξουσιῶν καὶ δυνάμεων.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "at",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "δεξιᾷ",
+      "lemma": [
+        "G1188"
+      ],
+      "strongs": "G1188",
+      "morph": "robinson:A-DSF",
+      "translation": "[the] right hand",
+      "metadata": {},
+      "gematria": {
+        "standard": 90,
+        "ordinal": 42,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
+      "text": "πορευθεὶς",
+      "lemma": [
+        "G4198"
+      ],
+      "strongs": "G4198",
+      "morph": "robinson:V-AOP-NSM",
+      "translation": "having gone",
+      "metadata": {},
+      "gematria": {
+        "standard": 879,
+        "ordinal": 113,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 8,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "οὐρανόν,",
+      "lemma": [
+        "G3772"
+      ],
+      "strongs": "G3772",
+      "morph": "robinson:N-ASM",
+      "translation": "heaven,",
+      "metadata": {},
+      "gematria": {
+        "standard": 741,
+        "ordinal": 94,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὑποταγέντων",
+      "lemma": [
+        "G5293"
+      ],
+      "strongs": "G5293",
+      "morph": "robinson:V-2APP-GPM",
+      "translation": "when were being subjected",
+      "metadata": {},
+      "gematria": {
+        "standard": 2059,
+        "ordinal": 148,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀγγέλων",
+      "lemma": null,
+      "morph": null,
+      "translation": "angels",
+      "metadata": {},
+      "gematria": {
+        "standard": 892,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐξουσιῶν",
+      "lemma": [
+        "G1849"
+      ],
+      "strongs": "G1849",
+      "morph": "robinson:N-GPF",
+      "translation": "authorities",
+      "metadata": {},
+      "gematria": {
+        "standard": 1595,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "δυνάμεων.",
+      "lemma": [
+        "G1411"
+      ],
+      "strongs": "G1411",
+      "morph": "robinson:N-GPF",
+      "translation": "powers.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1350,
+        "ordinal": 92,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11538,
+    "ordinal": 1029,
+    "reduced": 408
+  }
+}

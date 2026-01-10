@@ -1,0 +1,500 @@
+{
+  "text": "Ἀσπάζονταί σε οἱ μετ᾽ ἐμοῦ πάντες. ἄσπασαι τοὺς φιλοῦντας ἡμᾶς ἐν πίστει. Ἡ χάρις μετὰ πάντων ὑμῶν ἀμήν. πρός Τίτον τῆς Κρητῶν ἐκκλησίας πρῶτον ἐπίσκοπον χειροτονηθέντα ἐγράφη ἀπό Νικοπόλεως τῆς Κρητῶν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἀσπάζονταί",
+      "lemma": [
+        "G782"
+      ],
+      "strongs": "G782",
+      "morph": "robinson:V-PNI-3P",
+      "translation": "Greet",
+      "metadata": {},
+      "gematria": {
+        "standard": 720,
+        "ordinal": 99,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 2,
+      "text": "σε",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AS",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 205,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "μετ᾽",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 345,
+        "ordinal": 36,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐμοῦ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:S-1SGSN",
+      "translation": "me",
+      "metadata": {},
+      "gematria": {
+        "standard": 515,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "πάντες.",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NPM",
+      "translation": "all.",
+      "metadata": {},
+      "gematria": {
+        "standard": 636,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἄσπασαι",
+      "lemma": [
+        "G782"
+      ],
+      "strongs": "G782",
+      "morph": "robinson:V-ADM-2S",
+      "translation": "do greet",
+      "metadata": {},
+      "gematria": {
+        "standard": 493,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "φιλοῦντας",
+      "lemma": [
+        "G5368"
+      ],
+      "strongs": "G5368",
+      "morph": "robinson:V-PAP-APM",
+      "translation": "loving",
+      "metadata": {},
+      "gematria": {
+        "standard": 1561,
+        "ordinal": 127,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἡμᾶς",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AP",
+      "translation": "us",
+      "metadata": {},
+      "gematria": {
+        "standard": 249,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "πίστει.",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] faith.",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 13,
+      "text": "Ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 14,
+      "text": "χάρις",
+      "lemma": [
+        "G5485"
+      ],
+      "strongs": "G5485",
+      "morph": "robinson:N-NSF",
+      "translation": "Grace [be]",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 15,
+      "text": "μετὰ",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "πάντων",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-GPM",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 1281,
+        "ordinal": 86,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὑμῶν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἀμήν.",
+      "lemma": [
+        "G281"
+      ],
+      "strongs": "G281",
+      "morph": "robinson:INJ-HEB",
+      "translation": "Amen.",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 19,
+      "text": "πρός",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 20,
+      "text": "Τίτον",
+      "lemma": [
+        "G5103"
+      ],
+      "strongs": "G5103",
+      "morph": "robinson:N-ASM-P",
+      "translation": "Titus",
+      "metadata": {},
+      "gematria": {
+        "standard": 730,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 21,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 22,
+      "text": "Κρητῶν",
+      "lemma": [
+        "G2912"
+      ],
+      "strongs": "G2912",
+      "morph": "robinson:N-GPM-LG",
+      "translation": "Cretan",
+      "metadata": {},
+      "gematria": {
+        "standard": 1278,
+        "ordinal": 90,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἐκκλησίας",
+      "lemma": [
+        "G1577"
+      ],
+      "strongs": "G1577",
+      "morph": "robinson:N-GSF",
+      "translation": "church",
+      "metadata": {},
+      "gematria": {
+        "standard": 494,
+        "ordinal": 89,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 24,
+      "text": "πρῶτον",
+      "lemma": null,
+      "morph": null,
+      "translation": "first",
+      "metadata": {},
+      "gematria": {
+        "standard": 1400,
+        "ordinal": 104,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἐπίσκοπον",
+      "lemma": [
+        "G1985"
+      ],
+      "strongs": "G1985",
+      "morph": "robinson:N-ASM",
+      "translation": "overseer",
+      "metadata": {},
+      "gematria": {
+        "standard": 585,
+        "ordinal": 117,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 26,
+      "text": "χειροτονηθέντα",
+      "lemma": [
+        "G5500"
+      ],
+      "strongs": "G5500",
+      "morph": "robinson:V-APP-ASM",
+      "translation": "having been chosen",
+      "metadata": {},
+      "gematria": {
+        "standard": 1578,
+        "ordinal": 168,
+        "reduced": 69
+      }
+    },
+    {
+      "position": 27,
+      "text": "ἐγράφη",
+      "lemma": [
+        "G1125"
+      ],
+      "strongs": "G1125",
+      "morph": "robinson:V-2API-3S",
+      "translation": "It was written",
+      "metadata": {},
+      "gematria": {
+        "standard": 617,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 28,
+      "text": "ἀπό",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 29,
+      "text": "Νικοπόλεως",
+      "lemma": [
+        "G3533"
+      ],
+      "strongs": "G3533",
+      "morph": "robinson:N-GSF-L",
+      "translation": "Nicopolis",
+      "metadata": {},
+      "gematria": {
+        "standard": 1335,
+        "ordinal": 136,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 30,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 31,
+      "text": "Κρητῶν.",
+      "lemma": [
+        "G3109"
+      ],
+      "strongs": "G3109",
+      "morph": "robinson:N-GSF-L",
+      "translation": "of Macedonia.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1278,
+        "ordinal": 90,
+        "reduced": 27
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 21281,
+    "ordinal": 2109,
+    "reduced": 822
+  }
+}

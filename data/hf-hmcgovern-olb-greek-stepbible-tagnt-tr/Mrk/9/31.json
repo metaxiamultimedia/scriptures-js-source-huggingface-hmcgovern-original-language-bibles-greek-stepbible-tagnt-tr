@@ -1,0 +1,388 @@
+{
+  "text": "ἐδίδασκεν γὰρ τοὺς μαθητὰς αὐτοῦ καὶ ἔλεγεν αὐτοῖς ὅτι ὁ υἱὸς τοῦ ἀνθρώπου παραδίδοται εἰς χεῖρας ἀνθρώπων, καὶ ἀποκτενοῦσιν αὐτόν, καὶ ἀποκτανθεὶς ἡμέρας ἀναστήσεται.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐδίδασκεν",
+      "lemma": [
+        "G1321"
+      ],
+      "strongs": "G1321",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "He was teaching",
+      "metadata": {},
+      "gematria": {
+        "standard": 299,
+        "ordinal": 69,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 2,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "μαθητὰς",
+      "lemma": [
+        "G3101"
+      ],
+      "strongs": "G3101",
+      "morph": "robinson:N-APM",
+      "translation": "disciples",
+      "metadata": {},
+      "gematria": {
+        "standard": 559,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἔλεγεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "He was saying",
+      "metadata": {},
+      "gematria": {
+        "standard": 98,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτοῖς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "υἱὸς",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-NSM-T",
+      "translation": "Son",
+      "metadata": {},
+      "gematria": {
+        "standard": 680,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 12,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἀνθρώπου",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of Man",
+      "metadata": {},
+      "gematria": {
+        "standard": 1510,
+        "ordinal": 114,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 14,
+      "text": "παραδίδοται",
+      "lemma": [
+        "G3860"
+      ],
+      "strongs": "G3860",
+      "morph": "robinson:V-PPI-3S",
+      "translation": "is delivered",
+      "metadata": {},
+      "gematria": {
+        "standard": 581,
+        "ordinal": 96,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 15,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into [the]",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "χεῖρας",
+      "lemma": [
+        "G5495"
+      ],
+      "strongs": "G5495",
+      "morph": "robinson:N-APF",
+      "translation": "hands",
+      "metadata": {},
+      "gematria": {
+        "standard": 916,
+        "ordinal": 72,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀνθρώπων,",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-GPM",
+      "translation": "of men,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1890,
+        "ordinal": 116,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἀποκτενοῦσιν",
+      "lemma": [
+        "G615"
+      ],
+      "strongs": "G615",
+      "morph": "robinson:V-FAI-3P",
+      "translation": "they will kill",
+      "metadata": {},
+      "gematria": {
+        "standard": 1256,
+        "ordinal": 154,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 20,
+      "text": "αὐτόν,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 21,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἀποκτανθεὶς",
+      "lemma": [
+        "G615"
+      ],
+      "strongs": "G615",
+      "morph": "robinson:V-APP-NSM",
+      "translation": "having been killed",
+      "metadata": {},
+      "gematria": {
+        "standard": 746,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἡμέρας",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-APF",
+      "translation": "day",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἀναστήσεται.",
+      "lemma": [
+        "G450"
+      ],
+      "strongs": "G450",
+      "morph": "robinson:V-FMI-3S",
+      "translation": "He will arise.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1076,
+        "ordinal": 111,
+        "reduced": 48
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15540,
+    "ordinal": 1599,
+    "reduced": 654
+  }
+}

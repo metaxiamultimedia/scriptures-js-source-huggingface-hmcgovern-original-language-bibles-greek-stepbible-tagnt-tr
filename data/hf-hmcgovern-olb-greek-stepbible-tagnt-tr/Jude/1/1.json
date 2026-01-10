@@ -1,0 +1,267 @@
+{
+  "text": "Ἰούδας Ἰησοῦ Χριστοῦ δοῦλος, ἀδελφὸς δὲ Ἰακώβου, τοῖς ἐν θεῷ πατρὶ ἠγαπημένοις καὶ Ἰησοῦ Χριστῷ τετηρημένοις κλητοῖς·",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἰούδας",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jude",
+      "metadata": {},
+      "gematria": {
+        "standard": 685,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 2,
+      "text": "Ἰησοῦ",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 3,
+      "text": "Χριστοῦ",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-GSM-T",
+      "translation": "Christ",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 4,
+      "text": "δοῦλος,",
+      "lemma": [
+        "G1401"
+      ],
+      "strongs": "G1401",
+      "morph": "robinson:N-NSM",
+      "translation": "servant,",
+      "metadata": {},
+      "gematria": {
+        "standard": 774,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀδελφὸς",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-NSM",
+      "translation": "brother",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ἰακώβου,",
+      "lemma": null,
+      "morph": null,
+      "translation": "of James,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1303,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "To those",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "θεῷ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-DSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 11,
+      "text": "πατρὶ",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-DSM-T",
+      "translation": "[the] Father",
+      "metadata": {},
+      "gematria": {
+        "standard": 491,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἠγαπημένοις",
+      "lemma": [
+        "G25"
+      ],
+      "strongs": "G25",
+      "morph": "robinson:V-RPP-DPM",
+      "translation": "loved",
+      "metadata": {},
+      "gematria": {
+        "standard": 475,
+        "ordinal": 106,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "Ἰησοῦ",
+      "lemma": null,
+      "morph": null,
+      "translation": "in Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 15,
+      "text": "Χριστῷ",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-DSM-T",
+      "translation": "Christ",
+      "metadata": {},
+      "gematria": {
+        "standard": 2020,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 16,
+      "text": "τετηρημένοις",
+      "lemma": null,
+      "morph": null,
+      "translation": "kept",
+      "metadata": {},
+      "gematria": {
+        "standard": 1096,
+        "ordinal": 146,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 17,
+      "text": "κλητοῖς·",
+      "lemma": [
+        "G2822"
+      ],
+      "strongs": "G2822",
+      "morph": "robinson:A-DPM",
+      "translation": "called;",
+      "metadata": {},
+      "gematria": {
+        "standard": 638,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12847,
+    "ordinal": 1239,
+    "reduced": 537
+  }
+}

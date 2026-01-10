@@ -1,0 +1,276 @@
+{
+  "text": "καὶ εἴ τις οὐχ εὑρέθη ἐν τῇ βίβλῳ τῆς ζωῆς γεγραμμένος, ἐβλήθη εἰς τὴν λίμνην τοῦ πυρός.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSM",
+      "translation": "anyone",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "οὐχ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 1070,
+        "ordinal": 57,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "εὑρέθη",
+      "lemma": [
+        "G2147"
+      ],
+      "strongs": "G2147",
+      "morph": "robinson:V-API-3S",
+      "translation": "was found",
+      "metadata": {},
+      "gematria": {
+        "standard": 527,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "βίβλῳ",
+      "lemma": [
+        "G976"
+      ],
+      "strongs": "G976",
+      "morph": "robinson:N-DSF",
+      "translation": "book",
+      "metadata": {},
+      "gematria": {
+        "standard": 854,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 9,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
+      "text": "ζωῆς",
+      "lemma": [
+        "G2222"
+      ],
+      "strongs": "G2222",
+      "morph": "robinson:N-GSF",
+      "translation": "of life",
+      "metadata": {},
+      "gematria": {
+        "standard": 1015,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 11,
+      "text": "γεγραμμένος,",
+      "lemma": [
+        "G1125"
+      ],
+      "strongs": "G1125",
+      "morph": "robinson:V-RPP-NSM",
+      "translation": "written,",
+      "metadata": {},
+      "gematria": {
+        "standard": 517,
+        "ordinal": 104,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐβλήθη",
+      "lemma": null,
+      "morph": null,
+      "translation": "he was cast",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 40,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 13,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 14,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 15,
+      "text": "λίμνην",
+      "lemma": [
+        "G3041"
+      ],
+      "strongs": "G3041",
+      "morph": "robinson:N-ASF",
+      "translation": "lake",
+      "metadata": {},
+      "gematria": {
+        "standard": 188,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 16,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 17,
+      "text": "πυρός.",
+      "lemma": [
+        "G4442"
+      ],
+      "strongs": "G4442",
+      "morph": "robinson:N-GSN",
+      "translation": "of fire.",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7863,
+    "ordinal": 828,
+    "reduced": 378
+  }
+}

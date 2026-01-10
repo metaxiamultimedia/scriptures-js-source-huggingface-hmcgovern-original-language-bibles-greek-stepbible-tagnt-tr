@@ -1,0 +1,404 @@
+{
+  "text": "Ἰδοὺ ἔρχεται μετὰ τῶν νεφελῶν, καὶ ὄψεται αὐτὸν πᾶς ὀφθαλμὸς καὶ οἵτινες αὐτὸν ἐξεκέντησαν· καὶ κόψονται ἐπ᾽ αὐτὸν πᾶσαι αἱ φυλαὶ τῆς γῆς, ναὶ ἀμήν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἰδοὺ",
+      "lemma": [
+        "G2400"
+      ],
+      "strongs": "G2400",
+      "morph": "robinson:INJ",
+      "translation": "Behold",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἔρχεται",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-PNI-3S",
+      "translation": "He is coming",
+      "metadata": {},
+      "gematria": {
+        "standard": 1021,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 3,
+      "text": "μετὰ",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "νεφελῶν,",
+      "lemma": [
+        "G3507"
+      ],
+      "strongs": "G3507",
+      "morph": "robinson:N-GPF",
+      "translation": "clouds,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1440,
+        "ordinal": 92,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὄψεται",
+      "lemma": null,
+      "morph": null,
+      "translation": "will behold",
+      "metadata": {},
+      "gematria": {
+        "standard": 1086,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "πᾶς",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NSM",
+      "translation": "every",
+      "metadata": {},
+      "gematria": {
+        "standard": 281,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὀφθαλμὸς",
+      "lemma": [
+        "G3788"
+      ],
+      "strongs": "G3788",
+      "morph": "robinson:N-NSM",
+      "translation": "eye",
+      "metadata": {},
+      "gematria": {
+        "standard": 920,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "οἵτινες",
+      "lemma": [
+        "G3748"
+      ],
+      "strongs": "G3748",
+      "morph": "robinson:R-NPM",
+      "translation": "those who",
+      "metadata": {},
+      "gematria": {
+        "standard": 645,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐξεκέντησαν·",
+      "lemma": [
+        "G1574"
+      ],
+      "strongs": "G1574",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "pierced;",
+      "metadata": {},
+      "gematria": {
+        "standard": 704,
+        "ordinal": 110,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "κόψονται",
+      "lemma": [
+        "G2875"
+      ],
+      "strongs": "G2875",
+      "morph": "robinson:V-FDI-3P",
+      "translation": "will wail",
+      "metadata": {},
+      "gematria": {
+        "standard": 1221,
+        "ordinal": 105,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐπ᾽",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "because of",
+      "metadata": {},
+      "gematria": {
+        "standard": 85,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 18,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 19,
+      "text": "πᾶσαι",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NPF",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 292,
+        "ordinal": 45,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 20,
+      "text": "αἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 21,
+      "text": "φυλαὶ",
+      "lemma": [
+        "G5443"
+      ],
+      "strongs": "G5443",
+      "morph": "robinson:N-NPF",
+      "translation": "tribes",
+      "metadata": {},
+      "gematria": {
+        "standard": 941,
+        "ordinal": 62,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 22,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 23,
+      "text": "γῆς,",
+      "lemma": null,
+      "morph": null,
+      "translation": "earth,",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 24,
+      "text": "ναὶ",
+      "lemma": [
+        "G3483"
+      ],
+      "strongs": "G3483",
+      "morph": "robinson:PRT",
+      "translation": "Yes",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἀμήν.",
+      "lemma": [
+        "G281"
+      ],
+      "strongs": "G281",
+      "morph": "robinson:INJ-HEB",
+      "translation": "Amen!",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14062,
+    "ordinal": 1352,
+    "reduced": 515
+  }
+}

@@ -1,0 +1,570 @@
+{
+  "text": "γόμον χρυσοῦ καὶ ἀργύρου καὶ λίθου τιμίου καὶ καὶ καὶ πορφύρας καὶ σιρικοῦ καὶ κοκκίνου καὶ πᾶν ξύλον θύϊνον καὶ πᾶν σκεῦος ἐλεφάντινον καὶ πᾶν σκεῦος ἐκ ξύλου τιμιωτάτου καὶ χαλκοῦ καὶ σιδήρου καὶ μαρμάρου",
+  "words": [
+    {
+      "position": 1,
+      "text": "γόμον",
+      "lemma": [
+        "G1117"
+      ],
+      "strongs": "G1117",
+      "morph": "robinson:N-ASM",
+      "translation": "cargo",
+      "metadata": {},
+      "gematria": {
+        "standard": 233,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 2,
+      "text": "χρυσοῦ",
+      "lemma": [
+        "G5557"
+      ],
+      "strongs": "G5557",
+      "morph": "robinson:N-GSM",
+      "translation": "of gold",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 112,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀργύρου",
+      "lemma": [
+        "G696"
+      ],
+      "strongs": "G696",
+      "morph": "robinson:N-GSM",
+      "translation": "of silver",
+      "metadata": {},
+      "gematria": {
+        "standard": 1074,
+        "ordinal": 93,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "λίθου",
+      "lemma": [
+        "G3037"
+      ],
+      "strongs": "G3037",
+      "morph": "robinson:N-GSM",
+      "translation": "of stone",
+      "metadata": {},
+      "gematria": {
+        "standard": 519,
+        "ordinal": 63,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "τιμίου",
+      "lemma": [
+        "G5093"
+      ],
+      "strongs": "G5093",
+      "morph": "robinson:A-GSM",
+      "translation": "precious",
+      "metadata": {},
+      "gematria": {
+        "standard": 830,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "πορφύρας",
+      "lemma": [
+        "G4209"
+      ],
+      "strongs": "G4209",
+      "morph": "robinson:N-GSF",
+      "translation": "of purple cloth",
+      "metadata": {},
+      "gematria": {
+        "standard": 1451,
+        "ordinal": 125,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "σιρικοῦ",
+      "lemma": [
+        "G4596"
+      ],
+      "strongs": "G4596",
+      "morph": "robinson:A-GSN",
+      "translation": "of silk",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 98,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "κοκκίνου",
+      "lemma": [
+        "G2847"
+      ],
+      "strongs": "G2847",
+      "morph": "robinson:A-GSN",
+      "translation": "of scarlet",
+      "metadata": {},
+      "gematria": {
+        "standard": 660,
+        "ordinal": 102,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "πᾶν",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-ASN",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 131,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 18,
+      "text": "ξύλον",
+      "lemma": [
+        "G3586"
+      ],
+      "strongs": "G3586",
+      "morph": "robinson:N-ASN",
+      "translation": "wood",
+      "metadata": {},
+      "gematria": {
+        "standard": 610,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 19,
+      "text": "θύϊνον",
+      "lemma": [
+        "G2367"
+      ],
+      "strongs": "G2367",
+      "morph": "robinson:A-ASN",
+      "translation": "citron",
+      "metadata": {},
+      "gematria": {
+        "standard": 589,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 20,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "πᾶν",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-ASN",
+      "translation": "every",
+      "metadata": {},
+      "gematria": {
+        "standard": 131,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 22,
+      "text": "σκεῦος",
+      "lemma": [
+        "G4632"
+      ],
+      "strongs": "G4632",
+      "morph": "robinson:N-ASN",
+      "translation": "article",
+      "metadata": {},
+      "gematria": {
+        "standard": 895,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἐλεφάντινον",
+      "lemma": [
+        "G1661"
+      ],
+      "strongs": "G1661",
+      "morph": "robinson:A-ASN",
+      "translation": "of ivory",
+      "metadata": {},
+      "gematria": {
+        "standard": 1071,
+        "ordinal": 125,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 24,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 25,
+      "text": "πᾶν",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-ASN",
+      "translation": "every",
+      "metadata": {},
+      "gematria": {
+        "standard": 131,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 26,
+      "text": "σκεῦος",
+      "lemma": [
+        "G4632"
+      ],
+      "strongs": "G4632",
+      "morph": "robinson:N-ASN",
+      "translation": "article",
+      "metadata": {},
+      "gematria": {
+        "standard": 895,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 27,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 28,
+      "text": "ξύλου",
+      "lemma": [
+        "G3586"
+      ],
+      "strongs": "G3586",
+      "morph": "robinson:N-GSN",
+      "translation": "wood",
+      "metadata": {},
+      "gematria": {
+        "standard": 960,
+        "ordinal": 80,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 29,
+      "text": "τιμιωτάτου",
+      "lemma": [
+        "G5093"
+      ],
+      "strongs": "G5093",
+      "morph": "robinson:A-GSN",
+      "translation": "most precious",
+      "metadata": {},
+      "gematria": {
+        "standard": 2231,
+        "ordinal": 147,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 30,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 31,
+      "text": "χαλκοῦ",
+      "lemma": [
+        "G5475"
+      ],
+      "strongs": "G5475",
+      "morph": "robinson:N-GSM",
+      "translation": "of bronze",
+      "metadata": {},
+      "gematria": {
+        "standard": 1121,
+        "ordinal": 79,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 32,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 33,
+      "text": "σιδήρου",
+      "lemma": [
+        "G4604"
+      ],
+      "strongs": "G4604",
+      "morph": "robinson:N-GSM",
+      "translation": "of iron",
+      "metadata": {},
+      "gematria": {
+        "standard": 792,
+        "ordinal": 90,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 34,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 35,
+      "text": "μαρμάρου",
+      "lemma": [
+        "G3139"
+      ],
+      "strongs": "G3139",
+      "morph": "robinson:N-GSM",
+      "translation": "of marble",
+      "metadata": {},
+      "gematria": {
+        "standard": 752,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 18084,
+    "ordinal": 2039,
+    "reduced": 752
+  }
+}

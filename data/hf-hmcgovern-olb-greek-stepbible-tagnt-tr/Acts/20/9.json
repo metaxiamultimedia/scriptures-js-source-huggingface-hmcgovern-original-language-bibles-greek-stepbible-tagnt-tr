@@ -1,0 +1,455 @@
+{
+  "text": "δέ τις νεανίας ὀνόματι Εὔτυχος ἐπὶ τῆς θυρίδος, καταφερόμενος ὕπνῳ βαθεῖ, διαλεγομένου τοῦ Παύλου ἐπὶ πλεῖον, κατενεχθεὶς ἀπὸ τοῦ ὕπνου ἔπεσεν ἀπὸ τοῦ τριστέγου κάτω καὶ ἤρθη νεκρός.",
+  "words": [
+    {
+      "position": 1,
+      "text": "δέ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSM",
+      "translation": "a certain",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "νεανίας",
+      "lemma": [
+        "G3494"
+      ],
+      "strongs": "G3494",
+      "morph": "robinson:N-NSM",
+      "translation": "young man",
+      "metadata": {},
+      "gematria": {
+        "standard": 317,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὀνόματι",
+      "lemma": [
+        "G3686"
+      ],
+      "strongs": "G3686",
+      "morph": "robinson:N-DSN",
+      "translation": "named",
+      "metadata": {},
+      "gematria": {
+        "standard": 541,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "Εὔτυχος",
+      "lemma": [
+        "G2161"
+      ],
+      "strongs": "G2161",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Eutychus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1975,
+        "ordinal": 119,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "θυρίδος,",
+      "lemma": [
+        "G2376"
+      ],
+      "strongs": "G2376",
+      "morph": "robinson:N-GSF",
+      "translation": "window,",
+      "metadata": {},
+      "gematria": {
+        "standard": 793,
+        "ordinal": 91,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 9,
+      "text": "καταφερόμενος",
+      "lemma": [
+        "G2702"
+      ],
+      "strongs": "G2702",
+      "morph": "robinson:V-PPP-NSM",
+      "translation": "overpowered",
+      "metadata": {},
+      "gematria": {
+        "standard": 1362,
+        "ordinal": 152,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὕπνῳ",
+      "lemma": [
+        "G5258"
+      ],
+      "strongs": "G5258",
+      "morph": "robinson:N-DSM",
+      "translation": "by sleep",
+      "metadata": {},
+      "gematria": {
+        "standard": 1340,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 11,
+      "text": "βαθεῖ,",
+      "lemma": [
+        "G901"
+      ],
+      "strongs": "G901",
+      "morph": "robinson:A-DSM",
+      "translation": "deep",
+      "metadata": {},
+      "gematria": {
+        "standard": 27,
+        "ordinal": 25,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 12,
+      "text": "διαλεγομένου",
+      "lemma": [
+        "G1256"
+      ],
+      "strongs": "G1256",
+      "morph": "robinson:V-PNP-GSM",
+      "translation": "as is talking",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 113,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "Παύλου",
+      "lemma": null,
+      "morph": null,
+      "translation": "Paul",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 83,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "on",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 16,
+      "text": "πλεῖον,",
+      "lemma": [
+        "G4119"
+      ],
+      "strongs": "G4119",
+      "morph": "robinson:A-ASN-C",
+      "translation": "longer,",
+      "metadata": {},
+      "gematria": {
+        "standard": 245,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 17,
+      "text": "κατενεχθεὶς",
+      "lemma": [
+        "G2702"
+      ],
+      "strongs": "G2702",
+      "morph": "robinson:V-APP-NSM",
+      "translation": "having been overpowered",
+      "metadata": {},
+      "gematria": {
+        "standard": 1205,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 19,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 20,
+      "text": "ὕπνου",
+      "lemma": [
+        "G5258"
+      ],
+      "strongs": "G5258",
+      "morph": "robinson:N-GSM",
+      "translation": "sleep",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 84,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἔπεσεν",
+      "lemma": [
+        "G4098"
+      ],
+      "strongs": "G4098",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "he fell",
+      "metadata": {},
+      "gematria": {
+        "standard": 345,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 23,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 24,
+      "text": "τριστέγου",
+      "lemma": [
+        "G5152"
+      ],
+      "strongs": "G5152",
+      "morph": "robinson:N-GSN",
+      "translation": "third story",
+      "metadata": {},
+      "gematria": {
+        "standard": 1388,
+        "ordinal": 125,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 25,
+      "text": "κάτω",
+      "lemma": [
+        "G2736"
+      ],
+      "strongs": "G2736",
+      "morph": "robinson:PREP",
+      "translation": "down",
+      "metadata": {},
+      "gematria": {
+        "standard": 1121,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 26,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 27,
+      "text": "ἤρθη",
+      "lemma": [
+        "G142"
+      ],
+      "strongs": "G142",
+      "morph": "robinson:V-API-3S",
+      "translation": "was picked up",
+      "metadata": {},
+      "gematria": {
+        "standard": 125,
+        "ordinal": 39,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 28,
+      "text": "νεκρός.",
+      "lemma": [
+        "G3498"
+      ],
+      "strongs": "G3498",
+      "morph": "robinson:A-NSM",
+      "translation": "dead.",
+      "metadata": {},
+      "gematria": {
+        "standard": 445,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 17758,
+    "ordinal": 1840,
+    "reduced": 724
+  }
+}

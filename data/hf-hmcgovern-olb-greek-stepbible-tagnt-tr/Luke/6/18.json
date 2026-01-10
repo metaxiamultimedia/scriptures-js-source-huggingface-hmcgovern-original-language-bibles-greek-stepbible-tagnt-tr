@@ -1,0 +1,87 @@
+{
+  "text": "καὶ οἱ πνευμάτων ἀκαθάρτων ἐθεραπεύοντο.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "[18] And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "πνευμάτων",
+      "lemma": null,
+      "morph": null,
+      "translation": "spirits",
+      "metadata": {},
+      "gematria": {
+        "standard": 1726,
+        "ordinal": 123,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀκαθάρτων",
+      "lemma": [
+        "G169"
+      ],
+      "strongs": "G169",
+      "morph": "robinson:A-GPN",
+      "translation": "unclean",
+      "metadata": {},
+      "gematria": {
+        "standard": 1282,
+        "ordinal": 94,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐθεραπεύοντο.",
+      "lemma": [
+        "G2323"
+      ],
+      "strongs": "G2323",
+      "morph": "robinson:V-IPI-3P",
+      "translation": "were healed.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1095,
+        "ordinal": 139,
+        "reduced": 58
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4214,
+    "ordinal": 400,
+    "reduced": 148
+  }
+}

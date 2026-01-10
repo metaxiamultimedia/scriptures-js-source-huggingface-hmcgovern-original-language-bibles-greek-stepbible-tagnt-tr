@@ -1,0 +1,151 @@
+{
+  "text": "Καὶ εὐθὺς τὸ πνεῦμα αὐτὸν ἐκβάλλει εἰς τὴν ἔρημον.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "εὐθὺς",
+      "lemma": [
+        "G2112"
+      ],
+      "strongs": "G2112",
+      "morph": "robinson:ADV",
+      "translation": "immediately",
+      "metadata": {},
+      "gematria": {
+        "standard": 1014,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "πνεῦμα",
+      "lemma": null,
+      "morph": null,
+      "translation": "Spirit",
+      "metadata": {},
+      "gematria": {
+        "standard": 576,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐκβάλλει",
+      "lemma": [
+        "G1544"
+      ],
+      "strongs": "G1544",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "drives out",
+      "metadata": {},
+      "gematria": {
+        "standard": 103,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἔρημον.",
+      "lemma": [
+        "G2048"
+      ],
+      "strongs": "G2048",
+      "morph": "robinson:A-ASF",
+      "translation": "wilderness.",
+      "metadata": {},
+      "gematria": {
+        "standard": 273,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3761,
+    "ordinal": 454,
+    "reduced": 175
+  }
+}

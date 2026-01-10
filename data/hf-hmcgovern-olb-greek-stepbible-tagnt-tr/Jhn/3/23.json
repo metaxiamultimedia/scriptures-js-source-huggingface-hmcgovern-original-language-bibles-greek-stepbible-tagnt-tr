@@ -1,0 +1,308 @@
+{
+  "text": "ἦν δὲ καὶ Ἰωάννης βαπτίζων ἐν Αἰνὼν ἐγγὺς τοῦ Σαλείμ, ὅτι ὕδατα πολλὰ ἦν ἐκεῖ. καὶ παρεγίνοντο καὶ ἐβαπτίζοντο·",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "Was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἰωάννης",
+      "lemma": null,
+      "morph": null,
+      "translation": "John",
+      "metadata": {},
+      "gematria": {
+        "standard": 1119,
+        "ordinal": 85,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "βαπτίζων",
+      "lemma": [
+        "G907"
+      ],
+      "strongs": "G907",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "baptizing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1250,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "Αἰνὼν",
+      "lemma": [
+        "G137"
+      ],
+      "strongs": "G137",
+      "morph": "robinson:N-DSF-L",
+      "translation": "Aenon",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐγγὺς",
+      "lemma": [
+        "G1451"
+      ],
+      "strongs": "G1451",
+      "morph": "robinson:PREP",
+      "translation": "near",
+      "metadata": {},
+      "gematria": {
+        "standard": 611,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 9,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "Σαλείμ,",
+      "lemma": [
+        "G4530"
+      ],
+      "strongs": "G4530",
+      "morph": "robinson:N-GSN-L",
+      "translation": "Salim,",
+      "metadata": {},
+      "gematria": {
+        "standard": 286,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "because",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὕδατα",
+      "lemma": [
+        "G5204"
+      ],
+      "strongs": "G5204",
+      "morph": "robinson:N-NPN",
+      "translation": "waters",
+      "metadata": {},
+      "gematria": {
+        "standard": 706,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "πολλὰ",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-NPN",
+      "translation": "many",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "were",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐκεῖ.",
+      "lemma": [
+        "G1563"
+      ],
+      "strongs": "G1563",
+      "morph": "robinson:ADV",
+      "translation": "there.",
+      "metadata": {},
+      "gematria": {
+        "standard": 40,
+        "ordinal": 29,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "παρεγίνοντο",
+      "lemma": [
+        "G3854"
+      ],
+      "strongs": "G3854",
+      "morph": "robinson:V-IDI-3P",
+      "translation": "they were coming",
+      "metadata": {},
+      "gematria": {
+        "standard": 739,
+        "ordinal": 126,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐβαπτίζοντο·",
+      "lemma": [
+        "G907"
+      ],
+      "strongs": "G907",
+      "morph": "robinson:V-IPI-3P",
+      "translation": "were being baptized;",
+      "metadata": {},
+      "gematria": {
+        "standard": 895,
+        "ordinal": 120,
+        "reduced": 48
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8191,
+    "ordinal": 938,
+    "reduced": 398
+  }
+}

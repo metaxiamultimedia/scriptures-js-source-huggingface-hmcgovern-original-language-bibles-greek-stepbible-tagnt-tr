@@ -1,0 +1,148 @@
+{
+  "text": "ὁ δὲ ἠρνήσατο αὐτόν λέγων· οὐκ οἶδα αὐτόν, γύναι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "But",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἠρνήσατο",
+      "lemma": [
+        "G720"
+      ],
+      "strongs": "G720",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "he denied",
+      "metadata": {},
+      "gematria": {
+        "standard": 737,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 4,
+      "text": "αὐτόν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "λέγων·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "Not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "οἶδα",
+      "lemma": [
+        "G6063"
+      ],
+      "strongs": "G6063",
+      "morph": "robinson:V-RAI-1S",
+      "translation": "I do know",
+      "metadata": {},
+      "gematria": {
+        "standard": 85,
+        "ordinal": 29,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτόν,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "γύναι.",
+      "lemma": null,
+      "morph": null,
+      "translation": "woman.",
+      "metadata": {},
+      "gematria": {
+        "standard": 464,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4385,
+    "ordinal": 433,
+    "reduced": 154
+  }
+}

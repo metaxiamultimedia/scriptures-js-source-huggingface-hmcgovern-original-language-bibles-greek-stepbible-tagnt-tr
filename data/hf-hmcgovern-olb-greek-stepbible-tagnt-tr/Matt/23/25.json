@@ -1,0 +1,359 @@
+{
+  "text": "Οὐαὶ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι ὑποκριταί, ὅτι καθαρίζετε τὸ ἔξωθεν τοῦ ποτηρίου καὶ τῆς παροψίδος, ἔσωθεν δὲ γέμουσιν ἐξ ἁρπαγῆς καὶ ἀκρασίας.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Οὐαὶ",
+      "lemma": [
+        "G3759"
+      ],
+      "strongs": "G3759",
+      "morph": "robinson:INJ",
+      "translation": "Woe",
+      "metadata": {},
+      "gematria": {
+        "standard": 481,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὑμῖν,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "γραμματεῖς",
+      "lemma": [
+        "G1122"
+      ],
+      "strongs": "G1122",
+      "morph": "robinson:N-VPM",
+      "translation": "scribes",
+      "metadata": {},
+      "gematria": {
+        "standard": 700,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "Φαρισαῖοι",
+      "lemma": [
+        "G5330"
+      ],
+      "strongs": "G5330",
+      "morph": "robinson:N-VPM-T",
+      "translation": "Pharisees",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 100,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑποκριταί,",
+      "lemma": [
+        "G5273"
+      ],
+      "strongs": "G5273",
+      "morph": "robinson:N-VPM",
+      "translation": "hypocrites!",
+      "metadata": {},
+      "gematria": {
+        "standard": 991,
+        "ordinal": 116,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "For",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "καθαρίζετε",
+      "lemma": [
+        "G2511"
+      ],
+      "strongs": "G2511",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "you cleanse",
+      "metadata": {},
+      "gematria": {
+        "standard": 458,
+        "ordinal": 81,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 9,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἔξωθεν",
+      "lemma": [
+        "G1855"
+      ],
+      "strongs": "G1855",
+      "morph": "robinson:PREP",
+      "translation": "outside",
+      "metadata": {},
+      "gematria": {
+        "standard": 929,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "ποτηρίου",
+      "lemma": [
+        "G4221"
+      ],
+      "strongs": "G4221",
+      "morph": "robinson:N-GSN",
+      "translation": "cup",
+      "metadata": {},
+      "gematria": {
+        "standard": 1038,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 15,
+      "text": "παροψίδος,",
+      "lemma": [
+        "G3953"
+      ],
+      "strongs": "G3953",
+      "morph": "robinson:N-GSF",
+      "translation": "dish,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1235,
+        "ordinal": 118,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἔσωθεν",
+      "lemma": [
+        "G2081"
+      ],
+      "strongs": "G2081",
+      "morph": "robinson:ADV",
+      "translation": "inwardly",
+      "metadata": {},
+      "gematria": {
+        "standard": 1069,
+        "ordinal": 73,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 17,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "γέμουσιν",
+      "lemma": [
+        "G1073"
+      ],
+      "strongs": "G1073",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "they are full",
+      "metadata": {},
+      "gematria": {
+        "standard": 778,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐξ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἁρπαγῆς",
+      "lemma": [
+        "G724"
+      ],
+      "strongs": "G724",
+      "morph": "robinson:N-GSF",
+      "translation": "greed",
+      "metadata": {},
+      "gematria": {
+        "standard": 393,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 21,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἀκρασίας.",
+      "lemma": [
+        "G192"
+      ],
+      "strongs": "G192",
+      "morph": "robinson:N-GSF",
+      "translation": "self-indulgence.",
+      "metadata": {},
+      "gematria": {
+        "standard": 533,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12202,
+    "ordinal": 1367,
+    "reduced": 611
+  }
+}

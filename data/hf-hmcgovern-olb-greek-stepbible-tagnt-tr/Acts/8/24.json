@@ -1,0 +1,308 @@
+{
+  "text": "ἀποκριθεὶς δὲ ὁ Σίμων εἶπεν· δεήθητε ὑμεῖς ὑπὲρ ἐμοῦ πρὸς τὸν κύριον, ὅπως μηδὲν ἐπέλθῃ ἐπ᾽ ἐμὲ ὧν εἰρήκατε.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀποκριθεὶς",
+      "lemma": [
+        "G611"
+      ],
+      "strongs": "G611",
+      "morph": "robinson:V-AOP-NSM",
+      "translation": "Answering",
+      "metadata": {},
+      "gematria": {
+        "standard": 505,
+        "ordinal": 108,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "Σίμων",
+      "lemma": null,
+      "morph": null,
+      "translation": "Simon",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 76,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἶπεν·",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "said;",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "δεήθητε",
+      "lemma": [
+        "G1189"
+      ],
+      "strongs": "G1189",
+      "morph": "robinson:V-AOM-2P",
+      "translation": "do pray earnestly",
+      "metadata": {},
+      "gematria": {
+        "standard": 339,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὑμεῖς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NP",
+      "translation": "you yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὑπὲρ",
+      "lemma": [
+        "G5228"
+      ],
+      "strongs": "G5228",
+      "morph": "robinson:PREP",
+      "translation": "on behalf",
+      "metadata": {},
+      "gematria": {
+        "standard": 585,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐμοῦ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:S-1SGSN",
+      "translation": "of me",
+      "metadata": {},
+      "gematria": {
+        "standard": 515,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "κύριον,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lord,",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὅπως",
+      "lemma": [
+        "G3704"
+      ],
+      "strongs": "G3704",
+      "morph": "robinson:CONJ",
+      "translation": "so that",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 14,
+      "text": "μηδὲν",
+      "lemma": [
+        "G3367"
+      ],
+      "strongs": "G3367",
+      "morph": "robinson:A-NSN",
+      "translation": "nothing",
+      "metadata": {},
+      "gematria": {
+        "standard": 107,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐπέλθῃ",
+      "lemma": [
+        "G1904"
+      ],
+      "strongs": "G1904",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "may come",
+      "metadata": {},
+      "gematria": {
+        "standard": 147,
+        "ordinal": 61,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐπ᾽",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "upon",
+      "metadata": {},
+      "gematria": {
+        "standard": 85,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐμὲ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1AS",
+      "translation": "me myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 50,
+        "ordinal": 22,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 18,
+      "text": "ὧν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-GPN",
+      "translation": "of which",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 19,
+      "text": "εἰρήκατε.",
+      "lemma": [
+        "G2046"
+      ],
+      "strongs": "G2046",
+      "morph": "robinson:V-RAI-2P",
+      "translation": "you have spoken.",
+      "metadata": {},
+      "gematria": {
+        "standard": 449,
+        "ordinal": 73,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8286,
+    "ordinal": 1010,
+    "reduced": 479
+  }
+}

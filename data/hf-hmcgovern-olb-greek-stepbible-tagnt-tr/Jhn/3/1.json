@@ -1,0 +1,202 @@
+{
+  "text": "Ἦν δὲ ἄνθρωπος ἐκ τῶν Φαρισαίων, Νικόδημος ὄνομα αὐτῷ, ἄρχων τῶν Ἰουδαίων.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "There was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἄνθρωπος",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-NSM",
+      "translation": "a man",
+      "metadata": {},
+      "gematria": {
+        "standard": 1310,
+        "ordinal": 112,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "Φαρισαίων,",
+      "lemma": [
+        "G5330"
+      ],
+      "strongs": "G5330",
+      "morph": "robinson:N-GPM-T",
+      "translation": "Pharisees,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1672,
+        "ordinal": 113,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 7,
+      "text": "Νικόδημος",
+      "lemma": [
+        "G3530"
+      ],
+      "strongs": "G3530",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Nicodemus",
+      "metadata": {},
+      "gematria": {
+        "standard": 472,
+        "ordinal": 103,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὄνομα",
+      "lemma": [
+        "G3686"
+      ],
+      "strongs": "G3686",
+      "morph": "robinson:N-NSN",
+      "translation": "name",
+      "metadata": {},
+      "gematria": {
+        "standard": 231,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 9,
+      "text": "αὐτῷ,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἄρχων",
+      "lemma": [
+        "G758"
+      ],
+      "strongs": "G758",
+      "morph": "robinson:N-NSM",
+      "translation": "a ruler",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "Ἰουδαίων.",
+      "lemma": [
+        "G2453"
+      ],
+      "strongs": "G2453",
+      "morph": "robinson:N-GPM-PG",
+      "translation": "Jews.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1345,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10484,
+    "ordinal": 785,
+    "reduced": 299
+  }
+}

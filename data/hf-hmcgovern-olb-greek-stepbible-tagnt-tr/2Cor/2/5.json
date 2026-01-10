@@ -1,0 +1,247 @@
+{
+  "text": "Εἰ δέ τις λελύπηκεν, οὐκ ἐμὲ λελύπηκεν ἀλλ᾽ ἀπὸ μέρους, ἵνα μὴ ἐπιβαρῶ, πάντας ὑμᾶς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δέ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSM",
+      "translation": "anyone",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "λελύπηκεν,",
+      "lemma": [
+        "G3076"
+      ],
+      "strongs": "G3076",
+      "morph": "robinson:V-RAI-3S",
+      "translation": "has caused grief,",
+      "metadata": {},
+      "gematria": {
+        "standard": 628,
+        "ordinal": 98,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐμὲ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1AS",
+      "translation": "me myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 50,
+        "ordinal": 22,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "λελύπηκεν",
+      "lemma": [
+        "G3076"
+      ],
+      "strongs": "G3076",
+      "morph": "robinson:V-RAI-3S",
+      "translation": "has he grieved",
+      "metadata": {},
+      "gematria": {
+        "standard": 628,
+        "ordinal": 98,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "μέρους,",
+      "lemma": [
+        "G3313"
+      ],
+      "strongs": "G3313",
+      "morph": "robinson:N-GSN",
+      "translation": "part —",
+      "metadata": {},
+      "gematria": {
+        "standard": 815,
+        "ordinal": 87,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐπιβαρῶ,",
+      "lemma": [
+        "G1912"
+      ],
+      "strongs": "G1912",
+      "morph": "robinson:V-PAS-1S",
+      "translation": "I may burden",
+      "metadata": {},
+      "gematria": {
+        "standard": 998,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 14,
+      "text": "πάντας",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-APM",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 632,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὑμᾶς.",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you.",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5737,
+    "ordinal": 709,
+    "reduced": 286
+  }
+}

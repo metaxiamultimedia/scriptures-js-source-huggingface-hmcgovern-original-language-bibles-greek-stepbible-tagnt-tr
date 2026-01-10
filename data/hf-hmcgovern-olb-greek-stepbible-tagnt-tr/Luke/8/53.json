@@ -1,0 +1,103 @@
+{
+  "text": "καὶ κατεγέλων αὐτοῦ, εἰδότες ὅτι ἀπέθανεν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "κατεγέλων",
+      "lemma": [
+        "G2606"
+      ],
+      "strongs": "G2606",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "they were laughing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1214,
+        "ordinal": 91,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτοῦ,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "at Him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἰδότες",
+      "lemma": [
+        "G6063"
+      ],
+      "strongs": "G6063",
+      "morph": "robinson:V-RAP-NPM",
+      "translation": "knowing",
+      "metadata": {},
+      "gematria": {
+        "standard": 594,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀπέθανεν.",
+      "lemma": [
+        "G599"
+      ],
+      "strongs": "G599",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "she was dead.",
+      "metadata": {},
+      "gematria": {
+        "standard": 201,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3591,
+    "ordinal": 366,
+    "reduced": 141
+  }
+}

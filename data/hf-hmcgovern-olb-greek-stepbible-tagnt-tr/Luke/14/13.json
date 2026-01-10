@@ -1,0 +1,148 @@
+{
+  "text": "ἀλλ᾽ ὅταν δοχὴν ποιῇς, κάλει πτωχούς, ἀναπείρους, χωλούς, τυφλούς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "But",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὅταν",
+      "lemma": [
+        "G3752"
+      ],
+      "strongs": "G3752",
+      "morph": "robinson:CONJ",
+      "translation": "when",
+      "metadata": {},
+      "gematria": {
+        "standard": 421,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "δοχὴν",
+      "lemma": [
+        "G1403"
+      ],
+      "strongs": "G1403",
+      "morph": "robinson:N-ASF",
+      "translation": "a feast",
+      "metadata": {},
+      "gematria": {
+        "standard": 732,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
+      "text": "ποιῇς,",
+      "lemma": null,
+      "morph": null,
+      "translation": "you may make",
+      "metadata": {},
+      "gematria": {
+        "standard": 378,
+        "ordinal": 74,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 5,
+      "text": "κάλει",
+      "lemma": null,
+      "morph": null,
+      "translation": "do call",
+      "metadata": {},
+      "gematria": {
+        "standard": 66,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "πτωχούς,",
+      "lemma": [
+        "G4434"
+      ],
+      "strongs": "G4434",
+      "morph": "robinson:N-APM",
+      "translation": "[the] poor,",
+      "metadata": {},
+      "gematria": {
+        "standard": 2450,
+        "ordinal": 134,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀναπείρους,",
+      "lemma": [
+        "G376"
+      ],
+      "strongs": "G376",
+      "morph": "robinson:A-APM",
+      "translation": "[the] crippled,",
+      "metadata": {},
+      "gematria": {
+        "standard": 917,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 8,
+      "text": "χωλούς,",
+      "lemma": [
+        "G5560"
+      ],
+      "strongs": "G5560",
+      "morph": "robinson:A-APM",
+      "translation": "[the] lame,",
+      "metadata": {},
+      "gematria": {
+        "standard": 2100,
+        "ordinal": 110,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 9,
+      "text": "τυφλούς.",
+      "lemma": [
+        "G5185"
+      ],
+      "strongs": "G5185",
+      "morph": "robinson:A-APM",
+      "translation": "[the] blind.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1900,
+        "ordinal": 124,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9025,
+    "ordinal": 725,
+    "reduced": 248
+  }
+}

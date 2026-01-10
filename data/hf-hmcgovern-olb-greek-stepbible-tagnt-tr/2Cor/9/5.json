@@ -1,0 +1,410 @@
+{
+  "text": "ἀναγκαῖον οὖν ἡγησάμην παρακαλέσαι τοὺς ἀδελφούς, ἵνα προέλθωσιν εἰς ὑμᾶς καὶ προκαταρτίσωσιν τὴν προεπηγγελμένην εὐλογίαν ὑμῶν ταύτην ἑτοίμην εἶναι, οὕτως ὡς εὐλογίαν καὶ μὴ πλεονεξίαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀναγκαῖον",
+      "lemma": [
+        "G316"
+      ],
+      "strongs": "G316",
+      "morph": "robinson:A-NSN",
+      "translation": "Necessary",
+      "metadata": {},
+      "gematria": {
+        "standard": 206,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἡγησάμην",
+      "lemma": [
+        "G2233"
+      ],
+      "strongs": "G2233",
+      "morph": "robinson:V-ADI-1S",
+      "translation": "I esteemed [it]",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 68,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 4,
+      "text": "παρακαλέσαι",
+      "lemma": [
+        "G3870"
+      ],
+      "strongs": "G3870",
+      "morph": "robinson:V-AAN",
+      "translation": "to exhort",
+      "metadata": {},
+      "gematria": {
+        "standard": 449,
+        "ordinal": 90,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀδελφούς,",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-APM",
+      "translation": "brothers",
+      "metadata": {},
+      "gematria": {
+        "standard": 1210,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "προέλθωσιν",
+      "lemma": [
+        "G4281"
+      ],
+      "strongs": "G4281",
+      "morph": "robinson:V-2AAS-3P",
+      "translation": "they may go before",
+      "metadata": {},
+      "gematria": {
+        "standard": 1354,
+        "ordinal": 136,
+        "reduced": 64
+      }
+    },
+    {
+      "position": 9,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "προκαταρτίσωσιν",
+      "lemma": [
+        "G4294"
+      ],
+      "strongs": "G4294",
+      "morph": "robinson:V-AAS-3P",
+      "translation": "may complete beforehand",
+      "metadata": {},
+      "gematria": {
+        "standard": 2242,
+        "ordinal": 206,
+        "reduced": 80
+      }
+    },
+    {
+      "position": 13,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "προεπηγγελμένην",
+      "lemma": [
+        "G4279"
+      ],
+      "strongs": "G4279",
+      "morph": "robinson:V-RNP-ASF",
+      "translation": "having pre-promised",
+      "metadata": {},
+      "gematria": {
+        "standard": 537,
+        "ordinal": 148,
+        "reduced": 76
+      }
+    },
+    {
+      "position": 15,
+      "text": "εὐλογίαν",
+      "lemma": [
+        "G2129"
+      ],
+      "strongs": "G2129",
+      "morph": "robinson:N-ASF",
+      "translation": "blessing",
+      "metadata": {},
+      "gematria": {
+        "standard": 569,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὑμῶν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 17,
+      "text": "ταύτην",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-ASF",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1059,
+        "ordinal": 79,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἑτοίμην",
+      "lemma": [
+        "G2092"
+      ],
+      "strongs": "G2092",
+      "morph": "robinson:A-ASF",
+      "translation": "ready",
+      "metadata": {},
+      "gematria": {
+        "standard": 483,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 19,
+      "text": "εἶναι,",
+      "lemma": [
+        "G1511"
+      ],
+      "strongs": "G1511",
+      "morph": "robinson:V-PAN",
+      "translation": "to be",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 37,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 20,
+      "text": "οὕτως",
+      "lemma": [
+        "G3779"
+      ],
+      "strongs": "G3779",
+      "morph": "robinson:ADV",
+      "translation": "thus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 96,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 21,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 22,
+      "text": "εὐλογίαν",
+      "lemma": [
+        "G2129"
+      ],
+      "strongs": "G2129",
+      "morph": "robinson:N-ASF",
+      "translation": "a blessing",
+      "metadata": {},
+      "gematria": {
+        "standard": 569,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 23,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 24,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 25,
+      "text": "πλεονεξίαν.",
+      "lemma": [
+        "G4124"
+      ],
+      "strongs": "G4124",
+      "morph": "robinson:N-ASF",
+      "translation": "covetousness.",
+      "metadata": {},
+      "gematria": {
+        "standard": 361,
+        "ordinal": 102,
+        "reduced": 48
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 16368,
+    "ordinal": 1792,
+    "reduced": 739
+  }
+}

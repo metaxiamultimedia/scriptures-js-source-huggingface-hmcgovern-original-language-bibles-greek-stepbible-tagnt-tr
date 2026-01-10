@@ -1,0 +1,215 @@
+{
+  "text": "τῷ Μωϋσεῖ γὰρ λέγει· ἐλεήσω ὃν ἂν ἐλεῶ καὶ οἰκτιρήσω ὃν ἂν οἰκτίρω.",
+  "words": [
+    {
+      "position": 1,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "Μωϋσεῖ",
+      "lemma": [
+        "G3475"
+      ],
+      "strongs": "G3475",
+      "morph": "robinson:N-DSM-P",
+      "translation": "To Moses",
+      "metadata": {},
+      "gematria": {
+        "standard": 1455,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 3,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "λέγει·",
+      "lemma": null,
+      "morph": null,
+      "translation": "He says:",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐλεήσω",
+      "lemma": [
+        "G1653"
+      ],
+      "strongs": "G1653",
+      "morph": "robinson:V-FAI-1S",
+      "translation": "I will show mercy to",
+      "metadata": {},
+      "gematria": {
+        "standard": 1048,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὃν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASM",
+      "translation": "whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἂν",
+      "lemma": [
+        "G302"
+      ],
+      "strongs": "G302",
+      "morph": "robinson:PRT",
+      "translation": "maybe",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 14,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐλεῶ",
+      "lemma": [
+        "G1653"
+      ],
+      "strongs": "G1653",
+      "morph": "robinson:V-PAS-1S",
+      "translation": "I may show mercy",
+      "metadata": {},
+      "gematria": {
+        "standard": 840,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "οἰκτιρήσω",
+      "lemma": [
+        "G3627"
+      ],
+      "strongs": "G3627",
+      "morph": "robinson:V-FAI-1S",
+      "translation": "I will have compassion on",
+      "metadata": {},
+      "gematria": {
+        "standard": 1518,
+        "ordinal": 128,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὃν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASM",
+      "translation": "whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἂν",
+      "lemma": [
+        "G302"
+      ],
+      "strongs": "G302",
+      "morph": "robinson:PRT",
+      "translation": "maybe",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 14,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 13,
+      "text": "οἰκτίρω.",
+      "lemma": [
+        "G3627"
+      ],
+      "strongs": "G3627",
+      "morph": "robinson:V-PAS-1S",
+      "translation": "I may have compassion.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1310,
+        "ordinal": 103,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7811,
+    "ordinal": 644,
+    "reduced": 275
+  }
+}

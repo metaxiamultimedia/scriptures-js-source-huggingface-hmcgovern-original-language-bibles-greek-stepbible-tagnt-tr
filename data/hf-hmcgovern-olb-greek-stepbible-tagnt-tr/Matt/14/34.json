@@ -1,0 +1,119 @@
+{
+  "text": "καὶ διαπεράσαντες ἦλθον εἰς τὴν γῆν Γεννησαρέτ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "διαπεράσαντες",
+      "lemma": [
+        "G1276"
+      ],
+      "strongs": "G1276",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "having crossed over",
+      "metadata": {},
+      "gematria": {
+        "standard": 957,
+        "ordinal": 127,
+        "reduced": 64
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἦλθον",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "they came",
+      "metadata": {},
+      "gematria": {
+        "standard": 167,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "γῆν",
+      "lemma": null,
+      "morph": null,
+      "translation": "land",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "Γεννησαρέτ.",
+      "lemma": [
+        "G1082"
+      ],
+      "strongs": "G1082",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Gennesaret.",
+      "metadata": {},
+      "gematria": {
+        "standard": 722,
+        "ordinal": 101,
+        "reduced": 47
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2511,
+    "ordinal": 396,
+    "reduced": 198
+  }
+}

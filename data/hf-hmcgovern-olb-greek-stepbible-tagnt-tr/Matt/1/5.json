@@ -1,0 +1,346 @@
+{
+  "text": "Σαλμὼν δὲ ἐγέννησεν τὸν Βόες ἐκ τῆς Ῥαχάβ· Βόες δὲ ἐγέννησεν τὸν Ἰωβὴδ ἐκ τῆς Ῥούθ· Ἰωβὴδ δὲ ἐγέννησεν τὸν Ἰεσσαί·",
+  "words": [
+    {
+      "position": 1,
+      "text": "Σαλμὼν",
+      "lemma": [
+        "G4533"
+      ],
+      "strongs": "G4533",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Salmon",
+      "metadata": {},
+      "gematria": {
+        "standard": 1121,
+        "ordinal": 79,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐγέννησεν",
+      "lemma": [
+        "G1080"
+      ],
+      "strongs": "G1080",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "begat",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 82,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "Βόες",
+      "lemma": [
+        "G1003"
+      ],
+      "strongs": "G1003",
+      "morph": "robinson:N-ASM-P",
+      "translation": "Boaz",
+      "metadata": {},
+      "gematria": {
+        "standard": 277,
+        "ordinal": 40,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "Ῥαχάβ·",
+      "lemma": [
+        "G4477"
+      ],
+      "strongs": "G4477",
+      "morph": "robinson:N-GSF-P",
+      "translation": "Rahab;",
+      "metadata": {},
+      "gematria": {
+        "standard": 704,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "Βόες",
+      "lemma": [
+        "G1003"
+      ],
+      "strongs": "G1003",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Boaz",
+      "metadata": {},
+      "gematria": {
+        "standard": 277,
+        "ordinal": 40,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 10,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐγέννησεν",
+      "lemma": [
+        "G1080"
+      ],
+      "strongs": "G1080",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "begat",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 82,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "Ἰωβὴδ",
+      "lemma": [
+        "G5601"
+      ],
+      "strongs": "G5601",
+      "morph": "robinson:N-ASM-P",
+      "translation": "Obed",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 15,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 16,
+      "text": "Ῥούθ·",
+      "lemma": [
+        "G4503"
+      ],
+      "strongs": "G4503",
+      "morph": "robinson:N-GSF-P",
+      "translation": "Ruth;",
+      "metadata": {},
+      "gematria": {
+        "standard": 579,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 17,
+      "text": "Ἰωβὴδ",
+      "lemma": [
+        "G5601"
+      ],
+      "strongs": "G5601",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Obed",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 18,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐγέννησεν",
+      "lemma": [
+        "G1080"
+      ],
+      "strongs": "G1080",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "begat",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 82,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 20,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "Ἰεσσαί·",
+      "lemma": [
+        "G2421"
+      ],
+      "strongs": "G2421",
+      "morph": "robinson:N-ASM-P",
+      "translation": "Jesse;",
+      "metadata": {},
+      "gematria": {
+        "standard": 426,
+        "ordinal": 60,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8513,
+    "ordinal": 946,
+    "reduced": 451
+  }
+}

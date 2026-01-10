@@ -1,0 +1,263 @@
+{
+  "text": "εὐαγγελισάμενοί τε τὴν πόλιν ἐκείνην καὶ μαθητεύσαντες ἱκανοὺς ὑπέστρεψαν εἰς τὴν Λύστραν καὶ Ἰκόνιον καὶ Ἀντιόχειαν·",
+  "words": [
+    {
+      "position": 1,
+      "text": "εὐαγγελισάμενοί",
+      "lemma": [
+        "G2097"
+      ],
+      "strongs": "G2097",
+      "morph": "robinson:V-AMP-NPM",
+      "translation": "Having evangelised",
+      "metadata": {},
+      "gematria": {
+        "standard": 833,
+        "ordinal": 130,
+        "reduced": 67
+      }
+    },
+    {
+      "position": 2,
+      "text": "τε",
+      "lemma": [
+        "G5037"
+      ],
+      "strongs": "G5037",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "πόλιν",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-ASF",
+      "translation": "city",
+      "metadata": {},
+      "gematria": {
+        "standard": 240,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐκείνην",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-ASF",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 148,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "μαθητεύσαντες",
+      "lemma": [
+        "G3100"
+      ],
+      "strongs": "G3100",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "having discipled",
+      "metadata": {},
+      "gematria": {
+        "standard": 1519,
+        "ordinal": 146,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἱκανοὺς",
+      "lemma": [
+        "G2425"
+      ],
+      "strongs": "G2425",
+      "morph": "robinson:A-APM",
+      "translation": "many",
+      "metadata": {},
+      "gematria": {
+        "standard": 751,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὑπέστρεψαν",
+      "lemma": [
+        "G5290"
+      ],
+      "strongs": "G5290",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "they returned",
+      "metadata": {},
+      "gematria": {
+        "standard": 1841,
+        "ordinal": 137,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 10,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
+      "text": "Λύστραν",
+      "lemma": [
+        "G3082"
+      ],
+      "strongs": "G3082",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Lystra",
+      "metadata": {},
+      "gematria": {
+        "standard": 1081,
+        "ordinal": 99,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "Ἰκόνιον",
+      "lemma": [
+        "G2430"
+      ],
+      "strongs": "G2430",
+      "morph": "robinson:N-ASN-L",
+      "translation": "Iconium",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "Ἀντιόχειαν·",
+      "lemma": null,
+      "morph": null,
+      "translation": "Antioch;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1097,
+        "ordinal": 107,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9119,
+    "ordinal": 1109,
+    "reduced": 461
+  }
+}

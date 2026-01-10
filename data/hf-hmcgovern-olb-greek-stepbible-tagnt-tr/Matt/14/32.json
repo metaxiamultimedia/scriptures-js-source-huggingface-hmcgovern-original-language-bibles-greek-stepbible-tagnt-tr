@@ -1,0 +1,138 @@
+{
+  "text": "καὶ αὐτῶν εἰς τὸ πλοῖον ἐκόπασεν ὁ ἄνεμος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "αὐτῶν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "they",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "πλοῖον",
+      "lemma": [
+        "G4143"
+      ],
+      "strongs": "G4143",
+      "morph": "robinson:N-ASN",
+      "translation": "boat",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐκόπασεν",
+      "lemma": [
+        "G2869"
+      ],
+      "strongs": "G2869",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "ceased",
+      "metadata": {},
+      "gematria": {
+        "standard": 431,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἄνεμος.",
+      "lemma": [
+        "G417"
+      ],
+      "strongs": "G417",
+      "morph": "robinson:N-NSM",
+      "translation": "wind.",
+      "metadata": {},
+      "gematria": {
+        "standard": 366,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3344,
+    "ordinal": 404,
+    "reduced": 161
+  }
+}

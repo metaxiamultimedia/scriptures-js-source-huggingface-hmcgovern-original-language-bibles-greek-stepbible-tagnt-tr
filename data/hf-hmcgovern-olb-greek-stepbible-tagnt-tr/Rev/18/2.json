@@ -1,0 +1,411 @@
+{
+  "text": "καὶ ἔκραξεν ἐν φωνῇ μεγάλη λέγων· ἔπεσεν ἔπεσεν Βαβυλὼν ἡ μεγάλη καὶ ἐγένετο κατοικητήριον καὶ φυλακὴ παντὸς πνεύματος ἀκαθάρτου καὶ φυλακὴ παντὸς ὀρνέου ἀκαθάρτου καὶ μεμισημένου,",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἔκραξεν",
+      "lemma": [
+        "G2896"
+      ],
+      "strongs": "G2896",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he cried out",
+      "metadata": {},
+      "gematria": {
+        "standard": 241,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "φωνῇ",
+      "lemma": null,
+      "morph": null,
+      "translation": "voice",
+      "metadata": {},
+      "gematria": {
+        "standard": 1368,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "μεγάλη",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-DSF",
+      "translation": "loud",
+      "metadata": {},
+      "gematria": {
+        "standard": 87,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "λέγων·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying:",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἔπεσεν",
+      "lemma": [
+        "G4098"
+      ],
+      "strongs": "G4098",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "Fallen",
+      "metadata": {},
+      "gematria": {
+        "standard": 345,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἔπεσεν",
+      "lemma": [
+        "G4098"
+      ],
+      "strongs": "G4098",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "Fallen is",
+      "metadata": {},
+      "gematria": {
+        "standard": 345,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 9,
+      "text": "Βαβυλὼν",
+      "lemma": [
+        "G897"
+      ],
+      "strongs": "G897",
+      "morph": "robinson:N-NSF-L",
+      "translation": "Babylon",
+      "metadata": {},
+      "gematria": {
+        "standard": 1285,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 11,
+      "text": "μεγάλη",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-NSF",
+      "translation": "great",
+      "metadata": {},
+      "gematria": {
+        "standard": 87,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "she has become",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 14,
+      "text": "κατοικητήριον",
+      "lemma": [
+        "G2732"
+      ],
+      "strongs": "G2732",
+      "morph": "robinson:N-NSN",
+      "translation": "a habitation",
+      "metadata": {},
+      "gematria": {
+        "standard": 967,
+        "ordinal": 151,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "φυλακὴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "a prison",
+      "metadata": {},
+      "gematria": {
+        "standard": 959,
+        "ordinal": 70,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 17,
+      "text": "παντὸς",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-GSN",
+      "translation": "of every",
+      "metadata": {},
+      "gematria": {
+        "standard": 701,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 18,
+      "text": "πνεύματος",
+      "lemma": null,
+      "morph": null,
+      "translation": "spirit",
+      "metadata": {},
+      "gematria": {
+        "standard": 1146,
+        "ordinal": 119,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἀκαθάρτου",
+      "lemma": [
+        "G169"
+      ],
+      "strongs": "G169",
+      "morph": "robinson:A-GSN",
+      "translation": "unclean",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 92,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 20,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "φυλακὴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "a prison",
+      "metadata": {},
+      "gematria": {
+        "standard": 959,
+        "ordinal": 70,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 22,
+      "text": "παντὸς",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-GSN",
+      "translation": "of every",
+      "metadata": {},
+      "gematria": {
+        "standard": 701,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 23,
+      "text": "ὀρνέου",
+      "lemma": [
+        "G3732"
+      ],
+      "strongs": "G3732",
+      "morph": "robinson:N-GSN",
+      "translation": "bird",
+      "metadata": {},
+      "gematria": {
+        "standard": 695,
+        "ordinal": 85,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἀκαθάρτου",
+      "lemma": [
+        "G169"
+      ],
+      "strongs": "G169",
+      "morph": "robinson:A-GSN",
+      "translation": "unclean",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 92,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 25,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 26,
+      "text": "μεμισημένου,",
+      "lemma": [
+        "G3404"
+      ],
+      "strongs": "G3404",
+      "morph": "robinson:V-RPP-GSN",
+      "translation": "hated,",
+      "metadata": {},
+      "gematria": {
+        "standard": 868,
+        "ordinal": 128,
+        "reduced": 56
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14102,
+    "ordinal": 1631,
+    "reduced": 641
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "text": "Ἰερουσαλὴμ Ἰερουσαλὴμ ἡ ἀποκτείνουσα τοὺς προφήτας καὶ λιθοβολοῦσα τοὺς ἀπεσταλμένους πρὸς αὐτήν, ποσάκις ἠθέλησα ἐπισυναγαγεῖν τὰ τέκνα σου, ὃν τρόπον ὄρνις ἐπισυνάγει τὰ νοσσία ὑπὸ τὰς πτέρυγας, καὶ οὐκ ἠθελήσατε;",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἰερουσαλὴμ",
+      "lemma": [
+        "G2419"
+      ],
+      "strongs": "G2419",
+      "morph": "robinson:N-VSF-L",
+      "translation": "Jerusalem",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 2,
+      "text": "Ἰερουσαλὴμ",
+      "lemma": [
+        "G2419"
+      ],
+      "strongs": "G2419",
+      "morph": "robinson:N-VSF-L",
+      "translation": "Jerusalem",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-VSF",
+      "translation": "you who [are]",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀποκτείνουσα",
+      "lemma": [
+        "G615"
+      ],
+      "strongs": "G615",
+      "morph": "robinson:V-PAP-VSF",
+      "translation": "killing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1207,
+        "ordinal": 142,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "προφήτας",
+      "lemma": [
+        "G4396"
+      ],
+      "strongs": "G4396",
+      "morph": "robinson:N-APM",
+      "translation": "prophets",
+      "metadata": {},
+      "gematria": {
+        "standard": 1259,
+        "ordinal": 114,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "λιθοβολοῦσα",
+      "lemma": [
+        "G3036"
+      ],
+      "strongs": "G3036",
+      "morph": "robinson:V-PAP-VSF",
+      "translation": "stoning",
+      "metadata": {},
+      "gematria": {
+        "standard": 892,
+        "ordinal": 125,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 9,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀπεσταλμένους",
+      "lemma": [
+        "G649"
+      ],
+      "strongs": "G649",
+      "morph": "robinson:V-RPP-APM",
+      "translation": "sent",
+      "metadata": {},
+      "gematria": {
+        "standard": 1382,
+        "ordinal": 154,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 11,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 12,
+      "text": "αὐτήν,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASF",
+      "translation": "her!",
+      "metadata": {},
+      "gematria": {
+        "standard": 759,
+        "ordinal": 60,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "ποσάκις",
+      "lemma": [
+        "G4212"
+      ],
+      "strongs": "G4212",
+      "morph": "robinson:ADV",
+      "translation": "How often",
+      "metadata": {},
+      "gematria": {
+        "standard": 581,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἠθέλησα",
+      "lemma": [
+        "G2309"
+      ],
+      "strongs": "G2309",
+      "morph": "robinson:V-AAI-1S",
+      "translation": "I wanted",
+      "metadata": {},
+      "gematria": {
+        "standard": 261,
+        "ordinal": 57,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐπισυναγαγεῖν",
+      "lemma": [
+        "G1996"
+      ],
+      "strongs": "G1996",
+      "morph": "robinson:V-2AAN",
+      "translation": "to gathered together",
+      "metadata": {},
+      "gematria": {
+        "standard": 818,
+        "ordinal": 116,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 16,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 17,
+      "text": "τέκνα",
+      "lemma": [
+        "G5043"
+      ],
+      "strongs": "G5043",
+      "morph": "robinson:N-APN",
+      "translation": "children",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 18,
+      "text": "σου,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὃν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASM",
+      "translation": "in which",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 20,
+      "text": "τρόπον",
+      "lemma": [
+        "G5158"
+      ],
+      "strongs": "G5158",
+      "morph": "robinson:N-ASM",
+      "translation": "way",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 21,
+      "text": "ὄρνις",
+      "lemma": [
+        "G3733"
+      ],
+      "strongs": "G3733",
+      "morph": "robinson:N-NSF",
+      "translation": "a hen",
+      "metadata": {},
+      "gematria": {
+        "standard": 430,
+        "ordinal": 72,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἐπισυνάγει",
+      "lemma": [
+        "G1996"
+      ],
+      "strongs": "G1996",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "gathers together",
+      "metadata": {},
+      "gematria": {
+        "standard": 764,
+        "ordinal": 99,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 23,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 24,
+      "text": "νοσσία",
+      "lemma": [
+        "G3556"
+      ],
+      "strongs": "G3556",
+      "morph": "robinson:N-APN",
+      "translation": "chicks",
+      "metadata": {},
+      "gematria": {
+        "standard": 531,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 25,
+      "text": "ὑπὸ",
+      "lemma": null,
+      "morph": null,
+      "translation": "under",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 26,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 27,
+      "text": "πτέρυγας,",
+      "lemma": [
+        "G4420"
+      ],
+      "strongs": "G4420",
+      "morph": "robinson:N-APF",
+      "translation": "wings,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1089,
+        "ordinal": 99,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 28,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 29,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 30,
+      "text": "ἠθελήσατε;",
+      "lemma": [
+        "G2309"
+      ],
+      "strongs": "G2309",
+      "morph": "robinson:V-AAI-2P",
+      "translation": "you were willing?",
+      "metadata": {},
+      "gematria": {
+        "standard": 566,
+        "ordinal": 81,
+        "reduced": 45
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 18706,
+    "ordinal": 2165,
+    "reduced": 878
+  }
+}

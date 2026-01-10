@@ -1,0 +1,382 @@
+{
+  "text": "καὶ ἐγὼ Ἰωάννης τὴν πόλιν τὴν ἁγίαν Ἰερουσαλὴμ καινὴν εἶδον καταβαίνουσαν ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ θεοῦ ἡτοιμασμένην ὡς νύμφην κεκοσμημένην τῷ ἀνδρὶ αὐτῆς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS",
+      "translation": "I myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἰωάννης",
+      "lemma": null,
+      "morph": null,
+      "translation": "John",
+      "metadata": {},
+      "gematria": {
+        "standard": 1119,
+        "ordinal": 85,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "πόλιν",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-ASF",
+      "translation": "city",
+      "metadata": {},
+      "gematria": {
+        "standard": 240,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἁγίαν",
+      "lemma": null,
+      "morph": null,
+      "translation": "holy",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 27,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 8,
+      "text": "Ἰερουσαλὴμ",
+      "lemma": [
+        "G2419"
+      ],
+      "strongs": "G2419",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Jerusalem",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 9,
+      "text": "καινὴν",
+      "lemma": [
+        "G2537"
+      ],
+      "strongs": "G2537",
+      "morph": "robinson:A-ASF",
+      "translation": "new",
+      "metadata": {},
+      "gematria": {
+        "standard": 139,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 10,
+      "text": "εἶδον",
+      "lemma": null,
+      "morph": null,
+      "translation": "I saw",
+      "metadata": {},
+      "gematria": {
+        "standard": 139,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 11,
+      "text": "καταβαίνουσαν",
+      "lemma": [
+        "G2597"
+      ],
+      "strongs": "G2597",
+      "morph": "robinson:V-PAP-ASF",
+      "translation": "coming down",
+      "metadata": {},
+      "gematria": {
+        "standard": 1106,
+        "ordinal": 123,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "οὐρανοῦ",
+      "lemma": [
+        "G3772"
+      ],
+      "strongs": "G3772",
+      "morph": "robinson:N-GSM",
+      "translation": "heaven",
+      "metadata": {},
+      "gematria": {
+        "standard": 1091,
+        "ordinal": 101,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 17,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἡτοιμασμένην",
+      "lemma": [
+        "G2090"
+      ],
+      "strongs": "G2090",
+      "morph": "robinson:V-RPP-ASF",
+      "translation": "prepared",
+      "metadata": {},
+      "gematria": {
+        "standard": 782,
+        "ordinal": 131,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 20,
+      "text": "νύμφην",
+      "lemma": [
+        "G3565"
+      ],
+      "strongs": "G3565",
+      "morph": "robinson:N-ASF",
+      "translation": "a bride",
+      "metadata": {},
+      "gematria": {
+        "standard": 1048,
+        "ordinal": 86,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 21,
+      "text": "κεκοσμημένην",
+      "lemma": [
+        "G2885"
+      ],
+      "strongs": "G2885",
+      "morph": "robinson:V-RPP-ASF",
+      "translation": "adorned",
+      "metadata": {},
+      "gematria": {
+        "standard": 516,
+        "ordinal": 127,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 22,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "for the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἀνδρὶ",
+      "lemma": null,
+      "morph": null,
+      "translation": "husband",
+      "metadata": {},
+      "gematria": {
+        "standard": 165,
+        "ordinal": 44,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 24,
+      "text": "αὐτῆς.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "of her.",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14048,
+    "ordinal": 1494,
+    "reduced": 585
+  }
+}

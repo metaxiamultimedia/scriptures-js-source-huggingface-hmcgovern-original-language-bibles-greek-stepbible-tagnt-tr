@@ -1,0 +1,382 @@
+{
+  "text": "ὅτε δὲ ἀνέβησαν ἐκ τοῦ ὕδατος, πνεῦμα κυρίου ἥρπασεν τὸν Φίλιππον, καὶ οὐκ εἶδεν αὐτὸν οὐκέτι ὁ εὐνοῦχος· ἐπορεύετο γὰρ τὴν ὁδὸν αὐτοῦ χαίρων.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅτε",
+      "lemma": [
+        "G3753"
+      ],
+      "strongs": "G3753",
+      "morph": "robinson:CONJ",
+      "translation": "When",
+      "metadata": {},
+      "gematria": {
+        "standard": 375,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀνέβησαν",
+      "lemma": [
+        "G305"
+      ],
+      "strongs": "G305",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "they came up",
+      "metadata": {},
+      "gematria": {
+        "standard": 317,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὕδατος,",
+      "lemma": [
+        "G5204"
+      ],
+      "strongs": "G5204",
+      "morph": "robinson:N-GSN",
+      "translation": "water,",
+      "metadata": {},
+      "gematria": {
+        "standard": 975,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "πνεῦμα",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] Spirit",
+      "metadata": {},
+      "gematria": {
+        "standard": 576,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
+      "text": "κυρίου",
+      "lemma": null,
+      "morph": null,
+      "translation": "of [the] Lord",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 91,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἥρπασεν",
+      "lemma": [
+        "G726"
+      ],
+      "strongs": "G726",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "carried away",
+      "metadata": {},
+      "gematria": {
+        "standard": 444,
+        "ordinal": 77,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 10,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "Φίλιππον,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Philip,",
+      "metadata": {},
+      "gematria": {
+        "standard": 830,
+        "ordinal": 110,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "εἶδεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "saw",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 15,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "οὐκέτι",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N + G2089=ADV",
+      "translation": "no longer",
+      "metadata": {},
+      "gematria": {
+        "standard": 805,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 18,
+      "text": "εὐνοῦχος·",
+      "lemma": [
+        "G2135"
+      ],
+      "strongs": "G2135",
+      "morph": "robinson:N-NSM",
+      "translation": "eunuch;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1795,
+        "ordinal": 128,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐπορεύετο",
+      "lemma": [
+        "G4198"
+      ],
+      "strongs": "G4198",
+      "morph": "robinson:V-INI-3S",
+      "translation": "he was going",
+      "metadata": {},
+      "gematria": {
+        "standard": 1035,
+        "ordinal": 117,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 20,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 21,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 22,
+      "text": "ὁδὸν",
+      "lemma": [
+        "G3598"
+      ],
+      "strongs": "G3598",
+      "morph": "robinson:N-ASF",
+      "translation": "way",
+      "metadata": {},
+      "gematria": {
+        "standard": 194,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 23,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 24,
+      "text": "χαίρων.",
+      "lemma": [
+        "G5463"
+      ],
+      "strongs": "G5463",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "rejoicing.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1561,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14250,
+    "ordinal": 1421,
+    "reduced": 503
+  }
+}

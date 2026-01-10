@@ -1,0 +1,106 @@
+{
+  "text": "μικρὰ ζύμη ὅλον τὸ φύραμα ζυμοῖ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "μικρὰ",
+      "lemma": [
+        "G3398"
+      ],
+      "strongs": "G3398",
+      "morph": "robinson:A-NSF",
+      "translation": "A little",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 2,
+      "text": "ζύμη",
+      "lemma": [
+        "G2219"
+      ],
+      "strongs": "G2219",
+      "morph": "robinson:N-NSF",
+      "translation": "leaven",
+      "metadata": {},
+      "gematria": {
+        "standard": 455,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὅλον",
+      "lemma": [
+        "G3650"
+      ],
+      "strongs": "G3650",
+      "morph": "robinson:A-ASN",
+      "translation": "whole",
+      "metadata": {},
+      "gematria": {
+        "standard": 220,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "φύραμα",
+      "lemma": [
+        "G5445"
+      ],
+      "strongs": "G5445",
+      "morph": "robinson:N-ASN",
+      "translation": "lump",
+      "metadata": {},
+      "gematria": {
+        "standard": 1042,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "ζυμοῖ.",
+      "lemma": [
+        "G2220"
+      ],
+      "strongs": "G2220",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "leavens.",
+      "metadata": {},
+      "gematria": {
+        "standard": 527,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2785,
+    "ordinal": 316,
+    "reduced": 109
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "text": "ὑμῖν πρῶτον ἀναστήσας ὁ θεὸς τὸν παῖδα αὐτοῦ ἀπέστειλεν αὐτὸν εὐλογοῦντα ὑμᾶς ἐν τῷ ἀποστρέφειν ἕκαστον ἀπὸ τῶν πονηριῶν ὑμῶν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "To you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "πρῶτον",
+      "lemma": null,
+      "morph": null,
+      "translation": "first",
+      "metadata": {},
+      "gematria": {
+        "standard": 1400,
+        "ordinal": 104,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀναστήσας",
+      "lemma": [
+        "G450"
+      ],
+      "strongs": "G450",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having raised up",
+      "metadata": {},
+      "gematria": {
+        "standard": 961,
+        "ordinal": 96,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "παῖδα",
+      "lemma": [
+        "G3816"
+      ],
+      "strongs": "G3816",
+      "morph": "robinson:N-ASM",
+      "translation": "servant",
+      "metadata": {},
+      "gematria": {
+        "standard": 96,
+        "ordinal": 31,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀπέστειλεν",
+      "lemma": [
+        "G649"
+      ],
+      "strongs": "G649",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "sent",
+      "metadata": {},
+      "gematria": {
+        "standard": 686,
+        "ordinal": 102,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 10,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "εὐλογοῦντα",
+      "lemma": [
+        "G2127"
+      ],
+      "strongs": "G2127",
+      "morph": "robinson:V-PAP-ASM",
+      "translation": "blessing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1329,
+        "ordinal": 122,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀποστρέφειν",
+      "lemma": [
+        "G654"
+      ],
+      "strongs": "G654",
+      "morph": "robinson:V-PAN",
+      "translation": "turning away",
+      "metadata": {},
+      "gematria": {
+        "standard": 1321,
+        "ordinal": 139,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἕκαστον",
+      "lemma": [
+        "G1538"
+      ],
+      "strongs": "G1538",
+      "morph": "robinson:A-ASM",
+      "translation": "each",
+      "metadata": {},
+      "gematria": {
+        "standard": 646,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 18,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "πονηριῶν",
+      "lemma": [
+        "G4189"
+      ],
+      "strongs": "G4189",
+      "morph": "robinson:N-GPF",
+      "translation": "wickednesses",
+      "metadata": {},
+      "gematria": {
+        "standard": 1168,
+        "ordinal": 114,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 20,
+      "text": "ὑμῶν.",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "of you.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15270,
+    "ordinal": 1372,
+    "reduced": 481
+  }
+}

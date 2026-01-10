@@ -1,0 +1,202 @@
+{
+  "text": "καὶ τότε ἐάν τις ὑμῖν εἴπῃ· ὧδε ὁ χριστός ἢ, ἐκεῖ, μὴ",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "τότε",
+      "lemma": [
+        "G5119"
+      ],
+      "strongs": "G5119",
+      "morph": "robinson:ADV",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 675,
+        "ordinal": 58,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐάν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSM",
+      "translation": "anyone",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "εἴπῃ·",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "shall say;",
+      "metadata": {},
+      "gematria": {
+        "standard": 113,
+        "ordinal": 46,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὧδε",
+      "lemma": [
+        "G5602"
+      ],
+      "strongs": "G5602",
+      "morph": "robinson:ADV",
+      "translation": "here [is]",
+      "metadata": {},
+      "gematria": {
+        "standard": 809,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "χριστός",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-NSM-T",
+      "translation": "Christ",
+      "metadata": {},
+      "gematria": {
+        "standard": 1480,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἢ,",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐκεῖ,",
+      "lemma": [
+        "G1563"
+      ],
+      "strongs": "G1563",
+      "morph": "robinson:ADV",
+      "translation": "there!",
+      "metadata": {},
+      "gematria": {
+        "standard": 40,
+        "ordinal": 29,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 12,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4340,
+    "ordinal": 464,
+    "reduced": 212
+  }
+}

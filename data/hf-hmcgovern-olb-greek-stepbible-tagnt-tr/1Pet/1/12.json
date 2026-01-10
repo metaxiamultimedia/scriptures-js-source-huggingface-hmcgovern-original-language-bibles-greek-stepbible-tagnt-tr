@@ -1,0 +1,446 @@
+{
+  "text": "οἷς ἀπεκαλύφθη ὅτι οὐχ ἑαυτοῖς ὑμῖν δὲ διηκόνουν αὐτά, ἃ νῦν ἀνηγγέλη ὑμῖν διὰ τῶν εὐαγγελισαμένων ὑμᾶς ἐν πνεύματι ἁγίῳ ἀποσταλέντι ἀπ᾽ οὐρανοῦ, εἰς ἃ ἐπιθυμοῦσιν ἄγγελοι παρακύψαι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "οἷς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-DPM",
+      "translation": "to whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀπεκαλύφθη",
+      "lemma": [
+        "G601"
+      ],
+      "strongs": "G601",
+      "morph": "robinson:V-API-3S",
+      "translation": "it was revealed",
+      "metadata": {},
+      "gematria": {
+        "standard": 1054,
+        "ordinal": 100,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "οὐχ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 1070,
+        "ordinal": 57,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἑαυτοῖς",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-3DPM",
+      "translation": "themselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 986,
+        "ordinal": 87,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "διηκόνουν",
+      "lemma": [
+        "G1247"
+      ],
+      "strongs": "G1247",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "they were serving",
+      "metadata": {},
+      "gematria": {
+        "standard": 682,
+        "ordinal": 106,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 9,
+      "text": "αὐτά,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APN",
+      "translation": "in those things",
+      "metadata": {},
+      "gematria": {
+        "standard": 702,
+        "ordinal": 41,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NPN",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 11,
+      "text": "νῦν",
+      "lemma": [
+        "G3568"
+      ],
+      "strongs": "G3568",
+      "morph": "robinson:ADV",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 46,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀνηγγέλη",
+      "lemma": [
+        "G312"
+      ],
+      "strongs": "G312",
+      "morph": "robinson:V-2API-3S",
+      "translation": "have been proclaimed",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 50,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 14,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 15,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "εὐαγγελισαμένων",
+      "lemma": [
+        "G2097"
+      ],
+      "strongs": "G2097",
+      "morph": "robinson:V-AMP-GPM",
+      "translation": "having evangelised",
+      "metadata": {},
+      "gematria": {
+        "standard": 1603,
+        "ordinal": 143,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 19,
+      "text": "πνεύματι",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] Spirit",
+      "metadata": {},
+      "gematria": {
+        "standard": 886,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἁγίῳ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Holy",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἀποσταλέντι",
+      "lemma": [
+        "G649"
+      ],
+      "strongs": "G649",
+      "morph": "robinson:V-2APP-DSN",
+      "translation": "having been sent",
+      "metadata": {},
+      "gematria": {
+        "standard": 1047,
+        "ordinal": 127,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἀπ᾽",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 81,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 23,
+      "text": "οὐρανοῦ,",
+      "lemma": [
+        "G3772"
+      ],
+      "strongs": "G3772",
+      "morph": "robinson:N-GSM",
+      "translation": "heaven,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1091,
+        "ordinal": 101,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 24,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-APN",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 26,
+      "text": "ἐπιθυμοῦσιν",
+      "lemma": [
+        "G1937"
+      ],
+      "strongs": "G1937",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "desire",
+      "metadata": {},
+      "gematria": {
+        "standard": 1274,
+        "ordinal": 145,
+        "reduced": 64
+      }
+    },
+    {
+      "position": 27,
+      "text": "ἄγγελοι",
+      "lemma": null,
+      "morph": null,
+      "translation": "angels",
+      "metadata": {},
+      "gematria": {
+        "standard": 122,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 28,
+      "text": "παρακύψαι.",
+      "lemma": [
+        "G3879"
+      ],
+      "strongs": "G3879",
+      "morph": "robinson:V-AAN",
+      "translation": "to look.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1313,
+        "ordinal": 98,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 17090,
+    "ordinal": 1681,
+    "reduced": 664
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "text": "Καὶ ἐγένετο νεφέλη ἐπισκιάζουσα αὐτοῖς, καὶ φωνὴ ἐκ τῆς νεφέλης οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός· ἀκούετε αὐτοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "there came",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "νεφέλη",
+      "lemma": [
+        "G3507"
+      ],
+      "strongs": "G3507",
+      "morph": "robinson:N-NSF",
+      "translation": "a cloud",
+      "metadata": {},
+      "gematria": {
+        "standard": 598,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐπισκιάζουσα",
+      "lemma": [
+        "G1982"
+      ],
+      "strongs": "G1982",
+      "morph": "robinson:V-PAP-NSF",
+      "translation": "overshadowing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1004,
+        "ordinal": 128,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτοῖς,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "them,",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "φωνὴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "a voice",
+      "metadata": {},
+      "gematria": {
+        "standard": 1358,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
+      "text": "νεφέλης",
+      "lemma": [
+        "G3507"
+      ],
+      "strongs": "G3507",
+      "morph": "robinson:N-GSF",
+      "translation": "cloud",
+      "metadata": {},
+      "gematria": {
+        "standard": 798,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 11,
+      "text": "οὗτός",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSM",
+      "translation": "This",
+      "metadata": {},
+      "gematria": {
+        "standard": 1040,
+        "ordinal": 87,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 14,
+      "text": "υἱός",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-NSM",
+      "translation": "Son",
+      "metadata": {},
+      "gematria": {
+        "standard": 680,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 15,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of Mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀγαπητός·",
+      "lemma": [
+        "G27"
+      ],
+      "strongs": "G27",
+      "morph": "robinson:A-NSM",
+      "translation": "beloved;",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἀκούετε",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do listen",
+      "metadata": {},
+      "gematria": {
+        "standard": 801,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 19,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "to Him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11342,
+    "ordinal": 1101,
+    "reduced": 417
+  }
+}

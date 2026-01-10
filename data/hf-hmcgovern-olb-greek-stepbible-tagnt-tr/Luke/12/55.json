@@ -1,0 +1,161 @@
+{
+  "text": "καὶ ὅταν νότον πνέοντα, λέγετε ὅτι καύσων ἔσται, καὶ γίνεται.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὅταν",
+      "lemma": [
+        "G3752"
+      ],
+      "strongs": "G3752",
+      "morph": "robinson:CONJ",
+      "translation": "when",
+      "metadata": {},
+      "gematria": {
+        "standard": 421,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "νότον",
+      "lemma": null,
+      "morph": null,
+      "translation": "a south wind",
+      "metadata": {},
+      "gematria": {
+        "standard": 540,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
+      "text": "πνέοντα,",
+      "lemma": [
+        "G4154"
+      ],
+      "strongs": "G4154",
+      "morph": "robinson:V-PAP-ASM",
+      "translation": "is blowing,",
+      "metadata": {},
+      "gematria": {
+        "standard": 556,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "λέγετε",
+      "lemma": null,
+      "morph": null,
+      "translation": "you say",
+      "metadata": {},
+      "gematria": {
+        "standard": 348,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "καύσων",
+      "lemma": [
+        "G2742"
+      ],
+      "strongs": "G2742",
+      "morph": "robinson:N-NSM",
+      "translation": "Heat",
+      "metadata": {},
+      "gematria": {
+        "standard": 1471,
+        "ordinal": 86,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἔσται,",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-FDI-3S",
+      "translation": "there will be,",
+      "metadata": {},
+      "gematria": {
+        "standard": 516,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "γίνεται.",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-PNI-3S",
+      "translation": "it happens.",
+      "metadata": {},
+      "gematria": {
+        "standard": 379,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4673,
+    "ordinal": 533,
+    "reduced": 200
+  }
+}

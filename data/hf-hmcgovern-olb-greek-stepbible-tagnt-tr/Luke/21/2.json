@@ -1,0 +1,148 @@
+{
+  "text": "εἶδεν δέ τινα χήραν πενιχρὰν βάλλουσαν ἐκεῖ λεπτὰ δύο.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἶδεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "He saw",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 2,
+      "text": "δέ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τινα",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-ASF",
+      "translation": "a certain",
+      "metadata": {},
+      "gematria": {
+        "standard": 361,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "χήραν",
+      "lemma": [
+        "G5503"
+      ],
+      "strongs": "G5503",
+      "morph": "robinson:N-ASF",
+      "translation": "widow",
+      "metadata": {},
+      "gematria": {
+        "standard": 759,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "πενιχρὰν",
+      "lemma": [
+        "G3998"
+      ],
+      "strongs": "G3998",
+      "morph": "robinson:A-ASF",
+      "translation": "poor",
+      "metadata": {},
+      "gematria": {
+        "standard": 896,
+        "ordinal": 96,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 6,
+      "text": "βάλλουσαν",
+      "lemma": null,
+      "morph": null,
+      "translation": "casting",
+      "metadata": {},
+      "gematria": {
+        "standard": 784,
+        "ordinal": 92,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐκεῖ",
+      "lemma": [
+        "G1563"
+      ],
+      "strongs": "G1563",
+      "morph": "robinson:ADV",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 40,
+        "ordinal": 29,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "λεπτὰ",
+      "lemma": [
+        "G3016"
+      ],
+      "strongs": "G3016",
+      "morph": "robinson:N-APN",
+      "translation": "lepta",
+      "metadata": {},
+      "gematria": {
+        "standard": 416,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "δύο.",
+      "lemma": [
+        "G1417"
+      ],
+      "strongs": "G1417",
+      "morph": "robinson:A-NUI",
+      "translation": "two.",
+      "metadata": {},
+      "gematria": {
+        "standard": 474,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3813,
+    "ordinal": 455,
+    "reduced": 194
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "text": "καὶ ἐπατήθη ἡ ληνὸς ἔξωθεν τῆς πόλεως, καὶ ἐξῆλθεν αἷμα ἐκ τῆς ληνοῦ ἄχρι τῶν χαλινῶν τῶν ἵππων ἀπὸ σταδίων χιλίων ἑξακοσίων.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐπατήθη",
+      "lemma": [
+        "G3961"
+      ],
+      "strongs": "G3961",
+      "morph": "robinson:V-API-3S",
+      "translation": "was trodden",
+      "metadata": {},
+      "gematria": {
+        "standard": 411,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "ληνὸς",
+      "lemma": [
+        "G3025"
+      ],
+      "strongs": "G3025",
+      "morph": "robinson:N-NSF",
+      "translation": "winepress",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἔξωθεν",
+      "lemma": [
+        "G1855"
+      ],
+      "strongs": "G1855",
+      "morph": "robinson:PREP",
+      "translation": "outside",
+      "metadata": {},
+      "gematria": {
+        "standard": 929,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "πόλεως,",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-GSF",
+      "translation": "city,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1185,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐξῆλθεν",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "flowed",
+      "metadata": {},
+      "gematria": {
+        "standard": 167,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 10,
+      "text": "αἷμα",
+      "lemma": null,
+      "morph": null,
+      "translation": "blood",
+      "metadata": {},
+      "gematria": {
+        "standard": 52,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 12,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 13,
+      "text": "ληνοῦ",
+      "lemma": [
+        "G3025"
+      ],
+      "strongs": "G3025",
+      "morph": "robinson:N-GSF",
+      "translation": "winepress",
+      "metadata": {},
+      "gematria": {
+        "standard": 558,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἄχρι",
+      "lemma": [
+        "G891"
+      ],
+      "strongs": "G891",
+      "morph": "robinson:PREP",
+      "translation": "as high as",
+      "metadata": {},
+      "gematria": {
+        "standard": 711,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 15,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "χαλινῶν",
+      "lemma": [
+        "G5469"
+      ],
+      "strongs": "G5469",
+      "morph": "robinson:N-GPM",
+      "translation": "bridles",
+      "metadata": {},
+      "gematria": {
+        "standard": 1541,
+        "ordinal": 93,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 17,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἵππων",
+      "lemma": [
+        "G2462"
+      ],
+      "strongs": "G2462",
+      "morph": "robinson:N-GPM",
+      "translation": "horses",
+      "metadata": {},
+      "gematria": {
+        "standard": 1020,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "to the distance of",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 20,
+      "text": "σταδίων",
+      "lemma": [
+        "G4712"
+      ],
+      "strongs": "G4712",
+      "morph": "robinson:N-GPM",
+      "translation": "stadia",
+      "metadata": {},
+      "gematria": {
+        "standard": 1365,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 21,
+      "text": "χιλίων",
+      "lemma": [
+        "G5507"
+      ],
+      "strongs": "G5507",
+      "morph": "robinson:A-GPM",
+      "translation": "one thousand",
+      "metadata": {},
+      "gematria": {
+        "standard": 1500,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἑξακοσίων.",
+      "lemma": [
+        "G1812"
+      ],
+      "strongs": "G1812",
+      "morph": "robinson:A-GPM",
+      "translation": "six hundred.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1216,
+        "ordinal": 109,
+        "reduced": 46
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14575,
+    "ordinal": 1236,
+    "reduced": 507
+  }
+}

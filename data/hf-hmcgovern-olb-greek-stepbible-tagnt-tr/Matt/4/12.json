@@ -1,0 +1,145 @@
+{
+  "text": "Ἀκούσας δὲ ὅτι Ἰωάννης παρεδόθη ἀνεχώρησεν εἰς τὴν Γαλιλαίαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἀκούσας",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "Having heard",
+      "metadata": {},
+      "gematria": {
+        "standard": 892,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἰωάννης",
+      "lemma": null,
+      "morph": null,
+      "translation": "John",
+      "metadata": {},
+      "gematria": {
+        "standard": 1119,
+        "ordinal": 85,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "παρεδόθη",
+      "lemma": [
+        "G3860"
+      ],
+      "strongs": "G3860",
+      "morph": "robinson:V-API-3S",
+      "translation": "was delivered up ",
+      "metadata": {},
+      "gematria": {
+        "standard": 277,
+        "ordinal": 73,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀνεχώρησεν",
+      "lemma": [
+        "G402"
+      ],
+      "strongs": "G402",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "He withdrew",
+      "metadata": {},
+      "gematria": {
+        "standard": 1819,
+        "ordinal": 125,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 7,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "Γαλιλαίαν.",
+      "lemma": null,
+      "morph": null,
+      "translation": "Galilee.",
+      "metadata": {},
+      "gematria": {
+        "standard": 136,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5205,
+    "ordinal": 548,
+    "reduced": 260
+  }
+}

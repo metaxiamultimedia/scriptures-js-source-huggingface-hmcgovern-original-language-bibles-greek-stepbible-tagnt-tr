@@ -1,0 +1,276 @@
+{
+  "text": "καὶ Ἰωάννα γυνὴ Χουζᾶ ἐπιτρόπου Ἡρῴδου καὶ Σουσάννα καὶ ἕτεραι πολλαὶ αἵτινες διηκόνουν αὐτοῖς τῶν ὑπαρχόντων αὐταῖς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "Ἰωάννα",
+      "lemma": [
+        "G2489"
+      ],
+      "strongs": "G2489",
+      "morph": "robinson:N-NSF-P",
+      "translation": "Joanna",
+      "metadata": {},
+      "gematria": {
+        "standard": 912,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 3,
+      "text": "γυνὴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "wife",
+      "metadata": {},
+      "gematria": {
+        "standard": 461,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "Χουζᾶ",
+      "lemma": [
+        "G5529"
+      ],
+      "strongs": "G5529",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of Chuza",
+      "metadata": {},
+      "gematria": {
+        "standard": 1078,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐπιτρόπου",
+      "lemma": [
+        "G2012"
+      ],
+      "strongs": "G2012",
+      "morph": "robinson:N-GSM",
+      "translation": "a steward",
+      "metadata": {},
+      "gematria": {
+        "standard": 1115,
+        "ordinal": 132,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 6,
+      "text": "Ἡρῴδου",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Herod",
+      "metadata": {},
+      "gematria": {
+        "standard": 1392,
+        "ordinal": 96,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "Σουσάννα",
+      "lemma": [
+        "G4677"
+      ],
+      "strongs": "G4677",
+      "morph": "robinson:N-NSF-P",
+      "translation": "Susanna",
+      "metadata": {},
+      "gematria": {
+        "standard": 972,
+        "ordinal": 99,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἕτεραι",
+      "lemma": [
+        "G2087"
+      ],
+      "strongs": "G2087",
+      "morph": "robinson:A-NPF",
+      "translation": "others",
+      "metadata": {},
+      "gematria": {
+        "standard": 421,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 11,
+      "text": "πολλαὶ",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-NPF",
+      "translation": "many",
+      "metadata": {},
+      "gematria": {
+        "standard": 221,
+        "ordinal": 63,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 12,
+      "text": "αἵτινες",
+      "lemma": [
+        "G3748"
+      ],
+      "strongs": "G3748",
+      "morph": "robinson:R-NPF",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 576,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 13,
+      "text": "διηκόνουν",
+      "lemma": [
+        "G1247"
+      ],
+      "strongs": "G1247",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "were ministering",
+      "metadata": {},
+      "gematria": {
+        "standard": 682,
+        "ordinal": 106,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 14,
+      "text": "αὐτοῖς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὑπαρχόντων",
+      "lemma": [
+        "G5225"
+      ],
+      "strongs": "G5225",
+      "morph": "robinson:V-PAP-GPN",
+      "translation": "possessions",
+      "metadata": {},
+      "gematria": {
+        "standard": 2451,
+        "ordinal": 160,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 17,
+      "text": "αὐταῖς.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPF",
+      "translation": "of theirs.",
+      "metadata": {},
+      "gematria": {
+        "standard": 912,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13417,
+    "ordinal": 1220,
+    "reduced": 464
+  }
+}

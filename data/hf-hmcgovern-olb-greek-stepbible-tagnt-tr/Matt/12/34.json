@@ -1,0 +1,279 @@
+{
+  "text": "γεννήματα ἐχιδνῶν, πῶς δύνασθε ἀγαθὰ λαλεῖν πονηροὶ ὄντες; ἐκ γὰρ τοῦ περισσεύματος τῆς καρδίας τὸ στόμα λαλεῖ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "γεννήματα",
+      "lemma": null,
+      "morph": null,
+      "translation": "Offspring",
+      "metadata": {},
+      "gematria": {
+        "standard": 458,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐχιδνῶν,",
+      "lemma": [
+        "G2191"
+      ],
+      "strongs": "G2191",
+      "morph": "robinson:N-GPF",
+      "translation": "of vipers,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1519,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 3,
+      "text": "πῶς",
+      "lemma": [
+        "G4459"
+      ],
+      "strongs": "G4459",
+      "morph": "robinson:PRT-I",
+      "translation": "how",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "δύνασθε",
+      "lemma": [
+        "G1410"
+      ],
+      "strongs": "G1410",
+      "morph": "robinson:V-PNI-2P",
+      "translation": "are you able",
+      "metadata": {},
+      "gematria": {
+        "standard": 669,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀγαθὰ",
+      "lemma": [
+        "G18"
+      ],
+      "strongs": "G18",
+      "morph": "robinson:A-APN",
+      "translation": "good things",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "λαλεῖν",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-PAN",
+      "translation": "to speak",
+      "metadata": {},
+      "gematria": {
+        "standard": 126,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "πονηροὶ",
+      "lemma": [
+        "G4190"
+      ],
+      "strongs": "G4190",
+      "morph": "robinson:A-NPM",
+      "translation": "evil",
+      "metadata": {},
+      "gematria": {
+        "standard": 388,
+        "ordinal": 92,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὄντες;",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "being?",
+      "metadata": {},
+      "gematria": {
+        "standard": 625,
+        "ordinal": 70,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "Out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "περισσεύματος",
+      "lemma": [
+        "G4051"
+      ],
+      "strongs": "G4051",
+      "morph": "robinson:N-GSN",
+      "translation": "overflow",
+      "metadata": {},
+      "gematria": {
+        "standard": 1611,
+        "ordinal": 173,
+        "reduced": 74
+      }
+    },
+    {
+      "position": 13,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 14,
+      "text": "καρδίας",
+      "lemma": [
+        "G2588"
+      ],
+      "strongs": "G2588",
+      "morph": "robinson:N-GSF",
+      "translation": "heart",
+      "metadata": {},
+      "gematria": {
+        "standard": 336,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 15,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 16,
+      "text": "στόμα",
+      "lemma": [
+        "G4750"
+      ],
+      "strongs": "G4750",
+      "morph": "robinson:N-NSN",
+      "translation": "mouth",
+      "metadata": {},
+      "gematria": {
+        "standard": 611,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 17,
+      "text": "λαλεῖ.",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "speaks.",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 37,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9291,
+    "ordinal": 1020,
+    "reduced": 426
+  }
+}

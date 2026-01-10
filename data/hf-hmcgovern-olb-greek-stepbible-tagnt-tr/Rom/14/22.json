@@ -1,0 +1,279 @@
+{
+  "text": "σὺ πίστιν ἔχεις κατὰ σεαυτὸν ἔχε ἐνώπιον τοῦ θεοῦ· μακάριος ὁ μὴ κρίνων ἑαυτὸν ἐν ᾧ δοκιμάζει.",
+  "words": [
+    {
+      "position": 1,
+      "text": "σὺ",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NS",
+      "translation": "You yourself",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "πίστιν",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] faith",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἔχεις",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAI-2S",
+      "translation": "you have",
+      "metadata": {},
+      "gematria": {
+        "standard": 820,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 4,
+      "text": "κατὰ",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 31,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 5,
+      "text": "σεαυτὸν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:F-2ASM",
+      "translation": "yourself",
+      "metadata": {},
+      "gematria": {
+        "standard": 1026,
+        "ordinal": 91,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἔχε",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAM-2S",
+      "translation": "do keep",
+      "metadata": {},
+      "gematria": {
+        "standard": 610,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐνώπιον",
+      "lemma": [
+        "G1799"
+      ],
+      "strongs": "G1799",
+      "morph": "robinson:PREP",
+      "translation": "before",
+      "metadata": {},
+      "gematria": {
+        "standard": 1065,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "θεοῦ·",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "God;",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 10,
+      "text": "μακάριος",
+      "lemma": [
+        "G3107"
+      ],
+      "strongs": "G3107",
+      "morph": "robinson:A-NSM",
+      "translation": "Blessed [is]",
+      "metadata": {},
+      "gematria": {
+        "standard": 442,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 12,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "κρίνων",
+      "lemma": [
+        "G2919"
+      ],
+      "strongs": "G2919",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "judging",
+      "metadata": {},
+      "gematria": {
+        "standard": 1030,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἑαυτὸν",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-3ASM",
+      "translation": "himself",
+      "metadata": {},
+      "gematria": {
+        "standard": 826,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 16,
+      "text": "ᾧ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-DSN",
+      "translation": "what",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 17,
+      "text": "δοκιμάζει.",
+      "lemma": [
+        "G1381"
+      ],
+      "strongs": "G1381",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "he approves.",
+      "metadata": {},
+      "gematria": {
+        "standard": 167,
+        "ordinal": 71,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9795,
+    "ordinal": 930,
+    "reduced": 372
+  }
+}

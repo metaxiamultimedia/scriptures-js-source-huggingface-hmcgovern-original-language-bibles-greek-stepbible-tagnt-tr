@@ -1,0 +1,241 @@
+{
+  "text": "Σαδδουκαῖοι μὲν γὰρ λέγουσιν μὴ εἶναι ἀνάστασιν ἄγγελον μήτε πνεῦμα· Φαρισαῖοι δὲ ὁμολογοῦσιν τὰ ἀμφότερα.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Σαδδουκαῖοι",
+      "lemma": [
+        "G4523"
+      ],
+      "strongs": "G4523",
+      "morph": "robinson:N-NPM-T",
+      "translation": "Sadducees",
+      "metadata": {},
+      "gematria": {
+        "standard": 790,
+        "ordinal": 106,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 2,
+      "text": "μὲν",
+      "lemma": [
+        "G3303"
+      ],
+      "strongs": "G3303",
+      "morph": "robinson:PRT",
+      "translation": "indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "λέγουσιν",
+      "lemma": null,
+      "morph": null,
+      "translation": "say",
+      "metadata": {},
+      "gematria": {
+        "standard": 768,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "εἶναι",
+      "lemma": [
+        "G1511"
+      ],
+      "strongs": "G1511",
+      "morph": "robinson:V-PAN",
+      "translation": "there to be",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 37,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀνάστασιν",
+      "lemma": [
+        "G386"
+      ],
+      "strongs": "G386",
+      "morph": "robinson:N-ASF",
+      "translation": "resurrection",
+      "metadata": {},
+      "gematria": {
+        "standard": 813,
+        "ordinal": 93,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἄγγελον",
+      "lemma": null,
+      "morph": null,
+      "translation": "angel",
+      "metadata": {},
+      "gematria": {
+        "standard": 162,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 9,
+      "text": "μήτε",
+      "lemma": [
+        "G3383"
+      ],
+      "strongs": "G3383",
+      "morph": "robinson:CONJ-N",
+      "translation": "nor [to be]",
+      "metadata": {},
+      "gematria": {
+        "standard": 353,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "πνεῦμα·",
+      "lemma": null,
+      "morph": null,
+      "translation": "spirit;",
+      "metadata": {},
+      "gematria": {
+        "standard": 576,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 11,
+      "text": "Φαρισαῖοι",
+      "lemma": [
+        "G5330"
+      ],
+      "strongs": "G5330",
+      "morph": "robinson:N-NPM-T",
+      "translation": "Pharisees",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 100,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 12,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὁμολογοῦσιν",
+      "lemma": [
+        "G3670"
+      ],
+      "strongs": "G3670",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "confess",
+      "metadata": {},
+      "gematria": {
+        "standard": 1013,
+        "ordinal": 146,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 14,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀμφότερα.",
+      "lemma": [
+        "G297"
+      ],
+      "strongs": "G297",
+      "morph": "robinson:A-APN",
+      "translation": "both.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1017,
+        "ordinal": 91,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7027,
+    "ordinal": 927,
+    "reduced": 405
+  }
+}

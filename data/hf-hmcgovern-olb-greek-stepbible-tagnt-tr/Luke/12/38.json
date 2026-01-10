@@ -1,0 +1,263 @@
+{
+  "text": "κἂν ἐν τῇ δευτέρᾳ ἐν τῇ τρίτῃ φυλακῇ ἔλθῃ καὶ εὕρῃ οὕτως, μακάριοί εἰσιν δοῦλοι ἐκεῖνοι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "κἂν",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ + G1437=COND",
+      "translation": "And if",
+      "metadata": {},
+      "gematria": {
+        "standard": 71,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
+      "text": "δευτέρᾳ",
+      "lemma": [
+        "G1208"
+      ],
+      "strongs": "G1208",
+      "morph": "robinson:A-DSF",
+      "translation": "second",
+      "metadata": {},
+      "gematria": {
+        "standard": 825,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "τρίτῃ",
+      "lemma": [
+        "G5154"
+      ],
+      "strongs": "G5154",
+      "morph": "robinson:A-DSF",
+      "translation": "third",
+      "metadata": {},
+      "gematria": {
+        "standard": 728,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "φυλακῇ",
+      "lemma": null,
+      "morph": null,
+      "translation": "watch",
+      "metadata": {},
+      "gematria": {
+        "standard": 969,
+        "ordinal": 79,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἔλθῃ",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "he may come",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 40,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "εὕρῃ",
+      "lemma": [
+        "G2147"
+      ],
+      "strongs": "G2147",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "he may find [them]",
+      "metadata": {},
+      "gematria": {
+        "standard": 523,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 12,
+      "text": "οὕτως,",
+      "lemma": [
+        "G3779"
+      ],
+      "strongs": "G3779",
+      "morph": "robinson:ADV",
+      "translation": "thus,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 96,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 13,
+      "text": "μακάριοί",
+      "lemma": [
+        "G3107"
+      ],
+      "strongs": "G3107",
+      "morph": "robinson:A-NPM",
+      "translation": "blessed",
+      "metadata": {},
+      "gematria": {
+        "standard": 252,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 14,
+      "text": "εἰσιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "are",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 54,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 15,
+      "text": "δοῦλοι",
+      "lemma": [
+        "G1401"
+      ],
+      "strongs": "G1401",
+      "morph": "robinson:N-NPM",
+      "translation": "servants",
+      "metadata": {},
+      "gematria": {
+        "standard": 584,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐκεῖνοι.",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-NPM",
+      "translation": "those!",
+      "metadata": {},
+      "gematria": {
+        "standard": 170,
+        "ordinal": 66,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7006,
+    "ordinal": 851,
+    "reduced": 392
+  }
+}

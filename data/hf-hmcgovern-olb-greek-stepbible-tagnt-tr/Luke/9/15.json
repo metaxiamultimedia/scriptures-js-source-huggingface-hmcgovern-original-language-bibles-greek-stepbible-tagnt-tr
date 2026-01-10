@@ -1,0 +1,103 @@
+{
+  "text": "καὶ ἐποίησαν οὕτως καὶ κατέκλιναν ἅπαντας.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐποίησαν",
+      "lemma": null,
+      "morph": null,
+      "translation": "they did",
+      "metadata": {},
+      "gematria": {
+        "standard": 424,
+        "ordinal": 84,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 3,
+      "text": "οὕτως",
+      "lemma": [
+        "G3779"
+      ],
+      "strongs": "G3779",
+      "morph": "robinson:ADV",
+      "translation": "so",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 96,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "κατέκλιναν",
+      "lemma": [
+        "G2625"
+      ],
+      "strongs": "G2625",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "he sat",
+      "metadata": {},
+      "gematria": {
+        "standard": 487,
+        "ordinal": 92,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἅπαντας.",
+      "lemma": [
+        "G537"
+      ],
+      "strongs": "G537",
+      "morph": "robinson:A-APM",
+      "translation": "all.",
+      "metadata": {},
+      "gematria": {
+        "standard": 633,
+        "ordinal": 69,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3376,
+    "ordinal": 381,
+    "reduced": 147
+  }
+}

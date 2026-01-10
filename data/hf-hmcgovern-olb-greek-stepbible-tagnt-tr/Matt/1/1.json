@@ -1,0 +1,135 @@
+{
+  "text": "Βίβλος γενέσεως Ἰησοῦ Χριστοῦ υἱοῦ Δαυὶδ υἱοῦ Ἀβραάμ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Βίβλος",
+      "lemma": [
+        "G976"
+      ],
+      "strongs": "G976",
+      "morph": "robinson:N-NSF",
+      "translation": "[The] book",
+      "metadata": {},
+      "gematria": {
+        "standard": 314,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "γενέσεως",
+      "lemma": [
+        "G1078"
+      ],
+      "strongs": "G1078",
+      "morph": "robinson:N-GSF",
+      "translation": "of [the] genealogy",
+      "metadata": {},
+      "gematria": {
+        "standard": 1268,
+        "ordinal": 91,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἰησοῦ",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "Χριστοῦ",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-GSM-T",
+      "translation": "Christ",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 5,
+      "text": "υἱοῦ",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-GSM",
+      "translation": "son",
+      "metadata": {},
+      "gematria": {
+        "standard": 880,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "Δαυὶδ",
+      "lemma": [
+        "G1138"
+      ],
+      "strongs": "G1138",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of David",
+      "metadata": {},
+      "gematria": {
+        "standard": 419,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "υἱοῦ",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-GSM",
+      "translation": "son",
+      "metadata": {},
+      "gematria": {
+        "standard": 880,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 8,
+      "text": "Ἀβραάμ.",
+      "lemma": [
+        "G11"
+      ],
+      "strongs": "G11",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of Abraham.",
+      "metadata": {},
+      "gematria": {
+        "standard": 145,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6274,
+    "ordinal": 537,
+    "reduced": 222
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "text": "μὴ πλανᾶσθε· φθείρουσιν ἤθη χρηστὰ ὁμιλίαι κακαί.",
+  "words": [
+    {
+      "position": 1,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "Not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "πλανᾶσθε·",
+      "lemma": [
+        "G4105"
+      ],
+      "strongs": "G4105",
+      "morph": "robinson:V-PPM-2P",
+      "translation": "do be misled:",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 73,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 3,
+      "text": "φθείρουσιν",
+      "lemma": [
+        "G5351"
+      ],
+      "strongs": "G5351",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "Do corrupt",
+      "metadata": {},
+      "gematria": {
+        "standard": 1354,
+        "ordinal": 135,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἤθη",
+      "lemma": [
+        "G2239"
+      ],
+      "strongs": "G2239",
+      "morph": "robinson:N-APN",
+      "translation": "morals",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 22,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "χρηστὰ",
+      "lemma": [
+        "G5543"
+      ],
+      "strongs": "G5543",
+      "morph": "robinson:A-APN",
+      "translation": "good",
+      "metadata": {},
+      "gematria": {
+        "standard": 1209,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὁμιλίαι",
+      "lemma": [
+        "G3657"
+      ],
+      "strongs": "G3657",
+      "morph": "robinson:N-NPF",
+      "translation": "companionships",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 66,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 7,
+      "text": "κακαί.",
+      "lemma": null,
+      "morph": null,
+      "translation": "bad.",
+      "metadata": {},
+      "gematria": {
+        "standard": 52,
+        "ordinal": 31,
+        "reduced": 13
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3235,
+    "ordinal": 430,
+    "reduced": 214
+  }
+}

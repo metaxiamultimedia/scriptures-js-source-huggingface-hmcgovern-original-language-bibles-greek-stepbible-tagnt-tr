@@ -1,0 +1,305 @@
+{
+  "text": "Τότε προσελθὼν ὁ Πέτρος εἶπεν αὐτῷ· κύριε, ποσάκις ἁμαρτήσει εἰς ἐμὲ ὁ ἀδελφός μου καὶ ἀφήσω αὐτῷ; ἕως ἑπτάκις;",
+  "words": [
+    {
+      "position": 1,
+      "text": "Τότε",
+      "lemma": [
+        "G5119"
+      ],
+      "strongs": "G5119",
+      "morph": "robinson:ADV",
+      "translation": "Then",
+      "metadata": {},
+      "gematria": {
+        "standard": 675,
+        "ordinal": 58,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 2,
+      "text": "προσελθὼν",
+      "lemma": [
+        "G4334"
+      ],
+      "strongs": "G4334",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having come",
+      "metadata": {},
+      "gematria": {
+        "standard": 1344,
+        "ordinal": 127,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "Πέτρος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Peter",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "said",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτῷ·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to Him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "κύριε,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lord,",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "ποσάκις",
+      "lemma": [
+        "G4212"
+      ],
+      "strongs": "G4212",
+      "morph": "robinson:ADV",
+      "translation": "how often",
+      "metadata": {},
+      "gematria": {
+        "standard": 581,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἁμαρτήσει",
+      "lemma": [
+        "G264"
+      ],
+      "strongs": "G264",
+      "morph": "robinson:V-FAI-3S",
+      "translation": "will sin",
+      "metadata": {},
+      "gematria": {
+        "standard": 665,
+        "ordinal": 89,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 10,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "against",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐμὲ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1AS",
+      "translation": "me myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 50,
+        "ordinal": 22,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἀδελφός",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-NSM",
+      "translation": "brother",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 14,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἀφήσω",
+      "lemma": null,
+      "morph": null,
+      "translation": "I will forgive",
+      "metadata": {},
+      "gematria": {
+        "standard": 1509,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 17,
+      "text": "αὐτῷ;",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "him?",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἕως",
+      "lemma": [
+        "G2193"
+      ],
+      "strongs": "G2193",
+      "morph": "robinson:PREP",
+      "translation": "Up to",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἑπτάκις;",
+      "lemma": [
+        "G2034"
+      ],
+      "strongs": "G2034",
+      "morph": "robinson:ADV",
+      "translation": "seven times?",
+      "metadata": {},
+      "gematria": {
+        "standard": 616,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12613,
+    "ordinal": 1128,
+    "reduced": 462
+  }
+}

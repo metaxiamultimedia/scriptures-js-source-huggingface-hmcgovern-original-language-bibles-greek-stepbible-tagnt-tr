@@ -1,0 +1,324 @@
+{
+  "text": "καὶ ἐξελθὼν εἶδεν πολὺν ὄχλον καὶ ἐσπλαγχνίσθη ἐπ᾽ ὅτι ἦσαν ὡς πρόβατα μὴ ἔχοντα ποιμένα. καὶ ἤρξατο διδάσκειν αὐτοὺς πολλά.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐξελθὼν",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having gone out",
+      "metadata": {},
+      "gematria": {
+        "standard": 959,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 3,
+      "text": "εἶδεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "He saw",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "πολὺν",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-ASM",
+      "translation": "a great",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὄχλον",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-ASM",
+      "translation": "crowd",
+      "metadata": {},
+      "gematria": {
+        "standard": 820,
+        "ordinal": 76,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐσπλαγχνίσθη",
+      "lemma": [
+        "G4697"
+      ],
+      "strongs": "G4697",
+      "morph": "robinson:V-AOI-3S",
+      "translation": "was moved with compassion",
+      "metadata": {},
+      "gematria": {
+        "standard": 1196,
+        "ordinal": 131,
+        "reduced": 68
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐπ᾽",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "toward",
+      "metadata": {},
+      "gematria": {
+        "standard": 85,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "because",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἦσαν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "they were",
+      "metadata": {},
+      "gematria": {
+        "standard": 259,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "like",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 12,
+      "text": "πρόβατα",
+      "lemma": [
+        "G4263"
+      ],
+      "strongs": "G4263",
+      "morph": "robinson:N-NPN",
+      "translation": "sheep",
+      "metadata": {},
+      "gematria": {
+        "standard": 554,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 13,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἔχοντα",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAP-NPN",
+      "translation": "having",
+      "metadata": {},
+      "gematria": {
+        "standard": 1026,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "ποιμένα.",
+      "lemma": [
+        "G4166"
+      ],
+      "strongs": "G4166",
+      "morph": "robinson:N-ASM",
+      "translation": "a shepherd.",
+      "metadata": {},
+      "gematria": {
+        "standard": 256,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἤρξατο",
+      "lemma": [
+        "G757"
+      ],
+      "strongs": "G757",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "He began",
+      "metadata": {},
+      "gematria": {
+        "standard": 539,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 18,
+      "text": "διδάσκειν",
+      "lemma": [
+        "G1321"
+      ],
+      "strongs": "G1321",
+      "morph": "robinson:V-PAN",
+      "translation": "to teach",
+      "metadata": {},
+      "gematria": {
+        "standard": 304,
+        "ordinal": 73,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 19,
+      "text": "αὐτοὺς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APM",
+      "translation": "them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 93,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 20,
+      "text": "πολλά.",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-APN",
+      "translation": "many things.",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9805,
+    "ordinal": 1132,
+    "reduced": 475
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "text": "καὶ ἦσαν οἱ φαγόντες τοὺς ἄρτους ὡσεὶ πεντακισχίλιοι ἄνδρες.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἦσαν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "were",
+      "metadata": {},
+      "gematria": {
+        "standard": 259,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "φαγόντες",
+      "lemma": [
+        "G5315"
+      ],
+      "strongs": "G5315",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "having eaten of",
+      "metadata": {},
+      "gematria": {
+        "standard": 1129,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἄρτους",
+      "lemma": [
+        "G740"
+      ],
+      "strongs": "G740",
+      "morph": "robinson:N-APM",
+      "translation": "loaves",
+      "metadata": {},
+      "gematria": {
+        "standard": 1071,
+        "ordinal": 90,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὡσεὶ",
+      "lemma": [
+        "G5616"
+      ],
+      "strongs": "G5616",
+      "morph": "robinson:PREP",
+      "translation": "about",
+      "metadata": {},
+      "gematria": {
+        "standard": 1015,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 8,
+      "text": "πεντακισχίλιοι",
+      "lemma": [
+        "G4000"
+      ],
+      "strongs": "G4000",
+      "morph": "robinson:A-NPM",
+      "translation": "five thousand",
+      "metadata": {},
+      "gematria": {
+        "standard": 1396,
+        "ordinal": 166,
+        "reduced": 76
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἄνδρες.",
+      "lemma": null,
+      "morph": null,
+      "translation": "men.",
+      "metadata": {},
+      "gematria": {
+        "standard": 360,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6311,
+    "ordinal": 620,
+    "reduced": 260
+  }
+}

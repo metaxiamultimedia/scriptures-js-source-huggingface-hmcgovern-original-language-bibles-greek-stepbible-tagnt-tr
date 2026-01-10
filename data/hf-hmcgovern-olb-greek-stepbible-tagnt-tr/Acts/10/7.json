@@ -1,0 +1,295 @@
+{
+  "text": "Ὡς δὲ ἀπῆλθεν ὁ ἄγγελος ὁ λαλῶν αὐτῷ, φωνήσας δύο τῶν οἰκετῶν καὶ στρατιώτην εὐσεβῆ τῶν προσκαρτερούντων αὐτῷ,",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "When",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀπῆλθεν",
+      "lemma": [
+        "G565"
+      ],
+      "strongs": "G565",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "had departed",
+      "metadata": {},
+      "gematria": {
+        "standard": 183,
+        "ordinal": 61,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἄγγελος",
+      "lemma": null,
+      "morph": null,
+      "translation": "angel",
+      "metadata": {},
+      "gematria": {
+        "standard": 312,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "λαλῶν",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "is speaking",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 60,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτῷ,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "φωνήσας",
+      "lemma": [
+        "G5455"
+      ],
+      "strongs": "G5455",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having called",
+      "metadata": {},
+      "gematria": {
+        "standard": 1759,
+        "ordinal": 102,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 10,
+      "text": "δύο",
+      "lemma": [
+        "G1417"
+      ],
+      "strongs": "G1417",
+      "morph": "robinson:A-NUI",
+      "translation": "two",
+      "metadata": {},
+      "gematria": {
+        "standard": 474,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "οἰκετῶν",
+      "lemma": [
+        "G3610"
+      ],
+      "strongs": "G3610",
+      "morph": "robinson:N-GPM",
+      "translation": "servants",
+      "metadata": {},
+      "gematria": {
+        "standard": 1255,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "στρατιώτην",
+      "lemma": [
+        "G4757"
+      ],
+      "strongs": "G4757",
+      "morph": "robinson:N-ASM",
+      "translation": "a soldier",
+      "metadata": {},
+      "gematria": {
+        "standard": 2069,
+        "ordinal": 146,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 15,
+      "text": "εὐσεβῆ",
+      "lemma": [
+        "G2152"
+      ],
+      "strongs": "G2152",
+      "morph": "robinson:A-ASM",
+      "translation": "devout",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 16,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of those",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "προσκαρτερούντων",
+      "lemma": [
+        "G4342"
+      ],
+      "strongs": "G4342",
+      "morph": "robinson:V-PAP-GPM",
+      "translation": "attending",
+      "metadata": {},
+      "gematria": {
+        "standard": 2646,
+        "ordinal": 239,
+        "reduced": 77
+      }
+    },
+    {
+      "position": 18,
+      "text": "αὐτῷ,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 16731,
+    "ordinal": 1214,
+    "reduced": 422
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "text": "ὡς δὲ ἤκουσαν τοὺς λόγους τούτους ὅ τε ἱερεὺς καὶ ὁ στρατηγὸς τοῦ ἱεροῦ καὶ οἱ ἀρχιερεῖς, διηπόρουν περὶ αὐτῶν, τί ἂν γένοιτο τοῦτο.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "When",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἤκουσαν",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "they heard",
+      "metadata": {},
+      "gematria": {
+        "standard": 749,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "λόγους",
+      "lemma": [
+        "G3056"
+      ],
+      "strongs": "G3056",
+      "morph": "robinson:N-APM",
+      "translation": "words",
+      "metadata": {},
+      "gematria": {
+        "standard": 773,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "τούτους",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-APM",
+      "translation": "these",
+      "metadata": {},
+      "gematria": {
+        "standard": 1740,
+        "ordinal": 126,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὅ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "τε",
+      "lemma": [
+        "G5037"
+      ],
+      "strongs": "G5037",
+      "morph": "robinson:CONJ",
+      "translation": "both",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἱερεὺς",
+      "lemma": [
+        "G2409"
+      ],
+      "strongs": "G2409",
+      "morph": "robinson:N-NSM",
+      "translation": "the priest",
+      "metadata": {},
+      "gematria": {
+        "standard": 720,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 12,
+      "text": "στρατηγὸς",
+      "lemma": [
+        "G4755"
+      ],
+      "strongs": "G4755",
+      "morph": "robinson:N-NSM",
+      "translation": "captain",
+      "metadata": {},
+      "gematria": {
+        "standard": 1182,
+        "ordinal": 117,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἱεροῦ",
+      "lemma": [
+        "G2411"
+      ],
+      "strongs": "G2411",
+      "morph": "robinson:N-GSN",
+      "translation": "temple",
+      "metadata": {},
+      "gematria": {
+        "standard": 585,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀρχιερεῖς,",
+      "lemma": [
+        "G749"
+      ],
+      "strongs": "G749",
+      "morph": "robinson:N-NPM",
+      "translation": "chief priests",
+      "metadata": {},
+      "gematria": {
+        "standard": 1031,
+        "ordinal": 103,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 18,
+      "text": "διηπόρουν",
+      "lemma": [
+        "G1280"
+      ],
+      "strongs": "G1280",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "were perplexed",
+      "metadata": {},
+      "gematria": {
+        "standard": 792,
+        "ordinal": 116,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 19,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "concerning",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 20,
+      "text": "αὐτῶν,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "them,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 21,
+      "text": "τί",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-NSN",
+      "translation": "what",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἂν",
+      "lemma": [
+        "G302"
+      ],
+      "strongs": "G302",
+      "morph": "robinson:PRT",
+      "translation": "maybe",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 14,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 23,
+      "text": "γένοιτο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADO-3S",
+      "translation": "would be",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 24,
+      "text": "τοῦτο.",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSN",
+      "translation": "this.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14663,
+    "ordinal": 1396,
+    "reduced": 523
+  }
+}

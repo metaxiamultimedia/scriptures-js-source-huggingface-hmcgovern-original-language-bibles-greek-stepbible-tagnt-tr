@@ -1,0 +1,113 @@
+{
+  "text": "διότι γέγραπται· ἅγιοι ὅτι ἐγὼ ἅγιος εἰμι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "διότι",
+      "lemma": [
+        "G1360"
+      ],
+      "strongs": "G1360",
+      "morph": "robinson:CONJ",
+      "translation": "because",
+      "metadata": {},
+      "gematria": {
+        "standard": 394,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "γέγραπται·",
+      "lemma": [
+        "G1125"
+      ],
+      "strongs": "G1125",
+      "morph": "robinson:V-RPI-3S",
+      "translation": "it has been written:",
+      "metadata": {},
+      "gematria": {
+        "standard": 503,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἅγιοι",
+      "lemma": null,
+      "morph": null,
+      "translation": "Holy",
+      "metadata": {},
+      "gematria": {
+        "standard": 94,
+        "ordinal": 37,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "because",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS",
+      "translation": "I myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἅγιος",
+      "lemma": null,
+      "morph": null,
+      "translation": "holy",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "εἰμι.",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-1S",
+      "translation": "am.",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 35,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2528,
+    "ordinal": 323,
+    "reduced": 179
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "text": "Καὶ ἀκούσαντες οἱ δέκα ἤρξαντο ἀγανακτεῖν περὶ Ἰακώβου καὶ Ἰωάννου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀκούσαντες",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "having heard [this]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1247,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 3,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "δέκα",
+      "lemma": [
+        "G1176"
+      ],
+      "strongs": "G1176",
+      "morph": "robinson:A-NUI",
+      "translation": "ten",
+      "metadata": {},
+      "gematria": {
+        "standard": 30,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἤρξαντο",
+      "lemma": [
+        "G757"
+      ],
+      "strongs": "G757",
+      "morph": "robinson:V-ADI-3P",
+      "translation": "began",
+      "metadata": {},
+      "gematria": {
+        "standard": 589,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀγανακτεῖν",
+      "lemma": [
+        "G23"
+      ],
+      "strongs": "G23",
+      "morph": "robinson:V-PAN",
+      "translation": "to be indignant",
+      "metadata": {},
+      "gematria": {
+        "standard": 441,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "about",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 8,
+      "text": "Ἰακώβου",
+      "lemma": null,
+      "morph": null,
+      "translation": "James",
+      "metadata": {},
+      "gematria": {
+        "standard": 1303,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "Ἰωάννου.",
+      "lemma": null,
+      "morph": null,
+      "translation": "John.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1381,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5328,
+    "ordinal": 588,
+    "reduced": 237
+  }
+}

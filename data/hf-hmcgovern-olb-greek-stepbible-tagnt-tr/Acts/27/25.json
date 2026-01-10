@@ -1,0 +1,244 @@
+{
+  "text": "διὸ εὐθυμεῖτε ἄνδρες· πιστεύω γὰρ τῷ θεῷ ὅτι οὕτως ἔσται καθ᾽ ὃν τρόπον λελάληταί μοι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "διὸ",
+      "lemma": [
+        "G1352"
+      ],
+      "strongs": "G1352",
+      "morph": "robinson:CONJ",
+      "translation": "Therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 84,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 2,
+      "text": "εὐθυμεῖτε",
+      "lemma": [
+        "G2114"
+      ],
+      "strongs": "G2114",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "take courage",
+      "metadata": {},
+      "gematria": {
+        "standard": 1174,
+        "ordinal": 103,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἄνδρες·",
+      "lemma": null,
+      "morph": null,
+      "translation": "men;",
+      "metadata": {},
+      "gematria": {
+        "standard": 360,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 4,
+      "text": "πιστεύω",
+      "lemma": [
+        "G4100"
+      ],
+      "strongs": "G4100",
+      "morph": "robinson:V-PAI-1S",
+      "translation": "I believe",
+      "metadata": {},
+      "gematria": {
+        "standard": 1795,
+        "ordinal": 111,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 5,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "θεῷ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-DSM-T",
+      "translation": "in God",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "οὕτως",
+      "lemma": [
+        "G3779"
+      ],
+      "strongs": "G3779",
+      "morph": "robinson:ADV",
+      "translation": "thus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 96,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἔσται",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-FDI-3S",
+      "translation": "it will be",
+      "metadata": {},
+      "gematria": {
+        "standard": 516,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 11,
+      "text": "καθ᾽",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "according to",
+      "metadata": {},
+      "gematria": {
+        "standard": 30,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὃν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "τρόπον",
+      "lemma": [
+        "G5158"
+      ],
+      "strongs": "G5158",
+      "morph": "robinson:N-ASM",
+      "translation": "way",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 14,
+      "text": "λελάληταί",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-RPI-3S",
+      "translation": "it has been said",
+      "metadata": {},
+      "gematria": {
+        "standard": 415,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 15,
+      "text": "μοι.",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DS",
+      "translation": "to me.",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9472,
+    "ordinal": 863,
+    "reduced": 350
+  }
+}

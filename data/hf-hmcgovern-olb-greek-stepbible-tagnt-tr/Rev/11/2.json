@@ -1,0 +1,420 @@
+{
+  "text": "καὶ τὴν αὐλὴν τὴν ἔξωθεν τοῦ ναοῦ ἔκβαλε καὶ μὴ αὐτὴν μετρήσῃς, ὅτι ἐδόθη τοῖς ἔθνεσιν· καὶ τὴν πόλιν τὴν ἁγίαν πατήσουσιν μῆνας τεσσεράκοντα καὶ δύο.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐλὴν",
+      "lemma": [
+        "G833"
+      ],
+      "strongs": "G833",
+      "morph": "robinson:N-ASF",
+      "translation": "courtyard",
+      "metadata": {},
+      "gematria": {
+        "standard": 489,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἔξωθεν",
+      "lemma": [
+        "G1855"
+      ],
+      "strongs": "G1855",
+      "morph": "robinson:PREP",
+      "translation": "outside",
+      "metadata": {},
+      "gematria": {
+        "standard": 929,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "ναοῦ",
+      "lemma": [
+        "G3485"
+      ],
+      "strongs": "G3485",
+      "morph": "robinson:N-GSM",
+      "translation": "temple",
+      "metadata": {},
+      "gematria": {
+        "standard": 521,
+        "ordinal": 49,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἔκβαλε",
+      "lemma": [
+        "G1544"
+      ],
+      "strongs": "G1544",
+      "morph": "robinson:V-2AAM-2S",
+      "translation": "do leave",
+      "metadata": {},
+      "gematria": {
+        "standard": 63,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτὴν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASF",
+      "translation": "it",
+      "metadata": {},
+      "gematria": {
+        "standard": 759,
+        "ordinal": 60,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 12,
+      "text": "μετρήσῃς,",
+      "lemma": [
+        "G3354"
+      ],
+      "strongs": "G3354",
+      "morph": "robinson:V-AAS-2S",
+      "translation": "may measure,",
+      "metadata": {},
+      "gematria": {
+        "standard": 871,
+        "ordinal": 112,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "because",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐδόθη",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-API-3S",
+      "translation": "it has been given [up]",
+      "metadata": {},
+      "gematria": {
+        "standard": 96,
+        "ordinal": 39,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 15,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPN",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἔθνεσιν·",
+      "lemma": [
+        "G1484"
+      ],
+      "strongs": "G1484",
+      "morph": "robinson:N-DPN",
+      "translation": "nations;",
+      "metadata": {},
+      "gematria": {
+        "standard": 329,
+        "ordinal": 71,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 17,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 19,
+      "text": "πόλιν",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-ASF",
+      "translation": "city",
+      "metadata": {},
+      "gematria": {
+        "standard": 240,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 20,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἁγίαν",
+      "lemma": null,
+      "morph": null,
+      "translation": "holy",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 27,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 22,
+      "text": "πατήσουσιν",
+      "lemma": [
+        "G3961"
+      ],
+      "strongs": "G3961",
+      "morph": "robinson:V-FAI-3P",
+      "translation": "they will trample upon",
+      "metadata": {},
+      "gematria": {
+        "standard": 1319,
+        "ordinal": 136,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 23,
+      "text": "μῆνας",
+      "lemma": [
+        "G3376"
+      ],
+      "strongs": "G3376",
+      "morph": "robinson:N-APM",
+      "translation": "months",
+      "metadata": {},
+      "gematria": {
+        "standard": 299,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 24,
+      "text": "τεσσεράκοντα",
+      "lemma": [
+        "G5062"
+      ],
+      "strongs": "G5062",
+      "morph": "robinson:A-NUI",
+      "translation": "forty",
+      "metadata": {},
+      "gematria": {
+        "standard": 1252,
+        "ordinal": 141,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 25,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 26,
+      "text": "δύο.",
+      "lemma": [
+        "G1417"
+      ],
+      "strongs": "G1417",
+      "morph": "robinson:A-NUI",
+      "translation": "two.",
+      "metadata": {},
+      "gematria": {
+        "standard": 474,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11040,
+    "ordinal": 1357,
+    "reduced": 565
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "text": "μνημονεύετε τοῦ λόγου οὗ ἐγὼ εἶπον ὑμῖν· οὐκ ἔστιν δοῦλος μείζων τοῦ κυρίου αὐτοῦ. εἰ ἐμὲ ἐδίωξαν καὶ ὑμᾶς διώξουσιν· εἰ τὸν λόγον μου ἐτήρησαν καὶ τὸν ὑμέτερον τηρήσουσιν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "μνημονεύετε",
+      "lemma": [
+        "G3421"
+      ],
+      "strongs": "G3421",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do remember",
+      "metadata": {},
+      "gematria": {
+        "standard": 973,
+        "ordinal": 126,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 2,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "λόγου",
+      "lemma": [
+        "G3056"
+      ],
+      "strongs": "G3056",
+      "morph": "robinson:N-GSM",
+      "translation": "word",
+      "metadata": {},
+      "gematria": {
+        "standard": 573,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "οὗ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-GSM",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS",
+      "translation": "I myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "εἶπον",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-1S",
+      "translation": "said",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὑμῖν·",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you:",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 8,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "Not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἔστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 10,
+      "text": "δοῦλος",
+      "lemma": [
+        "G1401"
+      ],
+      "strongs": "G1401",
+      "morph": "robinson:N-NSM",
+      "translation": "a servant",
+      "metadata": {},
+      "gematria": {
+        "standard": 774,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 11,
+      "text": "μείζων",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-NSM-C",
+      "translation": "greater",
+      "metadata": {},
+      "gematria": {
+        "standard": 912,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 12,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "than the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "κυρίου",
+      "lemma": null,
+      "morph": null,
+      "translation": "master",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 91,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 14,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 15,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐμὲ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1AS",
+      "translation": "Me myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 50,
+        "ordinal": 22,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐδίωξαν",
+      "lemma": [
+        "G1377"
+      ],
+      "strongs": "G1377",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "they persecuted",
+      "metadata": {},
+      "gematria": {
+        "standard": 930,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 20,
+      "text": "διώξουσιν·",
+      "lemma": [
+        "G1377"
+      ],
+      "strongs": "G1377",
+      "morph": "robinson:V-FAI-3P",
+      "translation": "they will persecute;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1604,
+        "ordinal": 126,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 21,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 22,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 23,
+      "text": "λόγον",
+      "lemma": [
+        "G3056"
+      ],
+      "strongs": "G3056",
+      "morph": "robinson:N-ASM",
+      "translation": "word",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 24,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of Mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἐτήρησαν",
+      "lemma": null,
+      "morph": null,
+      "translation": "they kept",
+      "metadata": {},
+      "gematria": {
+        "standard": 672,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 26,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 27,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 28,
+      "text": "ὑμέτερον",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:A-ASM",
+      "translation": "yours",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 106,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 29,
+      "text": "τηρήσουσιν.",
+      "lemma": null,
+      "morph": null,
+      "translation": "they will keep.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1346,
+        "ordinal": 143,
+        "reduced": 62
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 17869,
+    "ordinal": 1775,
+    "reduced": 650
+  }
+}

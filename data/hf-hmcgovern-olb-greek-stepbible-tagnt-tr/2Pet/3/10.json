@@ -1,0 +1,404 @@
+{
+  "text": "ἥξει δὲ ἡμέρα κυρίου ὡς κλέπτης ἐν νυκτί, ἐν ᾗ οἱ οὐρανοὶ ῥοιζηδὸν παρελεύσονται, στοιχεῖα δὲ καυσούμενα καὶ γῆ καὶ τὰ ἐν αὐτῇ ἔργα εὑρεθήσεται.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἥξει",
+      "lemma": [
+        "G2240"
+      ],
+      "strongs": "G2240",
+      "morph": "robinson:V-FAI-3S",
+      "translation": "Will come",
+      "metadata": {},
+      "gematria": {
+        "standard": 83,
+        "ordinal": 35,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἡμέρα",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-NSF",
+      "translation": "day",
+      "metadata": {},
+      "gematria": {
+        "standard": 154,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "κυρίου",
+      "lemma": null,
+      "morph": null,
+      "translation": "of [the] Lord",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 91,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "like",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "κλέπτης",
+      "lemma": [
+        "G2812"
+      ],
+      "strongs": "G2812",
+      "morph": "robinson:N-NSM",
+      "translation": "a thief",
+      "metadata": {},
+      "gematria": {
+        "standard": 643,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "νυκτί,",
+      "lemma": [
+        "G3571"
+      ],
+      "strongs": "G3571",
+      "morph": "robinson:N-DSF",
+      "translation": "[the] night",
+      "metadata": {},
+      "gematria": {
+        "standard": 780,
+        "ordinal": 71,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "ᾗ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-DSF",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 18,
+        "ordinal": 16,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 12,
+      "text": "οὐρανοὶ",
+      "lemma": [
+        "G3772"
+      ],
+      "strongs": "G3772",
+      "morph": "robinson:N-NPM",
+      "translation": "heavens",
+      "metadata": {},
+      "gematria": {
+        "standard": 701,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 13,
+      "text": "ῥοιζηδὸν",
+      "lemma": [
+        "G4500"
+      ],
+      "strongs": "G4500",
+      "morph": "robinson:ADV",
+      "translation": "with a roar",
+      "metadata": {},
+      "gematria": {
+        "standard": 319,
+        "ordinal": 86,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 14,
+      "text": "παρελεύσονται,",
+      "lemma": [
+        "G3928"
+      ],
+      "strongs": "G3928",
+      "morph": "robinson:V-FDI-3P",
+      "translation": "will pass away,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1252,
+        "ordinal": 150,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 15,
+      "text": "στοιχεῖα",
+      "lemma": [
+        "G4747"
+      ],
+      "strongs": "G4747",
+      "morph": "robinson:N-NPN",
+      "translation": "elements",
+      "metadata": {},
+      "gematria": {
+        "standard": 1196,
+        "ordinal": 98,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 16,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 17,
+      "text": "καυσούμενα",
+      "lemma": [
+        "G2741"
+      ],
+      "strongs": "G2741",
+      "morph": "robinson:V-PPP-NPN",
+      "translation": "burning with heat",
+      "metadata": {},
+      "gematria": {
+        "standard": 1187,
+        "ordinal": 115,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "γῆ",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] earth",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 20,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 23,
+      "text": "αὐτῇ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSF",
+      "translation": "it",
+      "metadata": {},
+      "gematria": {
+        "standard": 719,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἔργα",
+      "lemma": [
+        "G2041"
+      ],
+      "strongs": "G2041",
+      "morph": "robinson:N-NPN",
+      "translation": "works",
+      "metadata": {},
+      "gematria": {
+        "standard": 109,
+        "ordinal": 26,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 25,
+      "text": "εὑρεθήσεται.",
+      "lemma": [
+        "G2147"
+      ],
+      "strongs": "G2147",
+      "morph": "robinson:V-FPI-3S",
+      "translation": "will be exposed.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1043,
+        "ordinal": 114,
+        "reduced": 60
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10841,
+    "ordinal": 1284,
+    "reduced": 573
+  }
+}

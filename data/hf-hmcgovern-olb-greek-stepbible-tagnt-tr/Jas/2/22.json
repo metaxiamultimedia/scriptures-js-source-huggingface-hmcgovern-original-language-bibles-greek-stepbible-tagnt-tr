@@ -1,0 +1,241 @@
+{
+  "text": "βλέπεις ὅτι ἡ πίστις συνήργει τοῖς ἔργοις αὐτοῦ καὶ ἐκ τῶν ἔργων ἡ πίστις ἐτελειώθη;",
+  "words": [
+    {
+      "position": 1,
+      "text": "βλέπεις",
+      "lemma": [
+        "G991"
+      ],
+      "strongs": "G991",
+      "morph": "robinson:V-PAI-2S",
+      "translation": "[Do] you see",
+      "metadata": {},
+      "gematria": {
+        "standard": 332,
+        "ordinal": 66,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "πίστις",
+      "lemma": null,
+      "morph": null,
+      "translation": "[his] faith",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 89,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 5,
+      "text": "συνήργει",
+      "lemma": [
+        "G4903"
+      ],
+      "strongs": "G4903",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was working with",
+      "metadata": {},
+      "gematria": {
+        "standard": 776,
+        "ordinal": 92,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἔργοις",
+      "lemma": [
+        "G2041"
+      ],
+      "strongs": "G2041",
+      "morph": "robinson:N-DPN",
+      "translation": "works",
+      "metadata": {},
+      "gematria": {
+        "standard": 388,
+        "ordinal": 67,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἔργων",
+      "lemma": [
+        "G2041"
+      ],
+      "strongs": "G2041",
+      "morph": "robinson:N-GPN",
+      "translation": "[his] works",
+      "metadata": {},
+      "gematria": {
+        "standard": 958,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 14,
+      "text": "πίστις",
+      "lemma": null,
+      "morph": null,
+      "translation": "[his] faith",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 89,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐτελειώθη;",
+      "lemma": [
+        "G5048"
+      ],
+      "strongs": "G5048",
+      "morph": "robinson:V-API-3S",
+      "translation": "was perfected?",
+      "metadata": {},
+      "gematria": {
+        "standard": 1172,
+        "ordinal": 93,
+        "reduced": 48
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8579,
+    "ordinal": 842,
+    "reduced": 383
+  }
+}

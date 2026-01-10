@@ -1,0 +1,218 @@
+{
+  "text": "καὶ ἀπὸ μὲν τῆς ἀληθείας τὴν ἀκοὴν ἀποστρέψουσιν, ἐπὶ δὲ τοὺς μύθους ἐκτραπήσονται.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
+      "text": "μὲν",
+      "lemma": [
+        "G3303"
+      ],
+      "strongs": "G3303",
+      "morph": "robinson:PRT",
+      "translation": "indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀληθείας",
+      "lemma": [
+        "G225"
+      ],
+      "strongs": "G225",
+      "morph": "robinson:N-GSF",
+      "translation": "truth",
+      "metadata": {},
+      "gematria": {
+        "standard": 264,
+        "ordinal": 60,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀκοὴν",
+      "lemma": [
+        "G189"
+      ],
+      "strongs": "G189",
+      "morph": "robinson:N-ASF",
+      "translation": "hearing",
+      "metadata": {},
+      "gematria": {
+        "standard": 149,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀποστρέψουσιν,",
+      "lemma": [
+        "G654"
+      ],
+      "strongs": "G654",
+      "morph": "robinson:V-FAI-3P",
+      "translation": "they will turn away,",
+      "metadata": {},
+      "gematria": {
+        "standard": 2186,
+        "ordinal": 189,
+        "reduced": 72
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "unto",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 10,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 12,
+      "text": "μύθους",
+      "lemma": [
+        "G3454"
+      ],
+      "strongs": "G3454",
+      "morph": "robinson:N-APM",
+      "translation": "myths",
+      "metadata": {},
+      "gematria": {
+        "standard": 1119,
+        "ordinal": 93,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐκτραπήσονται.",
+      "lemma": [
+        "G1624"
+      ],
+      "strongs": "G1624",
+      "morph": "robinson:V-2FPI-3P",
+      "translation": "they will be turned aside.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1145,
+        "ordinal": 150,
+        "reduced": 60
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7080,
+    "ordinal": 814,
+    "reduced": 337
+  }
+}

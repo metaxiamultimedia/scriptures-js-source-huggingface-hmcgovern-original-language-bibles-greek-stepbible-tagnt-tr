@@ -1,0 +1,439 @@
+{
+  "text": "Καὶ εἶδον ἐκ τῆς θαλάσσης θηρίον ἀναβαῖνον, ἔχον κέρατα δέκα καὶ κεφαλὰς ἑπτὰ καὶ ἐπὶ τῶν κεράτων αὐτοῦ δέκα διαδήματα καὶ ἐπὶ τὰς κεφαλὰς αὐτοῦ ὀνόματα βλασφημίας.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἶδον",
+      "lemma": null,
+      "morph": null,
+      "translation": "I saw",
+      "metadata": {},
+      "gematria": {
+        "standard": 139,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
+      "text": "θαλάσσης",
+      "lemma": [
+        "G2281"
+      ],
+      "strongs": "G2281",
+      "morph": "robinson:N-GSF",
+      "translation": "sea",
+      "metadata": {},
+      "gematria": {
+        "standard": 649,
+        "ordinal": 82,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 6,
+      "text": "θηρίον",
+      "lemma": [
+        "G2342"
+      ],
+      "strongs": "G2342",
+      "morph": "robinson:N-ASN",
+      "translation": "a beast",
+      "metadata": {},
+      "gematria": {
+        "standard": 247,
+        "ordinal": 69,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀναβαῖνον,",
+      "lemma": [
+        "G305"
+      ],
+      "strongs": "G305",
+      "morph": "robinson:V-PAP-ASN",
+      "translation": "rising,",
+      "metadata": {},
+      "gematria": {
+        "standard": 235,
+        "ordinal": 68,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἔχον",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAP-ASN",
+      "translation": "having",
+      "metadata": {},
+      "gematria": {
+        "standard": 725,
+        "ordinal": 55,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "κέρατα",
+      "lemma": [
+        "G2768"
+      ],
+      "strongs": "G2768",
+      "morph": "robinson:N-APN",
+      "translation": "horns",
+      "metadata": {},
+      "gematria": {
+        "standard": 427,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
+      "text": "δέκα",
+      "lemma": [
+        "G1176"
+      ],
+      "strongs": "G1176",
+      "morph": "robinson:A-NUI",
+      "translation": "ten",
+      "metadata": {},
+      "gematria": {
+        "standard": 30,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "κεφαλὰς",
+      "lemma": [
+        "G2776"
+      ],
+      "strongs": "G2776",
+      "morph": "robinson:N-APF",
+      "translation": "heads",
+      "metadata": {},
+      "gematria": {
+        "standard": 757,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἑπτὰ",
+      "lemma": [
+        "G2033"
+      ],
+      "strongs": "G2033",
+      "morph": "robinson:A-NUI",
+      "translation": "seven",
+      "metadata": {},
+      "gematria": {
+        "standard": 386,
+        "ordinal": 41,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "on",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 16,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "κεράτων",
+      "lemma": [
+        "G2768"
+      ],
+      "strongs": "G2768",
+      "morph": "robinson:N-GPN",
+      "translation": "horns",
+      "metadata": {},
+      "gematria": {
+        "standard": 1276,
+        "ordinal": 89,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 18,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSN",
+      "translation": "of it",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 19,
+      "text": "δέκα",
+      "lemma": [
+        "G1176"
+      ],
+      "strongs": "G1176",
+      "morph": "robinson:A-NUI",
+      "translation": "ten",
+      "metadata": {},
+      "gematria": {
+        "standard": 30,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "διαδήματα",
+      "lemma": [
+        "G1238"
+      ],
+      "strongs": "G1238",
+      "morph": "robinson:N-APN",
+      "translation": "royal crowns",
+      "metadata": {},
+      "gematria": {
+        "standard": 369,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 21,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "upon",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 23,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 24,
+      "text": "κεφαλὰς",
+      "lemma": [
+        "G2776"
+      ],
+      "strongs": "G2776",
+      "morph": "robinson:N-APF",
+      "translation": "heads",
+      "metadata": {},
+      "gematria": {
+        "standard": 757,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 25,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSN",
+      "translation": "of it",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 26,
+      "text": "ὀνόματα",
+      "lemma": [
+        "G3686"
+      ],
+      "strongs": "G3686",
+      "morph": "robinson:N-APN",
+      "translation": "names",
+      "metadata": {},
+      "gematria": {
+        "standard": 532,
+        "ordinal": 76,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 27,
+      "text": "βλασφημίας.",
+      "lemma": [
+        "G988"
+      ],
+      "strongs": "G988",
+      "morph": "robinson:N-GSF",
+      "translation": "of blasphemy.",
+      "metadata": {},
+      "gematria": {
+        "standard": 992,
+        "ordinal": 100,
+        "reduced": 46
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12391,
+    "ordinal": 1354,
+    "reduced": 544
+  }
+}

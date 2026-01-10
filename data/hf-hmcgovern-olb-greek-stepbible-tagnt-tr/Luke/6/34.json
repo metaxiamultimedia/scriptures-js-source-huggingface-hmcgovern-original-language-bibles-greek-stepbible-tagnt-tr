@@ -1,0 +1,282 @@
+{
+  "text": "καὶ ἐὰν παρ᾽ ὧν ἐλπίζετε ποία ὑμῖν χάρις ἐστίν; καὶ ἁμαρτωλοὶ ἁμαρτωλοῖς δανίζουσιν ἵνα ἀπολάβωσιν τὰ ἴσα.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "παρ᾽",
+      "lemma": [
+        "G3844"
+      ],
+      "strongs": "G3844",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 181,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὧν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-GPM",
+      "translation": "whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐλπίζετε",
+      "lemma": [
+        "G1679"
+      ],
+      "strongs": "G1679",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "you expect",
+      "metadata": {},
+      "gematria": {
+        "standard": 442,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 6,
+      "text": "ποία",
+      "lemma": [
+        "G4169"
+      ],
+      "strongs": "G4169",
+      "morph": "robinson:I-NSF",
+      "translation": "what",
+      "metadata": {},
+      "gematria": {
+        "standard": 161,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 8,
+      "text": "χάρις",
+      "lemma": [
+        "G5485"
+      ],
+      "strongs": "G5485",
+      "morph": "robinson:N-NSF",
+      "translation": "credit",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐστίν;",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is it?",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "Even",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἁμαρτωλοὶ",
+      "lemma": [
+        "G268"
+      ],
+      "strongs": "G268",
+      "morph": "robinson:A-NPM",
+      "translation": "sinners",
+      "metadata": {},
+      "gematria": {
+        "standard": 1352,
+        "ordinal": 109,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἁμαρτωλοῖς",
+      "lemma": [
+        "G268"
+      ],
+      "strongs": "G268",
+      "morph": "robinson:A-DPM",
+      "translation": "to sinners",
+      "metadata": {},
+      "gematria": {
+        "standard": 1552,
+        "ordinal": 127,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 13,
+      "text": "δανίζουσιν",
+      "lemma": [
+        "G1155"
+      ],
+      "strongs": "G1155",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "lend",
+      "metadata": {},
+      "gematria": {
+        "standard": 802,
+        "ordinal": 108,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀπολάβωσιν",
+      "lemma": [
+        "G618"
+      ],
+      "strongs": "G618",
+      "morph": "robinson:V-2AAS-3P",
+      "translation": "they may receive",
+      "metadata": {},
+      "gematria": {
+        "standard": 1244,
+        "ordinal": 110,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 16,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἴσα.",
+      "lemma": [
+        "G2470"
+      ],
+      "strongs": "G2470",
+      "morph": "robinson:A-APN",
+      "translation": "same amount.",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9251,
+    "ordinal": 957,
+    "reduced": 417
+  }
+}

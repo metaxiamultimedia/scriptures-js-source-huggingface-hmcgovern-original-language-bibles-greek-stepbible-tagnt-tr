@@ -1,0 +1,276 @@
+{
+  "text": "ὁ εὑρὼν τὴν ψυχὴν αὐτοῦ ἀπολέσει αὐτὴν καὶ ὁ ἀπολέσας τὴν ψυχὴν αὐτοῦ ἕνεκεν ἐμοῦ εὑρήσει αὐτήν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "εὑρὼν",
+      "lemma": [
+        "G2147"
+      ],
+      "strongs": "G2147",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having found",
+      "metadata": {},
+      "gematria": {
+        "standard": 1355,
+        "ordinal": 79,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "ψυχὴν",
+      "lemma": null,
+      "morph": null,
+      "translation": "life",
+      "metadata": {},
+      "gematria": {
+        "standard": 1758,
+        "ordinal": 85,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀπολέσει",
+      "lemma": [
+        "G622"
+      ],
+      "strongs": "G622",
+      "morph": "robinson:V-FAI-3S",
+      "translation": "will lose",
+      "metadata": {},
+      "gematria": {
+        "standard": 401,
+        "ordinal": 80,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 7,
+      "text": "αὐτὴν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASF",
+      "translation": "it",
+      "metadata": {},
+      "gematria": {
+        "standard": 759,
+        "ordinal": 60,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀπολέσας",
+      "lemma": [
+        "G622"
+      ],
+      "strongs": "G622",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having lost",
+      "metadata": {},
+      "gematria": {
+        "standard": 587,
+        "ordinal": 85,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
+      "text": "ψυχὴν",
+      "lemma": null,
+      "morph": null,
+      "translation": "life",
+      "metadata": {},
+      "gematria": {
+        "standard": 1758,
+        "ordinal": 85,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἕνεκεν",
+      "lemma": [
+        "G1752"
+      ],
+      "strongs": "G1752",
+      "morph": "robinson:PREP",
+      "translation": "on account of",
+      "metadata": {},
+      "gematria": {
+        "standard": 135,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐμοῦ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:S-1SGSN",
+      "translation": "Me",
+      "metadata": {},
+      "gematria": {
+        "standard": 515,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "εὑρήσει",
+      "lemma": [
+        "G2147"
+      ],
+      "strongs": "G2147",
+      "morph": "robinson:V-FAI-3S",
+      "translation": "will find",
+      "metadata": {},
+      "gematria": {
+        "standard": 728,
+        "ordinal": 81,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 17,
+      "text": "αὐτήν.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASF",
+      "translation": "it.",
+      "metadata": {},
+      "gematria": {
+        "standard": 759,
+        "ordinal": 60,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11984,
+    "ordinal": 996,
+    "reduced": 339
+  }
+}

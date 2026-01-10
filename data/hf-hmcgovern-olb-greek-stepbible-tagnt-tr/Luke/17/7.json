@@ -1,0 +1,295 @@
+{
+  "text": "Τίς δὲ ἐξ ὑμῶν δοῦλον ἔχων ἀροτριῶντα ἢ ποιμαίνοντα, ὃς εἰσελθόντι ἐκ τοῦ ἀγροῦ ἐρεῖ αὐτῷ· εὐθέως παρελθὼν",
+  "words": [
+    {
+      "position": 1,
+      "text": "Τίς",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-NSM",
+      "translation": "Which",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐξ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὑμῶν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "δοῦλον",
+      "lemma": [
+        "G1401"
+      ],
+      "strongs": "G1401",
+      "morph": "robinson:N-ASM",
+      "translation": "a servant",
+      "metadata": {},
+      "gematria": {
+        "standard": 624,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἔχων",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "having",
+      "metadata": {},
+      "gematria": {
+        "standard": 1455,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀροτριῶντα",
+      "lemma": [
+        "G722"
+      ],
+      "strongs": "G722",
+      "morph": "robinson:V-PAP-ASM",
+      "translation": "plowing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1732,
+        "ordinal": 135,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "ποιμαίνοντα,",
+      "lemma": [
+        "G4165"
+      ],
+      "strongs": "G4165",
+      "morph": "robinson:V-PAP-ASM",
+      "translation": "shepherding,",
+      "metadata": {},
+      "gematria": {
+        "standard": 682,
+        "ordinal": 123,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὃς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "εἰσελθόντι",
+      "lemma": [
+        "G1525"
+      ],
+      "strongs": "G1525",
+      "morph": "robinson:V-2AAP-DSM",
+      "translation": "having come in",
+      "metadata": {},
+      "gematria": {
+        "standard": 689,
+        "ordinal": 112,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀγροῦ",
+      "lemma": null,
+      "morph": null,
+      "translation": "field",
+      "metadata": {},
+      "gematria": {
+        "standard": 574,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐρεῖ",
+      "lemma": [
+        "G4483"
+      ],
+      "strongs": "G4483",
+      "morph": "robinson:V-FAI-3S",
+      "translation": "will say",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 16,
+      "text": "αὐτῷ·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 17,
+      "text": "εὐθέως",
+      "lemma": [
+        "G2112"
+      ],
+      "strongs": "G2112",
+      "morph": "robinson:ADV",
+      "translation": "Immediately",
+      "metadata": {},
+      "gematria": {
+        "standard": 1419,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 18,
+      "text": "παρελθὼν",
+      "lemma": [
+        "G3928"
+      ],
+      "strongs": "G3928",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having come",
+      "metadata": {},
+      "gematria": {
+        "standard": 1075,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12828,
+    "ordinal": 1104,
+    "reduced": 429
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "text": "καὶ φωνὴ πάλιν ἐκ δευτέρου πρὸς αὐτόν· ἃ ὁ θεὸς ἐκαθάρισεν, σὺ μὴ κοίνου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "φωνὴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "a voice",
+      "metadata": {},
+      "gematria": {
+        "standard": 1358,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 3,
+      "text": "πάλιν",
+      "lemma": [
+        "G3825"
+      ],
+      "strongs": "G3825",
+      "morph": "robinson:ADV",
+      "translation": "[came] again",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "δευτέρου",
+      "lemma": [
+        "G1208"
+      ],
+      "strongs": "G1208",
+      "morph": "robinson:A-GSN",
+      "translation": "[the] second time",
+      "metadata": {},
+      "gematria": {
+        "standard": 1284,
+        "ordinal": 105,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "αὐτόν·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him:",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-APN",
+      "translation": "What",
+      "metadata": {},
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐκαθάρισεν,",
+      "lemma": [
+        "G2511"
+      ],
+      "strongs": "G2511",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "has cleansed,",
+      "metadata": {},
+      "gematria": {
+        "standard": 401,
+        "ordinal": 87,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 12,
+      "text": "σὺ",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NS",
+      "translation": "you yourself",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "κοίνου.",
+      "lemma": [
+        "G2840"
+      ],
+      "strongs": "G2840",
+      "morph": "robinson:V-PAM-2S",
+      "translation": "do call common.",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6164,
+    "ordinal": 677,
+    "reduced": 272
+  }
+}

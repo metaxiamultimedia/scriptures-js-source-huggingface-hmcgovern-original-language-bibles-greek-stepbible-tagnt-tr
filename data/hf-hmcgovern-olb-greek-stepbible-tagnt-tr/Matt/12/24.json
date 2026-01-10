@@ -1,0 +1,295 @@
+{
+  "text": "Οἱ δὲ Φαρισαῖοι ἀκούσαντες εἶπον· οὗτος οὐκ ἐκβάλλει τὰ δαιμόνια εἰ μὴ ἐν τῷ Βεελζεβοὺλ ἄρχοντι τῶν δαιμονίων.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "Φαρισαῖοι",
+      "lemma": [
+        "G5330"
+      ],
+      "strongs": "G5330",
+      "morph": "robinson:N-NPM-T",
+      "translation": "the Pharisees",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 100,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀκούσαντες",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "having heard",
+      "metadata": {},
+      "gematria": {
+        "standard": 1247,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἶπον·",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "said;",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὗτος",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSM",
+      "translation": "This [man]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1040,
+        "ordinal": 87,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐκβάλλει",
+      "lemma": [
+        "G1544"
+      ],
+      "strongs": "G1544",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "casts out",
+      "metadata": {},
+      "gematria": {
+        "standard": 103,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 9,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 10,
+      "text": "δαιμόνια",
+      "lemma": [
+        "G1140"
+      ],
+      "strongs": "G1140",
+      "morph": "robinson:N-APN",
+      "translation": "demons",
+      "metadata": {},
+      "gematria": {
+        "standard": 186,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 11,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "except",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "Βεελζεβοὺλ",
+      "lemma": [
+        "G954"
+      ],
+      "strongs": "G954",
+      "morph": "robinson:N-DSM-T",
+      "translation": "Beelzebul",
+      "metadata": {},
+      "gematria": {
+        "standard": 556,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἄρχοντι",
+      "lemma": [
+        "G758"
+      ],
+      "strongs": "G758",
+      "morph": "robinson:N-DSM",
+      "translation": "prince",
+      "metadata": {},
+      "gematria": {
+        "standard": 1131,
+        "ordinal": 96,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 17,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "δαιμονίων.",
+      "lemma": [
+        "G1140"
+      ],
+      "strongs": "G1140",
+      "morph": "robinson:N-GPN",
+      "translation": "demons.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1035,
+        "ordinal": 100,
+        "reduced": 46
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9673,
+    "ordinal": 1018,
+    "reduced": 424
+  }
+}

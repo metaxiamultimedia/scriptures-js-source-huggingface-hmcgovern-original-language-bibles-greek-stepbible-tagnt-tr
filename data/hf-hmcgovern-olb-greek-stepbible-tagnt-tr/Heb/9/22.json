@@ -1,0 +1,247 @@
+{
+  "text": "καὶ σχεδὸν ἐν αἵματι πάντα καθαρίζεται κατὰ τὸν νόμον καὶ χωρὶς αἱματεκχυσίας οὐ γίνεται ἄφεσις.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "σχεδὸν",
+      "lemma": [
+        "G4975"
+      ],
+      "strongs": "G4975",
+      "morph": "robinson:ADV",
+      "translation": "almost",
+      "metadata": {},
+      "gematria": {
+        "standard": 929,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "αἵματι",
+      "lemma": null,
+      "morph": null,
+      "translation": "blood",
+      "metadata": {},
+      "gematria": {
+        "standard": 362,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "πάντα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NPN",
+      "translation": "all things",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "καθαρίζεται",
+      "lemma": [
+        "G2511"
+      ],
+      "strongs": "G2511",
+      "morph": "robinson:V-PPI-3S",
+      "translation": "are purified",
+      "metadata": {},
+      "gematria": {
+        "standard": 464,
+        "ordinal": 86,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 7,
+      "text": "κατὰ",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "according to",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 31,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "νόμον",
+      "lemma": [
+        "G3551"
+      ],
+      "strongs": "G3551",
+      "morph": "robinson:N-ASM",
+      "translation": "law",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "χωρὶς",
+      "lemma": [
+        "G5565"
+      ],
+      "strongs": "G5565",
+      "morph": "robinson:PREP",
+      "translation": "apart from",
+      "metadata": {},
+      "gematria": {
+        "standard": 1710,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 12,
+      "text": "αἱματεκχυσίας",
+      "lemma": [
+        "G130"
+      ],
+      "strongs": "G130",
+      "morph": "robinson:N-GSF",
+      "translation": "blood-shedding",
+      "metadata": {},
+      "gematria": {
+        "standard": 1788,
+        "ordinal": 145,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 13,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 14,
+      "text": "γίνεται",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-PNI-3S",
+      "translation": "there is",
+      "metadata": {},
+      "gematria": {
+        "standard": 379,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἄφεσις.",
+      "lemma": [
+        "G859"
+      ],
+      "strongs": "G859",
+      "morph": "robinson:N-NSF",
+      "translation": "forgiveness.",
+      "metadata": {},
+      "gematria": {
+        "standard": 916,
+        "ordinal": 72,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8589,
+    "ordinal": 869,
+    "reduced": 356
+  }
+}

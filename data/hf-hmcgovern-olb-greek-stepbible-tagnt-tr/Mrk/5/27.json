@@ -1,0 +1,215 @@
+{
+  "text": "ἀκούσασα περὶ τοῦ Ἰησοῦ, ἐλθοῦσα ἐν τῷ ὄχλῳ ὄπισθεν ἥψατο τοῦ ἱματίου αὐτοῦ·",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀκούσασα",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAP-NSF",
+      "translation": "having heard",
+      "metadata": {},
+      "gematria": {
+        "standard": 893,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "concerning",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἰησοῦ,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus,",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐλθοῦσα",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-2AAP-NSF",
+      "translation": "having come up",
+      "metadata": {},
+      "gematria": {
+        "standard": 715,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὄχλῳ",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-DSM",
+      "translation": "crowd",
+      "metadata": {},
+      "gematria": {
+        "standard": 1510,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὄπισθεν",
+      "lemma": [
+        "G3693"
+      ],
+      "strongs": "G3693",
+      "morph": "robinson:PREP",
+      "translation": "behind [Him]",
+      "metadata": {},
+      "gematria": {
+        "standard": 424,
+        "ordinal": 84,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἥψατο",
+      "lemma": [
+        "G681"
+      ],
+      "strongs": "G681",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "she touched",
+      "metadata": {},
+      "gematria": {
+        "standard": 1079,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἱματίου",
+      "lemma": [
+        "G2440"
+      ],
+      "strongs": "G2440",
+      "morph": "robinson:N-GSN",
+      "translation": "clothing",
+      "metadata": {},
+      "gematria": {
+        "standard": 831,
+        "ordinal": 85,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτοῦ·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10211,
+    "ordinal": 846,
+    "reduced": 306
+  }
+}

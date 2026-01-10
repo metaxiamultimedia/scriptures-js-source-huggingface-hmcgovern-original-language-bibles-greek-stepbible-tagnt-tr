@@ -1,0 +1,212 @@
+{
+  "text": "καὶ βαστάζων τὸν σταυρὸν ἐξῆλθεν εἰς τὸν λεγόμενον κρανίου τόπον, λέγεται Ἑβραϊστὶ Γολγοθα,",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "βαστάζων",
+      "lemma": [
+        "G941"
+      ],
+      "strongs": "G941",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "bearing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1361,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "σταυρὸν",
+      "lemma": [
+        "G4716"
+      ],
+      "strongs": "G4716",
+      "morph": "robinson:N-ASM",
+      "translation": "cross",
+      "metadata": {},
+      "gematria": {
+        "standard": 1121,
+        "ordinal": 103,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐξῆλθεν",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "He went out",
+      "metadata": {},
+      "gematria": {
+        "standard": 167,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 6,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the [place]",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "λεγόμενον",
+      "lemma": null,
+      "morph": null,
+      "translation": "being named",
+      "metadata": {},
+      "gematria": {
+        "standard": 323,
+        "ordinal": 92,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 9,
+      "text": "κρανίου",
+      "lemma": [
+        "G2898"
+      ],
+      "strongs": "G2898",
+      "morph": "robinson:N-GSN-L",
+      "translation": "of the Skull",
+      "metadata": {},
+      "gematria": {
+        "standard": 651,
+        "ordinal": 85,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 10,
+      "text": "τόπον,",
+      "lemma": [
+        "G5117"
+      ],
+      "strongs": "G5117",
+      "morph": "robinson:N-ASM-L",
+      "translation": "Place,",
+      "metadata": {},
+      "gematria": {
+        "standard": 570,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 11,
+      "text": "λέγεται",
+      "lemma": null,
+      "morph": null,
+      "translation": "is named",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 12,
+      "text": "Ἑβραϊστὶ",
+      "lemma": [
+        "G1447"
+      ],
+      "strongs": "G1447",
+      "morph": "robinson:ADV-T",
+      "translation": "in Hebrew",
+      "metadata": {},
+      "gematria": {
+        "standard": 628,
+        "ordinal": 80,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 13,
+      "text": "Γολγοθα,",
+      "lemma": [
+        "G1115"
+      ],
+      "strongs": "G1115",
+      "morph": "robinson:N-NSF-L",
+      "translation": "Golgotha,",
+      "metadata": {},
+      "gematria": {
+        "standard": 186,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6447,
+    "ordinal": 840,
+    "reduced": 345
+  }
+}

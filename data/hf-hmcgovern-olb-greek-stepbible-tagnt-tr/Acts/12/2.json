@@ -1,0 +1,116 @@
+{
+  "text": "ἀνεῖλεν δὲ Ἰάκωβον τὸν ἀδελφὸν Ἰωάννου μαχαίρῃ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀνεῖλεν",
+      "lemma": [
+        "G337"
+      ],
+      "strongs": "G337",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "He executed",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἰάκωβον",
+      "lemma": null,
+      "morph": null,
+      "translation": "James",
+      "metadata": {},
+      "gematria": {
+        "standard": 953,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀδελφὸν",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-ASM",
+      "translation": "brother",
+      "metadata": {},
+      "gematria": {
+        "standard": 660,
+        "ordinal": 70,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "Ἰωάννου",
+      "lemma": null,
+      "morph": null,
+      "translation": "of John",
+      "metadata": {},
+      "gematria": {
+        "standard": 1381,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 7,
+      "text": "μαχαίρῃ.",
+      "lemma": [
+        "G3162"
+      ],
+      "strongs": "G3162",
+      "morph": "robinson:N-DSF",
+      "translation": "with the sword.",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 78,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4344,
+    "ordinal": 430,
+    "reduced": 178
+  }
+}

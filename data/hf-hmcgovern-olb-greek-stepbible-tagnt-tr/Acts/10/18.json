@@ -1,0 +1,161 @@
+{
+  "text": "καὶ φωνήσαντες ἐπυνθάνοντο εἰ Σίμων ὁ ἐπικαλούμενος Πέτρος ἐνθάδε ξενίζεται.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "φωνήσαντες",
+      "lemma": [
+        "G5455"
+      ],
+      "strongs": "G5455",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "having called out",
+      "metadata": {},
+      "gematria": {
+        "standard": 2114,
+        "ordinal": 139,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐπυνθάνοντο",
+      "lemma": [
+        "G4441"
+      ],
+      "strongs": "G4441",
+      "morph": "robinson:V-INI-3P",
+      "translation": "they were asking",
+      "metadata": {},
+      "gematria": {
+        "standard": 1085,
+        "ordinal": 138,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "Σίμων",
+      "lemma": null,
+      "morph": null,
+      "translation": "Simon",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 76,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐπικαλούμενος",
+      "lemma": [
+        "G1941"
+      ],
+      "strongs": "G1941",
+      "morph": "robinson:V-PPP-NSM",
+      "translation": "is being called",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 150,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 8,
+      "text": "Πέτρος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Peter",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐνθάδε",
+      "lemma": [
+        "G1759"
+      ],
+      "strongs": "G1759",
+      "morph": "robinson:ADV",
+      "translation": "here",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 10,
+      "text": "ξενίζεται.",
+      "lemma": [
+        "G3579"
+      ],
+      "strongs": "G3579",
+      "morph": "robinson:V-PPI-3S",
+      "translation": "is lodged.",
+      "metadata": {},
+      "gematria": {
+        "standard": 448,
+        "ordinal": 81,
+        "reduced": 45
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6673,
+    "ordinal": 759,
+    "reduced": 327
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "text": "καὶ ὃς ἐὰν δέξηται ἓν παιδίον ἐπὶ τῷ ὀνόματί μου, ἐμὲ δέχεται.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὃς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSM",
+      "translation": "who[ever]",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "δέξηται",
+      "lemma": [
+        "G1209"
+      ],
+      "strongs": "G1209",
+      "morph": "robinson:V-ADS-3S",
+      "translation": "shall receive",
+      "metadata": {},
+      "gematria": {
+        "standard": 388,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἓν",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-ASN",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "παιδίον",
+      "lemma": [
+        "G3813"
+      ],
+      "strongs": "G3813",
+      "morph": "robinson:N-ASN",
+      "translation": "little child",
+      "metadata": {},
+      "gematria": {
+        "standard": 225,
+        "ordinal": 67,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 8,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὀνόματί",
+      "lemma": [
+        "G3686"
+      ],
+      "strongs": "G3686",
+      "morph": "robinson:N-DSN",
+      "translation": "name",
+      "metadata": {},
+      "gematria": {
+        "standard": 541,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 10,
+      "text": "μου,",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of Me,",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐμὲ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1AS",
+      "translation": "Me myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 50,
+        "ordinal": 22,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 12,
+      "text": "δέχεται.",
+      "lemma": [
+        "G1209"
+      ],
+      "strongs": "G1209",
+      "morph": "robinson:V-PNI-3S",
+      "translation": "receives.",
+      "metadata": {},
+      "gematria": {
+        "standard": 925,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4256,
+    "ordinal": 516,
+    "reduced": 237
+  }
+}

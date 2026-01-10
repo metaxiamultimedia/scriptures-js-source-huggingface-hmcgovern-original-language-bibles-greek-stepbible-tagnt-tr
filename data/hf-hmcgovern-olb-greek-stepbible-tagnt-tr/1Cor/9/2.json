@@ -1,0 +1,292 @@
+{
+  "text": "εἰ ἄλλοις οὐκ εἰμὶ ἀπόστολος, ἀλλά γε ὑμῖν εἰμι· ἡ γὰρ σφραγίς τῆς ἀποστολῆς ὑμεῖς ἐστε ἐν κυρίῳ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἄλλοις",
+      "lemma": [
+        "G243"
+      ],
+      "strongs": "G243",
+      "morph": "robinson:A-DPM",
+      "translation": "to others",
+      "metadata": {},
+      "gematria": {
+        "standard": 341,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἰμὶ",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-1S",
+      "translation": "I am",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 35,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀπόστολος,",
+      "lemma": [
+        "G652"
+      ],
+      "strongs": "G652",
+      "morph": "robinson:N-NSM",
+      "translation": "an apostle,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1021,
+        "ordinal": 128,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀλλά",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "yet",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "γε",
+      "lemma": [
+        "G1065"
+      ],
+      "strongs": "G1065",
+      "morph": "robinson:PRT",
+      "translation": "at least",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 8,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "εἰμι·",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-1S",
+      "translation": "I am;",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 35,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 11,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
+      "text": "σφραγίς",
+      "lemma": [
+        "G4973"
+      ],
+      "strongs": "G4973",
+      "morph": "robinson:N-NSF",
+      "translation": "seal",
+      "metadata": {},
+      "gematria": {
+        "standard": 1014,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 13,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀποστολῆς",
+      "lemma": [
+        "G651"
+      ],
+      "strongs": "G651",
+      "morph": "robinson:N-GSF",
+      "translation": "apostleship",
+      "metadata": {},
+      "gematria": {
+        "standard": 959,
+        "ordinal": 120,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὑμεῖς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NP",
+      "translation": "you yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐστε",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "are",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "κυρίῳ.",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] Lord.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1340,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7720,
+    "ordinal": 905,
+    "reduced": 401
+  }
+}

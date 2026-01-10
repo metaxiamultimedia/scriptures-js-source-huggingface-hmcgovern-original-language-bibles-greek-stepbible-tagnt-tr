@@ -1,0 +1,433 @@
+{
+  "text": "ἀλλ᾽ ὅτε εἶδον ὅτι οὐκ ὀρθοποδοῦσιν πρὸς τὴν ἀλήθειαν τοῦ εὐαγγελίου, εἶπον τῷ ἔμπροσθεν πάντων· εἰ σὺ Ἰουδαῖος ὑπάρχων ἐθνικῶς καὶ Ἰουδαϊκῶς ζῇς, τὰ ἔθνη ἀναγκάζεις ἰουδαΐζειν;",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "But",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὅτε",
+      "lemma": [
+        "G3753"
+      ],
+      "strongs": "G3753",
+      "morph": "robinson:CONJ",
+      "translation": "when",
+      "metadata": {},
+      "gematria": {
+        "standard": 375,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "εἶδον",
+      "lemma": null,
+      "morph": null,
+      "translation": "I saw",
+      "metadata": {},
+      "gematria": {
+        "standard": 139,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὀρθοποδοῦσιν",
+      "lemma": [
+        "G3716"
+      ],
+      "strongs": "G3716",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "they are walking uprightly",
+      "metadata": {},
+      "gematria": {
+        "standard": 1133,
+        "ordinal": 165,
+        "reduced": 75
+      }
+    },
+    {
+      "position": 7,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "according to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀλήθειαν",
+      "lemma": [
+        "G225"
+      ],
+      "strongs": "G225",
+      "morph": "robinson:N-ASF",
+      "translation": "truth",
+      "metadata": {},
+      "gematria": {
+        "standard": 114,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 10,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "εὐαγγελίου,",
+      "lemma": [
+        "G2098"
+      ],
+      "strongs": "G2098",
+      "morph": "robinson:N-GSN",
+      "translation": "gospel,",
+      "metadata": {},
+      "gematria": {
+        "standard": 927,
+        "ordinal": 92,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 12,
+      "text": "εἶπον",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-1S",
+      "translation": "I said",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 13,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἔμπροσθεν",
+      "lemma": [
+        "G1715"
+      ],
+      "strongs": "G1715",
+      "morph": "robinson:PREP",
+      "translation": "before",
+      "metadata": {},
+      "gematria": {
+        "standard": 559,
+        "ordinal": 109,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 15,
+      "text": "πάντων·",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-GPM",
+      "translation": "all;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1281,
+        "ordinal": 86,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 17,
+      "text": "σὺ",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NS",
+      "translation": "you yourself",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "Ἰουδαῖος",
+      "lemma": [
+        "G2453"
+      ],
+      "strongs": "G2453",
+      "morph": "robinson:N-NSM-PG",
+      "translation": "a Jew",
+      "metadata": {},
+      "gematria": {
+        "standard": 765,
+        "ordinal": 91,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὑπάρχων",
+      "lemma": [
+        "G5225"
+      ],
+      "strongs": "G5225",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "being",
+      "metadata": {},
+      "gematria": {
+        "standard": 2031,
+        "ordinal": 113,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐθνικῶς",
+      "lemma": [
+        "G1483"
+      ],
+      "strongs": "G1483",
+      "morph": "robinson:ADV-T",
+      "translation": "like a Gentile",
+      "metadata": {},
+      "gematria": {
+        "standard": 1094,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 21,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "Ἰουδαϊκῶς",
+      "lemma": [
+        "G2452"
+      ],
+      "strongs": "G2452",
+      "morph": "robinson:ADV-T",
+      "translation": "like a Jew",
+      "metadata": {},
+      "gematria": {
+        "standard": 1515,
+        "ordinal": 110,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 23,
+      "text": "ζῇς,",
+      "lemma": [
+        "G2198"
+      ],
+      "strongs": "G2198",
+      "morph": "robinson:V-PAI-2S",
+      "translation": "live,",
+      "metadata": {},
+      "gematria": {
+        "standard": 225,
+        "ordinal": 40,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 24,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἔθνη",
+      "lemma": [
+        "G1484"
+      ],
+      "strongs": "G1484",
+      "morph": "robinson:N-APN",
+      "translation": "Gentiles",
+      "metadata": {},
+      "gematria": {
+        "standard": 72,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 26,
+      "text": "ἀναγκάζεις",
+      "lemma": [
+        "G315"
+      ],
+      "strongs": "G315",
+      "morph": "robinson:V-PAI-2S",
+      "translation": "do you compel",
+      "metadata": {},
+      "gematria": {
+        "standard": 298,
+        "ordinal": 67,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 27,
+      "text": "ἰουδαΐζειν;",
+      "lemma": [
+        "G2450"
+      ],
+      "strongs": "G2450",
+      "morph": "robinson:V-PAN",
+      "translation": "to Judaize?",
+      "metadata": {},
+      "gematria": {
+        "standard": 567,
+        "ordinal": 91,
+        "reduced": 55
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15876,
+    "ordinal": 1696,
+    "reduced": 751
+  }
+}

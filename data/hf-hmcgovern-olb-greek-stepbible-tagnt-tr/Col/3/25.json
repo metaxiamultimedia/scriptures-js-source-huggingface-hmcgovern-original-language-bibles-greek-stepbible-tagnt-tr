@@ -1,0 +1,154 @@
+{
+  "text": "ὁ ἀδικῶν κομίσεται ὃ ἠδίκησεν καὶ οὐκ ἔστιν προσωπολημψία.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀδικῶν",
+      "lemma": [
+        "G91"
+      ],
+      "strongs": "G91",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "doing wrong",
+      "metadata": {},
+      "gematria": {
+        "standard": 885,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 3,
+      "text": "κομίσεται",
+      "lemma": [
+        "G2865"
+      ],
+      "strongs": "G2865",
+      "morph": "robinson:V-FDI-3S",
+      "translation": "he will be repaid",
+      "metadata": {},
+      "gematria": {
+        "standard": 656,
+        "ordinal": 98,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASN",
+      "translation": "[for] what",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἠδίκησεν",
+      "lemma": [
+        "G91"
+      ],
+      "strongs": "G91",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he has done wrong",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 73,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἔστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "there is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "προσωπολημψία.",
+      "lemma": [
+        "G4382"
+      ],
+      "strongs": "G4382",
+      "morph": "robinson:N-NSF",
+      "translation": "partiality.",
+      "metadata": {},
+      "gematria": {
+        "standard": 2189,
+        "ordinal": 184,
+        "reduced": 76
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5261,
+    "ordinal": 575,
+    "reduced": 251
+  }
+}

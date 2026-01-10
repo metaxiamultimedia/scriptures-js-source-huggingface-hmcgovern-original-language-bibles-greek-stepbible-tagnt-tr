@@ -1,0 +1,372 @@
+{
+  "text": "Πάλιν ἐκ δευτέρου ἀπελθὼν προσηύξατο λέγων· πάτερ μου, εἰ οὐ δύναται τοῦτο τὸ ποτήριον παρελθεῖν ἐὰν μὴ αὐτὸ πίω, γενηθήτω τὸ θέλημά σου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Πάλιν",
+      "lemma": [
+        "G3825"
+      ],
+      "strongs": "G3825",
+      "morph": "robinson:ADV",
+      "translation": "Again",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "δευτέρου",
+      "lemma": [
+        "G1208"
+      ],
+      "strongs": "G1208",
+      "morph": "robinson:A-GSN",
+      "translation": "a second time",
+      "metadata": {},
+      "gematria": {
+        "standard": 1284,
+        "ordinal": 105,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀπελθὼν",
+      "lemma": [
+        "G565"
+      ],
+      "strongs": "G565",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having gone away",
+      "metadata": {},
+      "gematria": {
+        "standard": 975,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "προσηύξατο",
+      "lemma": [
+        "G4336"
+      ],
+      "strongs": "G4336",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "He prayed",
+      "metadata": {},
+      "gematria": {
+        "standard": 1289,
+        "ordinal": 142,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 6,
+      "text": "λέγων·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "πάτερ",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-VSM-T",
+      "translation": "Father",
+      "metadata": {},
+      "gematria": {
+        "standard": 486,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
+      "text": "μου,",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of Mine,",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 11,
+      "text": "δύναται",
+      "lemma": [
+        "G1410"
+      ],
+      "strongs": "G1410",
+      "morph": "robinson:V-PNI-3S",
+      "translation": "is possible",
+      "metadata": {},
+      "gematria": {
+        "standard": 766,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 12,
+      "text": "τοῦτο",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSN",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 14,
+      "text": "ποτήριον",
+      "lemma": [
+        "G4221"
+      ],
+      "strongs": "G4221",
+      "morph": "robinson:N-NSN",
+      "translation": "cup",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 111,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 15,
+      "text": "παρελθεῖν",
+      "lemma": [
+        "G3928"
+      ],
+      "strongs": "G3928",
+      "morph": "robinson:V-2AAN",
+      "translation": "to pass",
+      "metadata": {},
+      "gematria": {
+        "standard": 290,
+        "ordinal": 85,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 17,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "unless",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 18,
+      "text": "αὐτὸ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASN",
+      "translation": "it",
+      "metadata": {},
+      "gematria": {
+        "standard": 771,
+        "ordinal": 55,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 19,
+      "text": "πίω,",
+      "lemma": [
+        "G4095"
+      ],
+      "strongs": "G4095",
+      "morph": "robinson:V-2AAS-1S",
+      "translation": "I shall drink,",
+      "metadata": {},
+      "gematria": {
+        "standard": 890,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 20,
+      "text": "γενηθήτω",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-AOM-3S",
+      "translation": "[then] should be [done]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1183,
+        "ordinal": 86,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 21,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 22,
+      "text": "θέλημά",
+      "lemma": [
+        "G2307"
+      ],
+      "strongs": "G2307",
+      "morph": "robinson:N-NSN",
+      "translation": "will",
+      "metadata": {},
+      "gematria": {
+        "standard": 93,
+        "ordinal": 44,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 23,
+      "text": "σου.",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of You.",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13448,
+    "ordinal": 1344,
+    "reduced": 507
+  }
+}

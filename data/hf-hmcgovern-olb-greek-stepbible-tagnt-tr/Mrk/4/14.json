@@ -1,0 +1,90 @@
+{
+  "text": "ὁ σπείρων τὸν λόγον σπείρει.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "σπείρων",
+      "lemma": [
+        "G4687"
+      ],
+      "strongs": "G4687",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "sowing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1245,
+        "ordinal": 102,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "λόγον",
+      "lemma": [
+        "G3056"
+      ],
+      "strongs": "G3056",
+      "morph": "robinson:N-ASM",
+      "translation": "word",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "σπείρει.",
+      "lemma": [
+        "G4687"
+      ],
+      "strongs": "G4687",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "sows.",
+      "metadata": {},
+      "gematria": {
+        "standard": 410,
+        "ordinal": 79,
+        "reduced": 52
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2368,
+    "ordinal": 300,
+    "reduced": 138
+  }
+}

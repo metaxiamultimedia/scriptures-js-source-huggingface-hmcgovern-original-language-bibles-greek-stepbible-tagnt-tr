@@ -1,0 +1,263 @@
+{
+  "text": "ἔπειτα ὤφθη ἐπάνω πεντακοσίοις ἀδελφοῖς ἐφάπαξ ἐξ ὧν οἱ πλείονες μένουσιν ἕως ἄρτι, τινὲς δὲ ἐκοιμήθησαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἔπειτα",
+      "lemma": [
+        "G1899"
+      ],
+      "strongs": "G1899",
+      "morph": "robinson:ADV",
+      "translation": "Thereafter",
+      "metadata": {},
+      "gematria": {
+        "standard": 401,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὤφθη",
+      "lemma": null,
+      "morph": null,
+      "translation": "He appeared",
+      "metadata": {},
+      "gematria": {
+        "standard": 1317,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐπάνω",
+      "lemma": [
+        "G1883"
+      ],
+      "strongs": "G1883",
+      "morph": "robinson:PREP",
+      "translation": "to above",
+      "metadata": {},
+      "gematria": {
+        "standard": 936,
+        "ordinal": 59,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "πεντακοσίοις",
+      "lemma": [
+        "G4001"
+      ],
+      "strongs": "G4001",
+      "morph": "robinson:A-DPM",
+      "translation": "five hundred",
+      "metadata": {},
+      "gematria": {
+        "standard": 1016,
+        "ordinal": 148,
+        "reduced": 67
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀδελφοῖς",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-DPM",
+      "translation": "brothers",
+      "metadata": {},
+      "gematria": {
+        "standard": 820,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐφάπαξ",
+      "lemma": [
+        "G2178"
+      ],
+      "strongs": "G2178",
+      "morph": "robinson:ADV",
+      "translation": "at once",
+      "metadata": {},
+      "gematria": {
+        "standard": 647,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐξ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὧν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-GPM",
+      "translation": "whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "πλείονες",
+      "lemma": [
+        "G4119"
+      ],
+      "strongs": "G4119",
+      "morph": "robinson:A-NPM-C",
+      "translation": "greater part",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 92,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 11,
+      "text": "μένουσιν",
+      "lemma": [
+        "G3306"
+      ],
+      "strongs": "G3306",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "remain",
+      "metadata": {},
+      "gematria": {
+        "standard": 825,
+        "ordinal": 105,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἕως",
+      "lemma": [
+        "G2193"
+      ],
+      "strongs": "G2193",
+      "morph": "robinson:PREP",
+      "translation": "until",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἄρτι,",
+      "lemma": [
+        "G737"
+      ],
+      "strongs": "G737",
+      "morph": "robinson:ADV",
+      "translation": "now,",
+      "metadata": {},
+      "gematria": {
+        "standard": 411,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 14,
+      "text": "τινὲς",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NPM",
+      "translation": "some",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐκοιμήθησαν.",
+      "lemma": [
+        "G2837"
+      ],
+      "strongs": "G2837",
+      "morph": "robinson:V-API-3P",
+      "translation": "were fallen asleep.",
+      "metadata": {},
+      "gematria": {
+        "standard": 421,
+        "ordinal": 105,
+        "reduced": 60
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9818,
+    "ordinal": 1012,
+    "reduced": 463
+  }
+}

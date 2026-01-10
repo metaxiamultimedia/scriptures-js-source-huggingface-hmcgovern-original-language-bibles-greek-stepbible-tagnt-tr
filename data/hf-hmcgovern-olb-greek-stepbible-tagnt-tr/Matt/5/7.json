@@ -1,0 +1,103 @@
+{
+  "text": "Μακάριοι οἱ ἐλεήμονες, ὅτι αὐτοὶ ἐλεηθήσονται.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Μακάριοι",
+      "lemma": [
+        "G3107"
+      ],
+      "strongs": "G3107",
+      "morph": "robinson:A-NPM",
+      "translation": "Blessed [are]",
+      "metadata": {},
+      "gematria": {
+        "standard": 252,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 2,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐλεήμονες,",
+      "lemma": [
+        "G1655"
+      ],
+      "strongs": "G1655",
+      "morph": "robinson:A-NPM",
+      "translation": "merciful,",
+      "metadata": {},
+      "gematria": {
+        "standard": 413,
+        "ordinal": 91,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτοὶ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NPM",
+      "translation": "they themselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐλεηθήσονται.",
+      "lemma": [
+        "G1653"
+      ],
+      "strongs": "G1653",
+      "morph": "robinson:V-FPI-3P",
+      "translation": "will receive mercy.",
+      "metadata": {},
+      "gematria": {
+        "standard": 696,
+        "ordinal": 118,
+        "reduced": 64
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2602,
+    "ordinal": 414,
+    "reduced": 198
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "text": "ἔσται γὰρ καιρὸς ὅτε τῆς ὑγιαινούσης διδασκαλίας οὐκ ἀνέξονται, ἀλλὰ κατὰ τὰς ἰδίας ἐπιθυμίας ἑαυτοῖς ἐπισωρεύσουσιν διδασκάλους κνηθόμενοι τὴν ἀκοήν·",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἔσται",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-FDI-3S",
+      "translation": "There will be",
+      "metadata": {},
+      "gematria": {
+        "standard": 516,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 2,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "καιρὸς",
+      "lemma": [
+        "G2540"
+      ],
+      "strongs": "G2540",
+      "morph": "robinson:N-NSM",
+      "translation": "a time",
+      "metadata": {},
+      "gematria": {
+        "standard": 401,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὅτε",
+      "lemma": [
+        "G3753"
+      ],
+      "strongs": "G3753",
+      "morph": "robinson:PREP",
+      "translation": "when",
+      "metadata": {},
+      "gematria": {
+        "standard": 375,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑγιαινούσης",
+      "lemma": [
+        "G5198"
+      ],
+      "strongs": "G5198",
+      "morph": "robinson:V-PAP-GSF",
+      "translation": "sound",
+      "metadata": {},
+      "gematria": {
+        "standard": 1352,
+        "ordinal": 133,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 7,
+      "text": "διδασκαλίας",
+      "lemma": [
+        "G1319"
+      ],
+      "strongs": "G1319",
+      "morph": "robinson:N-GSF",
+      "translation": "teaching",
+      "metadata": {},
+      "gematria": {
+        "standard": 481,
+        "ordinal": 86,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 8,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀνέξονται,",
+      "lemma": [
+        "G430"
+      ],
+      "strongs": "G430",
+      "morph": "robinson:V-FDI-3P",
+      "translation": "they will endure,",
+      "metadata": {},
+      "gematria": {
+        "standard": 547,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀλλὰ",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "κατὰ",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "according to",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 31,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἰδίας",
+      "lemma": [
+        "G2398"
+      ],
+      "strongs": "G2398",
+      "morph": "robinson:A-APF",
+      "translation": "[their] own",
+      "metadata": {},
+      "gematria": {
+        "standard": 225,
+        "ordinal": 41,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐπιθυμίας",
+      "lemma": [
+        "G1939"
+      ],
+      "strongs": "G1939",
+      "morph": "robinson:N-APF",
+      "translation": "desires",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 98,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἑαυτοῖς",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-3DPM",
+      "translation": "to themselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 986,
+        "ordinal": 87,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐπισωρεύσουσιν",
+      "lemma": [
+        "G2002"
+      ],
+      "strongs": "G2002",
+      "morph": "robinson:V-FAI-3P",
+      "translation": "they will gather around [them]",
+      "metadata": {},
+      "gematria": {
+        "standard": 2530,
+        "ordinal": 207,
+        "reduced": 90
+      }
+    },
+    {
+      "position": 17,
+      "text": "διδασκάλους",
+      "lemma": [
+        "G1320"
+      ],
+      "strongs": "G1320",
+      "morph": "robinson:N-APM",
+      "translation": "teachers",
+      "metadata": {},
+      "gematria": {
+        "standard": 940,
+        "ordinal": 111,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 18,
+      "text": "κνηθόμενοι",
+      "lemma": [
+        "G2833"
+      ],
+      "strongs": "G2833",
+      "morph": "robinson:V-PPP-NPM",
+      "translation": "having an itching",
+      "metadata": {},
+      "gematria": {
+        "standard": 332,
+        "ordinal": 107,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 19,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀκοήν·",
+      "lemma": [
+        "G189"
+      ],
+      "strongs": "G189",
+      "morph": "robinson:N-ASF",
+      "translation": "ear;",
+      "metadata": {},
+      "gematria": {
+        "standard": 149,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11934,
+    "ordinal": 1409,
+    "reduced": 617
+  }
+}

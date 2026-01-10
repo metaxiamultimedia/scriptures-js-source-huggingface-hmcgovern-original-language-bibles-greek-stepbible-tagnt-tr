@@ -1,0 +1,292 @@
+{
+  "text": "ὅπως πληρωθῇ τὸ ῥηθὲν διὰ Ἠσαΐου τοῦ προφήτου λέγοντος· αὐτὸς τὰς ἀσθενείας ἡμῶν ἔλαβεν καὶ τὰς νόσους ἐβάστασεν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅπως",
+      "lemma": [
+        "G3704"
+      ],
+      "strongs": "G3704",
+      "morph": "robinson:CONJ",
+      "translation": "so that",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 2,
+      "text": "πληρωθῇ",
+      "lemma": [
+        "G4137"
+      ],
+      "strongs": "G4137",
+      "morph": "robinson:V-APS-3S",
+      "translation": "it may be fulfilled",
+      "metadata": {},
+      "gematria": {
+        "standard": 1045,
+        "ordinal": 99,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "ῥηθὲν",
+      "lemma": [
+        "G2046"
+      ],
+      "strongs": "G2046",
+      "morph": "robinson:V-APP-NSN",
+      "translation": "having been spoken",
+      "metadata": {},
+      "gematria": {
+        "standard": 172,
+        "ordinal": 50,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 5,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "Ἠσαΐου",
+      "lemma": [
+        "G2268"
+      ],
+      "strongs": "G2268",
+      "morph": "robinson:N-GSM-P",
+      "translation": "Isaiah",
+      "metadata": {},
+      "gematria": {
+        "standard": 689,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 7,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "προφήτου",
+      "lemma": [
+        "G4396"
+      ],
+      "strongs": "G4396",
+      "morph": "robinson:N-GSM",
+      "translation": "prophet",
+      "metadata": {},
+      "gematria": {
+        "standard": 1528,
+        "ordinal": 130,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 9,
+      "text": "λέγοντος·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 728,
+        "ordinal": 99,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 10,
+      "text": "αὐτὸς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NSM",
+      "translation": "Himself",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀσθενείας",
+      "lemma": null,
+      "morph": null,
+      "translation": "infirmities",
+      "metadata": {},
+      "gematria": {
+        "standard": 481,
+        "ordinal": 78,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἡμῶν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GP",
+      "translation": "of us",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἔλαβεν",
+      "lemma": [
+        "G2983"
+      ],
+      "strongs": "G2983",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "He took",
+      "metadata": {},
+      "gematria": {
+        "standard": 93,
+        "ordinal": 37,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "νόσους",
+      "lemma": [
+        "G3554"
+      ],
+      "strongs": "G3554",
+      "morph": "robinson:N-APF",
+      "translation": "[our] diseases",
+      "metadata": {},
+      "gematria": {
+        "standard": 990,
+        "ordinal": 99,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐβάστασεν.",
+      "lemma": [
+        "G941"
+      ],
+      "strongs": "G941",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "bore.",
+      "metadata": {},
+      "gematria": {
+        "standard": 764,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11697,
+    "ordinal": 1144,
+    "reduced": 469
+  }
+}

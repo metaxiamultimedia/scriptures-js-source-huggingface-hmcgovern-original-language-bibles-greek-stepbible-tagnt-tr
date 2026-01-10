@@ -1,0 +1,411 @@
+{
+  "text": "ἰδὼν δὲ τὸν Ἰησοῦν ἀνακράξας προσέπεσεν αὐτῷ καὶ φωνῇ μεγάλῃ εἶπεν· τί ἐμοὶ καὶ σοί, Ἰησοῦ, υἱὲ τοῦ θεοῦ τοῦ ὑψίστου; δέομαί σου, μή με βασανίσῃς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἰδὼν",
+      "lemma": null,
+      "morph": null,
+      "translation": "Having seen",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἰησοῦν",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 738,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀνακράξας",
+      "lemma": [
+        "G349"
+      ],
+      "strongs": "G349",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having cried out",
+      "metadata": {},
+      "gematria": {
+        "standard": 434,
+        "ordinal": 76,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "προσέπεσεν",
+      "lemma": [
+        "G4363"
+      ],
+      "strongs": "G4363",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "he fell down before",
+      "metadata": {},
+      "gematria": {
+        "standard": 795,
+        "ordinal": 128,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 7,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "φωνῇ",
+      "lemma": null,
+      "morph": null,
+      "translation": "in a voice",
+      "metadata": {},
+      "gematria": {
+        "standard": 1368,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 10,
+      "text": "μεγάλῃ",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-DSF",
+      "translation": "loud",
+      "metadata": {},
+      "gematria": {
+        "standard": 97,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 11,
+      "text": "εἶπεν·",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "said;",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 12,
+      "text": "τί",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-NSN",
+      "translation": "What",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐμοὶ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1DS",
+      "translation": "to me myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 125,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "σοί,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DS",
+      "translation": "to You,",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 16,
+      "text": "Ἰησοῦ,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus,",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 17,
+      "text": "υἱὲ",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-VSM",
+      "translation": "Son",
+      "metadata": {},
+      "gematria": {
+        "standard": 415,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 18,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 19,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 20,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 21,
+      "text": "ὑψίστου;",
+      "lemma": [
+        "G5310"
+      ],
+      "strongs": "G5310",
+      "morph": "robinson:A-GSM-S",
+      "translation": "Most High?",
+      "metadata": {},
+      "gematria": {
+        "standard": 2080,
+        "ordinal": 124,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 22,
+      "text": "δέομαί",
+      "lemma": [
+        "G1189"
+      ],
+      "strongs": "G1189",
+      "morph": "robinson:V-PNI-1S",
+      "translation": "I implore",
+      "metadata": {},
+      "gematria": {
+        "standard": 130,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 23,
+      "text": "σου,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of You",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 24,
+      "text": "μή",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 25,
+      "text": "με",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "me",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 26,
+      "text": "βασανίσῃς.",
+      "lemma": null,
+      "morph": null,
+      "translation": "You may torment!",
+      "metadata": {},
+      "gematria": {
+        "standard": 682,
+        "ordinal": 96,
+        "reduced": 60
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13945,
+    "ordinal": 1400,
+    "reduced": 608
+  }
+}

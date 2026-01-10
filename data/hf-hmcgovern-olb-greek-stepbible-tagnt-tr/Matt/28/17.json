@@ -1,0 +1,119 @@
+{
+  "text": "καὶ ἰδόντες αὐτὸν προσεκύνησαν οἱ δὲ ἐδίστασαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἰδόντες",
+      "lemma": null,
+      "morph": null,
+      "translation": "having seen",
+      "metadata": {},
+      "gematria": {
+        "standard": 639,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "προσεκύνησαν",
+      "lemma": [
+        "G4352"
+      ],
+      "strongs": "G4352",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "they worshiped",
+      "metadata": {},
+      "gematria": {
+        "standard": 1184,
+        "ordinal": 153,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 5,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "some",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐδίστασαν.",
+      "lemma": [
+        "G1365"
+      ],
+      "strongs": "G1365",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "doubted.",
+      "metadata": {},
+      "gematria": {
+        "standard": 771,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3535,
+    "ordinal": 445,
+    "reduced": 193
+  }
+}

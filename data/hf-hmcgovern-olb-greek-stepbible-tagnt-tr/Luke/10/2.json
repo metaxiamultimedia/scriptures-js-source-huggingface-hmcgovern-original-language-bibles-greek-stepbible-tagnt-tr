@@ -1,0 +1,388 @@
+{
+  "text": "ἔλεγεν δὲ πρὸς αὐτούς· ὁ μὲν θερισμὸς πολύς, οἱ δὲ ἐργάται ὀλίγοι· δεήθητε οὖν τοῦ κυρίου τοῦ θερισμοῦ ὅπως ἐργάτας εἰς τὸν θερισμὸν αὐτοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἔλεγεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "He was saying",
+      "metadata": {},
+      "gematria": {
+        "standard": 98,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "αὐτούς·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APM",
+      "translation": "them;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 93,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "μὲν",
+      "lemma": [
+        "G3303"
+      ],
+      "strongs": "G3303",
+      "morph": "robinson:PRT",
+      "translation": "indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "θερισμὸς",
+      "lemma": [
+        "G2326"
+      ],
+      "strongs": "G2326",
+      "morph": "robinson:N-NSM",
+      "translation": "harvest [is]",
+      "metadata": {},
+      "gematria": {
+        "standard": 634,
+        "ordinal": 102,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 8,
+      "text": "πολύς,",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-NSM",
+      "translation": "plentiful,",
+      "metadata": {},
+      "gematria": {
+        "standard": 780,
+        "ordinal": 80,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 9,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐργάται",
+      "lemma": [
+        "G2040"
+      ],
+      "strongs": "G2040",
+      "morph": "robinson:N-NPM",
+      "translation": "the workmen",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὀλίγοι·",
+      "lemma": [
+        "G3641"
+      ],
+      "strongs": "G3641",
+      "morph": "robinson:A-NPM",
+      "translation": "[are] few;",
+      "metadata": {},
+      "gematria": {
+        "standard": 193,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 13,
+      "text": "δεήθητε",
+      "lemma": [
+        "G1189"
+      ],
+      "strongs": "G1189",
+      "morph": "robinson:V-AOM-2P",
+      "translation": "do pray earnestly",
+      "metadata": {},
+      "gematria": {
+        "standard": 339,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 14,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 15,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 16,
+      "text": "κυρίου",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lord",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 91,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 17,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "θερισμοῦ",
+      "lemma": [
+        "G2326"
+      ],
+      "strongs": "G2326",
+      "morph": "robinson:N-GSM",
+      "translation": "harvest",
+      "metadata": {},
+      "gematria": {
+        "standard": 834,
+        "ordinal": 104,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὅπως",
+      "lemma": [
+        "G3704"
+      ],
+      "strongs": "G3704",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐργάτας",
+      "lemma": [
+        "G2040"
+      ],
+      "strongs": "G2040",
+      "morph": "robinson:N-APM",
+      "translation": "workmen",
+      "metadata": {},
+      "gematria": {
+        "standard": 610,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 21,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 22,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 23,
+      "text": "θερισμὸν",
+      "lemma": [
+        "G2326"
+      ],
+      "strongs": "G2326",
+      "morph": "robinson:N-ASM",
+      "translation": "harvest",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 97,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 24,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12492,
+    "ordinal": 1381,
+    "reduced": 571
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "text": "εἴ τις πεινᾷ, ἐν οἴκῳ ἐσθιέτω, ἵνα μὴ εἰς κρίμα συνέρχησθε. τὰ δὲ λοιπὰ ὡς ἂν ἔλθω διατάξομαι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSM",
+      "translation": "anyone",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "πεινᾷ,",
+      "lemma": [
+        "G3983"
+      ],
+      "strongs": "G3983",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is hungry,",
+      "metadata": {},
+      "gematria": {
+        "standard": 156,
+        "ordinal": 53,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "at",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "οἴκῳ",
+      "lemma": null,
+      "morph": null,
+      "translation": "home",
+      "metadata": {},
+      "gematria": {
+        "standard": 910,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐσθιέτω,",
+      "lemma": [
+        "G2068"
+      ],
+      "strongs": "G2068",
+      "morph": "robinson:V-PAM-3S",
+      "translation": "he should eat,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1329,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "so that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "κρίμα",
+      "lemma": [
+        "G2917"
+      ],
+      "strongs": "G2917",
+      "morph": "robinson:N-ASN",
+      "translation": "judgment",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 11,
+      "text": "συνέρχησθε.",
+      "lemma": [
+        "G4905"
+      ],
+      "strongs": "G4905",
+      "morph": "robinson:V-PNS-2P",
+      "translation": "you may come together.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1577,
+        "ordinal": 133,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 13,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "λοιπὰ",
+      "lemma": [
+        "G3062"
+      ],
+      "strongs": "G3062",
+      "morph": "robinson:A-APN",
+      "translation": "the other things",
+      "metadata": {},
+      "gematria": {
+        "standard": 191,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "as soon as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἂν",
+      "lemma": [
+        "G302"
+      ],
+      "strongs": "G302",
+      "morph": "robinson:PRT",
+      "translation": "when",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 14,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἔλθω",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-2AAS-1S",
+      "translation": "I may come",
+      "metadata": {},
+      "gematria": {
+        "standard": 844,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 18,
+      "text": "διατάξομαι.",
+      "lemma": [
+        "G1299"
+      ],
+      "strongs": "G1299",
+      "morph": "robinson:V-FDI-1S",
+      "translation": "I will set in order.",
+      "metadata": {},
+      "gematria": {
+        "standard": 497,
+        "ordinal": 85,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7940,
+    "ordinal": 812,
+    "reduced": 398
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "text": "Ἐν μεγάλῃ δὲ οἰκίᾳ οὐκ ἔστιν μόνον σκεύη χρυσᾶ καὶ ἀργυρᾶ ἀλλὰ καὶ ξύλινα καὶ ὀστράκινα, καὶ ἃ μὲν εἰς τιμὴν ἃ δὲ εἰς ἀτιμίαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "In",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "μεγάλῃ",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-DSF",
+      "translation": "a great",
+      "metadata": {},
+      "gematria": {
+        "standard": 97,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "οἰκίᾳ",
+      "lemma": null,
+      "morph": null,
+      "translation": "house",
+      "metadata": {},
+      "gematria": {
+        "standard": 121,
+        "ordinal": 53,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἔστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "there are",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "μόνον",
+      "lemma": [
+        "G3441"
+      ],
+      "strongs": "G3441",
+      "morph": "robinson:A-ASN",
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "σκεύη",
+      "lemma": [
+        "G4632"
+      ],
+      "strongs": "G4632",
+      "morph": "robinson:N-NPN",
+      "translation": "vessels",
+      "metadata": {},
+      "gematria": {
+        "standard": 633,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 9,
+      "text": "χρυσᾶ",
+      "lemma": [
+        "G5552"
+      ],
+      "strongs": "G5552",
+      "morph": "robinson:A-NPN",
+      "translation": "golden",
+      "metadata": {},
+      "gematria": {
+        "standard": 1301,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἀργυρᾶ",
+      "lemma": [
+        "G693"
+      ],
+      "strongs": "G693",
+      "morph": "robinson:A-NPN",
+      "translation": "silver",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 59,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀλλὰ",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ξύλινα",
+      "lemma": [
+        "G3585"
+      ],
+      "strongs": "G3585",
+      "morph": "robinson:A-NPN",
+      "translation": "wooden",
+      "metadata": {},
+      "gematria": {
+        "standard": 551,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὀστράκινα,",
+      "lemma": [
+        "G3749"
+      ],
+      "strongs": "G3749",
+      "morph": "robinson:A-NPN",
+      "translation": "earthen,",
+      "metadata": {},
+      "gematria": {
+        "standard": 752,
+        "ordinal": 103,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 17,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NPN",
+      "translation": "some",
+      "metadata": {},
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 19,
+      "text": "μὲν",
+      "lemma": [
+        "G3303"
+      ],
+      "strongs": "G3303",
+      "morph": "robinson:PRT",
+      "translation": "indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 20,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "unto",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 21,
+      "text": "τιμὴν",
+      "lemma": [
+        "G5092"
+      ],
+      "strongs": "G5092",
+      "morph": "robinson:N-ASF",
+      "translation": "honor",
+      "metadata": {},
+      "gematria": {
+        "standard": 408,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NPN",
+      "translation": "some",
+      "metadata": {},
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 23,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 24,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "unto",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἀτιμίαν.",
+      "lemma": [
+        "G819"
+      ],
+      "strongs": "G819",
+      "morph": "robinson:N-ASF",
+      "translation": "dishonor.",
+      "metadata": {},
+      "gematria": {
+        "standard": 412,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7001,
+    "ordinal": 1006,
+    "reduced": 448
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "text": "ἐγὼ δὲ ἥδιστα δαπανήσω καὶ ἐκδαπανηθήσομαι ὑπὲρ τῶν ψυχῶν ὑμῶν, εἰ περισσοτέρως ὑμᾶς ἀγαπῶν ἀγαπῶμαι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS",
+      "translation": "I myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἥδιστα",
+      "lemma": [
+        "G2236"
+      ],
+      "strongs": "G2236",
+      "morph": "robinson:A-APN",
+      "translation": "most gladly",
+      "metadata": {},
+      "gematria": {
+        "standard": 523,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 4,
+      "text": "δαπανήσω",
+      "lemma": [
+        "G1159"
+      ],
+      "strongs": "G1159",
+      "morph": "robinson:V-FAI-1S",
+      "translation": "will spend",
+      "metadata": {},
+      "gematria": {
+        "standard": 1144,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐκδαπανηθήσομαι",
+      "lemma": [
+        "G1550"
+      ],
+      "strongs": "G1550",
+      "morph": "robinson:V-FPI-1S",
+      "translation": "I will be utterly spent",
+      "metadata": {},
+      "gematria": {
+        "standard": 507,
+        "ordinal": 127,
+        "reduced": 73
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὑπὲρ",
+      "lemma": [
+        "G5228"
+      ],
+      "strongs": "G5228",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 585,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ψυχῶν",
+      "lemma": null,
+      "morph": null,
+      "translation": "souls",
+      "metadata": {},
+      "gematria": {
+        "standard": 2550,
+        "ordinal": 102,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὑμῶν,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "of you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "περισσοτέρως",
+      "lemma": [
+        "G4056"
+      ],
+      "strongs": "G4056",
+      "morph": "robinson:ADV-C",
+      "translation": "more abundantly",
+      "metadata": {},
+      "gematria": {
+        "standard": 2070,
+        "ordinal": 181,
+        "reduced": 82
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀγαπῶν",
+      "lemma": [
+        "G25"
+      ],
+      "strongs": "G25",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "loving",
+      "metadata": {},
+      "gematria": {
+        "standard": 935,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀγαπῶμαι.",
+      "lemma": [
+        "G25"
+      ],
+      "strongs": "G25",
+      "morph": "robinson:V-PPI-1S",
+      "translation": "I am loved!",
+      "metadata": {},
+      "gematria": {
+        "standard": 936,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13194,
+    "ordinal": 986,
+    "reduced": 410
+  }
+}

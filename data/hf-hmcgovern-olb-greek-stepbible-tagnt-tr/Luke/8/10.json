@@ -1,0 +1,410 @@
+{
+  "text": "ὁ δὲ εἶπεν· ὑμῖν δέδοται γνῶναι τὰ μυστήρια τῆς βασιλείας τοῦ θεοῦ, τοῖς δὲ λοιποῖς ἐν παραβολαῖς ἵνα βλέποντες μὴ βλέπωσιν καὶ ἀκούοντες μὴ συνιῶσιν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "εἶπεν·",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "He said;",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "To you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "δέδοται",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-RPI-3S",
+      "translation": "it has been given",
+      "metadata": {},
+      "gematria": {
+        "standard": 394,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "γνῶναι",
+      "lemma": [
+        "G1097"
+      ],
+      "strongs": "G1097",
+      "morph": "robinson:V-2AAN",
+      "translation": "to know",
+      "metadata": {},
+      "gematria": {
+        "standard": 914,
+        "ordinal": 63,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 8,
+      "text": "μυστήρια",
+      "lemma": [
+        "G3466"
+      ],
+      "strongs": "G3466",
+      "morph": "robinson:N-APN",
+      "translation": "mysteries",
+      "metadata": {},
+      "gematria": {
+        "standard": 1059,
+        "ordinal": 103,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 9,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
+      "text": "βασιλείας",
+      "lemma": [
+        "G932"
+      ],
+      "strongs": "G932",
+      "morph": "robinson:N-GSF",
+      "translation": "kingdom",
+      "metadata": {},
+      "gematria": {
+        "standard": 459,
+        "ordinal": 74,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "θεοῦ,",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God,",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 14,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "λοιποῖς",
+      "lemma": [
+        "G3062"
+      ],
+      "strongs": "G3062",
+      "morph": "robinson:A-DPM",
+      "translation": "rest",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 93,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "[it is] in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 17,
+      "text": "παραβολαῖς",
+      "lemma": [
+        "G3850"
+      ],
+      "strongs": "G3850",
+      "morph": "robinson:N-DPF",
+      "translation": "parables",
+      "metadata": {},
+      "gematria": {
+        "standard": 495,
+        "ordinal": 91,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "so that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 19,
+      "text": "βλέποντες",
+      "lemma": [
+        "G991"
+      ],
+      "strongs": "G991",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "Seeing",
+      "metadata": {},
+      "gematria": {
+        "standard": 742,
+        "ordinal": 104,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 20,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 21,
+      "text": "βλέπωσιν",
+      "lemma": [
+        "G991"
+      ],
+      "strongs": "G991",
+      "morph": "robinson:V-PAS-3P",
+      "translation": "shall they see",
+      "metadata": {},
+      "gematria": {
+        "standard": 1177,
+        "ordinal": 98,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 22,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἀκούοντες",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "hearing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1116,
+        "ordinal": 116,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 24,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 25,
+      "text": "συνιῶσιν.",
+      "lemma": [
+        "G4920"
+      ],
+      "strongs": "G4920",
+      "morph": "robinson:V-PAS-3P",
+      "translation": "shall they understand.’",
+      "metadata": {},
+      "gematria": {
+        "standard": 1720,
+        "ordinal": 124,
+        "reduced": 52
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12170,
+    "ordinal": 1384,
+    "reduced": 610
+  }
+}

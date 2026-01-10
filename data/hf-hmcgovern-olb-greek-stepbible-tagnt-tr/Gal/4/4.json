@@ -1,0 +1,308 @@
+{
+  "text": "ὅτε δὲ ἦλθεν τὸ πλήρωμα τοῦ χρόνου, ἐξαπέστειλεν ὁ θεὸς τὸν υἱὸν αὐτοῦ, γενόμενον ἐκ γυναικός, γενόμενον ὑπὸ νόμον,",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅτε",
+      "lemma": [
+        "G3753"
+      ],
+      "strongs": "G3753",
+      "morph": "robinson:CONJ",
+      "translation": "When",
+      "metadata": {},
+      "gematria": {
+        "standard": 375,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἦλθεν",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "had come",
+      "metadata": {},
+      "gematria": {
+        "standard": 102,
+        "ordinal": 44,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "πλήρωμα",
+      "lemma": [
+        "G4138"
+      ],
+      "strongs": "G4138",
+      "morph": "robinson:N-NSN",
+      "translation": "fullness",
+      "metadata": {},
+      "gematria": {
+        "standard": 1059,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "χρόνου,",
+      "lemma": [
+        "G5550"
+      ],
+      "strongs": "G5550",
+      "morph": "robinson:N-GSM",
+      "translation": "time,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 102,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐξαπέστειλεν",
+      "lemma": [
+        "G1821"
+      ],
+      "strongs": "G1821",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "sent forth",
+      "metadata": {},
+      "gematria": {
+        "standard": 751,
+        "ordinal": 121,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "υἱὸν",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-ASM",
+      "translation": "Son",
+      "metadata": {},
+      "gematria": {
+        "standard": 530,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτοῦ,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "γενόμενον",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADP-ASM",
+      "translation": "having been born",
+      "metadata": {},
+      "gematria": {
+        "standard": 343,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 16,
+      "text": "γυναικός,",
+      "lemma": null,
+      "morph": null,
+      "translation": "a woman,",
+      "metadata": {},
+      "gematria": {
+        "standard": 754,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 17,
+      "text": "γενόμενον",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADP-ASM",
+      "translation": "having been born",
+      "metadata": {},
+      "gematria": {
+        "standard": 343,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 18,
+      "text": "ὑπὸ",
+      "lemma": null,
+      "morph": null,
+      "translation": "under",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 19,
+      "text": "νόμον,",
+      "lemma": [
+        "G3551"
+      ],
+      "strongs": "G3551",
+      "morph": "robinson:N-ASM",
+      "translation": "[the] Law,",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9496,
+    "ordinal": 1142,
+    "reduced": 422
+  }
+}

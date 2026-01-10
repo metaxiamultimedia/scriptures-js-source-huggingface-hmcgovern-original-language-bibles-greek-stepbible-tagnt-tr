@@ -1,0 +1,423 @@
+{
+  "text": "καὶ ἄλλα πρόβατα ἔχω, ἃ οὐκ ἔστιν ἐκ τῆς αὐλῆς ταύτης, κἀκεῖνα δεῖ με ἀγαγεῖν, καὶ τῆς φωνῆς μου ἀκούσουσιν, καὶ γενήσονται μία ποίμνη, εἷς ποιμήν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἄλλα",
+      "lemma": [
+        "G243"
+      ],
+      "strongs": "G243",
+      "morph": "robinson:A-APN",
+      "translation": "other",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "πρόβατα",
+      "lemma": [
+        "G4263"
+      ],
+      "strongs": "G4263",
+      "morph": "robinson:N-APN",
+      "translation": "sheep",
+      "metadata": {},
+      "gematria": {
+        "standard": 554,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἔχω,",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAI-1S",
+      "translation": "I have,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1405,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NPN",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἔστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "are",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
+      "text": "αὐλῆς",
+      "lemma": [
+        "G833"
+      ],
+      "strongs": "G833",
+      "morph": "robinson:N-GSF",
+      "translation": "fold",
+      "metadata": {},
+      "gematria": {
+        "standard": 639,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "ταύτης,",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-GSF",
+      "translation": "this,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1209,
+        "ordinal": 84,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "κἀκεῖνα",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ + G1565=D-APN",
+      "translation": "those also",
+      "metadata": {},
+      "gematria": {
+        "standard": 107,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 13,
+      "text": "δεῖ",
+      "lemma": [
+        "G1163"
+      ],
+      "strongs": "G1163",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "it behooves",
+      "metadata": {},
+      "gematria": {
+        "standard": 19,
+        "ordinal": 18,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 14,
+      "text": "με",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "Me",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀγαγεῖν,",
+      "lemma": [
+        "G71"
+      ],
+      "strongs": "G71",
+      "morph": "robinson:V-2AAN",
+      "translation": "to bring,",
+      "metadata": {},
+      "gematria": {
+        "standard": 73,
+        "ordinal": 35,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "φωνῆς",
+      "lemma": null,
+      "morph": null,
+      "translation": "voice",
+      "metadata": {},
+      "gematria": {
+        "standard": 1558,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 19,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of Mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀκούσουσιν,",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-FAI-3P",
+      "translation": "they will listen,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1421,
+        "ordinal": 139,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 21,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "γενήσονται",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-FDI-3P",
+      "translation": "they will become",
+      "metadata": {},
+      "gematria": {
+        "standard": 697,
+        "ordinal": 103,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 23,
+      "text": "μία",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-NSF",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 22,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 24,
+      "text": "ποίμνη,",
+      "lemma": [
+        "G4167"
+      ],
+      "strongs": "G4167",
+      "morph": "robinson:N-NSF",
+      "translation": "flock,",
+      "metadata": {},
+      "gematria": {
+        "standard": 258,
+        "ordinal": 72,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 25,
+      "text": "εἷς",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-NSM",
+      "translation": "with one",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 26,
+      "text": "ποιμήν.",
+      "lemma": [
+        "G4166"
+      ],
+      "strongs": "G4166",
+      "morph": "robinson:N-NSM",
+      "translation": "shepherd.",
+      "metadata": {},
+      "gematria": {
+        "standard": 258,
+        "ordinal": 72,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11271,
+    "ordinal": 1249,
+    "reduced": 520
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "text": "Βλέπετε δὲ ὑμεῖς ἑαυτούς· παραδώσουσιν ὑμᾶς εἰς συνέδρια, καὶ εἰς συναγωγὰς δαρήσεσθε καὶ ἐπὶ ἡγεμόνων καὶ βασιλέων σταθήσεσθε ἕνεκεν ἐμοῦ εἰς μαρτύριον αὐτοῖς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Βλέπετε",
+      "lemma": [
+        "G991"
+      ],
+      "strongs": "G991",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do take heed",
+      "metadata": {},
+      "gematria": {
+        "standard": 427,
+        "ordinal": 63,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὑμεῖς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NP",
+      "translation": "<you yourselves>",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἑαυτούς·",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-2APM",
+      "translation": "to yourselves;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1376,
+        "ordinal": 98,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "παραδώσουσιν",
+      "lemma": [
+        "G3860"
+      ],
+      "strongs": "G3860",
+      "morph": "robinson:V-FAI-3P",
+      "translation": "they will betray",
+      "metadata": {},
+      "gematria": {
+        "standard": 1916,
+        "ordinal": 156,
+        "reduced": 66
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "συνέδρια,",
+      "lemma": [
+        "G4892"
+      ],
+      "strongs": "G4892",
+      "morph": "robinson:N-APN",
+      "translation": "courts",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "συναγωγὰς",
+      "lemma": [
+        "G4864"
+      ],
+      "strongs": "G4864",
+      "morph": "robinson:N-APF",
+      "translation": "synagogues",
+      "metadata": {},
+      "gematria": {
+        "standard": 1658,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 12,
+      "text": "δαρήσεσθε",
+      "lemma": [
+        "G1194"
+      ],
+      "strongs": "G1194",
+      "morph": "robinson:V-2FPI-2P",
+      "translation": "you will be beaten",
+      "metadata": {},
+      "gematria": {
+        "standard": 532,
+        "ordinal": 83,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "before",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἡγεμόνων",
+      "lemma": [
+        "G2232"
+      ],
+      "strongs": "G2232",
+      "morph": "robinson:N-GPM",
+      "translation": "governors",
+      "metadata": {},
+      "gematria": {
+        "standard": 1026,
+        "ordinal": 92,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "βασιλέων",
+      "lemma": [
+        "G935"
+      ],
+      "strongs": "G935",
+      "morph": "robinson:N-GPM",
+      "translation": "kings",
+      "metadata": {},
+      "gematria": {
+        "standard": 1098,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 18,
+      "text": "σταθήσεσθε",
+      "lemma": [
+        "G2476"
+      ],
+      "strongs": "G2476",
+      "morph": "robinson:V-FPI-2P",
+      "translation": "you will stand",
+      "metadata": {},
+      "gematria": {
+        "standard": 937,
+        "ordinal": 107,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἕνεκεν",
+      "lemma": [
+        "G1752"
+      ],
+      "strongs": "G1752",
+      "morph": "robinson:PREP",
+      "translation": "because",
+      "metadata": {},
+      "gematria": {
+        "standard": 135,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐμοῦ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:S-1SGSN",
+      "translation": "of Me",
+      "metadata": {},
+      "gematria": {
+        "standard": 515,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 21,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 22,
+      "text": "μαρτύριον",
+      "lemma": [
+        "G3142"
+      ],
+      "strongs": "G3142",
+      "morph": "robinson:N-ASN",
+      "translation": "a testimony",
+      "metadata": {},
+      "gematria": {
+        "standard": 1071,
+        "ordinal": 123,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 23,
+      "text": "αὐτοῖς.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them.",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14580,
+    "ordinal": 1488,
+    "reduced": 678
+  }
+}

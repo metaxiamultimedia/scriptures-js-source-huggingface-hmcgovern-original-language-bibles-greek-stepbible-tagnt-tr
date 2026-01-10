@@ -1,0 +1,410 @@
+{
+  "text": "δὲ ἔγραψα ὑμῖν μὴ συναναμίγνυσθαι, ἐάν τις ἀδελφὸς ὀνομαζόμενος ᾖ πόρνος ἢ πλεονέκτης ἢ εἰδωλολάτρης ἢ λοίδορος ἢ μέθυσος ἢ ἅρπαξ· τῷ τοιούτῳ μηδὲ συνεσθίειν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἔγραψα",
+      "lemma": [
+        "G1125"
+      ],
+      "strongs": "G1125",
+      "morph": "robinson:V-2AAI-1S",
+      "translation": "I wrote",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "συναναμίγνυσθαι,",
+      "lemma": [
+        "G4874"
+      ],
+      "strongs": "G4874",
+      "morph": "robinson:V-PMN",
+      "translation": "to associate with [him]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1425,
+        "ordinal": 159,
+        "reduced": 69
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐάν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSM",
+      "translation": "anyone",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀδελφὸς",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-NSM",
+      "translation": "a brother",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὀνομαζόμενος",
+      "lemma": [
+        "G3687"
+      ],
+      "strongs": "G3687",
+      "morph": "robinson:V-PPP-NSM",
+      "translation": "being designated",
+      "metadata": {},
+      "gematria": {
+        "standard": 673,
+        "ordinal": 140,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 10,
+      "text": "ᾖ",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAS-3S",
+      "translation": "he shall be",
+      "metadata": {},
+      "gematria": {
+        "standard": 18,
+        "ordinal": 16,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "πόρνος",
+      "lemma": [
+        "G4205"
+      ],
+      "strongs": "G4205",
+      "morph": "robinson:N-NSM",
+      "translation": "sexually immoral",
+      "metadata": {},
+      "gematria": {
+        "standard": 570,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 13,
+      "text": "πλεονέκτης",
+      "lemma": [
+        "G4123"
+      ],
+      "strongs": "G4123",
+      "morph": "robinson:N-NSM",
+      "translation": "a coveter",
+      "metadata": {},
+      "gematria": {
+        "standard": 768,
+        "ordinal": 119,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 15,
+      "text": "εἰδωλολάτρης",
+      "lemma": [
+        "G1496"
+      ],
+      "strongs": "G1496",
+      "morph": "robinson:N-NSM",
+      "translation": "an idolater",
+      "metadata": {},
+      "gematria": {
+        "standard": 1558,
+        "ordinal": 141,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 17,
+      "text": "λοίδορος",
+      "lemma": [
+        "G3060"
+      ],
+      "strongs": "G3060",
+      "morph": "robinson:N-NSM",
+      "translation": "verbal abuser",
+      "metadata": {},
+      "gematria": {
+        "standard": 554,
+        "ordinal": 104,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 19,
+      "text": "μέθυσος",
+      "lemma": [
+        "G3183"
+      ],
+      "strongs": "G3183",
+      "morph": "robinson:N-NSM",
+      "translation": "a drunkard",
+      "metadata": {},
+      "gematria": {
+        "standard": 924,
+        "ordinal": 96,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἅρπαξ·",
+      "lemma": [
+        "G727"
+      ],
+      "strongs": "G727",
+      "morph": "robinson:A-NSM",
+      "translation": "swindler;",
+      "metadata": {},
+      "gematria": {
+        "standard": 242,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 22,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 23,
+      "text": "τοιούτῳ",
+      "lemma": [
+        "G5108"
+      ],
+      "strongs": "G5108",
+      "morph": "robinson:D-DSM",
+      "translation": "with such a one",
+      "metadata": {},
+      "gematria": {
+        "standard": 1960,
+        "ordinal": 130,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 24,
+      "text": "μηδὲ",
+      "lemma": [
+        "G3366"
+      ],
+      "strongs": "G3366",
+      "morph": "robinson:CONJ-N",
+      "translation": "not even",
+      "metadata": {},
+      "gematria": {
+        "standard": 57,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 25,
+      "text": "συνεσθίειν.",
+      "lemma": [
+        "G4906"
+      ],
+      "strongs": "G4906",
+      "morph": "robinson:V-PAN",
+      "translation": "to eat.",
+      "metadata": {},
+      "gematria": {
+        "standard": 939,
+        "ordinal": 118,
+        "reduced": 64
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13581,
+    "ordinal": 1553,
+    "reduced": 698
+  }
+}

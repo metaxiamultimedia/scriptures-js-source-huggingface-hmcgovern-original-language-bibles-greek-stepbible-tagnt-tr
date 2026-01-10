@@ -1,0 +1,279 @@
+{
+  "text": "ἐν ᾧ ὑπῆρχεν πάντα τὰ τετράποδα καὶ τὰ θηρία καὶ ἑρπετὰ τῆς γῆς καὶ πετεινὰ τοῦ οὐρανοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "ᾧ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-DSN",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὑπῆρχεν",
+      "lemma": [
+        "G5225"
+      ],
+      "strongs": "G5225",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "were",
+      "metadata": {},
+      "gematria": {
+        "standard": 1243,
+        "ordinal": 100,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 4,
+      "text": "πάντα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NPN",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 6,
+      "text": "τετράποδα",
+      "lemma": [
+        "G5074"
+      ],
+      "strongs": "G5074",
+      "morph": "robinson:A-NPN",
+      "translation": "quadrupeds",
+      "metadata": {},
+      "gematria": {
+        "standard": 861,
+        "ordinal": 97,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 9,
+      "text": "θηρία",
+      "lemma": [
+        "G2342"
+      ],
+      "strongs": "G2342",
+      "morph": "robinson:N-NPN",
+      "translation": "beasts",
+      "metadata": {},
+      "gematria": {
+        "standard": 128,
+        "ordinal": 42,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἑρπετὰ",
+      "lemma": [
+        "G2062"
+      ],
+      "strongs": "G2062",
+      "morph": "robinson:N-NPN",
+      "translation": "creeping things",
+      "metadata": {},
+      "gematria": {
+        "standard": 491,
+        "ordinal": 63,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 12,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 13,
+      "text": "γῆς",
+      "lemma": null,
+      "morph": null,
+      "translation": "earth",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "πετεινὰ",
+      "lemma": [
+        "G4071"
+      ],
+      "strongs": "G4071",
+      "morph": "robinson:N-NPN",
+      "translation": "birds",
+      "metadata": {},
+      "gematria": {
+        "standard": 451,
+        "ordinal": 68,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 16,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 17,
+      "text": "οὐρανοῦ.",
+      "lemma": [
+        "G3772"
+      ],
+      "strongs": "G3772",
+      "morph": "robinson:N-GSM",
+      "translation": "of heaven.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1091,
+        "ordinal": 101,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7746,
+    "ordinal": 798,
+    "reduced": 312
+  }
+}

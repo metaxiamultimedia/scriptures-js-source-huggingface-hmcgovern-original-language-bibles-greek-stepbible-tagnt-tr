@@ -1,0 +1,116 @@
+{
+  "text": "ἰδοὺ ἀφίεται ὑμῖν ὁ οἶκος ὑμῶν ἔρημος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἰδοὺ",
+      "lemma": [
+        "G2400"
+      ],
+      "strongs": "G2400",
+      "morph": "robinson:INJ",
+      "translation": "Behold",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀφίεται",
+      "lemma": null,
+      "morph": null,
+      "translation": "is left",
+      "metadata": {},
+      "gematria": {
+        "standard": 827,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "οἶκος",
+      "lemma": null,
+      "morph": null,
+      "translation": "house",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑμῶν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἔρημος.",
+      "lemma": [
+        "G2048"
+      ],
+      "strongs": "G2048",
+      "morph": "robinson:A-NSM",
+      "translation": "desolate!",
+      "metadata": {},
+      "gematria": {
+        "standard": 423,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3964,
+    "ordinal": 392,
+    "reduced": 158
+  }
+}

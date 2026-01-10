@@ -1,0 +1,103 @@
+{
+  "text": "αὕτη ἐστὶν μεγάλη καὶ πρώτη ἐντολή.",
+  "words": [
+    {
+      "position": 1,
+      "text": "αὕτη",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSF",
+      "translation": "This",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐστὶν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "μεγάλη",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-NSF",
+      "translation": "great",
+      "metadata": {},
+      "gematria": {
+        "standard": 87,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "πρώτη",
+      "lemma": null,
+      "morph": null,
+      "translation": "first",
+      "metadata": {},
+      "gematria": {
+        "standard": 1288,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐντολή.",
+      "lemma": [
+        "G1785"
+      ],
+      "strongs": "G1785",
+      "morph": "robinson:N-NSF",
+      "translation": "commandment.",
+      "metadata": {},
+      "gematria": {
+        "standard": 463,
+        "ordinal": 70,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3143,
+    "ordinal": 323,
+    "reduced": 125
+  }
+}

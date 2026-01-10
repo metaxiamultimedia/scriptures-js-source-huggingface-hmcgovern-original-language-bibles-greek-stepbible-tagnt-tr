@@ -1,0 +1,103 @@
+{
+  "text": "ὅτι οὐκ ἀδυνατήσει παρὰ πᾶν ῥῆμα.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "For",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀδυνατήσει",
+      "lemma": [
+        "G101"
+      ],
+      "strongs": "G101",
+      "morph": "robinson:V-FAI-3S",
+      "translation": "will be impossible",
+      "metadata": {},
+      "gematria": {
+        "standard": 979,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 4,
+      "text": "παρὰ",
+      "lemma": [
+        "G3844"
+      ],
+      "strongs": "G3844",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 182,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
+      "text": "πᾶν",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NSN",
+      "translation": "every",
+      "metadata": {},
+      "gematria": {
+        "standard": 131,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "ῥῆμα.",
+      "lemma": [
+        "G4487"
+      ],
+      "strongs": "G4487",
+      "morph": "robinson:N-NSN",
+      "translation": "declaration.",
+      "metadata": {},
+      "gematria": {
+        "standard": 149,
+        "ordinal": 37,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2311,
+    "ordinal": 287,
+    "reduced": 116
+  }
+}

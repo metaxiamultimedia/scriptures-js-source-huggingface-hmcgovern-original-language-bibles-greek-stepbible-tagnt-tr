@@ -1,0 +1,327 @@
+{
+  "text": "ὅτι καὶ αὐτὴ ἡ κτίσις ἐλευθερωθήσεται ἀπὸ τῆς δουλείας τῆς φθορᾶς εἰς τὴν ἐλευθερίαν τῆς δόξης τῶν τέκνων τοῦ θεοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτὴ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NSF",
+      "translation": "itself",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "κτίσις",
+      "lemma": [
+        "G2937"
+      ],
+      "strongs": "G2937",
+      "morph": "robinson:N-NSF",
+      "translation": "creation",
+      "metadata": {},
+      "gematria": {
+        "standard": 740,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐλευθερωθήσεται",
+      "lemma": [
+        "G1659"
+      ],
+      "strongs": "G1659",
+      "morph": "robinson:V-FPI-3S",
+      "translation": "will be set free",
+      "metadata": {},
+      "gematria": {
+        "standard": 1887,
+        "ordinal": 162,
+        "reduced": 81
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 9,
+      "text": "δουλείας",
+      "lemma": [
+        "G1397"
+      ],
+      "strongs": "G1397",
+      "morph": "robinson:N-GSF",
+      "translation": "bondage",
+      "metadata": {},
+      "gematria": {
+        "standard": 720,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 10,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 11,
+      "text": "φθορᾶς",
+      "lemma": [
+        "G5356"
+      ],
+      "strongs": "G5356",
+      "morph": "robinson:N-GSF",
+      "translation": "of decay",
+      "metadata": {},
+      "gematria": {
+        "standard": 880,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 12,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 13,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐλευθερίαν",
+      "lemma": [
+        "G1657"
+      ],
+      "strongs": "G1657",
+      "morph": "robinson:N-ASF",
+      "translation": "freedom",
+      "metadata": {},
+      "gematria": {
+        "standard": 615,
+        "ordinal": 94,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 15,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 16,
+      "text": "δόξης",
+      "lemma": [
+        "G1391"
+      ],
+      "strongs": "G1391",
+      "morph": "robinson:N-GSF",
+      "translation": "glory",
+      "metadata": {},
+      "gematria": {
+        "standard": 342,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 17,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "τέκνων",
+      "lemma": [
+        "G5043"
+      ],
+      "strongs": "G5043",
+      "morph": "robinson:N-GPN",
+      "translation": "children",
+      "metadata": {},
+      "gematria": {
+        "standard": 1225,
+        "ordinal": 84,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 19,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 20,
+      "text": "θεοῦ.",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God.",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12189,
+    "ordinal": 1154,
+    "reduced": 479
+  }
+}

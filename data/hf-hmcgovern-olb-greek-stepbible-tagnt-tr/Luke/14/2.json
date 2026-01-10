@@ -1,0 +1,138 @@
+{
+  "text": "καὶ ἰδοὺ ἄνθρωπός τις ἦν ὑδρωπικὸς ἔμπροσθεν αὐτοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἰδοὺ",
+      "lemma": [
+        "G2400"
+      ],
+      "strongs": "G2400",
+      "morph": "robinson:INJ",
+      "translation": "behold",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἄνθρωπός",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-NSM",
+      "translation": "a man",
+      "metadata": {},
+      "gematria": {
+        "standard": 1310,
+        "ordinal": 112,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 4,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSM",
+      "translation": "certain",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "there was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑδρωπικὸς",
+      "lemma": [
+        "G5203"
+      ],
+      "strongs": "G5203",
+      "morph": "robinson:A-NSM",
+      "translation": "with dropsy",
+      "metadata": {},
+      "gematria": {
+        "standard": 1684,
+        "ordinal": 133,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἔμπροσθεν",
+      "lemma": [
+        "G1715"
+      ],
+      "strongs": "G1715",
+      "morph": "robinson:PREP",
+      "translation": "before",
+      "metadata": {},
+      "gematria": {
+        "standard": 559,
+        "ordinal": 109,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "Him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5807,
+    "ordinal": 563,
+    "reduced": 230
+  }
+}

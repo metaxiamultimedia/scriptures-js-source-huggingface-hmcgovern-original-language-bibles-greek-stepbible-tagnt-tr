@@ -1,0 +1,151 @@
+{
+  "text": "Καὶ πάλιν εἰς Καφαρναοὺμ δι᾽ ἡμερῶν ἠκούσθη ὅτι ἐστίν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "πάλιν",
+      "lemma": [
+        "G3825"
+      ],
+      "strongs": "G3825",
+      "morph": "robinson:ADV",
+      "translation": "again",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 3,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "Καφαρναοὺμ",
+      "lemma": [
+        "G2584"
+      ],
+      "strongs": "G2584",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Capernaum",
+      "metadata": {},
+      "gematria": {
+        "standard": 1183,
+        "ordinal": 111,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "δι᾽",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "after [some]",
+      "metadata": {},
+      "gematria": {
+        "standard": 14,
+        "ordinal": 13,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἡμερῶν",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-GPF",
+      "translation": "days",
+      "metadata": {},
+      "gematria": {
+        "standard": 1003,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἠκούσθη",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-API-3S",
+      "translation": "it was heard",
+      "metadata": {},
+      "gematria": {
+        "standard": 715,
+        "ordinal": 85,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐστίν.",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "He is.",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4277,
+    "ordinal": 496,
+    "reduced": 217
+  }
+}

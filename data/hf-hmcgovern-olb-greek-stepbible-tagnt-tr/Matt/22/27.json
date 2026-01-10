@@ -1,0 +1,103 @@
+{
+  "text": "ὕστερον δὲ πάντων ἀπέθανεν ἡ γυνή.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὕστερον",
+      "lemma": [
+        "G5306"
+      ],
+      "strongs": "G5306",
+      "morph": "robinson:A-ASN-C",
+      "translation": "Finally",
+      "metadata": {},
+      "gematria": {
+        "standard": 1125,
+        "ordinal": 107,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "πάντων",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-GPN",
+      "translation": "of all",
+      "metadata": {},
+      "gematria": {
+        "standard": 1281,
+        "ordinal": 86,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀπέθανεν",
+      "lemma": [
+        "G599"
+      ],
+      "strongs": "G599",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "died",
+      "metadata": {},
+      "gematria": {
+        "standard": 201,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "γυνή.",
+      "lemma": null,
+      "morph": null,
+      "translation": "woman.",
+      "metadata": {},
+      "gematria": {
+        "standard": 461,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3085,
+    "ordinal": 314,
+    "reduced": 125
+  }
+}

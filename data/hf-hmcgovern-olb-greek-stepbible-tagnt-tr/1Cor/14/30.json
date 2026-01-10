@@ -1,0 +1,135 @@
+{
+  "text": "ἐὰν δὲ ἄλλῳ ἀποκαλυφθῇ καθημένῳ, ὁ πρῶτος σιγάτω.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἄλλῳ",
+      "lemma": [
+        "G243"
+      ],
+      "strongs": "G243",
+      "morph": "robinson:A-DSM",
+      "translation": "to another",
+      "metadata": {},
+      "gematria": {
+        "standard": 871,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀποκαλυφθῇ",
+      "lemma": [
+        "G601"
+      ],
+      "strongs": "G601",
+      "morph": "robinson:V-APS-3S",
+      "translation": "a revelation shall be made",
+      "metadata": {},
+      "gematria": {
+        "standard": 1129,
+        "ordinal": 119,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 5,
+      "text": "καθημένῳ,",
+      "lemma": [
+        "G2521"
+      ],
+      "strongs": "G2521",
+      "morph": "robinson:V-PNP-DSM",
+      "translation": "sitting by,",
+      "metadata": {},
+      "gematria": {
+        "standard": 943,
+        "ordinal": 89,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "πρῶτος",
+      "lemma": null,
+      "morph": null,
+      "translation": "first",
+      "metadata": {},
+      "gematria": {
+        "standard": 1550,
+        "ordinal": 109,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 8,
+      "text": "σιγάτω.",
+      "lemma": [
+        "G4601"
+      ],
+      "strongs": "G4601",
+      "morph": "robinson:V-PAM-3S",
+      "translation": "should be silent.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1314,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5942,
+    "ordinal": 490,
+    "reduced": 202
+  }
+}

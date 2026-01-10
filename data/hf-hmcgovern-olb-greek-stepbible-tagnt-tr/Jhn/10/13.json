@@ -1,0 +1,183 @@
+{
+  "text": "φεύγει ὅτι μισθωτός ἐστιν καὶ οὐ μέλει αὐτῷ περὶ τῶν προβάτων.",
+  "words": [
+    {
+      "position": 1,
+      "text": "φεύγει",
+      "lemma": [
+        "G5343"
+      ],
+      "strongs": "G5343",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "flees",
+      "metadata": {},
+      "gematria": {
+        "standard": 923,
+        "ordinal": 63,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "because",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "μισθωτός",
+      "lemma": [
+        "G3411"
+      ],
+      "strongs": "G3411",
+      "morph": "robinson:N-NSM",
+      "translation": "a hired servant",
+      "metadata": {},
+      "gematria": {
+        "standard": 1629,
+        "ordinal": 123,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "he is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 7,
+      "text": "μέλει",
+      "lemma": [
+        "G3199"
+      ],
+      "strongs": "G3199",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "he is himself concerned",
+      "metadata": {},
+      "gematria": {
+        "standard": 90,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "about",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 10,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "προβάτων.",
+      "lemma": [
+        "G4263"
+      ],
+      "strongs": "G4263",
+      "morph": "robinson:N-GPN",
+      "translation": "sheep.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1403,
+        "ordinal": 107,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8347,
+    "ordinal": 673,
+    "reduced": 259
+  }
+}

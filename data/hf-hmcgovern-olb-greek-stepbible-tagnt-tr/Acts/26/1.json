@@ -1,0 +1,273 @@
+{
+  "text": "Ἀγρίππας δὲ πρὸς τὸν Παῦλον ἔφη· ἐπιτρέπεταί σοι σεαυτοῦ λέγειν. τότε ὁ Παῦλος ἐκτείνας τὴν χεῖρα ἀπελογεῖτο·",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἀγρίππας",
+      "lemma": [
+        "G67"
+      ],
+      "strongs": "G67",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Agrippa",
+      "metadata": {},
+      "gematria": {
+        "standard": 475,
+        "ordinal": 81,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "Παῦλον",
+      "lemma": null,
+      "morph": null,
+      "translation": "Paul",
+      "metadata": {},
+      "gematria": {
+        "standard": 631,
+        "ordinal": 76,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἔφη·",
+      "lemma": [
+        "G5346"
+      ],
+      "strongs": "G5346",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 513,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐπιτρέπεταί",
+      "lemma": [
+        "G2010"
+      ],
+      "strongs": "G2010",
+      "morph": "robinson:V-PPI-3S",
+      "translation": "It is permitted",
+      "metadata": {},
+      "gematria": {
+        "standard": 896,
+        "ordinal": 121,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 8,
+      "text": "σοι",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DS",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 9,
+      "text": "σεαυτοῦ",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:F-2GSM",
+      "translation": "yourself",
+      "metadata": {},
+      "gematria": {
+        "standard": 1376,
+        "ordinal": 98,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 10,
+      "text": "λέγειν.",
+      "lemma": null,
+      "morph": null,
+      "translation": "to speak.",
+      "metadata": {},
+      "gematria": {
+        "standard": 103,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 11,
+      "text": "τότε",
+      "lemma": [
+        "G5119"
+      ],
+      "strongs": "G5119",
+      "morph": "robinson:ADV",
+      "translation": "Then",
+      "metadata": {},
+      "gematria": {
+        "standard": 675,
+        "ordinal": 58,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "Παῦλος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Paul",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐκτείνας",
+      "lemma": [
+        "G1614"
+      ],
+      "strongs": "G1614",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having stretched out",
+      "metadata": {},
+      "gematria": {
+        "standard": 591,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 15,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 16,
+      "text": "χεῖρα",
+      "lemma": [
+        "G5495"
+      ],
+      "strongs": "G5495",
+      "morph": "robinson:N-ASF",
+      "translation": "hand",
+      "metadata": {},
+      "gematria": {
+        "standard": 716,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀπελογεῖτο·",
+      "lemma": [
+        "G626"
+      ],
+      "strongs": "G626",
+      "morph": "robinson:V-INI-3S",
+      "translation": "was presenting a defense:",
+      "metadata": {},
+      "gematria": {
+        "standard": 574,
+        "ordinal": 99,
+        "reduced": 45
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8918,
+    "ordinal": 1045,
+    "reduced": 433
+  }
+}

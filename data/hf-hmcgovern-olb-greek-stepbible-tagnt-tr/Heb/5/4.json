@@ -1,0 +1,228 @@
+{
+  "text": "καὶ οὐχ ἑαυτῷ τις λαμβάνει τὴν τιμὴν ἀλλὰ καλούμενος ὑπὸ τοῦ θεοῦ καὶ Ἀαρών.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὐχ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 1070,
+        "ordinal": 57,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἑαυτῷ",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-3DSM",
+      "translation": "upon himself",
+      "metadata": {},
+      "gematria": {
+        "standard": 1516,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSM",
+      "translation": "anyone",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "λαμβάνει",
+      "lemma": [
+        "G2983"
+      ],
+      "strongs": "G2983",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "takes",
+      "metadata": {},
+      "gematria": {
+        "standard": 139,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "τιμὴν",
+      "lemma": [
+        "G5092"
+      ],
+      "strongs": "G5092",
+      "morph": "robinson:N-ASF",
+      "translation": "honor",
+      "metadata": {},
+      "gematria": {
+        "standard": 408,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀλλὰ",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but rather",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "καλούμενος",
+      "lemma": null,
+      "morph": null,
+      "translation": "being called",
+      "metadata": {},
+      "gematria": {
+        "standard": 886,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὑπὸ",
+      "lemma": null,
+      "morph": null,
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "Ἀαρών.",
+      "lemma": [
+        "G2"
+      ],
+      "strongs": "G2",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Aaron.",
+      "metadata": {},
+      "gematria": {
+        "standard": 952,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7767,
+    "ordinal": 727,
+    "reduced": 250
+  }
+}

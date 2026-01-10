@@ -1,0 +1,87 @@
+{
+  "text": "οἱ δὲ ἐπεφώνουν λέγοντες· αὐτόν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "But",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐπεφώνουν",
+      "lemma": [
+        "G2019"
+      ],
+      "strongs": "G2019",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "they were crying out",
+      "metadata": {},
+      "gematria": {
+        "standard": 1960,
+        "ordinal": 132,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 4,
+      "text": "λέγοντες·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτόν.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3533,
+    "ordinal": 322,
+    "reduced": 115
+  }
+}

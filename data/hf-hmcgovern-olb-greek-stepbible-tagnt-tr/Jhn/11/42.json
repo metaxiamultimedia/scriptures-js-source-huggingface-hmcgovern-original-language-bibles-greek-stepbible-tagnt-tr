@@ -1,0 +1,321 @@
+{
+  "text": "ἐγὼ δὲ ᾔδειν ὅτι πάντοτέ μου ἀκούεις· ἀλλὰ διὰ τὸν ὄχλον τὸν περιεστῶτα εἶπον, ἵνα πιστεύσωσιν ὅτι σύ με ἀπέστειλας.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS",
+      "translation": "I myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ᾔδειν",
+      "lemma": null,
+      "morph": null,
+      "translation": "knew",
+      "metadata": {},
+      "gematria": {
+        "standard": 87,
+        "ordinal": 47,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "πάντοτέ",
+      "lemma": [
+        "G3842"
+      ],
+      "strongs": "G3842",
+      "morph": "robinson:ADV",
+      "translation": "always",
+      "metadata": {},
+      "gematria": {
+        "standard": 806,
+        "ordinal": 88,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "Me",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀκούεις·",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-PAI-2S",
+      "translation": "You hear;",
+      "metadata": {},
+      "gematria": {
+        "standard": 706,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀλλὰ",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "on account of",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὄχλον",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-ASM",
+      "translation": "crowd",
+      "metadata": {},
+      "gematria": {
+        "standard": 820,
+        "ordinal": 76,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "περιεστῶτα",
+      "lemma": [
+        "G4026"
+      ],
+      "strongs": "G4026",
+      "morph": "robinson:V-RAP-ASM",
+      "translation": "already standing around",
+      "metadata": {},
+      "gematria": {
+        "standard": 1801,
+        "ordinal": 133,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 14,
+      "text": "εἶπον,",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-1S",
+      "translation": "I said [it],",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "πιστεύσωσιν",
+      "lemma": [
+        "G4100"
+      ],
+      "strongs": "G4100",
+      "morph": "robinson:V-AAS-3P",
+      "translation": "they may believe",
+      "metadata": {},
+      "gematria": {
+        "standard": 2255,
+        "ordinal": 169,
+        "reduced": 70
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 18,
+      "text": "σύ",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NS",
+      "translation": "You yourself",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "με",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "Me",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀπέστειλας.",
+      "lemma": [
+        "G649"
+      ],
+      "strongs": "G649",
+      "morph": "robinson:V-AAI-2S",
+      "translation": "sent.",
+      "metadata": {},
+      "gematria": {
+        "standard": 832,
+        "ordinal": 103,
+        "reduced": 49
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11232,
+    "ordinal": 1136,
+    "reduced": 461
+  }
+}

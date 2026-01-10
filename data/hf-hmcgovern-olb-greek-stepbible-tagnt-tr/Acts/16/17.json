@@ -1,0 +1,340 @@
+{
+  "text": "αὕτη τῷ Παύλῳ καὶ ἡμῖν ἔκραζεν λέγουσα· οὗτοι οἱ ἄνθρωποι δοῦλοι τοῦ θεοῦ τοῦ ὑψίστου εἰσίν, οἵτινες καταγγέλλουσιν ὑμῖν ὁδὸν σωτηρίας.",
+  "words": [
+    {
+      "position": 1,
+      "text": "αὕτη",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSF",
+      "translation": "She",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "Παύλῳ",
+      "lemma": null,
+      "morph": null,
+      "translation": "after Paul",
+      "metadata": {},
+      "gematria": {
+        "standard": 1321,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἡμῖν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DP",
+      "translation": "us",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἔκραζεν",
+      "lemma": [
+        "G2896"
+      ],
+      "strongs": "G2896",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was crying out",
+      "metadata": {},
+      "gematria": {
+        "standard": 188,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "λέγουσα·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "οὗτοι",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NPM",
+      "translation": "These",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 9,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἄνθρωποι",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-NPM",
+      "translation": "men",
+      "metadata": {},
+      "gematria": {
+        "standard": 1120,
+        "ordinal": 103,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 11,
+      "text": "δοῦλοι",
+      "lemma": [
+        "G1401"
+      ],
+      "strongs": "G1401",
+      "morph": "robinson:N-NPM",
+      "translation": "servants",
+      "metadata": {},
+      "gematria": {
+        "standard": 584,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 12,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὑψίστου",
+      "lemma": [
+        "G5310"
+      ],
+      "strongs": "G5310",
+      "morph": "robinson:A-GSM-S",
+      "translation": "Most High",
+      "metadata": {},
+      "gematria": {
+        "standard": 2080,
+        "ordinal": 124,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 16,
+      "text": "εἰσίν,",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "are,",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 54,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 17,
+      "text": "οἵτινες",
+      "lemma": [
+        "G3748"
+      ],
+      "strongs": "G3748",
+      "morph": "robinson:R-NPM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 645,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 18,
+      "text": "καταγγέλλουσιν",
+      "lemma": [
+        "G2605"
+      ],
+      "strongs": "G2605",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "proclaim",
+      "metadata": {},
+      "gematria": {
+        "standard": 1123,
+        "ordinal": 139,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 20,
+      "text": "ὁδὸν",
+      "lemma": [
+        "G3598"
+      ],
+      "strongs": "G3598",
+      "morph": "robinson:N-ASF",
+      "translation": "[the] way",
+      "metadata": {},
+      "gematria": {
+        "standard": 194,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 21,
+      "text": "σωτηρίας.",
+      "lemma": [
+        "G4991"
+      ],
+      "strongs": "G4991",
+      "morph": "robinson:N-GSF",
+      "translation": "of salvation.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1619,
+        "ordinal": 113,
+        "reduced": 50
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15270,
+    "ordinal": 1425,
+    "reduced": 552
+  }
+}

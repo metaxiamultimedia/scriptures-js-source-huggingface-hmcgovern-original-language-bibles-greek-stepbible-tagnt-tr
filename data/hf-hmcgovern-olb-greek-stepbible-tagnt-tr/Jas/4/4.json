@@ -1,0 +1,407 @@
+{
+  "text": "μοιχοὶ καὶ μοιχαλίδες, οὐκ οἴδατε ὅτι ἡ φιλία τοῦ κόσμου ἔχθρα τοῦ θεοῦ ἐστιν; ὃς οὖν βουληθῇ φίλος εἶναι τοῦ κόσμου, ἐχθρὸς τοῦ θεοῦ καθίσταται.",
+  "words": [
+    {
+      "position": 1,
+      "text": "μοιχοὶ",
+      "lemma": [
+        "G3432"
+      ],
+      "strongs": "G3432",
+      "morph": "robinson:N-VPM",
+      "translation": "adulterers —",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 2,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "μοιχαλίδες,",
+      "lemma": [
+        "G3428"
+      ],
+      "strongs": "G3428",
+      "morph": "robinson:A-VPF",
+      "translation": "Adulteresses!",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 106,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 4,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "Surely",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "οἴδατε",
+      "lemma": [
+        "G6063"
+      ],
+      "strongs": "G6063",
+      "morph": "robinson:V-RAI-2P",
+      "translation": "you know",
+      "metadata": {},
+      "gematria": {
+        "standard": 390,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "φιλία",
+      "lemma": [
+        "G5373"
+      ],
+      "strongs": "G5373",
+      "morph": "robinson:N-NSF",
+      "translation": "friendship",
+      "metadata": {},
+      "gematria": {
+        "standard": 551,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 9,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "with the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "κόσμου",
+      "lemma": [
+        "G2889"
+      ],
+      "strongs": "G2889",
+      "morph": "robinson:N-GSM",
+      "translation": "world",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 90,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἔχθρα",
+      "lemma": [
+        "G2189"
+      ],
+      "strongs": "G2189",
+      "morph": "robinson:N-NSF",
+      "translation": "hostility",
+      "metadata": {},
+      "gematria": {
+        "standard": 715,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 12,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "with God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐστιν;",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is?",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὃς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSM",
+      "translation": "Who[ever]",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 16,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 17,
+      "text": "βουληθῇ",
+      "lemma": [
+        "G1014"
+      ],
+      "strongs": "G1014",
+      "morph": "robinson:V-AOS-3S",
+      "translation": "shall choose",
+      "metadata": {},
+      "gematria": {
+        "standard": 537,
+        "ordinal": 79,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 18,
+      "text": "φίλος",
+      "lemma": [
+        "G5384"
+      ],
+      "strongs": "G5384",
+      "morph": "robinson:A-NSM",
+      "translation": "a friend",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 19,
+      "text": "εἶναι",
+      "lemma": [
+        "G1511"
+      ],
+      "strongs": "G1511",
+      "morph": "robinson:V-PAN",
+      "translation": "to be",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 37,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 20,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 21,
+      "text": "κόσμου,",
+      "lemma": [
+        "G2889"
+      ],
+      "strongs": "G2889",
+      "morph": "robinson:N-GSM",
+      "translation": "world,",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 90,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἐχθρὸς",
+      "lemma": [
+        "G2190"
+      ],
+      "strongs": "G2190",
+      "morph": "robinson:N-NSM",
+      "translation": "an enemy",
+      "metadata": {},
+      "gematria": {
+        "standard": 984,
+        "ordinal": 85,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 23,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 24,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 25,
+      "text": "καθίσταται.",
+      "lemma": [
+        "G2525"
+      ],
+      "strongs": "G2525",
+      "morph": "robinson:V-PPI-3S",
+      "translation": "is appointed.",
+      "metadata": {},
+      "gematria": {
+        "standard": 852,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14597,
+    "ordinal": 1467,
+    "reduced": 576
+  }
+}

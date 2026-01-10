@@ -1,0 +1,257 @@
+{
+  "text": "Παῦλος καὶ Σιλουανὸς καὶ Τιμόθεος τῇ ἐκκλησίᾳ Θεσσαλονικέων ἐν θεῷ πατρὶ ἡμῶν καὶ κυρίῳ Ἰησοῦ Χριστῷ·",
+  "words": [
+    {
+      "position": 1,
+      "text": "Παῦλος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Paul",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 2,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "Σιλουανὸς",
+      "lemma": [
+        "G4610"
+      ],
+      "strongs": "G4610",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Silvanus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1031,
+        "ordinal": 120,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "Τιμόθεος",
+      "lemma": [
+        "G5095"
+      ],
+      "strongs": "G5095",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Timothy",
+      "metadata": {},
+      "gematria": {
+        "standard": 704,
+        "ordinal": 101,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "To the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐκκλησίᾳ",
+      "lemma": [
+        "G1577"
+      ],
+      "strongs": "G1577",
+      "morph": "robinson:N-DSF",
+      "translation": "church",
+      "metadata": {},
+      "gematria": {
+        "standard": 304,
+        "ordinal": 80,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 8,
+      "text": "Θεσσαλονικέων",
+      "lemma": [
+        "G2331"
+      ],
+      "strongs": "G2331",
+      "morph": "robinson:N-GPM-LG",
+      "translation": "of [the] Thessalonians",
+      "metadata": {},
+      "gematria": {
+        "standard": 1450,
+        "ordinal": 150,
+        "reduced": 69
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "θεῷ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-DSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 11,
+      "text": "πατρὶ",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-DSM-T",
+      "translation": "[the] Father",
+      "metadata": {},
+      "gematria": {
+        "standard": 491,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἡμῶν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GP",
+      "translation": "of us",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "κυρίῳ",
+      "lemma": null,
+      "morph": null,
+      "translation": "in the Lord",
+      "metadata": {},
+      "gematria": {
+        "standard": 1340,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 15,
+      "text": "Ἰησοῦ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 16,
+      "text": "Χριστῷ·",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-DSM-T",
+      "translation": "Christ:",
+      "metadata": {},
+      "gematria": {
+        "standard": 2020,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10997,
+    "ordinal": 1085,
+    "reduced": 482
+  }
+}

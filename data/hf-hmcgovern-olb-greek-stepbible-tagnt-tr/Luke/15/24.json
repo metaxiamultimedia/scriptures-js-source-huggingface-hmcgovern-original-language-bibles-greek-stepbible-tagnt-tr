@@ -1,0 +1,263 @@
+{
+  "text": "ὅτι οὗτος ὁ υἱός μου νεκρὸς ἦν καὶ ἀνέζησεν, ἦν ἀπολωλὼς καὶ εὑρέθη. καὶ ἤρξαντο εὐφραίνεσθαι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "For",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὗτος",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSM",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1040,
+        "ordinal": 87,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "υἱός",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-NSM",
+      "translation": "son",
+      "metadata": {},
+      "gematria": {
+        "standard": 680,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "νεκρὸς",
+      "lemma": [
+        "G3498"
+      ],
+      "strongs": "G3498",
+      "morph": "robinson:A-NSM",
+      "translation": "dead",
+      "metadata": {},
+      "gematria": {
+        "standard": 445,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀνέζησεν,",
+      "lemma": [
+        "G326"
+      ],
+      "strongs": "G326",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "is alive again,",
+      "metadata": {},
+      "gematria": {
+        "standard": 326,
+        "ordinal": 68,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "he was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἀπολωλὼς",
+      "lemma": [
+        "G622"
+      ],
+      "strongs": "G622",
+      "morph": "robinson:V-2RAP-NSM",
+      "translation": "having been lost",
+      "metadata": {},
+      "gematria": {
+        "standard": 2011,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "εὑρέθη.",
+      "lemma": [
+        "G2147"
+      ],
+      "strongs": "G2147",
+      "morph": "robinson:V-API-3S",
+      "translation": "is found.",
+      "metadata": {},
+      "gematria": {
+        "standard": 527,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἤρξαντο",
+      "lemma": [
+        "G757"
+      ],
+      "strongs": "G757",
+      "morph": "robinson:V-ADI-3P",
+      "translation": "they began",
+      "metadata": {},
+      "gematria": {
+        "standard": 589,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 16,
+      "text": "εὐφραίνεσθαι.",
+      "lemma": [
+        "G2165"
+      ],
+      "strongs": "G2165",
+      "morph": "robinson:V-PPN",
+      "translation": "to be merry.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1291,
+        "ordinal": 127,
+        "reduced": 64
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8078,
+    "ordinal": 895,
+    "reduced": 382
+  }
+}

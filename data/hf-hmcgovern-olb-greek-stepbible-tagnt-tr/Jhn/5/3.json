@@ -1,0 +1,247 @@
+{
+  "text": "ἐν ταύταις κατέκειτο πλῆθος πολὺ τῶν ἀσθενούντων, τυφλῶν, χωλῶν, ξηρῶν ἐκδεχομένων τὴν τοῦ ὕδατος κίνησιν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "In",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "ταύταις",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-DPF",
+      "translation": "these",
+      "metadata": {},
+      "gematria": {
+        "standard": 1212,
+        "ordinal": 87,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "κατέκειτο",
+      "lemma": [
+        "G2621"
+      ],
+      "strongs": "G2621",
+      "morph": "robinson:V-INI-3S",
+      "translation": "were lying",
+      "metadata": {},
+      "gematria": {
+        "standard": 731,
+        "ordinal": 93,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "πλῆθος",
+      "lemma": [
+        "G4128"
+      ],
+      "strongs": "G4128",
+      "morph": "robinson:N-NSN",
+      "translation": "a multitude",
+      "metadata": {},
+      "gematria": {
+        "standard": 397,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 5,
+      "text": "πολὺ",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-NSN",
+      "translation": "great",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 62,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of those",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀσθενούντων,",
+      "lemma": null,
+      "morph": null,
+      "translation": "ailing,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1935,
+        "ordinal": 149,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 8,
+      "text": "τυφλῶν,",
+      "lemma": [
+        "G5185"
+      ],
+      "strongs": "G5185",
+      "morph": "robinson:A-GPM",
+      "translation": "blind,",
+      "metadata": {},
+      "gematria": {
+        "standard": 2080,
+        "ordinal": 108,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "χωλῶν,",
+      "lemma": [
+        "G5560"
+      ],
+      "strongs": "G5560",
+      "morph": "robinson:A-GPM",
+      "translation": "lame,",
+      "metadata": {},
+      "gematria": {
+        "standard": 2280,
+        "ordinal": 94,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 10,
+      "text": "ξηρῶν",
+      "lemma": [
+        "G3584"
+      ],
+      "strongs": "G3584",
+      "morph": "robinson:A-GPM",
+      "translation": "paralyzed",
+      "metadata": {},
+      "gematria": {
+        "standard": 1018,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐκδεχομένων",
+      "lemma": [
+        "G1551"
+      ],
+      "strongs": "G1551",
+      "morph": "robinson:V-PNP-GPM",
+      "translation": "waiting for",
+      "metadata": {},
+      "gematria": {
+        "standard": 1649,
+        "ordinal": 128,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὕδατος",
+      "lemma": [
+        "G5204"
+      ],
+      "strongs": "G5204",
+      "morph": "robinson:N-GSN",
+      "translation": "water",
+      "metadata": {},
+      "gematria": {
+        "standard": 975,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 15,
+      "text": "κίνησιν.",
+      "lemma": [
+        "G2796"
+      ],
+      "strongs": "G2796",
+      "morph": "robinson:N-ASF",
+      "translation": "motion.",
+      "metadata": {},
+      "gematria": {
+        "standard": 348,
+        "ordinal": 79,
+        "reduced": 43
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15538,
+    "ordinal": 1194,
+    "reduced": 384
+  }
+}

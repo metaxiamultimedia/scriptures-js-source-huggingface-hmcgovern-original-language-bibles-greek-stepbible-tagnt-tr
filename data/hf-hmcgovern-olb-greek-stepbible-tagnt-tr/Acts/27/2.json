@@ -1,0 +1,282 @@
+{
+  "text": "ἐπιβάντες δὲ πλοίῳ Ἀδραμυττηνῷ πλεῖν τοὺς κατὰ τὴν Ἀσίαν τόπους ἀνήχθημεν ὄντος σὺν ἡμῖν Ἀριστάρχου Μακεδόνος Θεσσαλονικέως.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐπιβάντες",
+      "lemma": [
+        "G1910"
+      ],
+      "strongs": "G1910",
+      "morph": "robinson:V-2AAP-NPM",
+      "translation": "Having boarded",
+      "metadata": {},
+      "gematria": {
+        "standard": 653,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "πλοίῳ",
+      "lemma": [
+        "G4143"
+      ],
+      "strongs": "G4143",
+      "morph": "robinson:N-DSN",
+      "translation": "on a ship",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἀδραμυττηνῷ",
+      "lemma": [
+        "G98"
+      ],
+      "strongs": "G98",
+      "morph": "robinson:A-DSN-LG",
+      "translation": "of Adramyttium",
+      "metadata": {},
+      "gematria": {
+        "standard": 2014,
+        "ordinal": 146,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 5,
+      "text": "πλεῖν",
+      "lemma": [
+        "G4126"
+      ],
+      "strongs": "G4126",
+      "morph": "robinson:V-PAN",
+      "translation": "to sail",
+      "metadata": {},
+      "gematria": {
+        "standard": 175,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "κατὰ",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "along",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 31,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "Ἀσίαν",
+      "lemma": [
+        "G773"
+      ],
+      "strongs": "G773",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Asia",
+      "metadata": {},
+      "gematria": {
+        "standard": 262,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 10,
+      "text": "τόπους",
+      "lemma": [
+        "G5117"
+      ],
+      "strongs": "G5117",
+      "morph": "robinson:N-APM",
+      "translation": "places",
+      "metadata": {},
+      "gematria": {
+        "standard": 1120,
+        "ordinal": 103,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἀνήχθημεν",
+      "lemma": [
+        "G321"
+      ],
+      "strongs": "G321",
+      "morph": "robinson:V-API-1P",
+      "translation": "we set sail —",
+      "metadata": {},
+      "gematria": {
+        "standard": 771,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὄντος",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAP-GSM",
+      "translation": "while was being",
+      "metadata": {},
+      "gematria": {
+        "standard": 690,
+        "ordinal": 80,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 13,
+      "text": "σὺν",
+      "lemma": [
+        "G4862"
+      ],
+      "strongs": "G4862",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἡμῖν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DP",
+      "translation": "us",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 15,
+      "text": "Ἀριστάρχου",
+      "lemma": [
+        "G708"
+      ],
+      "strongs": "G708",
+      "morph": "robinson:N-GSM-P",
+      "translation": "Aristarchus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1782,
+        "ordinal": 139,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 16,
+      "text": "Μακεδόνος",
+      "lemma": [
+        "G3110"
+      ],
+      "strongs": "G3110",
+      "morph": "robinson:N-GSM-LG",
+      "translation": "a Macedonian",
+      "metadata": {},
+      "gematria": {
+        "standard": 460,
+        "ordinal": 93,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 17,
+      "text": "Θεσσαλονικέως.",
+      "lemma": [
+        "G2331"
+      ],
+      "strongs": "G2331",
+      "morph": "robinson:N-GSM-LG",
+      "translation": "of Thessalonica.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1600,
+        "ordinal": 155,
+        "reduced": 74
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12944,
+    "ordinal": 1315,
+    "reduced": 523
+  }
+}

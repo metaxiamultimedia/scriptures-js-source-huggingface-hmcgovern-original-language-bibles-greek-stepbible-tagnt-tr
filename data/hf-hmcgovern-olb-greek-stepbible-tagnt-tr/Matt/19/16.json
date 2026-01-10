@@ -1,0 +1,231 @@
+{
+  "text": "Καὶ ἰδοὺ εἷς προσελθὼν αὐτῷ εἶπεν· διδάσκαλε ἀγαθέ, τί ἀγαθὸν ποιήσω ἵνα ζωὴν αἰώνιον;",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἰδοὺ",
+      "lemma": [
+        "G2400"
+      ],
+      "strongs": "G2400",
+      "morph": "robinson:INJ",
+      "translation": "behold",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "εἷς",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-NSM",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "προσελθὼν",
+      "lemma": [
+        "G4334"
+      ],
+      "strongs": "G4334",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having come",
+      "metadata": {},
+      "gematria": {
+        "standard": 1344,
+        "ordinal": 127,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "εἶπεν·",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "said:",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "διδάσκαλε",
+      "lemma": [
+        "G1320"
+      ],
+      "strongs": "G1320",
+      "morph": "robinson:N-VSM-T",
+      "translation": "Teacher",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀγαθέ,",
+      "lemma": [
+        "G18"
+      ],
+      "strongs": "G18",
+      "morph": "robinson:A-VSM",
+      "translation": "good",
+      "metadata": {},
+      "gematria": {
+        "standard": 19,
+        "ordinal": 18,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "τί",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-ASN",
+      "translation": "what",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀγαθὸν",
+      "lemma": [
+        "G18"
+      ],
+      "strongs": "G18",
+      "morph": "robinson:A-ASN",
+      "translation": "good [thing]",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "ποιήσω",
+      "lemma": null,
+      "morph": null,
+      "translation": "shall I do",
+      "metadata": {},
+      "gematria": {
+        "standard": 1168,
+        "ordinal": 89,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "ζωὴν",
+      "lemma": [
+        "G2222"
+      ],
+      "strongs": "G2222",
+      "morph": "robinson:N-ASF",
+      "translation": "life",
+      "metadata": {},
+      "gematria": {
+        "standard": 865,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 14,
+      "text": "αἰώνιον;",
+      "lemma": [
+        "G166"
+      ],
+      "strongs": "G166",
+      "morph": "robinson:A-ASF",
+      "translation": "eternal?",
+      "metadata": {},
+      "gematria": {
+        "standard": 991,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7558,
+    "ordinal": 744,
+    "reduced": 366
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "text": "Εἶπεν δὲ καὶ πρός τινας τοὺς πεποιθότας ἐφ᾽ ἑαυτοῖς ὅτι εἰσὶν δίκαιοι καὶ ἐξουθενοῦντας τοὺς λοιποὺς τὴν παραβολὴν ταύτην.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "He spoke",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "πρός",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "τινας",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-APM",
+      "translation": "some",
+      "metadata": {},
+      "gematria": {
+        "standard": 561,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "πεποιθότας",
+      "lemma": [
+        "G3982"
+      ],
+      "strongs": "G3982",
+      "morph": "robinson:V-2RAP-APM",
+      "translation": "having trusted",
+      "metadata": {},
+      "gematria": {
+        "standard": 825,
+        "ordinal": 122,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐφ᾽",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 505,
+        "ordinal": 26,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἑαυτοῖς",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-3DPM",
+      "translation": "themselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 986,
+        "ordinal": 87,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "εἰσὶν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "they are",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 54,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 12,
+      "text": "δίκαιοι",
+      "lemma": [
+        "G1342"
+      ],
+      "strongs": "G1342",
+      "morph": "robinson:A-NPM",
+      "translation": "righteous",
+      "metadata": {},
+      "gematria": {
+        "standard": 125,
+        "ordinal": 57,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐξουθενοῦντας",
+      "lemma": [
+        "G1848"
+      ],
+      "strongs": "G1848",
+      "morph": "robinson:V-PAP-APM",
+      "translation": "despising",
+      "metadata": {},
+      "gematria": {
+        "standard": 1620,
+        "ordinal": 166,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 15,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 16,
+      "text": "λοιποὺς",
+      "lemma": [
+        "G3062"
+      ],
+      "strongs": "G3062",
+      "morph": "robinson:A-APM",
+      "translation": "others",
+      "metadata": {},
+      "gematria": {
+        "standard": 860,
+        "ordinal": 104,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 17,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 18,
+      "text": "παραβολὴν",
+      "lemma": [
+        "G3850"
+      ],
+      "strongs": "G3850",
+      "morph": "robinson:N-ASF",
+      "translation": "parable",
+      "metadata": {},
+      "gematria": {
+        "standard": 342,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 19,
+      "text": "ταύτην.",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-ASF",
+      "translation": "this.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1059,
+        "ordinal": 79,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10507,
+    "ordinal": 1227,
+    "reduced": 507
+  }
+}

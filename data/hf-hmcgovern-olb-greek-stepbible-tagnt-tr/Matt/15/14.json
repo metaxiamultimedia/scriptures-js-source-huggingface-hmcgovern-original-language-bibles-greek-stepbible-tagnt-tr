@@ -1,0 +1,247 @@
+{
+  "text": "ἄφετε αὐτούς· τυφλοί εἰσιν ὁδηγοί τυφλῶν. τυφλὸς δὲ τυφλὸν ἐὰν ὁδηγῇ, ἀμφότεροι εἰς βόθυνον πεσοῦνται.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἄφετε",
+      "lemma": null,
+      "morph": null,
+      "translation": "do leave",
+      "metadata": {},
+      "gematria": {
+        "standard": 811,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "αὐτούς·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APM",
+      "translation": "them!",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 93,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "τυφλοί",
+      "lemma": [
+        "G5185"
+      ],
+      "strongs": "G5185",
+      "morph": "robinson:A-NPM",
+      "translation": "Blind",
+      "metadata": {},
+      "gematria": {
+        "standard": 1310,
+        "ordinal": 95,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἰσιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "they are",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 54,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὁδηγοί",
+      "lemma": [
+        "G3595"
+      ],
+      "strongs": "G3595",
+      "morph": "robinson:N-NPM",
+      "translation": "guides",
+      "metadata": {},
+      "gematria": {
+        "standard": 165,
+        "ordinal": 53,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 6,
+      "text": "τυφλῶν.",
+      "lemma": [
+        "G5185"
+      ],
+      "strongs": "G5185",
+      "morph": "robinson:A-GPM",
+      "translation": "of the blind.",
+      "metadata": {},
+      "gematria": {
+        "standard": 2080,
+        "ordinal": 108,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "τυφλὸς",
+      "lemma": [
+        "G5185"
+      ],
+      "strongs": "G5185",
+      "morph": "robinson:A-NSM",
+      "translation": "Blind",
+      "metadata": {},
+      "gematria": {
+        "standard": 1500,
+        "ordinal": 104,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "τυφλὸν",
+      "lemma": [
+        "G5185"
+      ],
+      "strongs": "G5185",
+      "morph": "robinson:A-ASM",
+      "translation": "blind",
+      "metadata": {},
+      "gematria": {
+        "standard": 1350,
+        "ordinal": 99,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὁδηγῇ,",
+      "lemma": [
+        "G3594"
+      ],
+      "strongs": "G3594",
+      "morph": "robinson:V-PAS-3S",
+      "translation": "they shall lead,",
+      "metadata": {},
+      "gematria": {
+        "standard": 103,
+        "ordinal": 45,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀμφότεροι",
+      "lemma": [
+        "G297"
+      ],
+      "strongs": "G297",
+      "morph": "robinson:A-NPM",
+      "translation": "both",
+      "metadata": {},
+      "gematria": {
+        "standard": 1096,
+        "ordinal": 114,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 13,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 14,
+      "text": "βόθυνον",
+      "lemma": [
+        "G999"
+      ],
+      "strongs": "G999",
+      "morph": "robinson:N-ASM",
+      "translation": "a pit",
+      "metadata": {},
+      "gematria": {
+        "standard": 651,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 15,
+      "text": "πεσοῦνται.",
+      "lemma": [
+        "G4098"
+      ],
+      "strongs": "G4098",
+      "morph": "robinson:V-FNI-3P",
+      "translation": "will fall.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1116,
+        "ordinal": 116,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12108,
+    "ordinal": 1078,
+    "reduced": 385
+  }
+}

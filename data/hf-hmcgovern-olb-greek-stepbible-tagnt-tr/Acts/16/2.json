@@ -1,0 +1,151 @@
+{
+  "text": "ὃς ἐμαρτυρεῖτο ὑπὸ τῶν ἐν Λύστροις καὶ Ἰκονίῳ ἀδελφῶν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὃς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐμαρτυρεῖτο",
+      "lemma": [
+        "G3140"
+      ],
+      "strongs": "G3140",
+      "morph": "robinson:V-IPI-3S",
+      "translation": "was well spoken of",
+      "metadata": {},
+      "gematria": {
+        "standard": 1331,
+        "ordinal": 139,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὑπὸ",
+      "lemma": null,
+      "morph": null,
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "Λύστροις",
+      "lemma": [
+        "G3082"
+      ],
+      "strongs": "G3082",
+      "morph": "robinson:N-DPN-L",
+      "translation": "Lystra",
+      "metadata": {},
+      "gematria": {
+        "standard": 1310,
+        "ordinal": 127,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "Ἰκονίῳ",
+      "lemma": [
+        "G2430"
+      ],
+      "strongs": "G2430",
+      "morph": "robinson:N-DSN-L",
+      "translation": "Iconium",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 89,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀδελφῶν.",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-GPM",
+      "translation": "brothers.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1390,
+        "ordinal": 79,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7057,
+    "ordinal": 612,
+    "reduced": 225
+  }
+}

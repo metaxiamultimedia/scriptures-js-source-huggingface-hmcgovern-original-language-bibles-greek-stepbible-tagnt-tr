@@ -1,0 +1,234 @@
+{
+  "text": "Μὴ γάρ τις ὑμῶν πασχέτω ὡς φονεὺς ἢ κλέπτης ἢ κακοποιὸς ἢ ὡς ἀλλοτριεπίσκοπος·",
+  "words": [
+    {
+      "position": 1,
+      "text": "Μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "Not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "γάρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSM",
+      "translation": "any",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὑμῶν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "πασχέτω",
+      "lemma": [
+        "G3958"
+      ],
+      "strongs": "G3958",
+      "morph": "robinson:V-PAM-3S",
+      "translation": "should suffer",
+      "metadata": {},
+      "gematria": {
+        "standard": 1986,
+        "ordinal": 105,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "φονεὺς",
+      "lemma": [
+        "G5406"
+      ],
+      "strongs": "G5406",
+      "morph": "robinson:N-NSM",
+      "translation": "a murderer",
+      "metadata": {},
+      "gematria": {
+        "standard": 1225,
+        "ordinal": 92,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "κλέπτης",
+      "lemma": [
+        "G2812"
+      ],
+      "strongs": "G2812",
+      "morph": "robinson:N-NSM",
+      "translation": "a thief",
+      "metadata": {},
+      "gematria": {
+        "standard": 643,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 11,
+      "text": "κακοποιὸς",
+      "lemma": [
+        "G2555"
+      ],
+      "strongs": "G2555",
+      "morph": "robinson:N-NSM",
+      "translation": "an evildoer",
+      "metadata": {},
+      "gematria": {
+        "standard": 541,
+        "ordinal": 109,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀλλοτριεπίσκοπος·",
+      "lemma": [
+        "G244"
+      ],
+      "strongs": "G244",
+      "morph": "robinson:N-NSM",
+      "translation": "a troublesome meddler;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1276,
+        "ordinal": 205,
+        "reduced": 88
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9647,
+    "ordinal": 857,
+    "reduced": 335
+  }
+}

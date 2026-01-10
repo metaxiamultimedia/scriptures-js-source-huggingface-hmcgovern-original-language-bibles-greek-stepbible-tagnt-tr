@@ -1,0 +1,359 @@
+{
+  "text": "Καὶ εἶδον καὶ ἰδοὺ ἵππος λευκὸς καὶ ὁ καθήμενος ἐπ᾽ ἔχων τόξον. καὶ ἐδόθη αὐτῷ στέφανος, καὶ ἐξῆλθεν νικῶν καὶ ἵνα νικήσῃ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἶδον",
+      "lemma": null,
+      "morph": null,
+      "translation": "I looked",
+      "metadata": {},
+      "gematria": {
+        "standard": 139,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἰδοὺ",
+      "lemma": [
+        "G2400"
+      ],
+      "strongs": "G2400",
+      "morph": "robinson:INJ",
+      "translation": "behold",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἵππος",
+      "lemma": [
+        "G2462"
+      ],
+      "strongs": "G2462",
+      "morph": "robinson:N-NSM",
+      "translation": "a horse",
+      "metadata": {},
+      "gematria": {
+        "standard": 440,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 6,
+      "text": "λευκὸς",
+      "lemma": [
+        "G3022"
+      ],
+      "strongs": "G3022",
+      "morph": "robinson:A-NSM",
+      "translation": "white",
+      "metadata": {},
+      "gematria": {
+        "standard": 725,
+        "ordinal": 79,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "καθήμενος",
+      "lemma": [
+        "G2521"
+      ],
+      "strongs": "G2521",
+      "morph": "robinson:V-PNP-NSM",
+      "translation": "sitting",
+      "metadata": {},
+      "gematria": {
+        "standard": 403,
+        "ordinal": 89,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐπ᾽",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "on",
+      "metadata": {},
+      "gematria": {
+        "standard": 85,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἔχων",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "having",
+      "metadata": {},
+      "gematria": {
+        "standard": 1455,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "τόξον.",
+      "lemma": [
+        "G5115"
+      ],
+      "strongs": "G5115",
+      "morph": "robinson:N-ASN",
+      "translation": "a bow.",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 76,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐδόθη",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-API-3S",
+      "translation": "was given",
+      "metadata": {},
+      "gematria": {
+        "standard": 96,
+        "ordinal": 39,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 15,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 16,
+      "text": "στέφανος,",
+      "lemma": [
+        "G4735"
+      ],
+      "strongs": "G4735",
+      "morph": "robinson:N-NSM",
+      "translation": "a crown,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1326,
+        "ordinal": 110,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 17,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐξῆλθεν",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "he went forth",
+      "metadata": {},
+      "gematria": {
+        "standard": 167,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 19,
+      "text": "νικῶν",
+      "lemma": [
+        "G3528"
+      ],
+      "strongs": "G3528",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "overcoming",
+      "metadata": {},
+      "gematria": {
+        "standard": 930,
+        "ordinal": 69,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 20,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 22,
+      "text": "νικήσῃ.",
+      "lemma": [
+        "G3528"
+      ],
+      "strongs": "G3528",
+      "morph": "robinson:V-AAS-3S",
+      "translation": "he may conquer.",
+      "metadata": {},
+      "gematria": {
+        "standard": 306,
+        "ordinal": 73,
+        "reduced": 46
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8934,
+    "ordinal": 1082,
+    "reduced": 488
+  }
+}

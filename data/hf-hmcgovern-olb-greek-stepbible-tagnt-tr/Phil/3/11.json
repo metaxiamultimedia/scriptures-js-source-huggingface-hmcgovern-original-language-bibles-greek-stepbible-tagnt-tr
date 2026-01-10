@@ -1,0 +1,119 @@
+{
+  "text": "εἴ πως καταντήσω εἰς τὴν ἐξανάστασιν νεκρῶν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "πως",
+      "lemma": [
+        "G4458"
+      ],
+      "strongs": "G4458",
+      "morph": "robinson:PRT",
+      "translation": "somehow",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 3,
+      "text": "καταντήσω",
+      "lemma": [
+        "G2658"
+      ],
+      "strongs": "G2658",
+      "morph": "robinson:V-AAS-1S",
+      "translation": "I shall attain",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 112,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐξανάστασιν",
+      "lemma": [
+        "G1815"
+      ],
+      "strongs": "G1815",
+      "morph": "robinson:N-ASF",
+      "translation": "resurrection",
+      "metadata": {},
+      "gematria": {
+        "standard": 878,
+        "ordinal": 112,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 7,
+      "text": "νεκρῶν.",
+      "lemma": [
+        "G3498"
+      ],
+      "strongs": "G3498",
+      "morph": "robinson:A-GPM",
+      "translation": "[the] dead.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1025,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5251,
+    "ordinal": 449,
+    "reduced": 179
+  }
+}

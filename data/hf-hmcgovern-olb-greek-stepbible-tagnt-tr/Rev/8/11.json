@@ -1,0 +1,388 @@
+{
+  "text": "καὶ τὸ ὄνομα τοῦ ἀστέρος λέγεται Ἄψινθος· καὶ τὸ τρίτον τῶν ὑδάτων εἰς ἄψινθον, καὶ πολλοὶ τῶν ἀνθρώπων ἀπέθανον ἐκ τῶν ὑδάτων ὅτι ἐπικράνθησαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὄνομα",
+      "lemma": [
+        "G3686"
+      ],
+      "strongs": "G3686",
+      "morph": "robinson:N-NSN",
+      "translation": "name",
+      "metadata": {},
+      "gematria": {
+        "standard": 231,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀστέρος",
+      "lemma": [
+        "G792"
+      ],
+      "strongs": "G792",
+      "morph": "robinson:N-GSM",
+      "translation": "star",
+      "metadata": {},
+      "gematria": {
+        "standard": 876,
+        "ordinal": 93,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 6,
+      "text": "λέγεται",
+      "lemma": null,
+      "morph": null,
+      "translation": "is named",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ἄψινθος·",
+      "lemma": [
+        "G894"
+      ],
+      "strongs": "G894",
+      "morph": "robinson:N-NSM-T",
+      "translation": "Wormwood;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1040,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "τρίτον",
+      "lemma": [
+        "G5154"
+      ],
+      "strongs": "G5154",
+      "morph": "robinson:A-NSN",
+      "translation": "a third",
+      "metadata": {},
+      "gematria": {
+        "standard": 830,
+        "ordinal": 92,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὑδάτων",
+      "lemma": [
+        "G5204"
+      ],
+      "strongs": "G5204",
+      "morph": "robinson:N-GPN",
+      "translation": "waters",
+      "metadata": {},
+      "gematria": {
+        "standard": 1555,
+        "ordinal": 81,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 13,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἄψινθον,",
+      "lemma": [
+        "G894"
+      ],
+      "strongs": "G894",
+      "morph": "robinson:N-ASM",
+      "translation": "wormwood,",
+      "metadata": {},
+      "gematria": {
+        "standard": 890,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "πολλοὶ",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-NPM",
+      "translation": "many",
+      "metadata": {},
+      "gematria": {
+        "standard": 290,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 17,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἀνθρώπων",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-GPM",
+      "translation": "men",
+      "metadata": {},
+      "gematria": {
+        "standard": 1890,
+        "ordinal": 116,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἀπέθανον",
+      "lemma": [
+        "G599"
+      ],
+      "strongs": "G599",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "died",
+      "metadata": {},
+      "gematria": {
+        "standard": 266,
+        "ordinal": 72,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 21,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "ὑδάτων",
+      "lemma": [
+        "G5204"
+      ],
+      "strongs": "G5204",
+      "morph": "robinson:N-GPN",
+      "translation": "waters",
+      "metadata": {},
+      "gematria": {
+        "standard": 1555,
+        "ordinal": 81,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 23,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "because",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἐπικράνθησαν.",
+      "lemma": [
+        "G4087"
+      ],
+      "strongs": "G4087",
+      "morph": "robinson:V-API-3P",
+      "translation": "they were made bitter.",
+      "metadata": {},
+      "gematria": {
+        "standard": 534,
+        "ordinal": 118,
+        "reduced": 64
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15984,
+    "ordinal": 1448,
+    "reduced": 539
+  }
+}

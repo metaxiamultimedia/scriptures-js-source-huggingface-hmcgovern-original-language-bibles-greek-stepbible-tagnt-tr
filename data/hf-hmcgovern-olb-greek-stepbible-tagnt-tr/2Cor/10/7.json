@@ -1,0 +1,340 @@
+{
+  "text": "Τὰ κατὰ πρόσωπον βλέπετε. εἴ τις πέποιθεν ἑαυτῷ Χριστοῦ εἶναι, τοῦτο λογιζέσθω πάλιν ἑαυτοῦ ὅτι καθὼς αὐτὸς Χριστοῦ, οὕτως καὶ ἡμεῖς",
+  "words": [
+    {
+      "position": 1,
+      "text": "Τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "The [things]",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 2,
+      "text": "κατὰ",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "according to",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 31,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 3,
+      "text": "πρόσωπον",
+      "lemma": [
+        "G4383"
+      ],
+      "strongs": "G4383",
+      "morph": "robinson:N-ASN",
+      "translation": "appearance",
+      "metadata": {},
+      "gematria": {
+        "standard": 1450,
+        "ordinal": 134,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 4,
+      "text": "βλέπετε.",
+      "lemma": [
+        "G991"
+      ],
+      "strongs": "G991",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "are you looking.",
+      "metadata": {},
+      "gematria": {
+        "standard": 427,
+        "ordinal": 63,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSM",
+      "translation": "anyone",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "πέποιθεν",
+      "lemma": [
+        "G3982"
+      ],
+      "strongs": "G3982",
+      "morph": "robinson:V-2RAI-3S",
+      "translation": "is persuaded",
+      "metadata": {},
+      "gematria": {
+        "standard": 309,
+        "ordinal": 87,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἑαυτῷ",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-3DSM",
+      "translation": "in himself",
+      "metadata": {},
+      "gematria": {
+        "standard": 1516,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 9,
+      "text": "Χριστοῦ",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of Christ",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 10,
+      "text": "εἶναι,",
+      "lemma": [
+        "G1511"
+      ],
+      "strongs": "G1511",
+      "morph": "robinson:V-PAN",
+      "translation": "to be,",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 37,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοῦτο",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-ASN",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "λογιζέσθω",
+      "lemma": [
+        "G3049"
+      ],
+      "strongs": "G3049",
+      "morph": "robinson:V-PNM-3S",
+      "translation": "he should reckon",
+      "metadata": {},
+      "gematria": {
+        "standard": 1134,
+        "ordinal": 99,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 13,
+      "text": "πάλιν",
+      "lemma": [
+        "G3825"
+      ],
+      "strongs": "G3825",
+      "morph": "robinson:ADV",
+      "translation": "again",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἑαυτοῦ",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-3GSM",
+      "translation": "himself",
+      "metadata": {},
+      "gematria": {
+        "standard": 1176,
+        "ordinal": 80,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "καθὼς",
+      "lemma": [
+        "G2531"
+      ],
+      "strongs": "G2531",
+      "morph": "robinson:CONJ",
+      "translation": "even as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1030,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 17,
+      "text": "αὐτὸς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NSM",
+      "translation": "he",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 18,
+      "text": "Χριστοῦ,",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-GSM-T",
+      "translation": "[is] of Christ,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 19,
+      "text": "οὕτως",
+      "lemma": [
+        "G3779"
+      ],
+      "strongs": "G3779",
+      "morph": "robinson:ADV",
+      "translation": "so",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 96,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 20,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also [are]",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἡμεῖς",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1NP",
+      "translation": "we ourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 263,
+        "ordinal": 51,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 16352,
+    "ordinal": 1411,
+    "reduced": 538
+  }
+}

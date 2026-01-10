@@ -1,0 +1,183 @@
+{
+  "text": "εἰ δὲ οὐκ ἐγκρατεύονται, γαμησάτωσαν· κρεῖττον γάρ ἐστιν γαμῆσαι ἢ πυροῦσθαι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐγκρατεύονται,",
+      "lemma": [
+        "G1467"
+      ],
+      "strongs": "G1467",
+      "morph": "robinson:V-PNI-3P",
+      "translation": "they have self-control,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1265,
+        "ordinal": 137,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 5,
+      "text": "γαμησάτωσαν·",
+      "lemma": [
+        "G1060"
+      ],
+      "strongs": "G1060",
+      "morph": "robinson:V-AAM-3P",
+      "translation": "they should marry;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1604,
+        "ordinal": 117,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 6,
+      "text": "κρεῖττον",
+      "lemma": [
+        "G2908"
+      ],
+      "strongs": "G2908",
+      "morph": "robinson:A-NSN-C",
+      "translation": "better",
+      "metadata": {},
+      "gematria": {
+        "standard": 855,
+        "ordinal": 107,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 7,
+      "text": "γάρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "it is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "γαμῆσαι",
+      "lemma": [
+        "G1060"
+      ],
+      "strongs": "G1060",
+      "morph": "robinson:V-AAN",
+      "translation": "to marry",
+      "metadata": {},
+      "gematria": {
+        "standard": 263,
+        "ordinal": 51,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "than",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 11,
+      "text": "πυροῦσθαι.",
+      "lemma": [
+        "G4448"
+      ],
+      "strongs": "G4448",
+      "morph": "robinson:V-PPN",
+      "translation": "to burn with passion.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1270,
+        "ordinal": 124,
+        "reduced": 52
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6448,
+    "ordinal": 696,
+    "reduced": 291
+  }
+}

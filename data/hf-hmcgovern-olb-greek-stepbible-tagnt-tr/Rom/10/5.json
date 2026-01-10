@@ -1,0 +1,276 @@
+{
+  "text": "Μωϋσῆς γὰρ γράφει τὴν δικαιοσύνην τὴν ἐκ τοῦ νόμου ὅτι ὁ ποιήσας αὐτὰ ἄνθρωπος ζήσεται ἐν αὐτοῖς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Μωϋσῆς",
+      "lemma": [
+        "G3475"
+      ],
+      "strongs": "G3475",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Moses",
+      "metadata": {},
+      "gematria": {
+        "standard": 1648,
+        "ordinal": 99,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 2,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "γράφει",
+      "lemma": [
+        "G1125"
+      ],
+      "strongs": "G1125",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "writes",
+      "metadata": {},
+      "gematria": {
+        "standard": 619,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "[of] the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "δικαιοσύνην",
+      "lemma": [
+        "G1343"
+      ],
+      "strongs": "G1343",
+      "morph": "robinson:N-ASF",
+      "translation": "righteousness",
+      "metadata": {},
+      "gematria": {
+        "standard": 823,
+        "ordinal": 119,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "that [is]",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "νόμου",
+      "lemma": [
+        "G3551"
+      ],
+      "strongs": "G3551",
+      "morph": "robinson:N-GSM",
+      "translation": "law",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 12,
+      "text": "ποιήσας",
+      "lemma": null,
+      "morph": null,
+      "translation": "having done",
+      "metadata": {},
+      "gematria": {
+        "standard": 569,
+        "ordinal": 84,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτὰ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APN",
+      "translation": "these things",
+      "metadata": {},
+      "gematria": {
+        "standard": 702,
+        "ordinal": 41,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἄνθρωπος",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-NSM",
+      "translation": "man",
+      "metadata": {},
+      "gematria": {
+        "standard": 1310,
+        "ordinal": 112,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 15,
+      "text": "ζήσεται",
+      "lemma": [
+        "G2198"
+      ],
+      "strongs": "G2198",
+      "morph": "robinson:V-FDI-3S",
+      "translation": "will live",
+      "metadata": {},
+      "gematria": {
+        "standard": 531,
+        "ordinal": 65,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 17,
+      "text": "αὐτοῖς.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPN",
+      "translation": "these [things].",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9933,
+    "ordinal": 977,
+    "reduced": 392
+  }
+}

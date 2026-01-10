@@ -1,0 +1,154 @@
+{
+  "text": "ἀλλ᾽ ἀδελφὸς μετὰ ἀδελφοῦ κρίνεται, καὶ τοῦτο ἐπὶ ἀπίστων.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "Instead",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀδελφὸς",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-NSM",
+      "translation": "brother",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "μετὰ",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "against",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀδελφοῦ",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-GSM",
+      "translation": "brother",
+      "metadata": {},
+      "gematria": {
+        "standard": 1010,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "κρίνεται,",
+      "lemma": [
+        "G2919"
+      ],
+      "strongs": "G2919",
+      "morph": "robinson:V-PPI-3S",
+      "translation": "goes to law,",
+      "metadata": {},
+      "gematria": {
+        "standard": 496,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "τοῦτο",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSN",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "before",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀπίστων.",
+      "lemma": [
+        "G571"
+      ],
+      "strongs": "G571",
+      "morph": "robinson:A-GPM",
+      "translation": "unbelievers!",
+      "metadata": {},
+      "gematria": {
+        "standard": 1441,
+        "ordinal": 100,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5430,
+    "ordinal": 533,
+    "reduced": 191
+  }
+}

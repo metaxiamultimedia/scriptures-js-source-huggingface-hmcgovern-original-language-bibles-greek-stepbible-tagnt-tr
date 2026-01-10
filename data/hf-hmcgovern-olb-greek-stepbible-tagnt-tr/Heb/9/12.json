@@ -1,0 +1,305 @@
+{
+  "text": "οὐδὲ δι᾽ αἵματος τράγων καὶ μόσχων διὰ δὲ τοῦ ἰδίου αἵματος εἰσῆλθεν ἐφάπαξ εἰς τὰ ἅγια αἰωνίαν λύτρωσιν εὑράμενος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "οὐδὲ",
+      "lemma": [
+        "G3761"
+      ],
+      "strongs": "G3761",
+      "morph": "robinson:CONJ-N",
+      "translation": "nor",
+      "metadata": {},
+      "gematria": {
+        "standard": 479,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
+      "text": "δι᾽",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 14,
+        "ordinal": 13,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "αἵματος",
+      "lemma": null,
+      "morph": null,
+      "translation": "blood",
+      "metadata": {},
+      "gematria": {
+        "standard": 622,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "τράγων",
+      "lemma": [
+        "G5131"
+      ],
+      "strongs": "G5131",
+      "morph": "robinson:N-GPM",
+      "translation": "of goats",
+      "metadata": {},
+      "gematria": {
+        "standard": 1254,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "μόσχων",
+      "lemma": [
+        "G3448"
+      ],
+      "strongs": "G3448",
+      "morph": "robinson:N-GPM",
+      "translation": "calves",
+      "metadata": {},
+      "gematria": {
+        "standard": 1760,
+        "ordinal": 104,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 7,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἰδίου",
+      "lemma": [
+        "G2398"
+      ],
+      "strongs": "G2398",
+      "morph": "robinson:A-GSN",
+      "translation": "own",
+      "metadata": {},
+      "gematria": {
+        "standard": 494,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 11,
+      "text": "αἵματος",
+      "lemma": null,
+      "morph": null,
+      "translation": "blood",
+      "metadata": {},
+      "gematria": {
+        "standard": 622,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 12,
+      "text": "εἰσῆλθεν",
+      "lemma": [
+        "G1525"
+      ],
+      "strongs": "G1525",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "He entered",
+      "metadata": {},
+      "gematria": {
+        "standard": 317,
+        "ordinal": 76,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐφάπαξ",
+      "lemma": [
+        "G2178"
+      ],
+      "strongs": "G2178",
+      "morph": "robinson:ADV",
+      "translation": "once for all",
+      "metadata": {},
+      "gematria": {
+        "standard": 647,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 14,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 15,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἅγια",
+      "lemma": null,
+      "morph": null,
+      "translation": "Holy [Places]",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 17,
+      "text": "αἰωνίαν",
+      "lemma": [
+        "G166"
+      ],
+      "strongs": "G166",
+      "morph": "robinson:A-ASF",
+      "translation": "eternal",
+      "metadata": {},
+      "gematria": {
+        "standard": 922,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 18,
+      "text": "λύτρωσιν",
+      "lemma": [
+        "G3085"
+      ],
+      "strongs": "G3085",
+      "morph": "robinson:N-ASF",
+      "translation": "redemption",
+      "metadata": {},
+      "gematria": {
+        "standard": 1890,
+        "ordinal": 131,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 19,
+      "text": "εὑράμενος.",
+      "lemma": [
+        "G2147"
+      ],
+      "strongs": "G2147",
+      "morph": "robinson:V-2AMP-NSM",
+      "translation": "having obtained.",
+      "metadata": {},
+      "gematria": {
+        "standard": 871,
+        "ordinal": 106,
+        "reduced": 43
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11248,
+    "ordinal": 1049,
+    "reduced": 446
+  }
+}

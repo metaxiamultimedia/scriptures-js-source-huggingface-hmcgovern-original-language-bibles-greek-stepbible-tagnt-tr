@@ -1,0 +1,260 @@
+{
+  "text": "ἐὰν δὲ πάντες προφητεύωσιν, εἰσέλθῃ δέ τις ἄπιστος ἢ ἰδιώτης, ἐλέγχεται ὑπὸ πάντων, ἀνακρίνεται ὑπὸ πάντων,",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "πάντες",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NPM",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 636,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "προφητεύωσιν,",
+      "lemma": [
+        "G4395"
+      ],
+      "strongs": "G4395",
+      "morph": "robinson:V-PAS-3P",
+      "translation": "shall prophesy,",
+      "metadata": {},
+      "gematria": {
+        "standard": 2523,
+        "ordinal": 184,
+        "reduced": 67
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἰσέλθῃ",
+      "lemma": [
+        "G1525"
+      ],
+      "strongs": "G1525",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "shall come in",
+      "metadata": {},
+      "gematria": {
+        "standard": 277,
+        "ordinal": 72,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 6,
+      "text": "δέ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSM",
+      "translation": "some",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἄπιστος",
+      "lemma": [
+        "G571"
+      ],
+      "strongs": "G571",
+      "morph": "robinson:A-NSM",
+      "translation": "unbeliever",
+      "metadata": {},
+      "gematria": {
+        "standard": 861,
+        "ordinal": 96,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἰδιώτης,",
+      "lemma": [
+        "G2399"
+      ],
+      "strongs": "G2399",
+      "morph": "robinson:N-NSM",
+      "translation": "uninstructed,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1332,
+        "ordinal": 90,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐλέγχεται",
+      "lemma": [
+        "G1651"
+      ],
+      "strongs": "G1651",
+      "morph": "robinson:V-PPI-3S",
+      "translation": "he is convicted",
+      "metadata": {},
+      "gematria": {
+        "standard": 959,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὑπὸ",
+      "lemma": null,
+      "morph": null,
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "πάντων,",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-GPM",
+      "translation": "all,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1281,
+        "ordinal": 86,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀνακρίνεται",
+      "lemma": [
+        "G350"
+      ],
+      "strongs": "G350",
+      "morph": "robinson:V-PPI-3S",
+      "translation": "he is examined",
+      "metadata": {},
+      "gematria": {
+        "standard": 548,
+        "ordinal": 98,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὑπὸ",
+      "lemma": null,
+      "morph": null,
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 16,
+      "text": "πάντων,",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-GPM",
+      "translation": "all,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1281,
+        "ordinal": 86,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11390,
+    "ordinal": 1056,
+    "reduced": 444
+  }
+}

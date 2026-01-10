@@ -1,0 +1,302 @@
+{
+  "text": "καὶ τὰ τέσσαρα ζῷα ἔλεγον· ἀμήν. καὶ οἱ εἴκοσιτέσσαρες πρεσβύτεροι ἔπεσαν καὶ προσεκύνησαν ζῶντι εἰς τοὺς αἰωνας τῶν αἰώνων.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 3,
+      "text": "τέσσαρα",
+      "lemma": [
+        "G5064"
+      ],
+      "strongs": "G5064",
+      "morph": "robinson:A-NPN",
+      "translation": "four",
+      "metadata": {},
+      "gematria": {
+        "standard": 807,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 4,
+      "text": "ζῷα",
+      "lemma": [
+        "G2226"
+      ],
+      "strongs": "G2226",
+      "morph": "robinson:N-NPN",
+      "translation": "living creatures",
+      "metadata": {},
+      "gematria": {
+        "standard": 818,
+        "ordinal": 40,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἔλεγον·",
+      "lemma": null,
+      "morph": null,
+      "translation": "were saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 163,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀμήν.",
+      "lemma": [
+        "G281"
+      ],
+      "strongs": "G281",
+      "morph": "robinson:INJ-HEB",
+      "translation": "Amen.",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "εἴκοσιτέσσαρες",
+      "lemma": [
+        "G1501"
+      ],
+      "strongs": "G1501",
+      "morph": "robinson:A-NUI + G5064=A-NPM",
+      "translation": "twenty four",
+      "metadata": {},
+      "gematria": {
+        "standard": 1326,
+        "ordinal": 167,
+        "reduced": 86
+      }
+    },
+    {
+      "position": 10,
+      "text": "πρεσβύτεροι",
+      "lemma": null,
+      "morph": null,
+      "translation": "elders",
+      "metadata": {},
+      "gematria": {
+        "standard": 1272,
+        "ordinal": 143,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἔπεσαν",
+      "lemma": [
+        "G4098"
+      ],
+      "strongs": "G4098",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "fell down",
+      "metadata": {},
+      "gematria": {
+        "standard": 341,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "προσεκύνησαν",
+      "lemma": [
+        "G4352"
+      ],
+      "strongs": "G4352",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "they worshiped",
+      "metadata": {},
+      "gematria": {
+        "standard": 1184,
+        "ordinal": 153,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 14,
+      "text": "ζῶντι",
+      "lemma": [
+        "G2198"
+      ],
+      "strongs": "G2198",
+      "morph": "robinson:V-PAP-DSM",
+      "translation": "[the one] living",
+      "metadata": {},
+      "gematria": {
+        "standard": 1167,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 15,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 17,
+      "text": "αἰωνας",
+      "lemma": null,
+      "morph": null,
+      "translation": "ages",
+      "metadata": {},
+      "gematria": {
+        "standard": 1062,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 18,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "αἰώνων.",
+      "lemma": null,
+      "morph": null,
+      "translation": "ages.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1711,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12759,
+    "ordinal": 1210,
+    "reduced": 526
+  }
+}

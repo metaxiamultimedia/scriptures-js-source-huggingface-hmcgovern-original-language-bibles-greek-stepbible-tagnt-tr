@@ -1,0 +1,215 @@
+{
+  "text": "ὁ λέγων ἐν αὐτῷ μένειν ὀφείλει, καθὼς ἐκεῖνος περιεπάτησεν, καὶ αὐτὸς οὕτως περιπατεῖν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "λέγων",
+      "lemma": null,
+      "morph": null,
+      "translation": "claiming",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "μένειν",
+      "lemma": [
+        "G3306"
+      ],
+      "strongs": "G3306",
+      "morph": "robinson:V-PAN",
+      "translation": "to abide",
+      "metadata": {},
+      "gematria": {
+        "standard": 160,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὀφείλει,",
+      "lemma": [
+        "G3784"
+      ],
+      "strongs": "G3784",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "ought",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 7,
+      "text": "καθὼς",
+      "lemma": [
+        "G2531"
+      ],
+      "strongs": "G2531",
+      "morph": "robinson:CONJ",
+      "translation": "even as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1030,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐκεῖνος",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-NSM",
+      "translation": "that [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 360,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 9,
+      "text": "περιεπάτησεν,",
+      "lemma": [
+        "G4043"
+      ],
+      "strongs": "G4043",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "walked",
+      "metadata": {},
+      "gematria": {
+        "standard": 844,
+        "ordinal": 131,
+        "reduced": 68
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτὸς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NSM",
+      "translation": "He himself",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "οὕτως",
+      "lemma": [
+        "G3779"
+      ],
+      "strongs": "G3779",
+      "morph": "robinson:ADV",
+      "translation": "in the same way",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 96,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 13,
+      "text": "περιπατεῖν.",
+      "lemma": [
+        "G4043"
+      ],
+      "strongs": "G4043",
+      "morph": "robinson:V-PAN",
+      "translation": "to walk.",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 110,
+        "reduced": 56
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8961,
+    "ordinal": 860,
+    "reduced": 365
+  }
+}

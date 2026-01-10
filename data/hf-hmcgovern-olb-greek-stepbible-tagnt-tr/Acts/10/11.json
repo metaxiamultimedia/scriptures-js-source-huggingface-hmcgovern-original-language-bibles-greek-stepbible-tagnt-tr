@@ -1,0 +1,359 @@
+{
+  "text": "καὶ θεωρεῖ τὸν οὐρανὸν ἀνεῳγμένον καὶ καταβαῖνον ἐπ᾽ αὐτὸν σκεῦός τι ὡς ὀθόνην μεγάλην τέσσαρσιν ἀρχαῖς δεδεμένον καὶ καθιέμενον ἐπὶ τῆς γῆς·",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "θεωρεῖ",
+      "lemma": [
+        "G2334"
+      ],
+      "strongs": "G2334",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "he beholds",
+      "metadata": {},
+      "gematria": {
+        "standard": 929,
+        "ordinal": 68,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "οὐρανὸν",
+      "lemma": [
+        "G3772"
+      ],
+      "strongs": "G3772",
+      "morph": "robinson:N-ASM",
+      "translation": "heaven",
+      "metadata": {},
+      "gematria": {
+        "standard": 741,
+        "ordinal": 94,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀνεῳγμένον",
+      "lemma": [
+        "G455"
+      ],
+      "strongs": "G455",
+      "morph": "robinson:V-2RPP-ASM",
+      "translation": "opened",
+      "metadata": {},
+      "gematria": {
+        "standard": 1084,
+        "ordinal": 113,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "καταβαῖνον",
+      "lemma": [
+        "G2597"
+      ],
+      "strongs": "G2597",
+      "morph": "robinson:V-PAP-ASN",
+      "translation": "descending",
+      "metadata": {},
+      "gematria": {
+        "standard": 505,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐπ᾽",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "onto",
+      "metadata": {},
+      "gematria": {
+        "standard": 85,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "σκεῦός",
+      "lemma": [
+        "G4632"
+      ],
+      "strongs": "G4632",
+      "morph": "robinson:N-ASN",
+      "translation": "a vessel",
+      "metadata": {},
+      "gematria": {
+        "standard": 895,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 11,
+      "text": "τι",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-ASN",
+      "translation": "certain",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὀθόνην",
+      "lemma": [
+        "G3607"
+      ],
+      "strongs": "G3607",
+      "morph": "robinson:N-ASF",
+      "translation": "a sheet",
+      "metadata": {},
+      "gematria": {
+        "standard": 257,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 14,
+      "text": "μεγάλην",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-ASF",
+      "translation": "great",
+      "metadata": {},
+      "gematria": {
+        "standard": 137,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 15,
+      "text": "τέσσαρσιν",
+      "lemma": [
+        "G5064"
+      ],
+      "strongs": "G5064",
+      "morph": "robinson:A-DPF",
+      "translation": "by four",
+      "metadata": {},
+      "gematria": {
+        "standard": 1066,
+        "ordinal": 118,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἀρχαῖς",
+      "lemma": [
+        "G746"
+      ],
+      "strongs": "G746",
+      "morph": "robinson:N-DPF",
+      "translation": "corners",
+      "metadata": {},
+      "gematria": {
+        "standard": 912,
+        "ordinal": 68,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 17,
+      "text": "δεδεμένον",
+      "lemma": [
+        "G1210"
+      ],
+      "strongs": "G1210",
+      "morph": "robinson:V-RPP-ASN",
+      "translation": "bound",
+      "metadata": {},
+      "gematria": {
+        "standard": 233,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "καθιέμενον",
+      "lemma": [
+        "G2524"
+      ],
+      "strongs": "G2524",
+      "morph": "robinson:V-PPP-ASN",
+      "translation": "being let down",
+      "metadata": {},
+      "gematria": {
+        "standard": 260,
+        "ordinal": 91,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "upon",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 21,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 22,
+      "text": "γῆς·",
+      "lemma": null,
+      "morph": null,
+      "translation": "earth;",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10562,
+    "ordinal": 1289,
+    "reduced": 569
+  }
+}

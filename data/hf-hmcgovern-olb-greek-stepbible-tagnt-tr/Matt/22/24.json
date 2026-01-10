@@ -1,0 +1,369 @@
+{
+  "text": "λέγοντες· διδάσκαλε, Μωϋσῆς εἶπεν· ἐάν τις ἀποθάνῃ μὴ ἔχων τέκνα, ἐπιγαμβρεύσει ὁ ἀδελφὸς αὐτοῦ τὴν γυναῖκα αὐτοῦ καὶ ἀναστήσει σπέρμα τῷ ἀδελφῷ αὐτοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "λέγοντες·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 2,
+      "text": "διδάσκαλε,",
+      "lemma": [
+        "G1320"
+      ],
+      "strongs": "G1320",
+      "morph": "robinson:N-VSM-T",
+      "translation": "Teacher,",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 3,
+      "text": "Μωϋσῆς",
+      "lemma": [
+        "G3475"
+      ],
+      "strongs": "G3475",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Moses",
+      "metadata": {},
+      "gematria": {
+        "standard": 1648,
+        "ordinal": 99,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἶπεν·",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "said;",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐάν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSM",
+      "translation": "anyone",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀποθάνῃ",
+      "lemma": [
+        "G599"
+      ],
+      "strongs": "G599",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "shall die",
+      "metadata": {},
+      "gematria": {
+        "standard": 229,
+        "ordinal": 70,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 8,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἔχων",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "having",
+      "metadata": {},
+      "gematria": {
+        "standard": 1455,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 10,
+      "text": "τέκνα,",
+      "lemma": [
+        "G5043"
+      ],
+      "strongs": "G5043",
+      "morph": "robinson:N-APN",
+      "translation": "children,",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐπιγαμβρεύσει",
+      "lemma": [
+        "G1918"
+      ],
+      "strongs": "G1918",
+      "morph": "robinson:V-FAI-3S",
+      "translation": "will marry",
+      "metadata": {},
+      "gematria": {
+        "standard": 861,
+        "ordinal": 122,
+        "reduced": 68
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἀδελφὸς",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-NSM",
+      "translation": "brother",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 14,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 15,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 16,
+      "text": "γυναῖκα",
+      "lemma": null,
+      "morph": null,
+      "translation": "wife",
+      "metadata": {},
+      "gematria": {
+        "standard": 485,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 17,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἀναστήσει",
+      "lemma": [
+        "G450"
+      ],
+      "strongs": "G450",
+      "morph": "robinson:V-FAI-3S",
+      "translation": "he will raise up",
+      "metadata": {},
+      "gematria": {
+        "standard": 775,
+        "ordinal": 91,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 20,
+      "text": "σπέρμα",
+      "lemma": null,
+      "morph": null,
+      "translation": "offspring",
+      "metadata": {},
+      "gematria": {
+        "standard": 426,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 21,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "for the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἀδελφῷ",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-DSM",
+      "translation": "brother",
+      "metadata": {},
+      "gematria": {
+        "standard": 1350,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 23,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15199,
+    "ordinal": 1405,
+    "reduced": 559
+  }
+}

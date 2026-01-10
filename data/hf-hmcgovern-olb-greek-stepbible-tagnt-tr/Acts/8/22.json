@@ -1,0 +1,321 @@
+{
+  "text": "μετανόησον οὖν ἀπὸ τῆς κακίας σου ταύτης καὶ δεήθητι τοῦ κυρίου, εἰ ἄρα ἀφεθήσεταί σοι ἡ ἐπίνοια τῆς καρδίας σου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "μετανόησον",
+      "lemma": [
+        "G3340"
+      ],
+      "strongs": "G3340",
+      "morph": "robinson:V-AAM-2S",
+      "translation": "do repent",
+      "metadata": {},
+      "gematria": {
+        "standard": 794,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
+      "text": "κακίας",
+      "lemma": [
+        "G2549"
+      ],
+      "strongs": "G2549",
+      "morph": "robinson:N-GSF",
+      "translation": "wickedness",
+      "metadata": {},
+      "gematria": {
+        "standard": 252,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 6,
+      "text": "σου",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of yours",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "ταύτης",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-GSF",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1209,
+        "ordinal": 84,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "δεήθητι",
+      "lemma": [
+        "G1189"
+      ],
+      "strongs": "G1189",
+      "morph": "robinson:V-AOM-2S",
+      "translation": "do pray earnestly",
+      "metadata": {},
+      "gematria": {
+        "standard": 344,
+        "ordinal": 59,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 10,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "κυρίου,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lord,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 91,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 12,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἄρα",
+      "lemma": [
+        "G686"
+      ],
+      "strongs": "G686",
+      "morph": "robinson:CONJ",
+      "translation": "indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 102,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀφεθήσεταί",
+      "lemma": null,
+      "morph": null,
+      "translation": "will be forgiven",
+      "metadata": {},
+      "gematria": {
+        "standard": 1039,
+        "ordinal": 94,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 15,
+      "text": "σοι",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DS",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐπίνοια",
+      "lemma": [
+        "G1963"
+      ],
+      "strongs": "G1963",
+      "morph": "robinson:N-NSF",
+      "translation": "intent",
+      "metadata": {},
+      "gematria": {
+        "standard": 226,
+        "ordinal": 68,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 18,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 19,
+      "text": "καρδίας",
+      "lemma": [
+        "G2588"
+      ],
+      "strongs": "G2588",
+      "morph": "robinson:N-GSF",
+      "translation": "heart",
+      "metadata": {},
+      "gematria": {
+        "standard": 336,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 20,
+      "text": "σου.",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you.",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9433,
+    "ordinal": 1053,
+    "reduced": 450
+  }
+}

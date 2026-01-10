@@ -1,0 +1,193 @@
+{
+  "text": "καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι κύριος Ἰησοῦς Χριστὸς εἰς δόξαν θεοῦ πατρός.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "πᾶσα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NSF",
+      "translation": "every",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "γλῶσσα",
+      "lemma": [
+        "G1100"
+      ],
+      "strongs": "G1100",
+      "morph": "robinson:N-NSF",
+      "translation": "tongue",
+      "metadata": {},
+      "gematria": {
+        "standard": 1234,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐξομολογήσηται",
+      "lemma": [
+        "G1843"
+      ],
+      "strongs": "G1843",
+      "morph": "robinson:V-AMS-3S",
+      "translation": "may confess",
+      "metadata": {},
+      "gematria": {
+        "standard": 875,
+        "ordinal": 151,
+        "reduced": 70
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "κύριος",
+      "lemma": null,
+      "morph": null,
+      "translation": "[is] Lord",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 8,
+      "text": "Χριστὸς",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-NSM-T",
+      "translation": "Christ",
+      "metadata": {},
+      "gematria": {
+        "standard": 1480,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 9,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "δόξαν",
+      "lemma": [
+        "G1391"
+      ],
+      "strongs": "G1391",
+      "morph": "robinson:N-ASF",
+      "translation": "[the] glory",
+      "metadata": {},
+      "gematria": {
+        "standard": 185,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 11,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "πατρός.",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-GSM-T",
+      "translation": "[the] Father.",
+      "metadata": {},
+      "gematria": {
+        "standard": 751,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7605,
+    "ordinal": 832,
+    "reduced": 364
+  }
+}

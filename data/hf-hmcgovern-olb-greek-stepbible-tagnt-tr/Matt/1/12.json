@@ -1,0 +1,225 @@
+{
+  "text": "Μετὰ δὲ τὴν μετοικεσίαν Βαβυλῶνος Ἰεχονίας ἐγέννησεν τὸν Σαλαθιήλ· Σαλαθιὴλ δὲ ἐγέννησεν τὸν Ζοροβαβέλ·",
+  "words": [
+    {
+      "position": 1,
+      "text": "Μετὰ",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "After",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "μετοικεσίαν",
+      "lemma": [
+        "G3350"
+      ],
+      "strongs": "G3350",
+      "morph": "robinson:N-ASF",
+      "translation": "carrying away",
+      "metadata": {},
+      "gematria": {
+        "standard": 711,
+        "ordinal": 116,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 5,
+      "text": "Βαβυλῶνος",
+      "lemma": [
+        "G897"
+      ],
+      "strongs": "G897",
+      "morph": "robinson:N-GSF-L",
+      "translation": "to Babylon",
+      "metadata": {},
+      "gematria": {
+        "standard": 1555,
+        "ordinal": 106,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 6,
+      "text": "Ἰεχονίας",
+      "lemma": [
+        "G2423"
+      ],
+      "strongs": "G2423",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Jeconiah",
+      "metadata": {},
+      "gematria": {
+        "standard": 946,
+        "ordinal": 92,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐγέννησεν",
+      "lemma": [
+        "G1080"
+      ],
+      "strongs": "G1080",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "begat",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 82,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "Σαλαθιήλ·",
+      "lemma": null,
+      "morph": null,
+      "translation": "Shealtiel;",
+      "metadata": {},
+      "gematria": {
+        "standard": 289,
+        "ordinal": 66,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 10,
+      "text": "Σαλαθιὴλ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Shealtiel",
+      "metadata": {},
+      "gematria": {
+        "standard": 289,
+        "ordinal": 66,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 11,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐγέννησεν",
+      "lemma": [
+        "G1080"
+      ],
+      "strongs": "G1080",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "begat",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 82,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 13,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "Ζοροβαβέλ·",
+      "lemma": null,
+      "morph": null,
+      "translation": "Zerubbabel;",
+      "metadata": {},
+      "gematria": {
+        "standard": 287,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6391,
+    "ordinal": 872,
+    "reduced": 404
+  }
+}

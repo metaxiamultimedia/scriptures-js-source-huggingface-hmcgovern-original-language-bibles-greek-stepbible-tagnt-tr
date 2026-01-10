@@ -1,0 +1,218 @@
+{
+  "text": "Καὶ ἤνοιξεν τὴν σφραγῖδα τὴν ἑβδόμην, ἐγένετο σιγὴ ἐν τῷ οὐρανῷ ὡς ἡμιώριον.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἤνοιξεν",
+      "lemma": [
+        "G455"
+      ],
+      "strongs": "G455",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "He opened",
+      "metadata": {},
+      "gematria": {
+        "standard": 253,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "σφραγῖδα",
+      "lemma": [
+        "G4973"
+      ],
+      "strongs": "G4973",
+      "morph": "robinson:N-ASF",
+      "translation": "seal",
+      "metadata": {},
+      "gematria": {
+        "standard": 819,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἑβδόμην,",
+      "lemma": [
+        "G1442"
+      ],
+      "strongs": "G1442",
+      "morph": "robinson:A-ASF",
+      "translation": "seventh,",
+      "metadata": {},
+      "gematria": {
+        "standard": 179,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "there was",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 8,
+      "text": "σιγὴ",
+      "lemma": [
+        "G4602"
+      ],
+      "strongs": "G4602",
+      "morph": "robinson:N-NSF",
+      "translation": "silence",
+      "metadata": {},
+      "gematria": {
+        "standard": 221,
+        "ordinal": 37,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "οὐρανῷ",
+      "lemma": [
+        "G3772"
+      ],
+      "strongs": "G3772",
+      "morph": "robinson:N-DSM",
+      "translation": "heaven",
+      "metadata": {},
+      "gematria": {
+        "standard": 1431,
+        "ordinal": 99,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "for about",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἡμιώριον.",
+      "lemma": [
+        "G2256"
+      ],
+      "strongs": "G2256",
+      "morph": "robinson:N-ASN",
+      "translation": "half an hour.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1088,
+        "ordinal": 106,
+        "reduced": 52
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7341,
+    "ordinal": 725,
+    "reduced": 329
+  }
+}

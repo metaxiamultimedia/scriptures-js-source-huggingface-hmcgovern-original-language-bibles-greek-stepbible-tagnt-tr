@@ -1,0 +1,122 @@
+{
+  "text": "ἄρα καὶ οἱ κοιμηθέντες ἐν Χριστῷ ἀπώλοντο.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἄρα",
+      "lemma": [
+        "G686"
+      ],
+      "strongs": "G686",
+      "morph": "robinson:CONJ",
+      "translation": "Then",
+      "metadata": {},
+      "gematria": {
+        "standard": 102,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "κοιμηθέντες",
+      "lemma": [
+        "G2837"
+      ],
+      "strongs": "G2837",
+      "morph": "robinson:V-APP-NPM",
+      "translation": "having fallen asleep",
+      "metadata": {},
+      "gematria": {
+        "standard": 717,
+        "ordinal": 121,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "Χριστῷ",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-DSM-T",
+      "translation": "Christ",
+      "metadata": {},
+      "gematria": {
+        "standard": 2020,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀπώλοντο.",
+      "lemma": [
+        "G622"
+      ],
+      "strongs": "G622",
+      "morph": "robinson:V-2AMI-3P",
+      "translation": "have perished.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1401,
+        "ordinal": 114,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4406,
+    "ordinal": 434,
+    "reduced": 182
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "text": "εἶχον δὲ τότε δέσμιον ἐπίσημον λεγόμενον Βαραββᾶν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἶχον",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "They were holding",
+      "metadata": {},
+      "gematria": {
+        "standard": 735,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τότε",
+      "lemma": [
+        "G5119"
+      ],
+      "strongs": "G5119",
+      "morph": "robinson:ADV",
+      "translation": "at that time",
+      "metadata": {},
+      "gematria": {
+        "standard": 675,
+        "ordinal": 58,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
+      "text": "δέσμιον",
+      "lemma": [
+        "G1198"
+      ],
+      "strongs": "G1198",
+      "morph": "robinson:N-ASM",
+      "translation": "a prisoner",
+      "metadata": {},
+      "gematria": {
+        "standard": 379,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐπίσημον",
+      "lemma": [
+        "G1978"
+      ],
+      "strongs": "G1978",
+      "morph": "robinson:A-ASM",
+      "translation": "notable",
+      "metadata": {},
+      "gematria": {
+        "standard": 463,
+        "ordinal": 95,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 6,
+      "text": "λεγόμενον",
+      "lemma": null,
+      "morph": null,
+      "translation": " being named",
+      "metadata": {},
+      "gematria": {
+        "standard": 323,
+        "ordinal": 92,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 7,
+      "text": "Βαραββᾶν.",
+      "lemma": [
+        "G912"
+      ],
+      "strongs": "G912",
+      "morph": "robinson:N-ASM-P",
+      "translation": "Barabbas.",
+      "metadata": {},
+      "gematria": {
+        "standard": 159,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2743,
+    "ordinal": 433,
+    "reduced": 199
+  }
+}

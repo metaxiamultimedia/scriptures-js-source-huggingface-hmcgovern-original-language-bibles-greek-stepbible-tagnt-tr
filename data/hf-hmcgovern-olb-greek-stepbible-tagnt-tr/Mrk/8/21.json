@@ -1,0 +1,103 @@
+{
+  "text": "καὶ ἔλεγεν αὐτοῖς· οὔπω πῶς συνίετε;",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἔλεγεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "He was saying",
+      "metadata": {},
+      "gematria": {
+        "standard": 98,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτοῖς·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them;",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "οὔπω",
+      "lemma": [
+        "G3768"
+      ],
+      "strongs": "G3768",
+      "morph": "robinson:ADV-N",
+      "translation": "Not yet",
+      "metadata": {},
+      "gematria": {
+        "standard": 1350,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "πῶς",
+      "lemma": [
+        "G4459"
+      ],
+      "strongs": "G4459",
+      "morph": "robinson:PRT-I",
+      "translation": "how",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 6,
+      "text": "συνίετε;",
+      "lemma": [
+        "G4920"
+      ],
+      "strongs": "G4920",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "do you understand?",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4510,
+    "ordinal": 366,
+    "reduced": 141
+  }
+}

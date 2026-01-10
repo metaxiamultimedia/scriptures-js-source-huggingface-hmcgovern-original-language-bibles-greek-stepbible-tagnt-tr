@@ -1,0 +1,106 @@
+{
+  "text": "καὶ κατηγόρουν αὐτοῦ οἱ ἀρχιερεῖς πολλά.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "κατηγόρουν",
+      "lemma": [
+        "G2723"
+      ],
+      "strongs": "G2723",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "were accusing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1022,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀρχιερεῖς",
+      "lemma": [
+        "G749"
+      ],
+      "strongs": "G749",
+      "morph": "robinson:N-NPM",
+      "translation": "chief priests",
+      "metadata": {},
+      "gematria": {
+        "standard": 1031,
+        "ordinal": 103,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 6,
+      "text": "πολλά.",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-APN",
+      "translation": "of many things.",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3546,
+    "ordinal": 396,
+    "reduced": 153
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "text": "ἥ τε θάλασσα ἀνέμου μεγάλου πνέοντος διεγείρετο.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἥ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "τε",
+      "lemma": [
+        "G5037"
+      ],
+      "strongs": "G5037",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "θάλασσα",
+      "lemma": [
+        "G2281"
+      ],
+      "strongs": "G2281",
+      "morph": "robinson:N-NSF",
+      "translation": "the sea",
+      "metadata": {},
+      "gematria": {
+        "standard": 442,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀνέμου",
+      "lemma": [
+        "G417"
+      ],
+      "strongs": "G417",
+      "morph": "robinson:N-GSM",
+      "translation": "by a wind",
+      "metadata": {},
+      "gematria": {
+        "standard": 566,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "μεγάλου",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-GSM",
+      "translation": "strong",
+      "metadata": {},
+      "gematria": {
+        "standard": 549,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 6,
+      "text": "πνέοντος",
+      "lemma": [
+        "G4154"
+      ],
+      "strongs": "G4154",
+      "morph": "robinson:V-PAP-GSM",
+      "translation": "blowing",
+      "metadata": {},
+      "gematria": {
+        "standard": 825,
+        "ordinal": 114,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 7,
+      "text": "διεγείρετο.",
+      "lemma": [
+        "G1326"
+      ],
+      "strongs": "G1326",
+      "morph": "robinson:V-IPI-3S",
+      "translation": "was agitated.",
+      "metadata": {},
+      "gematria": {
+        "standard": 512,
+        "ordinal": 91,
+        "reduced": 55
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3207,
+    "ordinal": 427,
+    "reduced": 184
+  }
+}

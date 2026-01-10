@@ -1,0 +1,135 @@
+{
+  "text": "Πίστει τὰ τείχη Ἰεριχὼ κυκλωθέντα ἐπὶ ἑπτὰ ἡμέρας.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Πίστει",
+      "lemma": null,
+      "morph": null,
+      "translation": "By faith",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 2,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 3,
+      "text": "τείχη",
+      "lemma": [
+        "G5038"
+      ],
+      "strongs": "G5038",
+      "morph": "robinson:N-NPN",
+      "translation": "walls",
+      "metadata": {},
+      "gematria": {
+        "standard": 923,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἰεριχὼ",
+      "lemma": [
+        "G2410"
+      ],
+      "strongs": "G2410",
+      "morph": "robinson:N-GSF-L",
+      "translation": "of Jericho",
+      "metadata": {},
+      "gematria": {
+        "standard": 1525,
+        "ordinal": 86,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 5,
+      "text": "κυκλωθέντα",
+      "lemma": [
+        "G2944"
+      ],
+      "strongs": "G2944",
+      "morph": "robinson:V-APP-NPN",
+      "translation": "having been encircled",
+      "metadata": {},
+      "gematria": {
+        "standard": 1635,
+        "ordinal": 121,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἑπτὰ",
+      "lemma": [
+        "G2033"
+      ],
+      "strongs": "G2033",
+      "morph": "robinson:A-NUI",
+      "translation": "seven",
+      "metadata": {},
+      "gematria": {
+        "standard": 386,
+        "ordinal": 41,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἡμέρας.",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-APF",
+      "translation": "days.",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5824,
+    "ordinal": 496,
+    "reduced": 208
+  }
+}

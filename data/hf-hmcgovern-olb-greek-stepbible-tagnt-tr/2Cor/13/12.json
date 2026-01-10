@@ -1,0 +1,87 @@
+{
+  "text": "Ἀσπάσασθε ἀλλήλους ἐν ἁγίῳ φιλήματι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἀσπάσασθε",
+      "lemma": [
+        "G782"
+      ],
+      "strongs": "G782",
+      "morph": "robinson:V-ADM-2P",
+      "translation": "do greet",
+      "metadata": {},
+      "gematria": {
+        "standard": 697,
+        "ordinal": 86,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀλλήλους",
+      "lemma": [
+        "G240"
+      ],
+      "strongs": "G240",
+      "morph": "robinson:C-APM",
+      "translation": "one another",
+      "metadata": {},
+      "gematria": {
+        "standard": 769,
+        "ordinal": 94,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἁγίῳ",
+      "lemma": null,
+      "morph": null,
+      "translation": "a holy",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "φιλήματι.",
+      "lemma": [
+        "G5370"
+      ],
+      "strongs": "G5370",
+      "morph": "robinson:N-DSN",
+      "translation": "kiss.",
+      "metadata": {},
+      "gematria": {
+        "standard": 899,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3244,
+    "ordinal": 333,
+    "reduced": 153
+  }
+}

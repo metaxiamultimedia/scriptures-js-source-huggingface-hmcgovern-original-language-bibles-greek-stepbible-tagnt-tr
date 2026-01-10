@@ -1,0 +1,324 @@
+{
+  "text": "ὁ δὲ ἐχθρὸς ὁ σπείρας αὐτά ἐστιν ὁ διάβολος· ὁ δὲ θερισμὸς συντέλεια αἰῶνός ἐστιν· οἱ δὲ θερισταὶ ἄγγελοί εἰσιν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐχθρὸς",
+      "lemma": [
+        "G2190"
+      ],
+      "strongs": "G2190",
+      "morph": "robinson:N-NSM",
+      "translation": "the enemy",
+      "metadata": {},
+      "gematria": {
+        "standard": 984,
+        "ordinal": 85,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "σπείρας",
+      "lemma": [
+        "G4687"
+      ],
+      "strongs": "G4687",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having sown",
+      "metadata": {},
+      "gematria": {
+        "standard": 596,
+        "ordinal": 84,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτά",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APN",
+      "translation": "them",
+      "metadata": {},
+      "gematria": {
+        "standard": 702,
+        "ordinal": 41,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "διάβολος·",
+      "lemma": [
+        "G1228"
+      ],
+      "strongs": "G1228",
+      "morph": "robinson:A-NSM",
+      "translation": "devil;",
+      "metadata": {},
+      "gematria": {
+        "standard": 387,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "θερισμὸς",
+      "lemma": [
+        "G2326"
+      ],
+      "strongs": "G2326",
+      "morph": "robinson:N-NSM",
+      "translation": "the harvest",
+      "metadata": {},
+      "gematria": {
+        "standard": 634,
+        "ordinal": 102,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 13,
+      "text": "συντέλεια",
+      "lemma": [
+        "G4930"
+      ],
+      "strongs": "G4930",
+      "morph": "robinson:N-NSF",
+      "translation": "[the] consummation",
+      "metadata": {},
+      "gematria": {
+        "standard": 1001,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 14,
+      "text": "αἰῶνός",
+      "lemma": null,
+      "morph": null,
+      "translation": "age",
+      "metadata": {},
+      "gematria": {
+        "standard": 1131,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐστιν·",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is;",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 16,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 17,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "θερισταὶ",
+      "lemma": [
+        "G2327"
+      ],
+      "strongs": "G2327",
+      "morph": "robinson:N-NPM",
+      "translation": "the harvesters",
+      "metadata": {},
+      "gematria": {
+        "standard": 635,
+        "ordinal": 86,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἄγγελοί",
+      "lemma": null,
+      "morph": null,
+      "translation": "angels",
+      "metadata": {},
+      "gematria": {
+        "standard": 122,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 20,
+      "text": "εἰσιν.",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "are.",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 54,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7984,
+    "ordinal": 994,
+    "reduced": 499
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "text": "τυφλοὶ ἀναβλέπουσιν, καὶ χωλοὶ περιπατοῦσιν, λεπροὶ καθαρίζονται, καὶ κωφοὶ ἀκούουσιν, νεκροὶ ἐγείρονται, καὶ πτωχοὶ εὐαγγελίζονται·",
+  "words": [
+    {
+      "position": 1,
+      "text": "τυφλοὶ",
+      "lemma": [
+        "G5185"
+      ],
+      "strongs": "G5185",
+      "morph": "robinson:A-NPM",
+      "translation": "Blind",
+      "metadata": {},
+      "gematria": {
+        "standard": 1310,
+        "ordinal": 95,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀναβλέπουσιν,",
+      "lemma": [
+        "G308"
+      ],
+      "strongs": "G308",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "receive sight,",
+      "metadata": {},
+      "gematria": {
+        "standard": 899,
+        "ordinal": 124,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "χωλοὶ",
+      "lemma": [
+        "G5560"
+      ],
+      "strongs": "G5560",
+      "morph": "robinson:A-NPM",
+      "translation": "lame",
+      "metadata": {},
+      "gematria": {
+        "standard": 1510,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 5,
+      "text": "περιπατοῦσιν,",
+      "lemma": [
+        "G4043"
+      ],
+      "strongs": "G4043",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "walk,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1306,
+        "ordinal": 158,
+        "reduced": 68
+      }
+    },
+    {
+      "position": 6,
+      "text": "λεπροὶ",
+      "lemma": [
+        "G3015"
+      ],
+      "strongs": "G3015",
+      "morph": "robinson:A-NPM",
+      "translation": "lepers",
+      "metadata": {},
+      "gematria": {
+        "standard": 295,
+        "ordinal": 73,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 7,
+      "text": "καθαρίζονται,",
+      "lemma": [
+        "G2511"
+      ],
+      "strongs": "G2511",
+      "morph": "robinson:V-PPI-3P",
+      "translation": "are cleansed,",
+      "metadata": {},
+      "gematria": {
+        "standard": 579,
+        "ordinal": 109,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "κωφοὶ",
+      "lemma": [
+        "G2974"
+      ],
+      "strongs": "G2974",
+      "morph": "robinson:A-NPM",
+      "translation": "deaf",
+      "metadata": {},
+      "gematria": {
+        "standard": 1400,
+        "ordinal": 79,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀκούουσιν,",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "hear,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1221,
+        "ordinal": 121,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 11,
+      "text": "νεκροὶ",
+      "lemma": [
+        "G3498"
+      ],
+      "strongs": "G3498",
+      "morph": "robinson:A-NPM",
+      "translation": "dead",
+      "metadata": {},
+      "gematria": {
+        "standard": 255,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐγείρονται,",
+      "lemma": [
+        "G1453"
+      ],
+      "strongs": "G1453",
+      "morph": "robinson:V-PPI-3P",
+      "translation": "are raised,",
+      "metadata": {},
+      "gematria": {
+        "standard": 554,
+        "ordinal": 96,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "πτωχοὶ",
+      "lemma": [
+        "G4434"
+      ],
+      "strongs": "G4434",
+      "morph": "robinson:N-NPM",
+      "translation": "poor",
+      "metadata": {},
+      "gematria": {
+        "standard": 1860,
+        "ordinal": 105,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 15,
+      "text": "εὐαγγελίζονται·",
+      "lemma": [
+        "G2097"
+      ],
+      "strongs": "G2097",
+      "morph": "robinson:V-PPI-3P",
+      "translation": "are evangelised;",
+      "metadata": {},
+      "gematria": {
+        "standard": 895,
+        "ordinal": 120,
+        "reduced": 57
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12177,
+    "ordinal": 1290,
+    "reduced": 534
+  }
+}

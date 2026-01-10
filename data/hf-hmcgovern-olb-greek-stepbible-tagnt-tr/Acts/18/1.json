@@ -1,0 +1,167 @@
+{
+  "text": "Μετὰ ταῦτα χωρισθεὶς Παῦλος ἐκ τῶν Ἀθηνῶν ἦλθεν εἰς Κόρινθον,",
+  "words": [
+    {
+      "position": 1,
+      "text": "Μετὰ",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "And after",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "ταῦτα",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-APN",
+      "translation": "these things",
+      "metadata": {},
+      "gematria": {
+        "standard": 1002,
+        "ordinal": 60,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "χωρισθεὶς",
+      "lemma": [
+        "G5563"
+      ],
+      "strongs": "G5563",
+      "morph": "robinson:V-APP-NSM",
+      "translation": "having departed",
+      "metadata": {},
+      "gematria": {
+        "standard": 1934,
+        "ordinal": 130,
+        "reduced": 67
+      }
+    },
+    {
+      "position": 4,
+      "text": "Παῦλος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Paul",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ἀθηνῶν",
+      "lemma": [
+        "G116"
+      ],
+      "strongs": "G116",
+      "morph": "robinson:N-GPF-L",
+      "translation": "Athens",
+      "metadata": {},
+      "gematria": {
+        "standard": 918,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἦλθεν",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "he came",
+      "metadata": {},
+      "gematria": {
+        "standard": 102,
+        "ordinal": 44,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 9,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "Κόρινθον,",
+      "lemma": [
+        "G2882"
+      ],
+      "strongs": "G2882",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Corinth,",
+      "metadata": {},
+      "gematria": {
+        "standard": 379,
+        "ordinal": 100,
+        "reduced": 46
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6852,
+    "ordinal": 621,
+    "reduced": 252
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "text": "ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ θεοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἄρα",
+      "lemma": [
+        "G686"
+      ],
+      "strongs": "G686",
+      "morph": "robinson:CONJ",
+      "translation": "So then",
+      "metadata": {},
+      "gematria": {
+        "standard": 102,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀπολείπεται",
+      "lemma": [
+        "G620"
+      ],
+      "strongs": "G620",
+      "morph": "robinson:V-PPI-3S",
+      "translation": "there remains",
+      "metadata": {},
+      "gematria": {
+        "standard": 592,
+        "ordinal": 107,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 3,
+      "text": "σαββατισμὸς",
+      "lemma": [
+        "G4520"
+      ],
+      "strongs": "G4520",
+      "morph": "robinson:N-NSM",
+      "translation": "a Sabbath rest",
+      "metadata": {},
+      "gematria": {
+        "standard": 1026,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "for the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "λαῷ",
+      "lemma": [
+        "G2992"
+      ],
+      "strongs": "G2992",
+      "morph": "robinson:N-DSM",
+      "translation": "people",
+      "metadata": {},
+      "gematria": {
+        "standard": 841,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "θεοῦ.",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God.",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4925,
+    "ordinal": 440,
+    "reduced": 179
+  }
+}

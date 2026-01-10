@@ -1,0 +1,420 @@
+{
+  "text": "καὶ τῇ ἐνάτῃ ὥρᾳ ἐβόησεν ὁ Ἰησοῦς φωνῇ μεγάλῃ ελωι ελωι, λεμα σαβαχθανι; ὅ ἐστιν μεθερμηνευόμενον· ὁ θεός μου ὁ θεός μου, εἰς τί ἐγκατέλιπές με;",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "on the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐνάτῃ",
+      "lemma": [
+        "G1766"
+      ],
+      "strongs": "G1766",
+      "morph": "robinson:A-DSF",
+      "translation": "ninth",
+      "metadata": {},
+      "gematria": {
+        "standard": 374,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὥρᾳ",
+      "lemma": [
+        "G5610"
+      ],
+      "strongs": "G5610",
+      "morph": "robinson:N-DSF",
+      "translation": "hour",
+      "metadata": {},
+      "gematria": {
+        "standard": 911,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐβόησεν",
+      "lemma": [
+        "G994"
+      ],
+      "strongs": "G994",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "cried out",
+      "metadata": {},
+      "gematria": {
+        "standard": 340,
+        "ordinal": 65,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 8,
+      "text": "φωνῇ",
+      "lemma": null,
+      "morph": null,
+      "translation": "in a voice",
+      "metadata": {},
+      "gematria": {
+        "standard": 1368,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 9,
+      "text": "μεγάλῃ",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-DSF",
+      "translation": "loud",
+      "metadata": {},
+      "gematria": {
+        "standard": 97,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 10,
+      "text": "ελωι",
+      "lemma": [
+        "G1682"
+      ],
+      "strongs": "G1682",
+      "morph": "robinson:N-VSM-ARAM",
+      "translation": "Eloi",
+      "metadata": {},
+      "gematria": {
+        "standard": 845,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 11,
+      "text": "ελωι,",
+      "lemma": [
+        "G1682"
+      ],
+      "strongs": "G1682",
+      "morph": "robinson:N-VSM-ARAM",
+      "translation": "Eloi,",
+      "metadata": {},
+      "gematria": {
+        "standard": 845,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 12,
+      "text": "λεμα",
+      "lemma": [
+        "G2982"
+      ],
+      "strongs": "G2982",
+      "morph": "robinson:PRT-ARAM",
+      "translation": "lema",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 29,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "σαβαχθανι;",
+      "lemma": [
+        "G4518"
+      ],
+      "strongs": "G4518",
+      "morph": "robinson:V-AAI-2S-ARAM",
+      "translation": "sabachthani?",
+      "metadata": {},
+      "gematria": {
+        "standard": 874,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὅ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSN",
+      "translation": "Which",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 16,
+      "text": "μεθερμηνευόμενον·",
+      "lemma": [
+        "G3177"
+      ],
+      "strongs": "G3177",
+      "morph": "robinson:V-PPP-NSN",
+      "translation": "being translated;",
+      "metadata": {},
+      "gematria": {
+        "standard": 947,
+        "ordinal": 177,
+        "reduced": 78
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-VSM",
+      "translation": "O",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 18,
+      "text": "θεός",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-VSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 19,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of Mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-VSM",
+      "translation": "O",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 21,
+      "text": "θεός",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-VSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 22,
+      "text": "μου,",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of Mine,",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 23,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 24,
+      "text": "τί",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-ASN",
+      "translation": "why",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἐγκατέλιπές",
+      "lemma": [
+        "G1459"
+      ],
+      "strongs": "G1459",
+      "morph": "robinson:V-AAI-2S",
+      "translation": "have You forsaken",
+      "metadata": {},
+      "gematria": {
+        "standard": 659,
+        "ordinal": 102,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 26,
+      "text": "με;",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "Me",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11576,
+    "ordinal": 1302,
+    "reduced": 609
+  }
+}

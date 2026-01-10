@@ -1,0 +1,247 @@
+{
+  "text": "καὶ προσελθὼν ἥψατο τῆς σοροῦ· οἱ δὲ βαστάζοντες ἔστησαν· καὶ εἶπεν· νεανίσκε, σοὶ λέγω, ἐγέρθητι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "προσελθὼν",
+      "lemma": [
+        "G4334"
+      ],
+      "strongs": "G4334",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having come up",
+      "metadata": {},
+      "gematria": {
+        "standard": 1344,
+        "ordinal": 127,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἥψατο",
+      "lemma": [
+        "G681"
+      ],
+      "strongs": "G681",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "He touched",
+      "metadata": {},
+      "gematria": {
+        "standard": 1079,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
+      "text": "σοροῦ·",
+      "lemma": [
+        "G4673"
+      ],
+      "strongs": "G4673",
+      "morph": "robinson:N-GSF",
+      "translation": "bier;",
+      "metadata": {},
+      "gematria": {
+        "standard": 840,
+        "ordinal": 85,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "βαστάζοντες",
+      "lemma": [
+        "G941"
+      ],
+      "strongs": "G941",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "bearing [it]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1136,
+        "ordinal": 117,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἔστησαν·",
+      "lemma": [
+        "G2476"
+      ],
+      "strongs": "G2476",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "stopped;",
+      "metadata": {},
+      "gematria": {
+        "standard": 764,
+        "ordinal": 81,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "εἶπεν·",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "He said;",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 12,
+      "text": "νεανίσκε,",
+      "lemma": [
+        "G3495"
+      ],
+      "strongs": "G3495",
+      "morph": "robinson:N-VSM",
+      "translation": "Young man,",
+      "metadata": {},
+      "gematria": {
+        "standard": 341,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 13,
+      "text": "σοὶ",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DS",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 14,
+      "text": "λέγω,",
+      "lemma": null,
+      "morph": null,
+      "translation": "I say,",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐγέρθητι.",
+      "lemma": [
+        "G1453"
+      ],
+      "strongs": "G1453",
+      "morph": "robinson:V-APM-2S",
+      "translation": "do be arised.",
+      "metadata": {},
+      "gematria": {
+        "standard": 440,
+        "ordinal": 73,
+        "reduced": 46
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7871,
+    "ordinal": 872,
+    "reduced": 404
+  }
+}

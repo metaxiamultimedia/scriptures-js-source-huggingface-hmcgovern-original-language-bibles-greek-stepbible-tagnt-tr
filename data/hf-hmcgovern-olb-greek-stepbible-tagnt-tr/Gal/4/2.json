@@ -1,0 +1,183 @@
+{
+  "text": "ἀλλ᾽ ὑπὸ ἐπιτρόπους ἐστὶν καὶ οἰκονόμους ἄχρι τῆς προθεσμίας τοῦ πατρός.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "Instead",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὑπὸ",
+      "lemma": null,
+      "morph": null,
+      "translation": "under",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐπιτρόπους",
+      "lemma": [
+        "G2012"
+      ],
+      "strongs": "G2012",
+      "morph": "robinson:N-APM",
+      "translation": "guardians",
+      "metadata": {},
+      "gematria": {
+        "standard": 1315,
+        "ordinal": 150,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐστὶν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "he is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "οἰκονόμους",
+      "lemma": [
+        "G3623"
+      ],
+      "strongs": "G3623",
+      "morph": "robinson:N-APM",
+      "translation": "trustees",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 142,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἄχρι",
+      "lemma": [
+        "G891"
+      ],
+      "strongs": "G891",
+      "morph": "robinson:PREP",
+      "translation": "until",
+      "metadata": {},
+      "gematria": {
+        "standard": 711,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 9,
+      "text": "προθεσμίας",
+      "lemma": [
+        "G4287"
+      ],
+      "strongs": "G4287",
+      "morph": "robinson:N-GSF",
+      "translation": "time appointed",
+      "metadata": {},
+      "gematria": {
+        "standard": 715,
+        "ordinal": 119,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 10,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "πατρός.",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-GSM",
+      "translation": "by [his] father.",
+      "metadata": {},
+      "gematria": {
+        "standard": 751,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6977,
+    "ordinal": 802,
+    "reduced": 316
+  }
+}

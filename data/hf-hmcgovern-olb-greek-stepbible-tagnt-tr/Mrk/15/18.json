@@ -1,0 +1,122 @@
+{
+  "text": "καὶ ἤρξαντο ἀσπάζεσθαι αὐτόν· χαῖρε τῶν Ἰουδαίων.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἤρξαντο",
+      "lemma": [
+        "G757"
+      ],
+      "strongs": "G757",
+      "morph": "robinson:V-ADI-3P",
+      "translation": "they began",
+      "metadata": {},
+      "gematria": {
+        "standard": 589,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀσπάζεσθαι",
+      "lemma": [
+        "G782"
+      ],
+      "strongs": "G782",
+      "morph": "robinson:V-PNN",
+      "translation": "to salute",
+      "metadata": {},
+      "gematria": {
+        "standard": 514,
+        "ordinal": 83,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 4,
+      "text": "αὐτόν·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "χαῖρε",
+      "lemma": [
+        "G5463"
+      ],
+      "strongs": "G5463",
+      "morph": "robinson:V-PAM-2S",
+      "translation": "Hail",
+      "metadata": {},
+      "gematria": {
+        "standard": 716,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ἰουδαίων.",
+      "lemma": [
+        "G2453"
+      ],
+      "strongs": "G2453",
+      "morph": "robinson:N-GPM-PG",
+      "translation": "Jews!",
+      "metadata": {},
+      "gematria": {
+        "standard": 1345,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5166,
+    "ordinal": 462,
+    "reduced": 192
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "text": "ἐγὼ δὲ λέγω ὑμῖν ὅτι πᾶς ὁ βλέπων γυναῖκα πρὸς τὸ ἐπιθυμῆσαι ἤδη ἐμοίχευσεν αὐτὴν ἐν τῇ καρδίᾳ αὐτοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS",
+      "translation": "I myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "λέγω",
+      "lemma": null,
+      "morph": null,
+      "translation": "say",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "πᾶς",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NSM",
+      "translation": "everyone",
+      "metadata": {},
+      "gematria": {
+        "standard": 281,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "βλέπων",
+      "lemma": [
+        "G991"
+      ],
+      "strongs": "G991",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "is looking upon",
+      "metadata": {},
+      "gematria": {
+        "standard": 967,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 9,
+      "text": "γυναῖκα",
+      "lemma": null,
+      "morph": null,
+      "translation": "a woman",
+      "metadata": {},
+      "gematria": {
+        "standard": 485,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 10,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "in order",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐπιθυμῆσαι",
+      "lemma": [
+        "G1937"
+      ],
+      "strongs": "G1937",
+      "morph": "robinson:V-AAN",
+      "translation": "to lust after",
+      "metadata": {},
+      "gematria": {
+        "standard": 763,
+        "ordinal": 105,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἤδη",
+      "lemma": [
+        "G2235"
+      ],
+      "strongs": "G2235",
+      "morph": "robinson:ADV",
+      "translation": "already",
+      "metadata": {},
+      "gematria": {
+        "standard": 20,
+        "ordinal": 18,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐμοίχευσεν",
+      "lemma": [
+        "G3431"
+      ],
+      "strongs": "G3431",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "has committed adultery with",
+      "metadata": {},
+      "gematria": {
+        "standard": 1385,
+        "ordinal": 124,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 15,
+      "text": "αὐτὴν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASF",
+      "translation": "her",
+      "metadata": {},
+      "gematria": {
+        "standard": 759,
+        "ordinal": 60,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 17,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "καρδίᾳ",
+      "lemma": [
+        "G2588"
+      ],
+      "strongs": "G2588",
+      "morph": "robinson:N-DSF",
+      "translation": "heart",
+      "metadata": {},
+      "gematria": {
+        "standard": 146,
+        "ordinal": 51,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 19,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9775,
+    "ordinal": 945,
+    "reduced": 396
+  }
+}

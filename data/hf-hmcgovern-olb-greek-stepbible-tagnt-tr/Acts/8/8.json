@@ -1,0 +1,106 @@
+{
+  "text": "ἐγένετο χαρὰ ἐν τῇ πόλει ἐκείνῃ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "There was",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "χαρὰ",
+      "lemma": [
+        "G5479"
+      ],
+      "strongs": "G5479",
+      "morph": "robinson:N-NSF",
+      "translation": "joy",
+      "metadata": {},
+      "gematria": {
+        "standard": 702,
+        "ordinal": 41,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
+      "text": "πόλει",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-DSF",
+      "translation": "city",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐκείνῃ.",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-DSF",
+      "translation": "that.",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 58,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1816,
+    "ordinal": 273,
+    "reduced": 138
+  }
+}

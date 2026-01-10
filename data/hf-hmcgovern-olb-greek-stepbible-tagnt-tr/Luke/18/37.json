@@ -1,0 +1,132 @@
+{
+  "text": "ἀπήγγειλαν δὲ αὐτῷ ὅτι Ἰησοῦς ὁ Ναζωραῖος παρέρχεται.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀπήγγειλαν",
+      "lemma": [
+        "G518"
+      ],
+      "strongs": "G518",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "They told",
+      "metadata": {},
+      "gematria": {
+        "standard": 191,
+        "ordinal": 69,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ναζωραῖος",
+      "lemma": [
+        "G3480"
+      ],
+      "strongs": "G3480",
+      "morph": "robinson:N-NSM-LG",
+      "translation": "of Nazareth",
+      "metadata": {},
+      "gematria": {
+        "standard": 1239,
+        "ordinal": 104,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 8,
+      "text": "παρέρχεται.",
+      "lemma": [
+        "G3928"
+      ],
+      "strongs": "G3928",
+      "morph": "robinson:V-PNI-3S",
+      "translation": "is passing by.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1202,
+        "ordinal": 112,
+        "reduced": 49
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5490,
+    "ordinal": 512,
+    "reduced": 233
+  }
+}

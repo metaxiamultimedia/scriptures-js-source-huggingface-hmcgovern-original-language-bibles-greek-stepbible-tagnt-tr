@@ -1,0 +1,359 @@
+{
+  "text": "Ἀκούσας ὁ Ἰησοῦς ἀνεχώρησεν ἐκεῖθεν ἐν πλοίῳ εἰς ἔρημον τόπον κατ᾽ ἰδίαν. καὶ ἀκούσαντες οἱ ὄχλοι ἠκολούθησαν αὐτῷ πεζῇ ἀπὸ τῶν πόλεων.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἀκούσας",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "Having heard",
+      "metadata": {},
+      "gematria": {
+        "standard": 892,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀνεχώρησεν",
+      "lemma": [
+        "G402"
+      ],
+      "strongs": "G402",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "withdrew",
+      "metadata": {},
+      "gematria": {
+        "standard": 1819,
+        "ordinal": 125,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐκεῖθεν",
+      "lemma": [
+        "G1564"
+      ],
+      "strongs": "G1564",
+      "morph": "robinson:ADV",
+      "translation": "from there",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "πλοίῳ",
+      "lemma": [
+        "G4143"
+      ],
+      "strongs": "G4143",
+      "morph": "robinson:N-DSN",
+      "translation": "boat",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 8,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἔρημον",
+      "lemma": [
+        "G2048"
+      ],
+      "strongs": "G2048",
+      "morph": "robinson:A-ASM",
+      "translation": "a secluded",
+      "metadata": {},
+      "gematria": {
+        "standard": 273,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 10,
+      "text": "τόπον",
+      "lemma": [
+        "G5117"
+      ],
+      "strongs": "G5117",
+      "morph": "robinson:N-ASM",
+      "translation": "place",
+      "metadata": {},
+      "gematria": {
+        "standard": 570,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 11,
+      "text": "κατ᾽",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "apart",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 30,
+        "reduced": 3
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἰδίαν.",
+      "lemma": [
+        "G2398"
+      ],
+      "strongs": "G2398",
+      "morph": "robinson:A-ASF",
+      "translation": "[on his] own.",
+      "metadata": {},
+      "gematria": {
+        "standard": 75,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀκούσαντες",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "having heard [of it]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1247,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 15,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὄχλοι",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-NPM",
+      "translation": "crowds",
+      "metadata": {},
+      "gematria": {
+        "standard": 780,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἠκολούθησαν",
+      "lemma": [
+        "G190"
+      ],
+      "strongs": "G190",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "followed",
+      "metadata": {},
+      "gematria": {
+        "standard": 866,
+        "ordinal": 125,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 18,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 19,
+      "text": "πεζῇ",
+      "lemma": [
+        "G3979"
+      ],
+      "strongs": "G3979",
+      "morph": "robinson:ADV",
+      "translation": "on foot",
+      "metadata": {},
+      "gematria": {
+        "standard": 110,
+        "ordinal": 43,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 21,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "πόλεων.",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-GPF",
+      "translation": "towns.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1035,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13243,
+    "ordinal": 1361,
+    "reduced": 578
+  }
+}

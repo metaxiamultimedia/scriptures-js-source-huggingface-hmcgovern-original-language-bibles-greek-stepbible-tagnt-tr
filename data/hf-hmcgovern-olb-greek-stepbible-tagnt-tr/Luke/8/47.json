@@ -1,0 +1,417 @@
+{
+  "text": "ἰδοῦσα δὲ ἡ γυνὴ ὅτι οὐκ ἔλαθεν, τρέμουσα ἦλθεν καὶ προσπεσοῦσα αὐτῷ, δι᾽ ἣν αἰτίαν ἥψατο αὐτοῦ ἀπήγγειλεν ἐνώπιον παντὸς τοῦ λαοῦ καὶ ὡς ἰάθη παραχρῆμα.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἰδοῦσα",
+      "lemma": null,
+      "morph": null,
+      "translation": "Having seen",
+      "metadata": {},
+      "gematria": {
+        "standard": 685,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "γυνὴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "woman",
+      "metadata": {},
+      "gematria": {
+        "standard": 461,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἔλαθεν,",
+      "lemma": [
+        "G2990"
+      ],
+      "strongs": "G2990",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "she was hid,",
+      "metadata": {},
+      "gematria": {
+        "standard": 100,
+        "ordinal": 43,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "τρέμουσα",
+      "lemma": [
+        "G5141"
+      ],
+      "strongs": "G5141",
+      "morph": "robinson:V-PAP-NSF",
+      "translation": "trembling",
+      "metadata": {},
+      "gematria": {
+        "standard": 1116,
+        "ordinal": 107,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἦλθεν",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "she came",
+      "metadata": {},
+      "gematria": {
+        "standard": 102,
+        "ordinal": 44,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "προσπεσοῦσα",
+      "lemma": [
+        "G4363"
+      ],
+      "strongs": "G4363",
+      "morph": "robinson:V-2AAP-NSF",
+      "translation": "having fallen down",
+      "metadata": {},
+      "gematria": {
+        "standard": 1406,
+        "ordinal": 159,
+        "reduced": 69
+      }
+    },
+    {
+      "position": 12,
+      "text": "αὐτῷ,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "before Him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 13,
+      "text": "δι᾽",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 14,
+        "ordinal": 13,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἣν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASF",
+      "translation": "what",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "αἰτίαν",
+      "lemma": [
+        "G156"
+      ],
+      "strongs": "G156",
+      "morph": "robinson:N-ASF",
+      "translation": "cause",
+      "metadata": {},
+      "gematria": {
+        "standard": 372,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἥψατο",
+      "lemma": [
+        "G681"
+      ],
+      "strongs": "G681",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "she touched",
+      "metadata": {},
+      "gematria": {
+        "standard": 1079,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 17,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἀπήγγειλεν",
+      "lemma": [
+        "G518"
+      ],
+      "strongs": "G518",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "she declared",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 73,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐνώπιον",
+      "lemma": [
+        "G1799"
+      ],
+      "strongs": "G1799",
+      "morph": "robinson:PREP",
+      "translation": "before",
+      "metadata": {},
+      "gematria": {
+        "standard": 1065,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 20,
+      "text": "παντὸς",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-GSM",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 701,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 21,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 22,
+      "text": "λαοῦ",
+      "lemma": [
+        "G2992"
+      ],
+      "strongs": "G2992",
+      "morph": "robinson:N-GSM",
+      "translation": "people",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 23,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 24,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "how",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἰάθη",
+      "lemma": [
+        "G2390"
+      ],
+      "strongs": "G2390",
+      "morph": "robinson:V-API-3S",
+      "translation": "she was healed",
+      "metadata": {},
+      "gematria": {
+        "standard": 28,
+        "ordinal": 25,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 26,
+      "text": "παραχρῆμα.",
+      "lemma": [
+        "G3916"
+      ],
+      "strongs": "G3916",
+      "morph": "robinson:ADV",
+      "translation": "immediately.",
+      "metadata": {},
+      "gematria": {
+        "standard": 931,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14215,
+    "ordinal": 1417,
+    "reduced": 580
+  }
+}

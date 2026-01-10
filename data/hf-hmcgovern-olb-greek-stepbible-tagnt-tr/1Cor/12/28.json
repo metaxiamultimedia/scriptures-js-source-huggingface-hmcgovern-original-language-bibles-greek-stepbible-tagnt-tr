@@ -1,0 +1,372 @@
+{
+  "text": "καὶ οὓς μὲν ἔθετο ὁ θεὸς ἐν τῇ ἐκκλησίᾳ πρῶτον ἀποστόλους, δεύτερον προφήτας, τρίτον διδασκάλους, ἔπειτα δυνάμεις, χαρίσματα ἰαμάτων, ἀντιλήμψεις, κυβερνήσεις, γένη γλωσσῶν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὓς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-APM",
+      "translation": "some",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
+      "text": "μὲν",
+      "lemma": [
+        "G3303"
+      ],
+      "strongs": "G3303",
+      "morph": "robinson:PRT",
+      "translation": "indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἔθετο",
+      "lemma": [
+        "G5087"
+      ],
+      "strongs": "G5087",
+      "morph": "robinson:V-2AMI-3S",
+      "translation": "has appointed",
+      "metadata": {},
+      "gematria": {
+        "standard": 389,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐκκλησίᾳ",
+      "lemma": [
+        "G1577"
+      ],
+      "strongs": "G1577",
+      "morph": "robinson:N-DSF",
+      "translation": "church",
+      "metadata": {},
+      "gematria": {
+        "standard": 304,
+        "ordinal": 80,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 10,
+      "text": "πρῶτον",
+      "lemma": null,
+      "morph": null,
+      "translation": "first",
+      "metadata": {},
+      "gematria": {
+        "standard": 1400,
+        "ordinal": 104,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἀποστόλους,",
+      "lemma": [
+        "G652"
+      ],
+      "strongs": "G652",
+      "morph": "robinson:N-APM",
+      "translation": "apostles,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1421,
+        "ordinal": 148,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 12,
+      "text": "δεύτερον",
+      "lemma": [
+        "G1208"
+      ],
+      "strongs": "G1208",
+      "morph": "robinson:A-ASN",
+      "translation": "secondly",
+      "metadata": {},
+      "gematria": {
+        "standard": 934,
+        "ordinal": 98,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 13,
+      "text": "προφήτας,",
+      "lemma": [
+        "G4396"
+      ],
+      "strongs": "G4396",
+      "morph": "robinson:N-APM",
+      "translation": "prophets,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1259,
+        "ordinal": 114,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 14,
+      "text": "τρίτον",
+      "lemma": [
+        "G5154"
+      ],
+      "strongs": "G5154",
+      "morph": "robinson:A-ASN",
+      "translation": "third",
+      "metadata": {},
+      "gematria": {
+        "standard": 830,
+        "ordinal": 92,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 15,
+      "text": "διδασκάλους,",
+      "lemma": [
+        "G1320"
+      ],
+      "strongs": "G1320",
+      "morph": "robinson:N-APM",
+      "translation": "teachers,",
+      "metadata": {},
+      "gematria": {
+        "standard": 940,
+        "ordinal": 111,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἔπειτα",
+      "lemma": [
+        "G1899"
+      ],
+      "strongs": "G1899",
+      "morph": "robinson:ADV",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 401,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 17,
+      "text": "δυνάμεις,",
+      "lemma": [
+        "G1411"
+      ],
+      "strongs": "G1411",
+      "morph": "robinson:N-APF",
+      "translation": "miracles,",
+      "metadata": {},
+      "gematria": {
+        "standard": 710,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 18,
+      "text": "χαρίσματα",
+      "lemma": [
+        "G5486"
+      ],
+      "strongs": "G5486",
+      "morph": "robinson:N-APN",
+      "translation": "gifts",
+      "metadata": {},
+      "gematria": {
+        "standard": 1253,
+        "ordinal": 100,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἰαμάτων,",
+      "lemma": [
+        "G2386"
+      ],
+      "strongs": "G2386",
+      "morph": "robinson:N-GPN",
+      "translation": "of healing,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1202,
+        "ordinal": 79,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀντιλήμψεις,",
+      "lemma": [
+        "G484"
+      ],
+      "strongs": "G484",
+      "morph": "robinson:N-APF",
+      "translation": "helping,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1354,
+        "ordinal": 127,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 21,
+      "text": "κυβερνήσεις,",
+      "lemma": [
+        "G2941"
+      ],
+      "strongs": "G2941",
+      "morph": "robinson:N-APF",
+      "translation": "administrating,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 124,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 22,
+      "text": "γένη",
+      "lemma": null,
+      "morph": null,
+      "translation": "various kinds",
+      "metadata": {},
+      "gematria": {
+        "standard": 66,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 23,
+      "text": "γλωσσῶν.",
+      "lemma": [
+        "G1100"
+      ],
+      "strongs": "G1100",
+      "morph": "robinson:N-GPF",
+      "translation": "of tongues.",
+      "metadata": {},
+      "gematria": {
+        "standard": 2083,
+        "ordinal": 111,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 17069,
+    "ordinal": 1722,
+    "reduced": 705
+  }
+}

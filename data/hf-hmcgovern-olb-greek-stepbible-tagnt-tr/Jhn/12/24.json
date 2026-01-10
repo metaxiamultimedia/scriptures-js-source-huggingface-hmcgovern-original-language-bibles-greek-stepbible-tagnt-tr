@@ -1,0 +1,388 @@
+{
+  "text": "ἀμὴν ἀμὴν λέγω ὑμῖν· ἐὰν μὴ ὁ κόκκος τοῦ σίτου πεσὼν εἰς τὴν γῆν ἀποθάνῃ, αὐτὸς μόνος μένει· ἐὰν δὲ ἀποθάνῃ, πολὺν καρπὸν φέρει.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀμὴν",
+      "lemma": [
+        "G281"
+      ],
+      "strongs": "G281",
+      "morph": "robinson:INJ-HEB",
+      "translation": "Amen",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀμὴν",
+      "lemma": [
+        "G281"
+      ],
+      "strongs": "G281",
+      "morph": "robinson:INJ-HEB",
+      "translation": "Amen",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "λέγω",
+      "lemma": null,
+      "morph": null,
+      "translation": "I say",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὑμῖν·",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you;",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "unless",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "κόκκος",
+      "lemma": [
+        "G2848"
+      ],
+      "strongs": "G2848",
+      "morph": "robinson:N-NSM",
+      "translation": "grain",
+      "metadata": {},
+      "gematria": {
+        "standard": 400,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 9,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "σίτου",
+      "lemma": [
+        "G4621"
+      ],
+      "strongs": "G4621",
+      "morph": "robinson:N-GSM",
+      "translation": "of wheat",
+      "metadata": {},
+      "gematria": {
+        "standard": 980,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 11,
+      "text": "πεσὼν",
+      "lemma": [
+        "G4098"
+      ],
+      "strongs": "G4098",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having fallen",
+      "metadata": {},
+      "gematria": {
+        "standard": 1135,
+        "ordinal": 76,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 12,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 13,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "γῆν",
+      "lemma": null,
+      "morph": null,
+      "translation": "ground",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀποθάνῃ,",
+      "lemma": [
+        "G599"
+      ],
+      "strongs": "G599",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "shall die,",
+      "metadata": {},
+      "gematria": {
+        "standard": 229,
+        "ordinal": 70,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 16,
+      "text": "αὐτὸς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NSM",
+      "translation": "it",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 17,
+      "text": "μόνος",
+      "lemma": [
+        "G3441"
+      ],
+      "strongs": "G3441",
+      "morph": "robinson:A-NSM",
+      "translation": "alone",
+      "metadata": {},
+      "gematria": {
+        "standard": 430,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 18,
+      "text": "μένει·",
+      "lemma": [
+        "G3306"
+      ],
+      "strongs": "G3306",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "abides;",
+      "metadata": {},
+      "gematria": {
+        "standard": 110,
+        "ordinal": 44,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 20,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἀποθάνῃ,",
+      "lemma": [
+        "G599"
+      ],
+      "strongs": "G599",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "it shall die,",
+      "metadata": {},
+      "gematria": {
+        "standard": 229,
+        "ordinal": 70,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 22,
+      "text": "πολὺν",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-ASM",
+      "translation": "much",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 23,
+      "text": "καρπὸν",
+      "lemma": [
+        "G2590"
+      ],
+      "strongs": "G2590",
+      "morph": "robinson:N-ASM",
+      "translation": "fruit",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 24,
+      "text": "φέρει.",
+      "lemma": [
+        "G5342"
+      ],
+      "strongs": "G5342",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "it bears.",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9234,
+    "ordinal": 1161,
+    "reduced": 486
+  }
+}

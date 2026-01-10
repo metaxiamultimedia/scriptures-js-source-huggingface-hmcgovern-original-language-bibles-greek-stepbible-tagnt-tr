@@ -1,0 +1,327 @@
+{
+  "text": "ὁ κλέπτης οὐκ ἔρχεται εἰ μὴ ἵνα κλέψῃ καὶ θύσῃ καὶ ἀπολέσῃ· ἐγὼ ἦλθον ἵνα ζωὴν ἔχωσιν καὶ περισσὸν ἔχωσιν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "κλέπτης",
+      "lemma": [
+        "G2812"
+      ],
+      "strongs": "G2812",
+      "morph": "robinson:N-NSM",
+      "translation": "thief",
+      "metadata": {},
+      "gematria": {
+        "standard": 643,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 3,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἔρχεται",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-PNI-3S",
+      "translation": "comes",
+      "metadata": {},
+      "gematria": {
+        "standard": 1021,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "except",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 8,
+      "text": "κλέψῃ",
+      "lemma": [
+        "G2813"
+      ],
+      "strongs": "G2813",
+      "morph": "robinson:V-AAS-3S",
+      "translation": "he shall steal",
+      "metadata": {},
+      "gematria": {
+        "standard": 773,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "θύσῃ",
+      "lemma": [
+        "G2380"
+      ],
+      "strongs": "G2380",
+      "morph": "robinson:V-AAS-3S",
+      "translation": "shall kill",
+      "metadata": {},
+      "gematria": {
+        "standard": 627,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀπολέσῃ·",
+      "lemma": [
+        "G622"
+      ],
+      "strongs": "G622",
+      "morph": "robinson:V-AAS-3S",
+      "translation": "shall destroy;",
+      "metadata": {},
+      "gematria": {
+        "standard": 404,
+        "ordinal": 82,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS",
+      "translation": "I myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἦλθον",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-2AAI-1S",
+      "translation": "came",
+      "metadata": {},
+      "gematria": {
+        "standard": 167,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "ζωὴν",
+      "lemma": [
+        "G2222"
+      ],
+      "strongs": "G2222",
+      "morph": "robinson:N-ASF",
+      "translation": "life",
+      "metadata": {},
+      "gematria": {
+        "standard": 865,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἔχωσιν",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAS-3P",
+      "translation": "they may have",
+      "metadata": {},
+      "gematria": {
+        "standard": 1665,
+        "ordinal": 91,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "περισσὸν",
+      "lemma": [
+        "G4053"
+      ],
+      "strongs": "G4053",
+      "morph": "robinson:ADV",
+      "translation": "excessive",
+      "metadata": {},
+      "gematria": {
+        "standard": 715,
+        "ordinal": 111,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἔχωσιν.",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAS-3P",
+      "translation": "may have.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1665,
+        "ordinal": 91,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10191,
+    "ordinal": 1001,
+    "reduced": 470
+  }
+}

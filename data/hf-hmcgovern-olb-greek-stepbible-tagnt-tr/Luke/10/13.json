@@ -1,0 +1,404 @@
+{
+  "text": "Οὐαί σοι Χοραζίν, οὐαί σοι Βηθσαϊδά· ὅτι εἰ ἐν Τύρῳ καὶ Σιδῶνι αἱ δυνάμεις αἱ γενόμεναι ἐν ὑμῖν, πάλαι ἂν ἐν σάκκῳ καὶ σποδῷ μετενόησαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Οὐαί",
+      "lemma": [
+        "G3759"
+      ],
+      "strongs": "G3759",
+      "morph": "robinson:INJ",
+      "translation": "Woe",
+      "metadata": {},
+      "gematria": {
+        "standard": 481,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "σοι",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DS",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "Χοραζίν,",
+      "lemma": [
+        "G5523"
+      ],
+      "strongs": "G5523",
+      "morph": "robinson:N-VSF-L",
+      "translation": "Chorazin!",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 4,
+      "text": "οὐαί",
+      "lemma": [
+        "G3759"
+      ],
+      "strongs": "G3759",
+      "morph": "robinson:INJ",
+      "translation": "Woe",
+      "metadata": {},
+      "gematria": {
+        "standard": 481,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "σοι",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DS",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "Βηθσαϊδά·",
+      "lemma": [
+        "G966"
+      ],
+      "strongs": "G966",
+      "morph": "robinson:N-VSF-L",
+      "translation": "Bethsaida!",
+      "metadata": {},
+      "gematria": {
+        "standard": 235,
+        "ordinal": 50,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "For",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "Τύρῳ",
+      "lemma": [
+        "G5184"
+      ],
+      "strongs": "G5184",
+      "morph": "robinson:N-DSF-L",
+      "translation": "Tyre",
+      "metadata": {},
+      "gematria": {
+        "standard": 1610,
+        "ordinal": 89,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "Σιδῶνι",
+      "lemma": [
+        "G4605"
+      ],
+      "strongs": "G4605",
+      "morph": "robinson:N-DSF-L",
+      "translation": "Sidon",
+      "metadata": {},
+      "gematria": {
+        "standard": 1074,
+        "ordinal": 77,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 13,
+      "text": "αἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "δυνάμεις",
+      "lemma": [
+        "G1411"
+      ],
+      "strongs": "G1411",
+      "morph": "robinson:N-NPF",
+      "translation": "miracles",
+      "metadata": {},
+      "gematria": {
+        "standard": 710,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 15,
+      "text": "αἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "γενόμεναι",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADP-NPF",
+      "translation": "having taken place",
+      "metadata": {},
+      "gematria": {
+        "standard": 234,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "ὑμῖν,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 19,
+      "text": "πάλαι",
+      "lemma": [
+        "G3819"
+      ],
+      "strongs": "G3819",
+      "morph": "robinson:ADV",
+      "translation": "long ago",
+      "metadata": {},
+      "gematria": {
+        "standard": 122,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἂν",
+      "lemma": [
+        "G302"
+      ],
+      "strongs": "G302",
+      "morph": "robinson:PRT",
+      "translation": "then would",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 14,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 22,
+      "text": "σάκκῳ",
+      "lemma": [
+        "G4526"
+      ],
+      "strongs": "G4526",
+      "morph": "robinson:N-DSM",
+      "translation": "sackcloth",
+      "metadata": {},
+      "gematria": {
+        "standard": 1051,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 23,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 24,
+      "text": "σποδῷ",
+      "lemma": [
+        "G4700"
+      ],
+      "strongs": "G4700",
+      "morph": "robinson:N-DSF",
+      "translation": "ashes",
+      "metadata": {},
+      "gematria": {
+        "standard": 1164,
+        "ordinal": 86,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 25,
+      "text": "μετενόησαν.",
+      "lemma": [
+        "G3340"
+      ],
+      "strongs": "G3340",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "they would have repented.",
+      "metadata": {},
+      "gematria": {
+        "standard": 729,
+        "ordinal": 108,
+        "reduced": 45
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10484,
+    "ordinal": 1174,
+    "reduced": 562
+  }
+}

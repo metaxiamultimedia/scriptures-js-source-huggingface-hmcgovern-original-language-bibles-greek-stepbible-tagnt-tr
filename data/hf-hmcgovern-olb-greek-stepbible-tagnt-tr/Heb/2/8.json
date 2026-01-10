@@ -1,0 +1,407 @@
+{
+  "text": "πάντα ὑπέταξας ὑποκάτω τῶν ποδῶν αὐτοῦ. ἐν τῷ γὰρ ὑποτάξαι αὐτῷ τὰ πάντα οὐδὲν ἀφῆκεν αὐτῷ ἀνυπότακτον· νῦν δὲ οὔπω ὁρῶμεν αὐτῷ τὰ πάντα ὑποτεταγμένα.",
+  "words": [
+    {
+      "position": 1,
+      "text": "πάντα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-APN",
+      "translation": "all things",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὑπέταξας",
+      "lemma": [
+        "G5293"
+      ],
+      "strongs": "G5293",
+      "morph": "robinson:V-2AAI-2S",
+      "translation": "You have put in subjection",
+      "metadata": {},
+      "gematria": {
+        "standard": 1047,
+        "ordinal": 94,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὑποκάτω",
+      "lemma": [
+        "G5270"
+      ],
+      "strongs": "G5270",
+      "morph": "robinson:PREP",
+      "translation": "under",
+      "metadata": {},
+      "gematria": {
+        "standard": 1671,
+        "ordinal": 105,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "ποδῶν",
+      "lemma": [
+        "G4228"
+      ],
+      "strongs": "G4228",
+      "morph": "robinson:N-GPM",
+      "translation": "feet",
+      "metadata": {},
+      "gematria": {
+        "standard": 1004,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "In",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὑποτάξαι",
+      "lemma": [
+        "G5293"
+      ],
+      "strongs": "G5293",
+      "morph": "robinson:V-2AAN",
+      "translation": "subjecting",
+      "metadata": {},
+      "gematria": {
+        "standard": 922,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 13,
+      "text": "πάντα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-APN",
+      "translation": "all things",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "οὐδὲν",
+      "lemma": [
+        "G3762"
+      ],
+      "strongs": "G3762",
+      "morph": "robinson:A-ASN",
+      "translation": "no [thing]",
+      "metadata": {},
+      "gematria": {
+        "standard": 529,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀφῆκεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "He left",
+      "metadata": {},
+      "gematria": {
+        "standard": 584,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 16,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀνυπότακτον·",
+      "lemma": [
+        "G506"
+      ],
+      "strongs": "G506",
+      "morph": "robinson:A-ASN",
+      "translation": "unsubject;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1342,
+        "ordinal": 142,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 18,
+      "text": "νῦν",
+      "lemma": [
+        "G3568"
+      ],
+      "strongs": "G3568",
+      "morph": "robinson:ADV",
+      "translation": "At present",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 46,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 19,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 20,
+      "text": "οὔπω",
+      "lemma": [
+        "G3768"
+      ],
+      "strongs": "G3768",
+      "morph": "robinson:ADV-N",
+      "translation": "not yet",
+      "metadata": {},
+      "gematria": {
+        "standard": 1350,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 21,
+      "text": "ὁρῶμεν",
+      "lemma": [
+        "G3708"
+      ],
+      "strongs": "G3708",
+      "morph": "robinson:V-PAI-1P",
+      "translation": "do we see",
+      "metadata": {},
+      "gematria": {
+        "standard": 1065,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 22,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 23,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 24,
+      "text": "πάντα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-APN",
+      "translation": "all things",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 25,
+      "text": "ὑποτεταγμένα.",
+      "lemma": [
+        "G5293"
+      ],
+      "strongs": "G5293",
+      "morph": "robinson:V-RPP-APN",
+      "translation": "subjected.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1255,
+        "ordinal": 129,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 21299,
+    "ordinal": 1598,
+    "reduced": 464
+  }
+}

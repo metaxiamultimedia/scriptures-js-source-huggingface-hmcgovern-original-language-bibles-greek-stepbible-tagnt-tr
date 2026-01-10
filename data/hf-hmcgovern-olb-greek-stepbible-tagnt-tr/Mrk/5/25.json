@@ -1,0 +1,132 @@
+{
+  "text": "Καὶ γυνὴ οὖσα ἐν ῥύσει αἵματος δώδεκα ἔτη",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "γυνὴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "a woman",
+      "metadata": {},
+      "gematria": {
+        "standard": 461,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "οὖσα",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAP-NSF",
+      "translation": "being",
+      "metadata": {},
+      "gematria": {
+        "standard": 671,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "ῥύσει",
+      "lemma": [
+        "G4511"
+      ],
+      "strongs": "G4511",
+      "morph": "robinson:N-DSF",
+      "translation": "a flux",
+      "metadata": {},
+      "gematria": {
+        "standard": 715,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "αἵματος",
+      "lemma": null,
+      "morph": null,
+      "translation": "of blood",
+      "metadata": {},
+      "gematria": {
+        "standard": 622,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "δώδεκα",
+      "lemma": [
+        "G1427"
+      ],
+      "strongs": "G1427",
+      "morph": "robinson:A-NUI",
+      "translation": "twelve",
+      "metadata": {},
+      "gematria": {
+        "standard": 834,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἔτη",
+      "lemma": [
+        "G2094"
+      ],
+      "strongs": "G2094",
+      "morph": "robinson:N-APN",
+      "translation": "years",
+      "metadata": {},
+      "gematria": {
+        "standard": 313,
+        "ordinal": 31,
+        "reduced": 13
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3702,
+    "ordinal": 358,
+    "reduced": 151
+  }
+}

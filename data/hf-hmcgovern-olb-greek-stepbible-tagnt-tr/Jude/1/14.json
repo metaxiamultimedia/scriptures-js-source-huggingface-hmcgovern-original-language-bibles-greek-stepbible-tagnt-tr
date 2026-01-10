@@ -1,0 +1,257 @@
+{
+  "text": "προεφήτευσεν δὲ καὶ τούτοις ἕβδομος ἀπὸ Ἀδὰμ Ἑνὼχ λέγων· ἰδοὺ ἦλθεν κύριος ἐν ἁγίαις μυριάσιν αὐτοῦ",
+  "words": [
+    {
+      "position": 1,
+      "text": "προεφήτευσεν",
+      "lemma": [
+        "G4395"
+      ],
+      "strongs": "G4395",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "He prophesied",
+      "metadata": {},
+      "gematria": {
+        "standard": 1723,
+        "ordinal": 161,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "τούτοις",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-DPM",
+      "translation": "to these",
+      "metadata": {},
+      "gematria": {
+        "standard": 1350,
+        "ordinal": 115,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἕβδομος",
+      "lemma": [
+        "G1442"
+      ],
+      "strongs": "G1442",
+      "morph": "robinson:A-NSM",
+      "translation": "[the] seventh",
+      "metadata": {},
+      "gematria": {
+        "standard": 391,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ἀδὰμ",
+      "lemma": [
+        "G76"
+      ],
+      "strongs": "G76",
+      "morph": "robinson:N-GSM-P",
+      "translation": "Adam",
+      "metadata": {},
+      "gematria": {
+        "standard": 46,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "Ἑνὼχ",
+      "lemma": [
+        "G1802"
+      ],
+      "strongs": "G1802",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Enoch",
+      "metadata": {},
+      "gematria": {
+        "standard": 1455,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "λέγων·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying:",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἰδοὺ",
+      "lemma": [
+        "G2400"
+      ],
+      "strongs": "G2400",
+      "morph": "robinson:INJ",
+      "translation": "Behold",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἦλθεν",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "has come",
+      "metadata": {},
+      "gematria": {
+        "standard": 102,
+        "ordinal": 44,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 12,
+      "text": "κύριος",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] Lord",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "amidst",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἁγίαις",
+      "lemma": null,
+      "morph": null,
+      "translation": "holy [ones]",
+      "metadata": {},
+      "gematria": {
+        "standard": 225,
+        "ordinal": 41,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 15,
+      "text": "μυριάσιν",
+      "lemma": [
+        "G3461"
+      ],
+      "strongs": "G3461",
+      "morph": "robinson:N-DPF",
+      "translation": "myriads",
+      "metadata": {},
+      "gematria": {
+        "standard": 811,
+        "ordinal": 99,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 16,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of His",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9692,
+    "ordinal": 960,
+    "reduced": 393
+  }
+}

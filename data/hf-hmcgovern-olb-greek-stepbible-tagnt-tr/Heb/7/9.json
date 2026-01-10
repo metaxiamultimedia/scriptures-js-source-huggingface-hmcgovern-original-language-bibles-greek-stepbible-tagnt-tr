@@ -1,0 +1,199 @@
+{
+  "text": "καὶ ὡς ἔπος εἰπεῖν· δι᾽ Ἀβραὰμ καὶ Λευὶ ὁ δεκάτας λαμβάνων δεδεκάτωται.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "so",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἔπος",
+      "lemma": [
+        "G2031"
+      ],
+      "strongs": "G2031",
+      "morph": "robinson:N-ASN",
+      "translation": "a word",
+      "metadata": {},
+      "gematria": {
+        "standard": 355,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἰπεῖν·",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAN",
+      "translation": "to speak;",
+      "metadata": {},
+      "gematria": {
+        "standard": 160,
+        "ordinal": 57,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 5,
+      "text": "δι᾽",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 14,
+        "ordinal": 13,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "Ἀβραὰμ",
+      "lemma": [
+        "G11"
+      ],
+      "strongs": "G11",
+      "morph": "robinson:N-GSM-P",
+      "translation": "Abraham",
+      "metadata": {},
+      "gematria": {
+        "standard": 145,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "Λευὶ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Levi",
+      "metadata": {},
+      "gematria": {
+        "standard": 445,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "δεκάτας",
+      "lemma": [
+        "G1182"
+      ],
+      "strongs": "G1182",
+      "morph": "robinson:A-APF",
+      "translation": "tithes",
+      "metadata": {},
+      "gematria": {
+        "standard": 531,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 11,
+      "text": "λαμβάνων",
+      "lemma": [
+        "G2983"
+      ],
+      "strongs": "G2983",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "receiving",
+      "metadata": {},
+      "gematria": {
+        "standard": 974,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 12,
+      "text": "δεδεκάτωται.",
+      "lemma": [
+        "G1183"
+      ],
+      "strongs": "G1183",
+      "morph": "robinson:V-RPI-3S",
+      "translation": "has paid the tithe.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1450,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5206,
+    "ordinal": 536,
+    "reduced": 239
+  }
+}

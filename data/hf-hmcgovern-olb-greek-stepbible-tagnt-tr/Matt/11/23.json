@@ -1,0 +1,356 @@
+{
+  "text": "Καὶ σὺ Καφαρναούμ, μὴ ἕως οὐρανοῦ ἕως ᾅδου ὅτι εἰ ἐν Σοδόμοις αἱ δυνάμεις αἱ γενόμεναι ἐν σοί, ἂν μέχρι τῆς σήμερον.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "σὺ",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NS",
+      "translation": "you yourself",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "Καφαρναούμ,",
+      "lemma": [
+        "G2584"
+      ],
+      "strongs": "G2584",
+      "morph": "robinson:N-VSF-L",
+      "translation": "Capernaum,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1183,
+        "ordinal": 111,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "surely not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἕως",
+      "lemma": [
+        "G2193"
+      ],
+      "strongs": "G2193",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὐρανοῦ",
+      "lemma": [
+        "G3772"
+      ],
+      "strongs": "G3772",
+      "morph": "robinson:N-GSM",
+      "translation": "heaven",
+      "metadata": {},
+      "gematria": {
+        "standard": 1091,
+        "ordinal": 101,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἕως",
+      "lemma": [
+        "G2193"
+      ],
+      "strongs": "G2193",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "ᾅδου",
+      "lemma": [
+        "G86"
+      ],
+      "strongs": "G86",
+      "morph": "robinson:N-GSM-L",
+      "translation": "Hades",
+      "metadata": {},
+      "gematria": {
+        "standard": 485,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "For",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "Σοδόμοις",
+      "lemma": [
+        "G4670"
+      ],
+      "strongs": "G4670",
+      "morph": "robinson:N-DPN-L",
+      "translation": "Sodom",
+      "metadata": {},
+      "gematria": {
+        "standard": 664,
+        "ordinal": 106,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 13,
+      "text": "αἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "δυνάμεις",
+      "lemma": [
+        "G1411"
+      ],
+      "strongs": "G1411",
+      "morph": "robinson:N-NPF",
+      "translation": "miracles",
+      "metadata": {},
+      "gematria": {
+        "standard": 710,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 15,
+      "text": "αἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPF",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "γενόμεναι",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADP-NPF",
+      "translation": "were happening",
+      "metadata": {},
+      "gematria": {
+        "standard": 234,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "σοί,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DS",
+      "translation": "you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἂν",
+      "lemma": [
+        "G302"
+      ],
+      "strongs": "G302",
+      "morph": "robinson:PRT",
+      "translation": "then would",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 14,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 20,
+      "text": "μέχρι",
+      "lemma": [
+        "G3360"
+      ],
+      "strongs": "G3360",
+      "morph": "robinson:PREP",
+      "translation": "until",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 21,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 22,
+      "text": "σήμερον.",
+      "lemma": [
+        "G4594"
+      ],
+      "strongs": "G4594",
+      "morph": "robinson:ADV",
+      "translation": "day.",
+      "metadata": {},
+      "gematria": {
+        "standard": 473,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9650,
+    "ordinal": 1061,
+    "reduced": 467
+  }
+}

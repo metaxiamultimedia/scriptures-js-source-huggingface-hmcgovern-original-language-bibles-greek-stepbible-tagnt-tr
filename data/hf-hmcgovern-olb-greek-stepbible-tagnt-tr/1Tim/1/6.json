@@ -1,0 +1,106 @@
+{
+  "text": "ὧν τινες ἀστοχήσαντες ἐξετράπησαν εἰς ματαιολογίαν",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὧν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-GPF",
+      "translation": "from which",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "τινες",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NPM",
+      "translation": "some",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀστοχήσαντες",
+      "lemma": [
+        "G795"
+      ],
+      "strongs": "G795",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "having missed the mark",
+      "metadata": {},
+      "gematria": {
+        "standard": 1935,
+        "ordinal": 156,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐξετράπησαν",
+      "lemma": [
+        "G1624"
+      ],
+      "strongs": "G1624",
+      "morph": "robinson:V-2API-3P",
+      "translation": "they have turned aside",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 116,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "ματαιολογίαν",
+      "lemma": [
+        "G3150"
+      ],
+      "strongs": "G3150",
+      "morph": "robinson:N-ASF",
+      "translation": "meaningless discourse",
+      "metadata": {},
+      "gematria": {
+        "standard": 586,
+        "ordinal": 109,
+        "reduced": 46
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4961,
+    "ordinal": 514,
+    "reduced": 217
+  }
+}

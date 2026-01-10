@@ -1,0 +1,394 @@
+{
+  "text": "ἀλλ᾽ ἐβασίλευσεν ὁ θάνατος ἀπὸ Ἀδὰμ μέχρι Μωϋσέως καὶ ἐπὶ τοὺς μὴ ἁμαρτήσαντας ἐπὶ τῷ ὁμοιώματι τῆς παραβάσεως Ἀδὰμ ὅς ἐστιν τύπος τοῦ μέλλοντος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "Nevertheless",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐβασίλευσεν",
+      "lemma": [
+        "G936"
+      ],
+      "strongs": "G936",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "reigned",
+      "metadata": {},
+      "gematria": {
+        "standard": 908,
+        "ordinal": 107,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "θάνατος",
+      "lemma": [
+        "G2288"
+      ],
+      "strongs": "G2288",
+      "morph": "robinson:N-NSM",
+      "translation": "death",
+      "metadata": {},
+      "gematria": {
+        "standard": 631,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "Ἀδὰμ",
+      "lemma": [
+        "G76"
+      ],
+      "strongs": "G76",
+      "morph": "robinson:N-GSM-P",
+      "translation": "Adam",
+      "metadata": {},
+      "gematria": {
+        "standard": 46,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "μέχρι",
+      "lemma": [
+        "G3360"
+      ],
+      "strongs": "G3360",
+      "morph": "robinson:PREP",
+      "translation": "until",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 8,
+      "text": "Μωϋσέως",
+      "lemma": [
+        "G3475"
+      ],
+      "strongs": "G3475",
+      "morph": "robinson:N-GSM-P",
+      "translation": "Moses",
+      "metadata": {},
+      "gematria": {
+        "standard": 2445,
+        "ordinal": 121,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "even",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "over",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 12,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἁμαρτήσαντας",
+      "lemma": [
+        "G264"
+      ],
+      "strongs": "G264",
+      "morph": "robinson:V-AAP-APM",
+      "translation": "having sinned",
+      "metadata": {},
+      "gematria": {
+        "standard": 1202,
+        "ordinal": 127,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὁμοιώματι",
+      "lemma": [
+        "G3667"
+      ],
+      "strongs": "G3667",
+      "morph": "robinson:N-DSN",
+      "translation": "likeness",
+      "metadata": {},
+      "gematria": {
+        "standard": 1341,
+        "ordinal": 116,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 17,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "παραβάσεως",
+      "lemma": [
+        "G3847"
+      ],
+      "strongs": "G3847",
+      "morph": "robinson:N-GSF",
+      "translation": "transgression",
+      "metadata": {},
+      "gematria": {
+        "standard": 1390,
+        "ordinal": 103,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 19,
+      "text": "Ἀδὰμ",
+      "lemma": [
+        "G76"
+      ],
+      "strongs": "G76",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of Adam",
+      "metadata": {},
+      "gematria": {
+        "standard": 46,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 20,
+      "text": "ὅς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 22,
+      "text": "τύπος",
+      "lemma": [
+        "G5179"
+      ],
+      "strongs": "G5179",
+      "morph": "robinson:N-NSM",
+      "translation": "a type",
+      "metadata": {},
+      "gematria": {
+        "standard": 1050,
+        "ordinal": 88,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 23,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 24,
+      "text": "μέλλοντος.",
+      "lemma": [
+        "G3195"
+      ],
+      "strongs": "G3195",
+      "morph": "robinson:V-PAP-GSM",
+      "translation": "coming [One].",
+      "metadata": {},
+      "gematria": {
+        "standard": 795,
+        "ordinal": 119,
+        "reduced": 38
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15353,
+    "ordinal": 1445,
+    "reduced": 563
+  }
+}

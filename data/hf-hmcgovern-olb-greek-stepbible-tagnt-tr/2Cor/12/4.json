@@ -1,0 +1,231 @@
+{
+  "text": "ὅτι ἡρπάγη εἰς τὸν παράδεισον καὶ ἤκουσεν ἄρρητα ῥήματα ἃ οὐκ ἐξὸν ἀνθρώπῳ λαλῆσαι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἡρπάγη",
+      "lemma": [
+        "G726"
+      ],
+      "strongs": "G726",
+      "morph": "robinson:V-2API-3S",
+      "translation": "he was caught up",
+      "metadata": {},
+      "gematria": {
+        "standard": 200,
+        "ordinal": 51,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 3,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "παράδεισον",
+      "lemma": [
+        "G3857"
+      ],
+      "strongs": "G3857",
+      "morph": "robinson:N-ASM",
+      "translation": "Paradise",
+      "metadata": {},
+      "gematria": {
+        "standard": 521,
+        "ordinal": 99,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἤκουσεν",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he heard",
+      "metadata": {},
+      "gematria": {
+        "standard": 753,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἄρρητα",
+      "lemma": [
+        "G731"
+      ],
+      "strongs": "G731",
+      "morph": "robinson:A-APN",
+      "translation": "inexpressible",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 9,
+      "text": "ῥήματα",
+      "lemma": [
+        "G4487"
+      ],
+      "strongs": "G4487",
+      "morph": "robinson:N-APN",
+      "translation": "declaration",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-APN",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 11,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐξὸν",
+      "lemma": [
+        "G1832"
+      ],
+      "strongs": "G1832",
+      "morph": "robinson:V-PAP-NSN",
+      "translation": "being permitted",
+      "metadata": {},
+      "gematria": {
+        "standard": 185,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἀνθρώπῳ",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-DSM",
+      "translation": "to man",
+      "metadata": {},
+      "gematria": {
+        "standard": 1850,
+        "ordinal": 112,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 14,
+      "text": "λαλῆσαι.",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-AAN",
+      "translation": "to speak.",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6286,
+    "ordinal": 762,
+    "reduced": 339
+  }
+}

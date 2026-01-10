@@ -1,0 +1,231 @@
+{
+  "text": "Ταῦτα πάντα ἐλάλησεν ὁ Ἰησοῦς ἐν παραβολαῖς τοῖς ὄχλοις καὶ χωρὶς παραβολῆς ἐλάλει αὐτοῖς,",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ταῦτα",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-APN",
+      "translation": "These things",
+      "metadata": {},
+      "gematria": {
+        "standard": 1002,
+        "ordinal": 60,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "πάντα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-APN",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐλάλησεν",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "spoke",
+      "metadata": {},
+      "gematria": {
+        "standard": 329,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "παραβολαῖς",
+      "lemma": [
+        "G3850"
+      ],
+      "strongs": "G3850",
+      "morph": "robinson:N-DPF",
+      "translation": "parables",
+      "metadata": {},
+      "gematria": {
+        "standard": 495,
+        "ordinal": 91,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὄχλοις",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-DPM",
+      "translation": "crowds",
+      "metadata": {},
+      "gematria": {
+        "standard": 980,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "χωρὶς",
+      "lemma": [
+        "G5565"
+      ],
+      "strongs": "G5565",
+      "morph": "robinson:PREP",
+      "translation": "without",
+      "metadata": {},
+      "gematria": {
+        "standard": 1710,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 12,
+      "text": "παραβολῆς",
+      "lemma": [
+        "G3850"
+      ],
+      "strongs": "G3850",
+      "morph": "robinson:N-GSF",
+      "translation": "a parable",
+      "metadata": {},
+      "gematria": {
+        "standard": 492,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐλάλει",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "He was speaking",
+      "metadata": {},
+      "gematria": {
+        "standard": 81,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 14,
+      "text": "αὐτοῖς,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them,",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8126,
+    "ordinal": 865,
+    "reduced": 361
+  }
+}

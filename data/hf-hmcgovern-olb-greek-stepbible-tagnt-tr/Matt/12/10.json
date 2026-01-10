@@ -1,0 +1,276 @@
+{
+  "text": "καὶ ἰδοὺ ἄνθρωπος χεῖρα ἔχων ξηράν· καὶ ἐπηρώτησαν αὐτὸν λέγοντες· εἰ ἔξεστιν τοῖς σάββασιν ἵνα κατηγορήσωσιν αὐτοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἰδοὺ",
+      "lemma": [
+        "G2400"
+      ],
+      "strongs": "G2400",
+      "morph": "robinson:INJ",
+      "translation": "behold",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἄνθρωπος",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-NSM",
+      "translation": "a man",
+      "metadata": {},
+      "gematria": {
+        "standard": 1310,
+        "ordinal": 112,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 4,
+      "text": "χεῖρα",
+      "lemma": [
+        "G5495"
+      ],
+      "strongs": "G5495",
+      "morph": "robinson:N-ASF",
+      "translation": "a hand",
+      "metadata": {},
+      "gematria": {
+        "standard": 716,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἔχων",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "having",
+      "metadata": {},
+      "gematria": {
+        "standard": 1455,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "ξηράν·",
+      "lemma": [
+        "G3584"
+      ],
+      "strongs": "G3584",
+      "morph": "robinson:A-ASF",
+      "translation": "withered;",
+      "metadata": {},
+      "gematria": {
+        "standard": 219,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐπηρώτησαν",
+      "lemma": [
+        "G1905"
+      ],
+      "strongs": "G1905",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "they asked",
+      "metadata": {},
+      "gematria": {
+        "standard": 1552,
+        "ordinal": 127,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 9,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "λέγοντες·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 11,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Is",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἔξεστιν",
+      "lemma": [
+        "G1832"
+      ],
+      "strongs": "G1832",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "it is lawful",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPN",
+      "translation": "on the",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 14,
+      "text": "σάββασιν",
+      "lemma": [
+        "G4521"
+      ],
+      "strongs": "G4521",
+      "morph": "robinson:N-DPN",
+      "translation": "Sabbaths",
+      "metadata": {},
+      "gematria": {
+        "standard": 466,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "so that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "κατηγορήσωσιν",
+      "lemma": [
+        "G2723"
+      ],
+      "strongs": "G2723",
+      "morph": "robinson:V-AAS-3P",
+      "translation": "they may accuse",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 161,
+        "reduced": 71
+      }
+    },
+    {
+      "position": 17,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "Him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11975,
+    "ordinal": 1135,
+    "reduced": 478
+  }
+}

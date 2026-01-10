@@ -1,0 +1,353 @@
+{
+  "text": "ἐν τῷ νόμῳ γέγραπται ὅτι ἐν ἑτερογλώσσοις καὶ ἐν χείλεσιν ἑτέρων λαλήσω τῷ λαῷ τούτῳ, καὶ οὐδ᾽ οὕτως εἰσακούσονταί μου, λέγει κύριος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "In",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "νόμῳ",
+      "lemma": [
+        "G3551"
+      ],
+      "strongs": "G3551",
+      "morph": "robinson:N-DSM",
+      "translation": "law",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "γέγραπται",
+      "lemma": [
+        "G1125"
+      ],
+      "strongs": "G1125",
+      "morph": "robinson:V-RPI-3S",
+      "translation": "it has been written",
+      "metadata": {},
+      "gematria": {
+        "standard": 503,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "By",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἑτερογλώσσοις",
+      "lemma": [
+        "G2084"
+      ],
+      "strongs": "G2084",
+      "morph": "robinson:A-DPM",
+      "translation": "other tongues",
+      "metadata": {},
+      "gematria": {
+        "standard": 1993,
+        "ordinal": 177,
+        "reduced": 78
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "χείλεσιν",
+      "lemma": [
+        "G5491"
+      ],
+      "strongs": "G5491",
+      "morph": "robinson:N-DPN",
+      "translation": "lips",
+      "metadata": {},
+      "gematria": {
+        "standard": 910,
+        "ordinal": 92,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἑτέρων",
+      "lemma": [
+        "G2087"
+      ],
+      "strongs": "G2087",
+      "morph": "robinson:A-GPM",
+      "translation": "of others",
+      "metadata": {},
+      "gematria": {
+        "standard": 1260,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 12,
+      "text": "λαλήσω",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-FAI-1S",
+      "translation": "I will speak",
+      "metadata": {},
+      "gematria": {
+        "standard": 1069,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 13,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "λαῷ",
+      "lemma": [
+        "G2992"
+      ],
+      "strongs": "G2992",
+      "morph": "robinson:N-DSM",
+      "translation": "people",
+      "metadata": {},
+      "gematria": {
+        "standard": 841,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 15,
+      "text": "τούτῳ,",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-DSM",
+      "translation": "this,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1880,
+        "ordinal": 106,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "οὐδ᾽",
+      "lemma": [
+        "G3761"
+      ],
+      "strongs": "G3761",
+      "morph": "robinson:CONJ-N",
+      "translation": "not even",
+      "metadata": {},
+      "gematria": {
+        "standard": 474,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 18,
+      "text": "οὕτως",
+      "lemma": [
+        "G3779"
+      ],
+      "strongs": "G3779",
+      "morph": "robinson:ADV",
+      "translation": "thus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 96,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 19,
+      "text": "εἰσακούσονταί",
+      "lemma": [
+        "G1522"
+      ],
+      "strongs": "G1522",
+      "morph": "robinson:V-FDI-3P",
+      "translation": "will they hear",
+      "metadata": {},
+      "gematria": {
+        "standard": 1337,
+        "ordinal": 153,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 20,
+      "text": "μου,",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "Me,",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "λέγει",
+      "lemma": null,
+      "morph": null,
+      "translation": "says",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 22,
+      "text": "κύριος.",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] Lord.",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 17197,
+    "ordinal": 1420,
+    "reduced": 556
+  }
+}

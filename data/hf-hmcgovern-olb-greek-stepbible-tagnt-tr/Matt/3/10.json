@@ -1,0 +1,353 @@
+{
+  "text": "Ἤδη δὲ ἡ ἀξίνη πρὸς τὴν ῥίζαν τῶν δένδρων κεῖται. πᾶν οὖν δένδρον μὴ ποιοῦν καρπὸν καλὸν ἐκκόπτεται καὶ εἰς πῦρ βάλλεται.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἤδη",
+      "lemma": [
+        "G2235"
+      ],
+      "strongs": "G2235",
+      "morph": "robinson:ADV",
+      "translation": "Already",
+      "metadata": {},
+      "gematria": {
+        "standard": 20,
+        "ordinal": 18,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀξίνη",
+      "lemma": [
+        "G513"
+      ],
+      "strongs": "G513",
+      "morph": "robinson:N-NSF",
+      "translation": "ax",
+      "metadata": {},
+      "gematria": {
+        "standard": 129,
+        "ordinal": 44,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "ῥίζαν",
+      "lemma": [
+        "G4491"
+      ],
+      "strongs": "G4491",
+      "morph": "robinson:N-ASF",
+      "translation": "root",
+      "metadata": {},
+      "gematria": {
+        "standard": 168,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "δένδρων",
+      "lemma": [
+        "G1186"
+      ],
+      "strongs": "G1186",
+      "morph": "robinson:N-GPN",
+      "translation": "trees",
+      "metadata": {},
+      "gematria": {
+        "standard": 1013,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 10,
+      "text": "κεῖται.",
+      "lemma": [
+        "G2749"
+      ],
+      "strongs": "G2749",
+      "morph": "robinson:V-PNI-3S",
+      "translation": "is applied.",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 11,
+      "text": "πᾶν",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NSN",
+      "translation": "every",
+      "metadata": {},
+      "gematria": {
+        "standard": 131,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
+      "text": "δένδρον",
+      "lemma": [
+        "G1186"
+      ],
+      "strongs": "G1186",
+      "morph": "robinson:N-NSN",
+      "translation": "tree",
+      "metadata": {},
+      "gematria": {
+        "standard": 283,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 14,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 15,
+      "text": "ποιοῦν",
+      "lemma": null,
+      "morph": null,
+      "translation": "producing",
+      "metadata": {},
+      "gematria": {
+        "standard": 680,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 16,
+      "text": "καρπὸν",
+      "lemma": [
+        "G2590"
+      ],
+      "strongs": "G2590",
+      "morph": "robinson:N-ASM",
+      "translation": "fruit",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 17,
+      "text": "καλὸν",
+      "lemma": null,
+      "morph": null,
+      "translation": "good",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐκκόπτεται",
+      "lemma": [
+        "G1581"
+      ],
+      "strongs": "G1581",
+      "morph": "robinson:V-PPI-3S",
+      "translation": "is cut down",
+      "metadata": {},
+      "gematria": {
+        "standard": 811,
+        "ordinal": 109,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 19,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 21,
+      "text": "πῦρ",
+      "lemma": [
+        "G4442"
+      ],
+      "strongs": "G4442",
+      "morph": "robinson:N-ASN",
+      "translation": "[the] fire",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 22,
+      "text": "βάλλεται.",
+      "lemma": null,
+      "morph": null,
+      "translation": "is thrown.",
+      "metadata": {},
+      "gematria": {
+        "standard": 379,
+        "ordinal": 59,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7821,
+    "ordinal": 1069,
+    "reduced": 457
+  }
+}

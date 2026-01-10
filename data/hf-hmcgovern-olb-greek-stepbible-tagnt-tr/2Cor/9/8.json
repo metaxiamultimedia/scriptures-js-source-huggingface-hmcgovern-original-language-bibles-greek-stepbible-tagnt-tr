@@ -1,0 +1,330 @@
+{
+  "text": "δὲ ὁ θεὸς πᾶσαν χάριν περισσεῦσαι εἰς ὑμᾶς, ἵνα ἐν παντὶ πάντοτε πᾶσαν αὐτάρκειαν ἔχοντες περισσεύητε εἰς πᾶν ἔργον ἀγαθὸν",
+  "words": [
+    {
+      "position": 1,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "πᾶσαν",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-ASF",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 332,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "χάριν",
+      "lemma": [
+        "G5485"
+      ],
+      "strongs": "G5485",
+      "morph": "robinson:N-ASF",
+      "translation": "grace",
+      "metadata": {},
+      "gematria": {
+        "standard": 761,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 6,
+      "text": "περισσεῦσαι",
+      "lemma": [
+        "G4052"
+      ],
+      "strongs": "G4052",
+      "morph": "robinson:V-AAN",
+      "translation": "to make abound",
+      "metadata": {},
+      "gematria": {
+        "standard": 1211,
+        "ordinal": 136,
+        "reduced": 73
+      }
+    },
+    {
+      "position": 7,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὑμᾶς,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "so that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "παντὶ",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-DSN",
+      "translation": "every [way]",
+      "metadata": {},
+      "gematria": {
+        "standard": 441,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 12,
+      "text": "πάντοτε",
+      "lemma": [
+        "G3842"
+      ],
+      "strongs": "G3842",
+      "morph": "robinson:ADV",
+      "translation": "always",
+      "metadata": {},
+      "gematria": {
+        "standard": 806,
+        "ordinal": 88,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 13,
+      "text": "πᾶσαν",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-ASF",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 332,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 14,
+      "text": "αὐτάρκειαν",
+      "lemma": [
+        "G841"
+      ],
+      "strongs": "G841",
+      "morph": "robinson:N-ASF",
+      "translation": "sufficiency",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 96,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἔχοντες",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "having",
+      "metadata": {},
+      "gematria": {
+        "standard": 1230,
+        "ordinal": 97,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 16,
+      "text": "περισσεύητε",
+      "lemma": [
+        "G4052"
+      ],
+      "strongs": "G4052",
+      "morph": "robinson:V-PAS-2P",
+      "translation": "you may abound",
+      "metadata": {},
+      "gematria": {
+        "standard": 1313,
+        "ordinal": 139,
+        "reduced": 67
+      }
+    },
+    {
+      "position": 17,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 18,
+      "text": "πᾶν",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-ASN",
+      "translation": "every",
+      "metadata": {},
+      "gematria": {
+        "standard": 131,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἔργον",
+      "lemma": [
+        "G2041"
+      ],
+      "strongs": "G2041",
+      "morph": "robinson:N-ASN",
+      "translation": "work",
+      "metadata": {},
+      "gematria": {
+        "standard": 228,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀγαθὸν",
+      "lemma": [
+        "G18"
+      ],
+      "strongs": "G18",
+      "morph": "robinson:A-ASN",
+      "translation": "good",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9357,
+    "ordinal": 1124,
+    "reduced": 512
+  }
+}

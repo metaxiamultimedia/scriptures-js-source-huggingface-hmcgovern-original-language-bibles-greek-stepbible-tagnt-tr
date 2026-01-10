@@ -1,0 +1,74 @@
+{
+  "text": "φιλόξενοι εἰς ἀλλήλους ἄνευ",
+  "words": [
+    {
+      "position": 1,
+      "text": "φιλόξενοι",
+      "lemma": [
+        "G5382"
+      ],
+      "strongs": "G5382",
+      "morph": "robinson:A-NPM",
+      "translation": "hospitable",
+      "metadata": {},
+      "gematria": {
+        "standard": 805,
+        "ordinal": 112,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀλλήλους",
+      "lemma": [
+        "G240"
+      ],
+      "strongs": "G240",
+      "morph": "robinson:C-APM",
+      "translation": "one another",
+      "metadata": {},
+      "gematria": {
+        "standard": 769,
+        "ordinal": 94,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἄνευ",
+      "lemma": [
+        "G427"
+      ],
+      "strongs": "G427",
+      "morph": "robinson:PREP",
+      "translation": "without",
+      "metadata": {},
+      "gematria": {
+        "standard": 456,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2245,
+    "ordinal": 277,
+    "reduced": 115
+  }
+}

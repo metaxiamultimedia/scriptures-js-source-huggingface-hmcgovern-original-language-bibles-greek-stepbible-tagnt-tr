@@ -1,0 +1,753 @@
+{
+  "text": "πῶς δύνασαι λέγειν τῷ ἀδελφῷ σου· ἀδελφέ, ἄφες ἐκβάλω τὸ κάρφος τὸ ἐν τῷ ὀφθαλμῷ σου, αὐτὸς τὴν ἐν τῷ ὀφθαλμῷ σου δοκὸν οὐ βλέπων; ὑποκριτά, ἔκβαλε πρῶτον τὴν δοκὸν ἐκ τοῦ ὀφθαλμοῦ σου, καὶ τότε διαβλέψεις τὸ κάρφος τὸ ἐν τῷ ὀφθαλμῷ τοῦ ἀδελφοῦ σου ἐκβαλεῖν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "πῶς",
+      "lemma": [
+        "G4459"
+      ],
+      "strongs": "G4459",
+      "morph": "robinson:PRT-I",
+      "translation": "How",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 2,
+      "text": "δύνασαι",
+      "lemma": [
+        "G1410"
+      ],
+      "strongs": "G1410",
+      "morph": "robinson:V-PNI-2S",
+      "translation": "are you able",
+      "metadata": {},
+      "gematria": {
+        "standard": 666,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "λέγειν",
+      "lemma": null,
+      "morph": null,
+      "translation": "to say",
+      "metadata": {},
+      "gematria": {
+        "standard": 103,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀδελφῷ",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-DSM",
+      "translation": "brother",
+      "metadata": {},
+      "gematria": {
+        "standard": 1350,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "σου·",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you;",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀδελφέ,",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-VSM",
+      "translation": "Brother,",
+      "metadata": {},
+      "gematria": {
+        "standard": 545,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἄφες",
+      "lemma": null,
+      "morph": null,
+      "translation": "do allow [me]",
+      "metadata": {},
+      "gematria": {
+        "standard": 706,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐκβάλω",
+      "lemma": [
+        "G1544"
+      ],
+      "strongs": "G1544",
+      "morph": "robinson:V-2AAS-1S",
+      "translation": "I may cast out",
+      "metadata": {},
+      "gematria": {
+        "standard": 858,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 11,
+      "text": "κάρφος",
+      "lemma": [
+        "G2595"
+      ],
+      "strongs": "G2595",
+      "morph": "robinson:N-ASN",
+      "translation": "splinter",
+      "metadata": {},
+      "gematria": {
+        "standard": 891,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "that [is]",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὀφθαλμῷ",
+      "lemma": [
+        "G3788"
+      ],
+      "strongs": "G3788",
+      "morph": "robinson:N-DSM",
+      "translation": "eye",
+      "metadata": {},
+      "gematria": {
+        "standard": 1460,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 16,
+      "text": "σου,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 17,
+      "text": "αὐτὸς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NSM",
+      "translation": "yourself",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 18,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 20,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 21,
+      "text": "ὀφθαλμῷ",
+      "lemma": [
+        "G3788"
+      ],
+      "strongs": "G3788",
+      "morph": "robinson:N-DSM",
+      "translation": "eye",
+      "metadata": {},
+      "gematria": {
+        "standard": 1460,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 22,
+      "text": "σου",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 23,
+      "text": "δοκὸν",
+      "lemma": [
+        "G1385"
+      ],
+      "strongs": "G1385",
+      "morph": "robinson:N-ASF",
+      "translation": "beam",
+      "metadata": {},
+      "gematria": {
+        "standard": 214,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 24,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 25,
+      "text": "βλέπων;",
+      "lemma": [
+        "G991"
+      ],
+      "strongs": "G991",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "seeing?",
+      "metadata": {},
+      "gematria": {
+        "standard": 967,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 26,
+      "text": "ὑποκριτά,",
+      "lemma": [
+        "G5273"
+      ],
+      "strongs": "G5273",
+      "morph": "robinson:N-VSM",
+      "translation": "Hypocrite,",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 107,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 27,
+      "text": "ἔκβαλε",
+      "lemma": [
+        "G1544"
+      ],
+      "strongs": "G1544",
+      "morph": "robinson:V-2AAM-2S",
+      "translation": "do cast out",
+      "metadata": {},
+      "gematria": {
+        "standard": 63,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 28,
+      "text": "πρῶτον",
+      "lemma": null,
+      "morph": null,
+      "translation": "first",
+      "metadata": {},
+      "gematria": {
+        "standard": 1400,
+        "ordinal": 104,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 29,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 30,
+      "text": "δοκὸν",
+      "lemma": [
+        "G1385"
+      ],
+      "strongs": "G1385",
+      "morph": "robinson:N-ASF",
+      "translation": "beam",
+      "metadata": {},
+      "gematria": {
+        "standard": 214,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 31,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 32,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 33,
+      "text": "ὀφθαλμοῦ",
+      "lemma": [
+        "G3788"
+      ],
+      "strongs": "G3788",
+      "morph": "robinson:N-GSM",
+      "translation": "eye",
+      "metadata": {},
+      "gematria": {
+        "standard": 1120,
+        "ordinal": 103,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 34,
+      "text": "σου,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 35,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 36,
+      "text": "τότε",
+      "lemma": [
+        "G5119"
+      ],
+      "strongs": "G5119",
+      "morph": "robinson:ADV",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 675,
+        "ordinal": 58,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 37,
+      "text": "διαβλέψεις",
+      "lemma": [
+        "G1227"
+      ],
+      "strongs": "G1227",
+      "morph": "robinson:V-FAI-2S",
+      "translation": "you will see clearly",
+      "metadata": {},
+      "gematria": {
+        "standard": 967,
+        "ordinal": 87,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 38,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 39,
+      "text": "κάρφος",
+      "lemma": [
+        "G2595"
+      ],
+      "strongs": "G2595",
+      "morph": "robinson:N-ASN",
+      "translation": "splinter",
+      "metadata": {},
+      "gematria": {
+        "standard": 891,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 40,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 41,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 42,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 43,
+      "text": "ὀφθαλμῷ",
+      "lemma": [
+        "G3788"
+      ],
+      "strongs": "G3788",
+      "morph": "robinson:N-DSM",
+      "translation": "eye",
+      "metadata": {},
+      "gematria": {
+        "standard": 1460,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 44,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 45,
+      "text": "ἀδελφοῦ",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-GSM",
+      "translation": "brother",
+      "metadata": {},
+      "gematria": {
+        "standard": 1010,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 46,
+      "text": "σου",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 47,
+      "text": "ἐκβαλεῖν.",
+      "lemma": [
+        "G1544"
+      ],
+      "strongs": "G1544",
+      "morph": "robinson:V-2AAN",
+      "translation": "to cast out.",
+      "metadata": {},
+      "gematria": {
+        "standard": 123,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 32392,
+    "ordinal": 2660,
+    "reduced": 923
+  }
+}

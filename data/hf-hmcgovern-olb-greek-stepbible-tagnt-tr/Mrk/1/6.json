@@ -1,0 +1,311 @@
+{
+  "text": "ἦν ὁ Ἰωάννης ἐνδεδυμένος τρίχας καμήλου καὶ ζώνην δερματίνην περὶ τὴν ὀσφὺν αὐτοῦ καὶ ἐσθίων ἀκρίδας καὶ μέλι ἄγριον.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἰωάννης",
+      "lemma": null,
+      "morph": null,
+      "translation": "John",
+      "metadata": {},
+      "gematria": {
+        "standard": 1119,
+        "ordinal": 85,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐνδεδυμένος",
+      "lemma": [
+        "G1746"
+      ],
+      "strongs": "G1746",
+      "morph": "robinson:V-RMP-NSM",
+      "translation": "having clothed himself in",
+      "metadata": {},
+      "gematria": {
+        "standard": 833,
+        "ordinal": 114,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 5,
+      "text": "τρίχας",
+      "lemma": [
+        "G2359"
+      ],
+      "strongs": "G2359",
+      "morph": "robinson:N-APF",
+      "translation": "hair",
+      "metadata": {},
+      "gematria": {
+        "standard": 1211,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 6,
+      "text": "καμήλου",
+      "lemma": [
+        "G2574"
+      ],
+      "strongs": "G2574",
+      "morph": "robinson:N-GSF",
+      "translation": "of a camel",
+      "metadata": {},
+      "gematria": {
+        "standard": 569,
+        "ordinal": 76,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "ζώνην",
+      "lemma": [
+        "G2223"
+      ],
+      "strongs": "G2223",
+      "morph": "robinson:N-ASF",
+      "translation": "a belt",
+      "metadata": {},
+      "gematria": {
+        "standard": 915,
+        "ordinal": 63,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 9,
+      "text": "δερματίνην",
+      "lemma": [
+        "G1193"
+      ],
+      "strongs": "G1193",
+      "morph": "robinson:A-ASF",
+      "translation": "of leather",
+      "metadata": {},
+      "gematria": {
+        "standard": 568,
+        "ordinal": 100,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 10,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "around",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὀσφὺν",
+      "lemma": [
+        "G3751"
+      ],
+      "strongs": "G3751",
+      "morph": "robinson:N-ASF",
+      "translation": "waist",
+      "metadata": {},
+      "gematria": {
+        "standard": 1220,
+        "ordinal": 87,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐσθίων",
+      "lemma": [
+        "G2068"
+      ],
+      "strongs": "G2068",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "he is eating",
+      "metadata": {},
+      "gematria": {
+        "standard": 1074,
+        "ordinal": 77,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἀκρίδας",
+      "lemma": [
+        "G200"
+      ],
+      "strongs": "G200",
+      "morph": "robinson:N-APF",
+      "translation": "locusts",
+      "metadata": {},
+      "gematria": {
+        "standard": 336,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 17,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "μέλι",
+      "lemma": [
+        "G3192"
+      ],
+      "strongs": "G3192",
+      "morph": "robinson:N-ASN",
+      "translation": "honey",
+      "metadata": {},
+      "gematria": {
+        "standard": 85,
+        "ordinal": 37,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἄγριον.",
+      "lemma": [
+        "G66"
+      ],
+      "strongs": "G66",
+      "morph": "robinson:A-ASN",
+      "translation": "wild.",
+      "metadata": {},
+      "gematria": {
+        "standard": 234,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10109,
+    "ordinal": 1099,
+    "reduced": 469
+  }
+}

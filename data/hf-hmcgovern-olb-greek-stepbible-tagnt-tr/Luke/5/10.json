@@ -1,0 +1,440 @@
+{
+  "text": "ὁμοίως δὲ καὶ Ἰάκωβον καὶ Ἰωάννην υἱοὺς Ζεβεδαίου, οἳ ἦσαν κοινωνοὶ τῷ Σίμωνι. καὶ εἶπεν πρὸς τὸν Σίμωνα ὁ Ἰησοῦς· μὴ φοβοῦ· ἀπὸ τοῦ νῦν ἀνθρώπους ἔσῃ ζωγρῶν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁμοίως",
+      "lemma": [
+        "G3668"
+      ],
+      "strongs": "G3668",
+      "morph": "robinson:ADV",
+      "translation": "likewise",
+      "metadata": {},
+      "gematria": {
+        "standard": 1190,
+        "ordinal": 93,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἰάκωβον",
+      "lemma": null,
+      "morph": null,
+      "translation": "James",
+      "metadata": {},
+      "gematria": {
+        "standard": 953,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "Ἰωάννην",
+      "lemma": null,
+      "morph": null,
+      "translation": "John",
+      "metadata": {},
+      "gematria": {
+        "standard": 969,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 7,
+      "text": "υἱοὺς",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-APM",
+      "translation": "[the] sons",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "Ζεβεδαίου,",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Zebedee,",
+      "metadata": {},
+      "gematria": {
+        "standard": 504,
+        "ordinal": 67,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 9,
+      "text": "οἳ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NPM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἦσαν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "were",
+      "metadata": {},
+      "gematria": {
+        "standard": 259,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "κοινωνοὶ",
+      "lemma": [
+        "G2844"
+      ],
+      "strongs": "G2844",
+      "morph": "robinson:N-NPM",
+      "translation": "partners",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 108,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 12,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "Σίμωνι.",
+      "lemma": null,
+      "morph": null,
+      "translation": "with Simon.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 85,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "said",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 16,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 17,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "Σίμωνα",
+      "lemma": null,
+      "morph": null,
+      "translation": "Simon",
+      "metadata": {},
+      "gematria": {
+        "standard": 1101,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 20,
+      "text": "Ἰησοῦς·",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 21,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "Not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 22,
+      "text": "φοβοῦ·",
+      "lemma": [
+        "G5399"
+      ],
+      "strongs": "G5399",
+      "morph": "robinson:V-PNM-2S",
+      "translation": "do fear;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1042,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 24,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 25,
+      "text": "νῦν",
+      "lemma": [
+        "G3568"
+      ],
+      "strongs": "G3568",
+      "morph": "robinson:ADV",
+      "translation": "now on",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 46,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 26,
+      "text": "ἀνθρώπους",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-APM",
+      "translation": "men",
+      "metadata": {},
+      "gematria": {
+        "standard": 1710,
+        "ordinal": 132,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 27,
+      "text": "ἔσῃ",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-FDI-2S",
+      "translation": "you will be",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 39,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 28,
+      "text": "ζωγρῶν.",
+      "lemma": [
+        "G2221"
+      ],
+      "strongs": "G2221",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "catching.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1760,
+        "ordinal": 87,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 17720,
+    "ordinal": 1595,
+    "reduced": 677
+  }
+}

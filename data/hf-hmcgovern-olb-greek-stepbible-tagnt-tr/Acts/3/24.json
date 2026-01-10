@@ -1,0 +1,282 @@
+{
+  "text": "καὶ πάντες δὲ οἱ προφῆται ἀπὸ Σαμουὴλ καὶ τῶν καθεξῆς ὅσοι ἐλάλησαν καὶ κατήγγειλαν τὰς ἡμέρας ταύτας,",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "πάντες",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NPM",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 636,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 3,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "προφῆται",
+      "lemma": [
+        "G4396"
+      ],
+      "strongs": "G4396",
+      "morph": "robinson:N-NPM",
+      "translation": "prophets",
+      "metadata": {},
+      "gematria": {
+        "standard": 1069,
+        "ordinal": 105,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "Σαμουὴλ",
+      "lemma": [
+        "G4545"
+      ],
+      "strongs": "G4545",
+      "morph": "robinson:N-GSM-P",
+      "translation": "Samuel",
+      "metadata": {},
+      "gematria": {
+        "standard": 749,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "καθεξῆς",
+      "lemma": [
+        "G2517"
+      ],
+      "strongs": "G2517",
+      "morph": "robinson:ADV",
+      "translation": "subsequently",
+      "metadata": {},
+      "gematria": {
+        "standard": 303,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὅσοι",
+      "lemma": [
+        "G3745"
+      ],
+      "strongs": "G3745",
+      "morph": "robinson:K-NPM",
+      "translation": "as many as",
+      "metadata": {},
+      "gematria": {
+        "standard": 350,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐλάλησαν",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "spoke",
+      "metadata": {},
+      "gematria": {
+        "standard": 325,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "κατήγγειλαν",
+      "lemma": [
+        "G2605"
+      ],
+      "strongs": "G2605",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "told of",
+      "metadata": {},
+      "gematria": {
+        "standard": 431,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 15,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἡμέρας",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-APF",
+      "translation": "days",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 17,
+      "text": "ταύτας,",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-APF",
+      "translation": "these,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1202,
+        "ordinal": 78,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7403,
+    "ordinal": 887,
+    "reduced": 374
+  }
+}

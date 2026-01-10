@@ -1,0 +1,420 @@
+{
+  "text": "ἀλλ᾽ ἔχω κατὰ σοῦ ὀλίγα ὅτι ἔχεις ἐκεῖ κρατοῦντας τὴν διδαχὴν Βαλαάμ, ὃς ἐδίδασκεν τῷ Βαλὰκ βαλεῖν σκάνδαλον ἐνώπιον τῶν υἱῶν Ἰσραὴλ φαγεῖν εἰδωλόθυτα καὶ πορνεῦσαι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "But",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἔχω",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAI-1S",
+      "translation": "I have",
+      "metadata": {},
+      "gematria": {
+        "standard": 1405,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "κατὰ",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "against",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 31,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 4,
+      "text": "σοῦ",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὀλίγα",
+      "lemma": [
+        "G3641"
+      ],
+      "strongs": "G3641",
+      "morph": "robinson:A-APN",
+      "translation": "a few things",
+      "metadata": {},
+      "gematria": {
+        "standard": 114,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "because",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἔχεις",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAI-2S",
+      "translation": "you have",
+      "metadata": {},
+      "gematria": {
+        "standard": 820,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐκεῖ",
+      "lemma": [
+        "G1563"
+      ],
+      "strongs": "G1563",
+      "morph": "robinson:ADV",
+      "translation": "[some] there",
+      "metadata": {},
+      "gematria": {
+        "standard": 40,
+        "ordinal": 29,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 9,
+      "text": "κρατοῦντας",
+      "lemma": [
+        "G2902"
+      ],
+      "strongs": "G2902",
+      "morph": "robinson:V-PAP-APM",
+      "translation": "holding",
+      "metadata": {},
+      "gematria": {
+        "standard": 1442,
+        "ordinal": 133,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 10,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
+      "text": "διδαχὴν",
+      "lemma": [
+        "G1322"
+      ],
+      "strongs": "G1322",
+      "morph": "robinson:N-ASF",
+      "translation": "teaching",
+      "metadata": {},
+      "gematria": {
+        "standard": 677,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 12,
+      "text": "Βαλαάμ,",
+      "lemma": [
+        "G903"
+      ],
+      "strongs": "G903",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of Balaam,",
+      "metadata": {},
+      "gematria": {
+        "standard": 75,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὃς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐδίδασκεν",
+      "lemma": [
+        "G1321"
+      ],
+      "strongs": "G1321",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was teaching",
+      "metadata": {},
+      "gematria": {
+        "standard": 299,
+        "ordinal": 69,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 15,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "Βαλὰκ",
+      "lemma": [
+        "G904"
+      ],
+      "strongs": "G904",
+      "morph": "robinson:N-DSM-P",
+      "translation": "Balak",
+      "metadata": {},
+      "gematria": {
+        "standard": 54,
+        "ordinal": 25,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 17,
+      "text": "βαλεῖν",
+      "lemma": null,
+      "morph": null,
+      "translation": "to cast",
+      "metadata": {},
+      "gematria": {
+        "standard": 98,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 18,
+      "text": "σκάνδαλον",
+      "lemma": [
+        "G4625"
+      ],
+      "strongs": "G4625",
+      "morph": "robinson:N-ASN",
+      "translation": "a snare",
+      "metadata": {},
+      "gematria": {
+        "standard": 426,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐνώπιον",
+      "lemma": [
+        "G1799"
+      ],
+      "strongs": "G1799",
+      "morph": "robinson:PREP",
+      "translation": "before",
+      "metadata": {},
+      "gematria": {
+        "standard": 1065,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 20,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "υἱῶν",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-GPM",
+      "translation": "sons",
+      "metadata": {},
+      "gematria": {
+        "standard": 1260,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 22,
+      "text": "Ἰσραὴλ",
+      "lemma": [
+        "G2474"
+      ],
+      "strongs": "G2474",
+      "morph": "robinson:N-GSM-L",
+      "translation": "of Israel",
+      "metadata": {},
+      "gematria": {
+        "standard": 349,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 23,
+      "text": "φαγεῖν",
+      "lemma": [
+        "G5315"
+      ],
+      "strongs": "G5315",
+      "morph": "robinson:V-AAN",
+      "translation": "to eat",
+      "metadata": {},
+      "gematria": {
+        "standard": 569,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 24,
+      "text": "εἰδωλόθυτα",
+      "lemma": [
+        "G1494"
+      ],
+      "strongs": "G1494",
+      "morph": "robinson:A-APN",
+      "translation": "idol-sacrifices",
+      "metadata": {},
+      "gematria": {
+        "standard": 1629,
+        "ordinal": 116,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 25,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 26,
+      "text": "πορνεῦσαι.",
+      "lemma": [
+        "G4203"
+      ],
+      "strongs": "G4203",
+      "morph": "robinson:V-AAN",
+      "translation": "to commit sexual immorality.",
+      "metadata": {},
+      "gematria": {
+        "standard": 916,
+        "ordinal": 114,
+        "reduced": 51
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15590,
+    "ordinal": 1476,
+    "reduced": 594
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "text": "ἡ δὲ Μάρθα περιεσπᾶτο περὶ πολλὴν διακονίαν. ἐπιστᾶσα δὲ εἶπεν· κύριε, οὐ μέλει σοι ὅτι ἡ ἀδελφή μου μόνην με κατέλιπεν διακονεῖν; εἰπὲ οὖν αὐτῇ ἵνα μοι συναντιλάβηται.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "But",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "Μάρθα",
+      "lemma": [
+        "G3136"
+      ],
+      "strongs": "G3136",
+      "morph": "robinson:N-NSF-P",
+      "translation": "Martha",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
+      "text": "περιεσπᾶτο",
+      "lemma": [
+        "G4049"
+      ],
+      "strongs": "G4049",
+      "morph": "robinson:V-IPI-3S",
+      "translation": "was distracted",
+      "metadata": {},
+      "gematria": {
+        "standard": 851,
+        "ordinal": 121,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 5,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "about",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "πολλὴν",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-ASF",
+      "translation": "much",
+      "metadata": {},
+      "gematria": {
+        "standard": 268,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "διακονίαν.",
+      "lemma": [
+        "G1248"
+      ],
+      "strongs": "G1248",
+      "morph": "robinson:N-ASF",
+      "translation": "service.",
+      "metadata": {},
+      "gematria": {
+        "standard": 216,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐπιστᾶσα",
+      "lemma": [
+        "G2186"
+      ],
+      "strongs": "G2186",
+      "morph": "robinson:V-2AAP-NSF",
+      "translation": "having come up",
+      "metadata": {},
+      "gematria": {
+        "standard": 797,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 9,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "εἶπεν·",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "she said;",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 11,
+      "text": "κύριε,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lord,",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 12,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 13,
+      "text": "μέλει",
+      "lemma": [
+        "G3199"
+      ],
+      "strongs": "G3199",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is it concerning",
+      "metadata": {},
+      "gematria": {
+        "standard": 90,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 14,
+      "text": "σοι",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DS",
+      "translation": "to You",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀδελφή",
+      "lemma": [
+        "G79"
+      ],
+      "strongs": "G79",
+      "morph": "robinson:N-NSF",
+      "translation": "sister",
+      "metadata": {},
+      "gematria": {
+        "standard": 548,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 18,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "μόνην",
+      "lemma": [
+        "G3441"
+      ],
+      "strongs": "G3441",
+      "morph": "robinson:A-ASF",
+      "translation": "alone",
+      "metadata": {},
+      "gematria": {
+        "standard": 218,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 20,
+      "text": "με",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "me",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 21,
+      "text": "κατέλιπεν",
+      "lemma": [
+        "G2641"
+      ],
+      "strongs": "G2641",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "has left",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 22,
+      "text": "διακονεῖν;",
+      "lemma": [
+        "G1247"
+      ],
+      "strongs": "G1247",
+      "morph": "robinson:V-PAN",
+      "translation": "to serve?",
+      "metadata": {},
+      "gematria": {
+        "standard": 220,
+        "ordinal": 79,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 23,
+      "text": "εἰπὲ",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAM-2S",
+      "translation": "do speak",
+      "metadata": {},
+      "gematria": {
+        "standard": 100,
+        "ordinal": 35,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 24,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 25,
+      "text": "αὐτῇ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSF",
+      "translation": "to her",
+      "metadata": {},
+      "gematria": {
+        "standard": 719,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 26,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 27,
+      "text": "μοι",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DS",
+      "translation": "me",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 28,
+      "text": "συναντιλάβηται.",
+      "lemma": [
+        "G4878"
+      ],
+      "strongs": "G4878",
+      "morph": "robinson:V-2ADS-3S",
+      "translation": "she may help!",
+      "metadata": {},
+      "gematria": {
+        "standard": 1363,
+        "ordinal": 143,
+        "reduced": 53
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9342,
+    "ordinal": 1427,
+    "reduced": 662
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "text": "δίδοτε τόπον τῷ διαβόλῳ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "δίδοτε",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do give",
+      "metadata": {},
+      "gematria": {
+        "standard": 393,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "τόπον",
+      "lemma": [
+        "G5117"
+      ],
+      "strongs": "G5117",
+      "morph": "robinson:N-ASM",
+      "translation": "opportunity",
+      "metadata": {},
+      "gematria": {
+        "standard": 570,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "διαβόλῳ.",
+      "lemma": [
+        "G1228"
+      ],
+      "strongs": "G1228",
+      "morph": "robinson:A-DSM",
+      "translation": "devil.",
+      "metadata": {},
+      "gematria": {
+        "standard": 927,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3000,
+    "ordinal": 261,
+    "reduced": 108
+  }
+}

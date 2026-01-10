@@ -1,0 +1,311 @@
+{
+  "text": "ὅτι ἰδοὺ ἔρχονται ἡμέραι ἐν αἷς ἐροῦσιν· μακάριαι αἱ στεῖραι καὶ κοιλίαι αἳ οὐκ ἐγέννησαν καὶ μαστοὶ οἳ οὐκ",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "For",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἰδοὺ",
+      "lemma": [
+        "G2400"
+      ],
+      "strongs": "G2400",
+      "morph": "robinson:INJ",
+      "translation": "behold",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἔρχονται",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-PNI-3P",
+      "translation": "are coming",
+      "metadata": {},
+      "gematria": {
+        "standard": 1136,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἡμέραι",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-NPF",
+      "translation": "days",
+      "metadata": {},
+      "gematria": {
+        "standard": 164,
+        "ordinal": 51,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "αἷς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-DPF",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐροῦσιν·",
+      "lemma": [
+        "G4483"
+      ],
+      "strongs": "G4483",
+      "morph": "robinson:V-FAI-3P",
+      "translation": "they will say;",
+      "metadata": {},
+      "gematria": {
+        "standard": 835,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 8,
+      "text": "μακάριαι",
+      "lemma": [
+        "G3107"
+      ],
+      "strongs": "G3107",
+      "morph": "robinson:A-NPF",
+      "translation": "Blessed [are]",
+      "metadata": {},
+      "gematria": {
+        "standard": 183,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 9,
+      "text": "αἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "στεῖραι",
+      "lemma": [
+        "G4723"
+      ],
+      "strongs": "G4723",
+      "morph": "robinson:N-NPF",
+      "translation": "barren",
+      "metadata": {},
+      "gematria": {
+        "standard": 626,
+        "ordinal": 78,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "κοιλίαι",
+      "lemma": [
+        "G2836"
+      ],
+      "strongs": "G2836",
+      "morph": "robinson:N-NPF",
+      "translation": "wombs",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 13,
+      "text": "αἳ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NPF",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "never",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐγέννησαν",
+      "lemma": [
+        "G1080"
+      ],
+      "strongs": "G1080",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "did bear",
+      "metadata": {},
+      "gematria": {
+        "standard": 372,
+        "ordinal": 78,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "μαστοὶ",
+      "lemma": [
+        "G3149"
+      ],
+      "strongs": "G3149",
+      "morph": "robinson:N-NPM",
+      "translation": "breasts",
+      "metadata": {},
+      "gematria": {
+        "standard": 621,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 18,
+      "text": "οἳ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NPM",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 19,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "never",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6362,
+    "ordinal": 914,
+    "reduced": 437
+  }
+}

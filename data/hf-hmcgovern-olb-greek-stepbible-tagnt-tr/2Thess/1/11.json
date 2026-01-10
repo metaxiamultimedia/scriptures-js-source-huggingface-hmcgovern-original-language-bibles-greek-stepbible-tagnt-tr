@@ -1,0 +1,407 @@
+{
+  "text": "εἰς ὃ καὶ προσευχόμεθα πάντοτε περὶ ὑμῶν ἵνα ὑμᾶς ἀξιώσῃ τῆς κλήσεως ὁ θεὸς ἡμῶν καὶ πληρώσῃ πᾶσαν εὐδοκίαν ἀγαθωσύνης καὶ ἔργον πίστεως ἐν δυνάμει,",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASN",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "προσευχόμεθα",
+      "lemma": [
+        "G4336"
+      ],
+      "strongs": "G4336",
+      "morph": "robinson:V-PNI-1P",
+      "translation": "we pray",
+      "metadata": {},
+      "gematria": {
+        "standard": 1580,
+        "ordinal": 154,
+        "reduced": 64
+      }
+    },
+    {
+      "position": 5,
+      "text": "πάντοτε",
+      "lemma": [
+        "G3842"
+      ],
+      "strongs": "G3842",
+      "morph": "robinson:ADV",
+      "translation": "always",
+      "metadata": {},
+      "gematria": {
+        "standard": 806,
+        "ordinal": 88,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὑμῶν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀξιώσῃ",
+      "lemma": [
+        "G515"
+      ],
+      "strongs": "G515",
+      "morph": "robinson:V-AAS-3S",
+      "translation": "He may count worthy",
+      "metadata": {},
+      "gematria": {
+        "standard": 1089,
+        "ordinal": 82,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 12,
+      "text": "κλήσεως",
+      "lemma": [
+        "G2821"
+      ],
+      "strongs": "G2821",
+      "morph": "robinson:N-GSF",
+      "translation": "calling",
+      "metadata": {},
+      "gematria": {
+        "standard": 1263,
+        "ordinal": 93,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 14,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἡμῶν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GP",
+      "translation": "of us",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "πληρώσῃ",
+      "lemma": [
+        "G4137"
+      ],
+      "strongs": "G4137",
+      "morph": "robinson:V-AAS-3S",
+      "translation": "He may fulfill",
+      "metadata": {},
+      "gematria": {
+        "standard": 1236,
+        "ordinal": 109,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 18,
+      "text": "πᾶσαν",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-ASF",
+      "translation": "every",
+      "metadata": {},
+      "gematria": {
+        "standard": 332,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 19,
+      "text": "εὐδοκίαν",
+      "lemma": [
+        "G2107"
+      ],
+      "strongs": "G2107",
+      "morph": "robinson:N-ASF",
+      "translation": "good pleasure",
+      "metadata": {},
+      "gematria": {
+        "standard": 560,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀγαθωσύνης",
+      "lemma": [
+        "G19"
+      ],
+      "strongs": "G19",
+      "morph": "robinson:N-GSF",
+      "translation": "of goodness",
+      "metadata": {},
+      "gematria": {
+        "standard": 1672,
+        "ordinal": 113,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 21,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἔργον",
+      "lemma": [
+        "G2041"
+      ],
+      "strongs": "G2041",
+      "morph": "robinson:N-ASN",
+      "translation": "work",
+      "metadata": {},
+      "gematria": {
+        "standard": 228,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 23,
+      "text": "πίστεως",
+      "lemma": null,
+      "morph": null,
+      "translation": "of faith",
+      "metadata": {},
+      "gematria": {
+        "standard": 1595,
+        "ordinal": 109,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 25,
+      "text": "δυνάμει,",
+      "lemma": [
+        "G1411"
+      ],
+      "strongs": "G1411",
+      "morph": "robinson:N-DSF",
+      "translation": "power,",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15251,
+    "ordinal": 1467,
+    "reduced": 648
+  }
+}

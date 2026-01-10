@@ -1,0 +1,135 @@
+{
+  "text": "ἀνὴρ δίψυχος ἀκατάστατος ἐν πάσαις ταῖς ὁδοῖς αὐτοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀνὴρ",
+      "lemma": null,
+      "morph": null,
+      "translation": "[He is] a man",
+      "metadata": {},
+      "gematria": {
+        "standard": 159,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "δίψυχος",
+      "lemma": [
+        "G1374"
+      ],
+      "strongs": "G1374",
+      "morph": "robinson:A-NSM",
+      "translation": "double-minded",
+      "metadata": {},
+      "gematria": {
+        "standard": 1984,
+        "ordinal": 111,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀκατάστατος",
+      "lemma": [
+        "G182"
+      ],
+      "strongs": "G182",
+      "morph": "robinson:A-NSM",
+      "translation": "unstable",
+      "metadata": {},
+      "gematria": {
+        "standard": 1394,
+        "ordinal": 122,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "πάσαις",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-DPF",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 492,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 6,
+      "text": "ταῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὁδοῖς",
+      "lemma": [
+        "G3598"
+      ],
+      "strongs": "G3598",
+      "morph": "robinson:N-DPF",
+      "translation": "ways",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 61,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6120,
+    "ordinal": 535,
+    "reduced": 202
+  }
+}

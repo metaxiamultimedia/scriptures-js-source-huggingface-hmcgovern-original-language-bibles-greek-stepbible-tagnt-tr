@@ -1,0 +1,407 @@
+{
+  "text": "ἔχουσα τεῖχος μέγα καὶ ὑψηλόν, πυλῶνας δώδεκα καὶ ἐπὶ τοῖς πυλῶσιν ἀγγέλους δώδεκα, καὶ ὀνόματα ἐπιγεγραμμένα, ἅ ἐστιν τὰ ὀνόματα τῶν δώδεκα φυλῶν υἱῶν Ἰσραήλ·",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἔχουσα",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAP-NSF",
+      "translation": "having",
+      "metadata": {},
+      "gematria": {
+        "standard": 1276,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 2,
+      "text": "τεῖχος",
+      "lemma": [
+        "G5038"
+      ],
+      "strongs": "G5038",
+      "morph": "robinson:N-ASN",
+      "translation": "a wall",
+      "metadata": {},
+      "gematria": {
+        "standard": 1185,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 3,
+      "text": "μέγα",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-ASN",
+      "translation": "great",
+      "metadata": {},
+      "gematria": {
+        "standard": 49,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὑψηλόν,",
+      "lemma": [
+        "G5308"
+      ],
+      "strongs": "G5308",
+      "morph": "robinson:A-ASN",
+      "translation": "high,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1258,
+        "ordinal": 89,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 6,
+      "text": "πυλῶνας",
+      "lemma": [
+        "G4440"
+      ],
+      "strongs": "G4440",
+      "morph": "robinson:N-APM",
+      "translation": "gates",
+      "metadata": {},
+      "gematria": {
+        "standard": 1561,
+        "ordinal": 103,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 7,
+      "text": "δώδεκα",
+      "lemma": [
+        "G1427"
+      ],
+      "strongs": "G1427",
+      "morph": "robinson:A-NUI",
+      "translation": "twelve",
+      "metadata": {},
+      "gematria": {
+        "standard": 834,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "at",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 10,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 11,
+      "text": "πυλῶσιν",
+      "lemma": [
+        "G4440"
+      ],
+      "strongs": "G4440",
+      "morph": "robinson:N-DPM",
+      "translation": "gates",
+      "metadata": {},
+      "gematria": {
+        "standard": 1570,
+        "ordinal": 111,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀγγέλους",
+      "lemma": null,
+      "morph": null,
+      "translation": "angels",
+      "metadata": {},
+      "gematria": {
+        "standard": 712,
+        "ordinal": 76,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 13,
+      "text": "δώδεκα,",
+      "lemma": [
+        "G1427"
+      ],
+      "strongs": "G1427",
+      "morph": "robinson:A-NUI",
+      "translation": "twelve,",
+      "metadata": {},
+      "gematria": {
+        "standard": 834,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὀνόματα",
+      "lemma": [
+        "G3686"
+      ],
+      "strongs": "G3686",
+      "morph": "robinson:N-APN",
+      "translation": "names",
+      "metadata": {},
+      "gematria": {
+        "standard": 532,
+        "ordinal": 76,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐπιγεγραμμένα,",
+      "lemma": [
+        "G1924"
+      ],
+      "strongs": "G1924",
+      "morph": "robinson:V-RPP-APN",
+      "translation": "inscribed,",
+      "metadata": {},
+      "gematria": {
+        "standard": 343,
+        "ordinal": 102,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἅ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NPN",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "are",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 19,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 20,
+      "text": "ὀνόματα",
+      "lemma": [
+        "G3686"
+      ],
+      "strongs": "G3686",
+      "morph": "robinson:N-NPN",
+      "translation": "names",
+      "metadata": {},
+      "gematria": {
+        "standard": 532,
+        "ordinal": 76,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 21,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "δώδεκα",
+      "lemma": [
+        "G1427"
+      ],
+      "strongs": "G1427",
+      "morph": "robinson:A-NUI",
+      "translation": "twelve",
+      "metadata": {},
+      "gematria": {
+        "standard": 834,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 23,
+      "text": "φυλῶν",
+      "lemma": [
+        "G5443"
+      ],
+      "strongs": "G5443",
+      "morph": "robinson:N-GPF",
+      "translation": "tribes",
+      "metadata": {},
+      "gematria": {
+        "standard": 1780,
+        "ordinal": 89,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 24,
+      "text": "υἱῶν",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-GPM",
+      "translation": "of [the] sons",
+      "metadata": {},
+      "gematria": {
+        "standard": 1260,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 25,
+      "text": "Ἰσραήλ·",
+      "lemma": [
+        "G2474"
+      ],
+      "strongs": "G2474",
+      "morph": "robinson:N-GSM-L",
+      "translation": "of Israel;",
+      "metadata": {},
+      "gematria": {
+        "standard": 349,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 17694,
+    "ordinal": 1477,
+    "reduced": 559
+  }
+}

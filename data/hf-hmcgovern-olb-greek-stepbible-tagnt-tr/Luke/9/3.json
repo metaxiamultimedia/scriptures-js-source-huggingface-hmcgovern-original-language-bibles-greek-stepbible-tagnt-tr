@@ -1,0 +1,362 @@
+{
+  "text": "καὶ εἶπεν πρὸς αὐτούς· μηδὲν αἴρετε εἰς τὴν ὁδόν· μήτε ῥάβδον μήτε πήραν μήτε ἄρτον μήτε ἀργύριον μήτε ἀνὰ δύο χιτῶνας ἔχειν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "He said",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "αὐτούς·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APM",
+      "translation": "them;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 93,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "μηδὲν",
+      "lemma": [
+        "G3367"
+      ],
+      "strongs": "G3367",
+      "morph": "robinson:A-ASN-N",
+      "translation": "Nothing",
+      "metadata": {},
+      "gematria": {
+        "standard": 107,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "αἴρετε",
+      "lemma": [
+        "G142"
+      ],
+      "strongs": "G142",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do take",
+      "metadata": {},
+      "gematria": {
+        "standard": 421,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὁδόν·",
+      "lemma": [
+        "G3598"
+      ],
+      "strongs": "G3598",
+      "morph": "robinson:N-ASF",
+      "translation": "journey;",
+      "metadata": {},
+      "gematria": {
+        "standard": 194,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
+      "text": "μήτε",
+      "lemma": [
+        "G3383"
+      ],
+      "strongs": "G3383",
+      "morph": "robinson:CONJ-N",
+      "translation": "neither",
+      "metadata": {},
+      "gematria": {
+        "standard": 353,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "ῥάβδον",
+      "lemma": [
+        "G4464"
+      ],
+      "strongs": "G4464",
+      "morph": "robinson:N-ASF",
+      "translation": "staff",
+      "metadata": {},
+      "gematria": {
+        "standard": 227,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 12,
+      "text": "μήτε",
+      "lemma": [
+        "G3383"
+      ],
+      "strongs": "G3383",
+      "morph": "robinson:CONJ-N",
+      "translation": "nor",
+      "metadata": {},
+      "gematria": {
+        "standard": 353,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "πήραν",
+      "lemma": [
+        "G4082"
+      ],
+      "strongs": "G4082",
+      "morph": "robinson:N-ASF",
+      "translation": "bag",
+      "metadata": {},
+      "gematria": {
+        "standard": 239,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 14,
+      "text": "μήτε",
+      "lemma": [
+        "G3383"
+      ],
+      "strongs": "G3383",
+      "morph": "robinson:CONJ-N",
+      "translation": "nor",
+      "metadata": {},
+      "gematria": {
+        "standard": 353,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἄρτον",
+      "lemma": [
+        "G740"
+      ],
+      "strongs": "G740",
+      "morph": "robinson:N-ASM",
+      "translation": "bread",
+      "metadata": {},
+      "gematria": {
+        "standard": 521,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 16,
+      "text": "μήτε",
+      "lemma": [
+        "G3383"
+      ],
+      "strongs": "G3383",
+      "morph": "robinson:CONJ-N",
+      "translation": "nor",
+      "metadata": {},
+      "gematria": {
+        "standard": 353,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀργύριον",
+      "lemma": [
+        "G694"
+      ],
+      "strongs": "G694",
+      "morph": "robinson:N-ASN",
+      "translation": "money",
+      "metadata": {},
+      "gematria": {
+        "standard": 734,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 18,
+      "text": "μήτε",
+      "lemma": [
+        "G3383"
+      ],
+      "strongs": "G3383",
+      "morph": "robinson:CONJ-N",
+      "translation": "nor",
+      "metadata": {},
+      "gematria": {
+        "standard": 353,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἀνὰ",
+      "lemma": [
+        "G303"
+      ],
+      "strongs": "G303",
+      "morph": "robinson:PREP",
+      "translation": "apiece",
+      "metadata": {},
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 20,
+      "text": "δύο",
+      "lemma": [
+        "G1417"
+      ],
+      "strongs": "G1417",
+      "morph": "robinson:A-NUI",
+      "translation": "two",
+      "metadata": {},
+      "gematria": {
+        "standard": 474,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 21,
+      "text": "χιτῶνας",
+      "lemma": [
+        "G5509"
+      ],
+      "strongs": "G5509",
+      "morph": "robinson:N-APM",
+      "translation": "tunics",
+      "metadata": {},
+      "gematria": {
+        "standard": 1961,
+        "ordinal": 106,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἔχειν.",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAN",
+      "translation": "to have.",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9940,
+    "ordinal": 1137,
+    "reduced": 471
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "text": "καὶ ἔπεσεν εἰς τὴν γῆν τὴν καλὴν καὶ ἐδίδου καρπὸν ἀναβαίνοντα καὶ καὶ ἔφερεν ἓν τριάκοντα καὶ ἓν ἑξήκοντα καὶ ἓν ἑκατόν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἔπεσεν",
+      "lemma": [
+        "G4098"
+      ],
+      "strongs": "G4098",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "fell",
+      "metadata": {},
+      "gematria": {
+        "standard": 345,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 3,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "γῆν",
+      "lemma": null,
+      "morph": null,
+      "translation": "soil",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "καλὴν",
+      "lemma": null,
+      "morph": null,
+      "translation": "good",
+      "metadata": {},
+      "gematria": {
+        "standard": 109,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐδίδου",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was yielding",
+      "metadata": {},
+      "gematria": {
+        "standard": 493,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 10,
+      "text": "καρπὸν",
+      "lemma": [
+        "G2590"
+      ],
+      "strongs": "G2590",
+      "morph": "robinson:N-ASM",
+      "translation": "fruit",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἀναβαίνοντα",
+      "lemma": [
+        "G305"
+      ],
+      "strongs": "G305",
+      "morph": "robinson:V-PAP-NPN",
+      "translation": "growing up",
+      "metadata": {},
+      "gematria": {
+        "standard": 536,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἔφερεν",
+      "lemma": [
+        "G5342"
+      ],
+      "strongs": "G5342",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was bearing",
+      "metadata": {},
+      "gematria": {
+        "standard": 665,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἓν",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-NSN",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 16,
+      "text": "τριάκοντα",
+      "lemma": [
+        "G5144"
+      ],
+      "strongs": "G5144",
+      "morph": "robinson:A-NUI",
+      "translation": "thirtyfold",
+      "metadata": {},
+      "gematria": {
+        "standard": 852,
+        "ordinal": 104,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 17,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἓν",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-NSN",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἑξήκοντα",
+      "lemma": [
+        "G1835"
+      ],
+      "strongs": "G1835",
+      "morph": "robinson:A-NUI",
+      "translation": "sixty",
+      "metadata": {},
+      "gematria": {
+        "standard": 514,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 20,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἓν",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-NSN",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἑκατόν.",
+      "lemma": [
+        "G1540"
+      ],
+      "strongs": "G1540",
+      "morph": "robinson:A-NUI",
+      "translation": "a hundred.",
+      "metadata": {},
+      "gematria": {
+        "standard": 446,
+        "ordinal": 63,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5624,
+    "ordinal": 945,
+    "reduced": 405
+  }
+}

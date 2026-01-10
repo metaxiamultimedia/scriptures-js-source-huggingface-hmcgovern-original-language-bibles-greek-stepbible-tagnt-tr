@@ -1,0 +1,311 @@
+{
+  "text": "καὶ προέκοπτον ἐν τῷ Ἰουδαϊσμῷ ὑπὲρ πολλοὺς συνηλικιώτας ἐν τῷ γένει μου περισσοτέρως ζηλωτὴς ὑπάρχων τῶν πατρικῶν μου παραδόσεων.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "προέκοπτον",
+      "lemma": [
+        "G4298"
+      ],
+      "strongs": "G4298",
+      "morph": "robinson:V-IAI-1S",
+      "translation": "I was advancing",
+      "metadata": {},
+      "gematria": {
+        "standard": 845,
+        "ordinal": 141,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "Ἰουδαϊσμῷ",
+      "lemma": [
+        "G2454"
+      ],
+      "strongs": "G2454",
+      "morph": "robinson:N-DSM-T",
+      "translation": "Judaism",
+      "metadata": {},
+      "gematria": {
+        "standard": 1545,
+        "ordinal": 121,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑπὲρ",
+      "lemma": [
+        "G5228"
+      ],
+      "strongs": "G5228",
+      "morph": "robinson:PREP",
+      "translation": "beyond",
+      "metadata": {},
+      "gematria": {
+        "standard": 585,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 7,
+      "text": "πολλοὺς",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-APM",
+      "translation": "many",
+      "metadata": {},
+      "gematria": {
+        "standard": 880,
+        "ordinal": 106,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "συνηλικιώτας",
+      "lemma": [
+        "G4915"
+      ],
+      "strongs": "G4915",
+      "morph": "robinson:N-APM",
+      "translation": "contemporaries",
+      "metadata": {},
+      "gematria": {
+        "standard": 2029,
+        "ordinal": 159,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "γένει",
+      "lemma": null,
+      "morph": null,
+      "translation": "countrymen",
+      "metadata": {},
+      "gematria": {
+        "standard": 73,
+        "ordinal": 35,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 12,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "περισσοτέρως",
+      "lemma": [
+        "G4056"
+      ],
+      "strongs": "G4056",
+      "morph": "robinson:ADV-C",
+      "translation": "more abundantly",
+      "metadata": {},
+      "gematria": {
+        "standard": 2070,
+        "ordinal": 181,
+        "reduced": 82
+      }
+    },
+    {
+      "position": 14,
+      "text": "ζηλωτὴς",
+      "lemma": [
+        "G2207"
+      ],
+      "strongs": "G2207",
+      "morph": "robinson:N-NSM-T",
+      "translation": "zealous",
+      "metadata": {},
+      "gematria": {
+        "standard": 1353,
+        "ordinal": 92,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὑπάρχων",
+      "lemma": [
+        "G5225"
+      ],
+      "strongs": "G5225",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "being",
+      "metadata": {},
+      "gematria": {
+        "standard": 2031,
+        "ordinal": 113,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 16,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "πατρικῶν",
+      "lemma": [
+        "G3967"
+      ],
+      "strongs": "G3967",
+      "morph": "robinson:A-GPF",
+      "translation": "fathers",
+      "metadata": {},
+      "gematria": {
+        "standard": 1361,
+        "ordinal": 109,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 18,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "παραδόσεων.",
+      "lemma": [
+        "G3862"
+      ],
+      "strongs": "G3862",
+      "morph": "robinson:N-GPF",
+      "translation": "traditions.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1311,
+        "ordinal": 114,
+        "reduced": 51
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 18614,
+    "ordinal": 1539,
+    "reduced": 585
+  }
+}

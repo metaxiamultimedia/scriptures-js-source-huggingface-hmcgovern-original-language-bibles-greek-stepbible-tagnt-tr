@@ -1,0 +1,314 @@
+{
+  "text": "ὅμοιοί εἰσιν παιδίοις τοῖς ἐν ἀγορᾷ καθημένοις καὶ προσφωνοῦσιν ἀλλήλοις ηὐλήσαμεν ὑμῖν, καὶ οὐκ ὠρχήσασθε· ἐθρηνήσαμεν καὶ οὐκ ἐκλαύσατε.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅμοιοί",
+      "lemma": [
+        "G3664"
+      ],
+      "strongs": "G3664",
+      "morph": "robinson:A-NPM",
+      "translation": "Like",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἰσιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "are they",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 54,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 3,
+      "text": "παιδίοις",
+      "lemma": [
+        "G3813"
+      ],
+      "strongs": "G3813",
+      "morph": "robinson:N-DPN",
+      "translation": "to little children",
+      "metadata": {},
+      "gematria": {
+        "standard": 385,
+        "ordinal": 81,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 4,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀγορᾷ",
+      "lemma": [
+        "G58"
+      ],
+      "strongs": "G58",
+      "morph": "robinson:N-DSF",
+      "translation": "the marketplace",
+      "metadata": {},
+      "gematria": {
+        "standard": 185,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "καθημένοις",
+      "lemma": [
+        "G2521"
+      ],
+      "strongs": "G2521",
+      "morph": "robinson:V-PNP-DPN",
+      "translation": "sitting",
+      "metadata": {},
+      "gematria": {
+        "standard": 413,
+        "ordinal": 98,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "προσφωνοῦσιν",
+      "lemma": [
+        "G4377"
+      ],
+      "strongs": "G4377",
+      "morph": "robinson:V-PAP-DPN",
+      "translation": "calling",
+      "metadata": {},
+      "gematria": {
+        "standard": 2530,
+        "ordinal": 199,
+        "reduced": 73
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀλλήλοις",
+      "lemma": [
+        "G240"
+      ],
+      "strongs": "G240",
+      "morph": "robinson:C-DPM",
+      "translation": "to each other",
+      "metadata": {},
+      "gematria": {
+        "standard": 379,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 11,
+      "text": "ηὐλήσαμεν",
+      "lemma": [
+        "G832"
+      ],
+      "strongs": "G832",
+      "morph": "robinson:V-AAI-1P",
+      "translation": "We piped",
+      "metadata": {},
+      "gematria": {
+        "standard": 742,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὑμῖν,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὠρχήσασθε·",
+      "lemma": [
+        "G3738"
+      ],
+      "strongs": "G3738",
+      "morph": "robinson:V-ADI-2P",
+      "translation": "you did dance;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1923,
+        "ordinal": 120,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐθρηνήσαμεν",
+      "lemma": [
+        "G2354"
+      ],
+      "strongs": "G2354",
+      "morph": "robinson:V-AAI-1P",
+      "translation": "we sang a dirge",
+      "metadata": {},
+      "gematria": {
+        "standard": 476,
+        "ordinal": 106,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 17,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐκλαύσατε.",
+      "lemma": [
+        "G2799"
+      ],
+      "strongs": "G2799",
+      "morph": "robinson:V-AAI-2P",
+      "translation": "you did weep.",
+      "metadata": {},
+      "gematria": {
+        "standard": 962,
+        "ordinal": 90,
+        "reduced": 27
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10748,
+    "ordinal": 1329,
+    "reduced": 609
+  }
+}

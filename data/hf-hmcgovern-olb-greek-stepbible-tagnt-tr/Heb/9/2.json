@@ -1,0 +1,337 @@
+{
+  "text": "σκηνὴ γὰρ κατεσκευάσθη ἡ πρώτη ἐν ᾗ ἥ τε λυχνία καὶ ἡ τράπεζα καὶ ἡ πρόθεσις τῶν ἄρτων, ἥτις λέγεται ἅγια.",
+  "words": [
+    {
+      "position": 1,
+      "text": "σκηνὴ",
+      "lemma": [
+        "G4633"
+      ],
+      "strongs": "G4633",
+      "morph": "robinson:N-NSF",
+      "translation": "A tabernacle",
+      "metadata": {},
+      "gematria": {
+        "standard": 286,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 2,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "κατεσκευάσθη",
+      "lemma": [
+        "G2680"
+      ],
+      "strongs": "G2680",
+      "morph": "robinson:V-API-3S",
+      "translation": "was prepared",
+      "metadata": {},
+      "gematria": {
+        "standard": 1169,
+        "ordinal": 122,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "πρώτη",
+      "lemma": null,
+      "morph": null,
+      "translation": "first [room] —",
+      "metadata": {},
+      "gematria": {
+        "standard": 1288,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "ᾗ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-DSF",
+      "translation": "which [were]",
+      "metadata": {},
+      "gematria": {
+        "standard": 18,
+        "ordinal": 16,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἥ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "τε",
+      "lemma": [
+        "G5037"
+      ],
+      "strongs": "G5037",
+      "morph": "robinson:CONJ",
+      "translation": "both",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "λυχνία",
+      "lemma": [
+        "G3087"
+      ],
+      "strongs": "G3087",
+      "morph": "robinson:N-NSF",
+      "translation": "the lampstand",
+      "metadata": {},
+      "gematria": {
+        "standard": 1091,
+        "ordinal": 76,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 13,
+      "text": "τράπεζα",
+      "lemma": [
+        "G5132"
+      ],
+      "strongs": "G5132",
+      "morph": "robinson:N-NSF",
+      "translation": "table",
+      "metadata": {},
+      "gematria": {
+        "standard": 494,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 16,
+      "text": "πρόθεσις",
+      "lemma": [
+        "G4286"
+      ],
+      "strongs": "G4286",
+      "morph": "robinson:N-NSF",
+      "translation": "presentation",
+      "metadata": {},
+      "gematria": {
+        "standard": 674,
+        "ordinal": 106,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 17,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἄρτων,",
+      "lemma": [
+        "G740"
+      ],
+      "strongs": "G740",
+      "morph": "robinson:N-GPM",
+      "translation": "bread —",
+      "metadata": {},
+      "gematria": {
+        "standard": 1251,
+        "ordinal": 74,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἥτις",
+      "lemma": [
+        "G3748"
+      ],
+      "strongs": "G3748",
+      "morph": "robinson:R-NSF",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 518,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 20,
+      "text": "λέγεται",
+      "lemma": null,
+      "morph": null,
+      "translation": "is named",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἅγια.",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] Holy [Places].",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8866,
+    "ordinal": 904,
+    "reduced": 409
+  }
+}

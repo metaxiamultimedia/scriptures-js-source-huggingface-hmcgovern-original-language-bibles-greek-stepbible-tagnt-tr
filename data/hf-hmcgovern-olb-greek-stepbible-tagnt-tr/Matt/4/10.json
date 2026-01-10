@@ -1,0 +1,289 @@
+{
+  "text": "Τότε λέγει αὐτῷ ὁ Ἰησοῦς· ὕπαγε σατανᾶ· γέγραπται γάρ· κύριον τὸν θεόν σου προσκυνήσεις καὶ αὐτῷ μόνῳ λατρεύσεις.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Τότε",
+      "lemma": [
+        "G5119"
+      ],
+      "strongs": "G5119",
+      "morph": "robinson:ADV",
+      "translation": "Then",
+      "metadata": {},
+      "gematria": {
+        "standard": 675,
+        "ordinal": 58,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 2,
+      "text": "λέγει",
+      "lemma": null,
+      "morph": null,
+      "translation": "says",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "Ἰησοῦς·",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὕπαγε",
+      "lemma": [
+        "G5217"
+      ],
+      "strongs": "G5217",
+      "morph": "robinson:V-PAM-2S",
+      "translation": "do go away",
+      "metadata": {},
+      "gematria": {
+        "standard": 489,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "σατανᾶ·",
+      "lemma": [
+        "G4567"
+      ],
+      "strongs": "G4567",
+      "morph": "robinson:N-VSM-T",
+      "translation": "Satan;",
+      "metadata": {},
+      "gematria": {
+        "standard": 553,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "γέγραπται",
+      "lemma": [
+        "G1125"
+      ],
+      "strongs": "G1125",
+      "morph": "robinson:V-RPI-3S",
+      "translation": "it has been written",
+      "metadata": {},
+      "gematria": {
+        "standard": 503,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 9,
+      "text": "γάρ·",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for:",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "κύριον",
+      "lemma": null,
+      "morph": null,
+      "translation": "[The] Lord",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "θεόν",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-ASM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 13,
+      "text": "σου",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 14,
+      "text": "προσκυνήσεις",
+      "lemma": [
+        "G4352"
+      ],
+      "strongs": "G4352",
+      "morph": "robinson:V-FAI-2S",
+      "translation": "you will worship",
+      "metadata": {},
+      "gematria": {
+        "standard": 1343,
+        "ordinal": 166,
+        "reduced": 76
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 17,
+      "text": "μόνῳ",
+      "lemma": [
+        "G3441"
+      ],
+      "strongs": "G3441",
+      "morph": "robinson:A-DSM",
+      "translation": "alone",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 18,
+      "text": "λατρεύσεις.",
+      "lemma": [
+        "G3000"
+      ],
+      "strongs": "G3000",
+      "morph": "robinson:V-FAI-2S",
+      "translation": "will you serve.’",
+      "metadata": {},
+      "gematria": {
+        "standard": 1251,
+        "ordinal": 123,
+        "reduced": 51
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11826,
+    "ordinal": 1139,
+    "reduced": 455
+  }
+}

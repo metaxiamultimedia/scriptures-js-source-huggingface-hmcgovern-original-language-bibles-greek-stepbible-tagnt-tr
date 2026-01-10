@@ -1,0 +1,244 @@
+{
+  "text": "μήτε ἐν τῇ κεφαλῇ σου ὀμόσῃς ὅτι οὐ δύνασαι μίαν τρίχα λευκὴν ποιῆσαι ἢ μέλαιναν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "μήτε",
+      "lemma": [
+        "G3383"
+      ],
+      "strongs": "G3383",
+      "morph": "robinson:CONJ-N",
+      "translation": "nor",
+      "metadata": {},
+      "gematria": {
+        "standard": 353,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
+      "text": "κεφαλῇ",
+      "lemma": [
+        "G2776"
+      ],
+      "strongs": "G2776",
+      "morph": "robinson:N-DSF",
+      "translation": "head",
+      "metadata": {},
+      "gematria": {
+        "standard": 574,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "σου",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὀμόσῃς",
+      "lemma": [
+        "G3660"
+      ],
+      "strongs": "G3660",
+      "morph": "robinson:V-AAS-2S",
+      "translation": "may you  swear",
+      "metadata": {},
+      "gematria": {
+        "standard": 598,
+        "ordinal": 94,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "because",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 9,
+      "text": "δύνασαι",
+      "lemma": [
+        "G1410"
+      ],
+      "strongs": "G1410",
+      "morph": "robinson:V-PNI-2S",
+      "translation": "you are able",
+      "metadata": {},
+      "gematria": {
+        "standard": 666,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 10,
+      "text": "μίαν",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-ASF",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 101,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 11,
+      "text": "τρίχα",
+      "lemma": [
+        "G2359"
+      ],
+      "strongs": "G2359",
+      "morph": "robinson:N-ASF",
+      "translation": "hair",
+      "metadata": {},
+      "gematria": {
+        "standard": 1011,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 12,
+      "text": "λευκὴν",
+      "lemma": [
+        "G3022"
+      ],
+      "strongs": "G3022",
+      "morph": "robinson:A-ASF",
+      "translation": "white",
+      "metadata": {},
+      "gematria": {
+        "standard": 513,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 13,
+      "text": "ποιῆσαι",
+      "lemma": null,
+      "morph": null,
+      "translation": "to make",
+      "metadata": {},
+      "gematria": {
+        "standard": 379,
+        "ordinal": 75,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 15,
+      "text": "μέλαιναν.",
+      "lemma": [
+        "G3189"
+      ],
+      "strongs": "G3189",
+      "morph": "robinson:A-ASF",
+      "translation": "black.",
+      "metadata": {},
+      "gematria": {
+        "standard": 187,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6283,
+    "ordinal": 767,
+    "reduced": 335
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "text": "ἐὰν δὲ ἐρωτήσω, οὐ μὴ ἀποκριθῆτε μοι, ἢ ἀπολύσητε.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐρωτήσω,",
+      "lemma": [
+        "G2065"
+      ],
+      "strongs": "G2065",
+      "morph": "robinson:V-AAS-1S",
+      "translation": "I shall ask [you],",
+      "metadata": {},
+      "gematria": {
+        "standard": 2213,
+        "ordinal": 114,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 4,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "certainly",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀποκριθῆτε",
+      "lemma": [
+        "G611"
+      ],
+      "strongs": "G611",
+      "morph": "robinson:V-AOS-2P",
+      "translation": "you shall answer",
+      "metadata": {},
+      "gematria": {
+        "standard": 603,
+        "ordinal": 107,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 7,
+      "text": "μοι,",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DS",
+      "translation": "to me",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "nor",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀπολύσητε.",
+      "lemma": null,
+      "morph": null,
+      "translation": "shall you release [me].",
+      "metadata": {},
+      "gematria": {
+        "standard": 1094,
+        "ordinal": 112,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4621,
+    "ordinal": 458,
+    "reduced": 197
+  }
+}

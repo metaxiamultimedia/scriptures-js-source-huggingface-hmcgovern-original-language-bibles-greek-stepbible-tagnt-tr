@@ -1,0 +1,119 @@
+{
+  "text": "Ἀσπάσασθε τοὺς ἀδελφοὺς πάντας ἐν φιλήματι ἁγίῳ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἀσπάσασθε",
+      "lemma": [
+        "G782"
+      ],
+      "strongs": "G782",
+      "morph": "robinson:V-ADM-2P",
+      "translation": "do greet",
+      "metadata": {},
+      "gematria": {
+        "standard": 697,
+        "ordinal": 86,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 2,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀδελφοὺς",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-APM",
+      "translation": "brothers",
+      "metadata": {},
+      "gematria": {
+        "standard": 1210,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 4,
+      "text": "πάντας",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-APM",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 632,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "φιλήματι",
+      "lemma": [
+        "G5370"
+      ],
+      "strongs": "G5370",
+      "morph": "robinson:N-DSN",
+      "translation": "a kiss",
+      "metadata": {},
+      "gematria": {
+        "standard": 899,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἁγίῳ.",
+      "lemma": null,
+      "morph": null,
+      "translation": "holy.",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5287,
+    "ordinal": 474,
+    "reduced": 195
+  }
+}

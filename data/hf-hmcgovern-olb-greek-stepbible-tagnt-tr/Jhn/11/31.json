@@ -1,0 +1,507 @@
+{
+  "text": "Οἱ οὖν Ἰουδαῖοι οἱ ὄντες μετ᾽ αὐτῆς ἐν τῇ οἰκίᾳ καὶ παραμυθούμενοι αὐτήν, ἰδόντες τὴν Μαριὰμ ὅτι ταχέως ἀνέστη καὶ ἐξῆλθεν, ἠκολούθησαν αὐτῇ, δόξαντες ὅτι ὑπάγει εἰς τὸ μνημεῖον ἵνα κλαύσῃ ἐκεῖ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἰουδαῖοι",
+      "lemma": [
+        "G2453"
+      ],
+      "strongs": "G2453",
+      "morph": "robinson:N-NPM-PG",
+      "translation": "Jews",
+      "metadata": {},
+      "gematria": {
+        "standard": 575,
+        "ordinal": 82,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 4,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὄντες",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "are being",
+      "metadata": {},
+      "gematria": {
+        "standard": 625,
+        "ordinal": 70,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "μετ᾽",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 345,
+        "ordinal": 36,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "αὐτῆς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "her",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
+      "text": "οἰκίᾳ",
+      "lemma": null,
+      "morph": null,
+      "translation": "house",
+      "metadata": {},
+      "gematria": {
+        "standard": 121,
+        "ordinal": 53,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "παραμυθούμενοι",
+      "lemma": [
+        "G3888"
+      ],
+      "strongs": "G3888",
+      "morph": "robinson:V-PNP-NPM",
+      "translation": "consoling",
+      "metadata": {},
+      "gematria": {
+        "standard": 1276,
+        "ordinal": 164,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτήν,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASF",
+      "translation": "her,",
+      "metadata": {},
+      "gematria": {
+        "standard": 759,
+        "ordinal": 60,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἰδόντες",
+      "lemma": null,
+      "morph": null,
+      "translation": "having seen",
+      "metadata": {},
+      "gematria": {
+        "standard": 639,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 15,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 16,
+      "text": "Μαριὰμ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Mary",
+      "metadata": {},
+      "gematria": {
+        "standard": 192,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 18,
+      "text": "ταχέως",
+      "lemma": [
+        "G5030"
+      ],
+      "strongs": "G5030",
+      "morph": "robinson:ADV",
+      "translation": "soon",
+      "metadata": {},
+      "gematria": {
+        "standard": 1906,
+        "ordinal": 89,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἀνέστη",
+      "lemma": [
+        "G450"
+      ],
+      "strongs": "G450",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "she rose up",
+      "metadata": {},
+      "gematria": {
+        "standard": 564,
+        "ordinal": 63,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 20,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἐξῆλθεν,",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "went out,",
+      "metadata": {},
+      "gematria": {
+        "standard": 167,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἠκολούθησαν",
+      "lemma": [
+        "G190"
+      ],
+      "strongs": "G190",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "followed",
+      "metadata": {},
+      "gematria": {
+        "standard": 866,
+        "ordinal": 125,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 23,
+      "text": "αὐτῇ,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSF",
+      "translation": "after her,",
+      "metadata": {},
+      "gematria": {
+        "standard": 719,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 24,
+      "text": "δόξαντες",
+      "lemma": [
+        "G1380"
+      ],
+      "strongs": "G1380",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "having supposed",
+      "metadata": {},
+      "gematria": {
+        "standard": 690,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 25,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 26,
+      "text": "ὑπάγει",
+      "lemma": [
+        "G5217"
+      ],
+      "strongs": "G5217",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "she is going",
+      "metadata": {},
+      "gematria": {
+        "standard": 499,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 27,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 28,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 29,
+      "text": "μνημεῖον",
+      "lemma": [
+        "G3419"
+      ],
+      "strongs": "G3419",
+      "morph": "robinson:N-ASN",
+      "translation": "tomb",
+      "metadata": {},
+      "gematria": {
+        "standard": 273,
+        "ordinal": 86,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 30,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 31,
+      "text": "κλαύσῃ",
+      "lemma": [
+        "G2799"
+      ],
+      "strongs": "G2799",
+      "morph": "robinson:V-AAS-3S",
+      "translation": "she may weep",
+      "metadata": {},
+      "gematria": {
+        "standard": 669,
+        "ordinal": 76,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 32,
+      "text": "ἐκεῖ.",
+      "lemma": [
+        "G1563"
+      ],
+      "strongs": "G1563",
+      "morph": "robinson:ADV",
+      "translation": "there.",
+      "metadata": {},
+      "gematria": {
+        "standard": 40,
+        "ordinal": 29,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14713,
+    "ordinal": 1798,
+    "reduced": 772
+  }
+}

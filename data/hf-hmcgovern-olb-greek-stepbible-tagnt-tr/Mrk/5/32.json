@@ -1,0 +1,100 @@
+{
+  "text": "καὶ περιεβλέπετο ἰδεῖν τὴν τοῦτο ποιήσασαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "περιεβλέπετο",
+      "lemma": [
+        "G4017"
+      ],
+      "strongs": "G4017",
+      "morph": "robinson:V-IMI-3S",
+      "translation": "He was looking around",
+      "metadata": {},
+      "gematria": {
+        "standard": 692,
+        "ordinal": 125,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἰδεῖν",
+      "lemma": null,
+      "morph": null,
+      "translation": "to see",
+      "metadata": {},
+      "gematria": {
+        "standard": 79,
+        "ordinal": 40,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the [one who]",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοῦτο",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-ASN",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "ποιήσασαν.",
+      "lemma": null,
+      "morph": null,
+      "translation": "having done.",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 98,
+        "reduced": 53
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2920,
+    "ordinal": 410,
+    "reduced": 185
+  }
+}

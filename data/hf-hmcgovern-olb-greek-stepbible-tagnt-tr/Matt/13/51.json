@@ -1,0 +1,103 @@
+{
+  "text": "συνήκατε ταῦτα πάντα; λέγουσιν αὐτῷ· ναί",
+  "words": [
+    {
+      "position": 1,
+      "text": "συνήκατε",
+      "lemma": [
+        "G4920"
+      ],
+      "strongs": "G4920",
+      "morph": "robinson:V-AAI-2P",
+      "translation": "Did you understand",
+      "metadata": {},
+      "gematria": {
+        "standard": 984,
+        "ordinal": 93,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "ταῦτα",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-APN",
+      "translation": "these things",
+      "metadata": {},
+      "gematria": {
+        "standard": 1002,
+        "ordinal": 60,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "πάντα;",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-APN",
+      "translation": "all?",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "λέγουσιν",
+      "lemma": null,
+      "morph": null,
+      "translation": "They say",
+      "metadata": {},
+      "gematria": {
+        "standard": 768,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτῷ·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to Him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "ναί",
+      "lemma": [
+        "G3483"
+      ],
+      "strongs": "G3483",
+      "morph": "robinson:PRT",
+      "translation": "Yes",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4758,
+    "ordinal": 393,
+    "reduced": 123
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "text": "Οὗτοί εἰσιν ἐν ταῖς ἀγάπαις ὑμῶν σπιλάδες, συνευωχούμενοι, ἀφόβως ἑαυτοὺς ποιμαίνοντες· νεφέλαι ἄνυδροι, ὑπὸ ἀνέμων δένδρα φθινοπωρινὰ ἄκαρπα, δὶς ἀποθανόντα, ἐκριζωθέντα·",
+  "words": [
+    {
+      "position": 1,
+      "text": "Οὗτοί",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NPM",
+      "translation": "These",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἰσιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "are",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 54,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "ταῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀγάπαις",
+      "lemma": [
+        "G26"
+      ],
+      "strongs": "G26",
+      "morph": "robinson:N-DPF",
+      "translation": "love feasts",
+      "metadata": {},
+      "gematria": {
+        "standard": 296,
+        "ordinal": 49,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑμῶν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "σπιλάδες,",
+      "lemma": [
+        "G4694"
+      ],
+      "strongs": "G4694",
+      "morph": "robinson:N-NPF",
+      "translation": "hidden reefs,",
+      "metadata": {},
+      "gematria": {
+        "standard": 530,
+        "ordinal": 82,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 8,
+      "text": "συνευωχούμενοι,",
+      "lemma": [
+        "G4910"
+      ],
+      "strongs": "G4910",
+      "morph": "robinson:V-PNP-NPM",
+      "translation": "feasting together [with you]",
+      "metadata": {},
+      "gematria": {
+        "standard": 3100,
+        "ordinal": 211,
+        "reduced": 67
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀφόβως",
+      "lemma": [
+        "G870"
+      ],
+      "strongs": "G870",
+      "morph": "robinson:ADV",
+      "translation": "fearlessly",
+      "metadata": {},
+      "gematria": {
+        "standard": 1573,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἑαυτοὺς",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-3APM",
+      "translation": "themselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 1376,
+        "ordinal": 98,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 11,
+      "text": "ποιμαίνοντες·",
+      "lemma": [
+        "G4165"
+      ],
+      "strongs": "G4165",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "shepherding;",
+      "metadata": {},
+      "gematria": {
+        "standard": 886,
+        "ordinal": 145,
+        "reduced": 64
+      }
+    },
+    {
+      "position": 12,
+      "text": "νεφέλαι",
+      "lemma": [
+        "G3507"
+      ],
+      "strongs": "G3507",
+      "morph": "robinson:N-NPF",
+      "translation": "clouds",
+      "metadata": {},
+      "gematria": {
+        "standard": 601,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἄνυδροι,",
+      "lemma": [
+        "G504"
+      ],
+      "strongs": "G504",
+      "morph": "robinson:A-NPF",
+      "translation": "without water,",
+      "metadata": {},
+      "gematria": {
+        "standard": 635,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὑπὸ",
+      "lemma": null,
+      "morph": null,
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀνέμων",
+      "lemma": [
+        "G417"
+      ],
+      "strongs": "G417",
+      "morph": "robinson:N-GPM",
+      "translation": "winds",
+      "metadata": {},
+      "gematria": {
+        "standard": 946,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "δένδρα",
+      "lemma": [
+        "G1186"
+      ],
+      "strongs": "G1186",
+      "morph": "robinson:N-NPN",
+      "translation": "trees",
+      "metadata": {},
+      "gematria": {
+        "standard": 164,
+        "ordinal": 44,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 17,
+      "text": "φθινοπωρινὰ",
+      "lemma": [
+        "G5352"
+      ],
+      "strongs": "G5352",
+      "morph": "robinson:A-NPN",
+      "translation": "autumnal",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 146,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἄκαρπα,",
+      "lemma": [
+        "G175"
+      ],
+      "strongs": "G175",
+      "morph": "robinson:A-NPN",
+      "translation": "without fruit,",
+      "metadata": {},
+      "gematria": {
+        "standard": 203,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 19,
+      "text": "δὶς",
+      "lemma": [
+        "G1364"
+      ],
+      "strongs": "G1364",
+      "morph": "robinson:ADV",
+      "translation": "twice",
+      "metadata": {},
+      "gematria": {
+        "standard": 214,
+        "ordinal": 31,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀποθανόντα,",
+      "lemma": [
+        "G599"
+      ],
+      "strongs": "G599",
+      "morph": "robinson:V-2AAP-NPN",
+      "translation": "having died,",
+      "metadata": {},
+      "gematria": {
+        "standard": 632,
+        "ordinal": 102,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἐκριζωθέντα·",
+      "lemma": [
+        "G1610"
+      ],
+      "strongs": "G1610",
+      "morph": "robinson:V-APP-NPN",
+      "translation": "having been uprooted;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1307,
+        "ordinal": 117,
+        "reduced": 54
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 17674,
+    "ordinal": 1681,
+    "reduced": 691
+  }
+}

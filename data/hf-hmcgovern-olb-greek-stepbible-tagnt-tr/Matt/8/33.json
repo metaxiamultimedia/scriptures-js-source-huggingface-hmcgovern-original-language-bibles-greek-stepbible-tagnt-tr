@@ -1,0 +1,250 @@
+{
+  "text": "οἱ δὲ βόσκοντες ἔφυγον, καὶ ἀπελθόντες εἰς τὴν πόλιν ἀπήγγειλαν πάντα καὶ τὰ τῶν δαιμονιζομένων.",
+  "words": [
+    {
+      "position": 1,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "Those",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "βόσκοντες",
+      "lemma": [
+        "G1006"
+      ],
+      "strongs": "G1006",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "feeding [them]",
+      "metadata": {},
+      "gematria": {
+        "standard": 917,
+        "ordinal": 115,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἔφυγον,",
+      "lemma": [
+        "G5343"
+      ],
+      "strongs": "G5343",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "fled,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1028,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀπελθόντες",
+      "lemma": [
+        "G565"
+      ],
+      "strongs": "G565",
+      "morph": "robinson:V-2AAP-NPM",
+      "translation": "having gone away",
+      "metadata": {},
+      "gematria": {
+        "standard": 750,
+        "ordinal": 111,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 7,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "πόλιν",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-ASF",
+      "translation": "city",
+      "metadata": {},
+      "gematria": {
+        "standard": 240,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀπήγγειλαν",
+      "lemma": [
+        "G518"
+      ],
+      "strongs": "G518",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "they related",
+      "metadata": {},
+      "gematria": {
+        "standard": 191,
+        "ordinal": 69,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 11,
+      "text": "πάντα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-APN",
+      "translation": "everything",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "including",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the [matter]",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 14,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of those",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "δαιμονιζομένων.",
+      "lemma": [
+        "G1139"
+      ],
+      "strongs": "G1139",
+      "morph": "robinson:V-PNP-GPM",
+      "translation": "being demonised.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1207,
+        "ordinal": 151,
+        "reduced": 70
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6940,
+    "ordinal": 857,
+    "reduced": 362
+  }
+}

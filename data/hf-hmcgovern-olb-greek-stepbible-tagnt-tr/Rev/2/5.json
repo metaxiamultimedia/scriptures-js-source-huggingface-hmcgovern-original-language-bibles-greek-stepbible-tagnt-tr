@@ -1,0 +1,449 @@
+{
+  "text": "μνημόνευε οὖν πόθεν καὶ μετανόησον καὶ τὰ πρῶτα ἔργα ποίησον· εἰ δὲ μή, ἔρχομαί σοι τάχει καὶ κινήσω τὴν λυχνίαν σου ἐκ τοῦ τόπου αὐτῆς, ἐὰν μὴ μετανοήσῃς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "μνημόνευε",
+      "lemma": [
+        "G3421"
+      ],
+      "strongs": "G3421",
+      "morph": "robinson:V-PAM-2S",
+      "translation": "do remember",
+      "metadata": {},
+      "gematria": {
+        "standard": 668,
+        "ordinal": 102,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "πόθεν",
+      "lemma": [
+        "G4159"
+      ],
+      "strongs": "G4159",
+      "morph": "robinson:ADV",
+      "translation": "from where",
+      "metadata": {},
+      "gematria": {
+        "standard": 214,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "μετανόησον",
+      "lemma": [
+        "G3340"
+      ],
+      "strongs": "G3340",
+      "morph": "robinson:V-AAM-2S",
+      "translation": "do repent",
+      "metadata": {},
+      "gematria": {
+        "standard": 794,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 8,
+      "text": "πρῶτα",
+      "lemma": null,
+      "morph": null,
+      "translation": "first",
+      "metadata": {},
+      "gematria": {
+        "standard": 1281,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἔργα",
+      "lemma": [
+        "G2041"
+      ],
+      "strongs": "G2041",
+      "morph": "robinson:N-APN",
+      "translation": "works",
+      "metadata": {},
+      "gematria": {
+        "standard": 109,
+        "ordinal": 26,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
+      "text": "ποίησον·",
+      "lemma": null,
+      "morph": null,
+      "translation": "do perform;",
+      "metadata": {},
+      "gematria": {
+        "standard": 488,
+        "ordinal": 93,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 11,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "lest",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "μή,",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "except,",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἔρχομαί",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-PNI-1S",
+      "translation": "I am coming",
+      "metadata": {},
+      "gematria": {
+        "standard": 826,
+        "ordinal": 81,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 15,
+      "text": "σοι",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DS",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 16,
+      "text": "τάχει",
+      "lemma": [
+        "G5034"
+      ],
+      "strongs": "G5034",
+      "morph": "robinson:N-DSN",
+      "translation": "[with] speed",
+      "metadata": {},
+      "gematria": {
+        "standard": 916,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 17,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "κινήσω",
+      "lemma": [
+        "G2795"
+      ],
+      "strongs": "G2795",
+      "morph": "robinson:V-FAI-1S",
+      "translation": "I will remove",
+      "metadata": {},
+      "gematria": {
+        "standard": 1088,
+        "ordinal": 81,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 19,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 20,
+      "text": "λυχνίαν",
+      "lemma": [
+        "G3087"
+      ],
+      "strongs": "G3087",
+      "morph": "robinson:N-ASF",
+      "translation": "lampstand",
+      "metadata": {},
+      "gematria": {
+        "standard": 1141,
+        "ordinal": 89,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 21,
+      "text": "σου",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 23,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 24,
+      "text": "τόπου",
+      "lemma": [
+        "G5117"
+      ],
+      "strongs": "G5117",
+      "morph": "robinson:N-GSM",
+      "translation": "place",
+      "metadata": {},
+      "gematria": {
+        "standard": 920,
+        "ordinal": 85,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 25,
+      "text": "αὐτῆς,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "of it,",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 26,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 27,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "unless",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 28,
+      "text": "μετανοήσῃς.",
+      "lemma": [
+        "G3340"
+      ],
+      "strongs": "G3340",
+      "morph": "robinson:V-AAS-2S",
+      "translation": "you shall repent.",
+      "metadata": {},
+      "gematria": {
+        "standard": 892,
+        "ordinal": 124,
+        "reduced": 61
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13439,
+    "ordinal": 1465,
+    "reduced": 592
+  }
+}

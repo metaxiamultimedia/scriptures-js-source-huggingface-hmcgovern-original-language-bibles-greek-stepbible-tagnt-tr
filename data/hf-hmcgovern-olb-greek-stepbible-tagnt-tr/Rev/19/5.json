@@ -1,0 +1,340 @@
+{
+  "text": "Καὶ φωνὴ τοῦ θρόνου ἐξῆλθεν λέγουσα· αἰνεῖτε ἡμῶν πάντες οἱ δοῦλοι αὐτοῦ καὶ οἱ φοβούμενοι αὐτόν, οἱ μικροὶ καὶ οἱ μεγάλοι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "φωνὴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "a voice",
+      "metadata": {},
+      "gematria": {
+        "standard": 1358,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 3,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "θρόνου",
+      "lemma": [
+        "G2362"
+      ],
+      "strongs": "G2362",
+      "morph": "robinson:N-GSM",
+      "translation": "throne",
+      "metadata": {},
+      "gematria": {
+        "standard": 699,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐξῆλθεν",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "came forth",
+      "metadata": {},
+      "gematria": {
+        "standard": 167,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 6,
+      "text": "λέγουσα·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying:",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "αἰνεῖτε",
+      "lemma": [
+        "G134"
+      ],
+      "strongs": "G134",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do praise",
+      "metadata": {},
+      "gematria": {
+        "standard": 381,
+        "ordinal": 61,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἡμῶν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GP",
+      "translation": "of us",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 9,
+      "text": "πάντες",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-VPM",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 636,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 10,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-VPM",
+      "translation": "you who [are]",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "δοῦλοι",
+      "lemma": [
+        "G1401"
+      ],
+      "strongs": "G1401",
+      "morph": "robinson:N-VPM",
+      "translation": "servants",
+      "metadata": {},
+      "gematria": {
+        "standard": 584,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 12,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-VPM",
+      "translation": "you who [are]",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 15,
+      "text": "φοβούμενοι",
+      "lemma": [
+        "G5399"
+      ],
+      "strongs": "G5399",
+      "morph": "robinson:V-PNP-VPM",
+      "translation": "fearing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1217,
+        "ordinal": 127,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 16,
+      "text": "αὐτόν,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 17,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-VPM",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 18,
+      "text": "μικροὶ",
+      "lemma": [
+        "G3398"
+      ],
+      "strongs": "G3398",
+      "morph": "robinson:A-VPM",
+      "translation": "small",
+      "metadata": {},
+      "gematria": {
+        "standard": 250,
+        "ordinal": 72,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 19,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-VPM",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 21,
+      "text": "μεγάλοι.",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-VPM",
+      "translation": "great!",
+      "metadata": {},
+      "gematria": {
+        "standard": 159,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10233,
+    "ordinal": 1160,
+    "reduced": 467
+  }
+}

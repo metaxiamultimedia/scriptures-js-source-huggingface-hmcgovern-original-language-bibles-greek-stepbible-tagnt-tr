@@ -1,0 +1,359 @@
+{
+  "text": "γένος οὖν ὑπάρχοντες τοῦ θεοῦ οὐκ ὀφείλομεν νομίζειν χρυσῷ ἢ ἀργύρῳ ἢ λίθῳ, χαράγματι τέχνης καὶ ἐνθυμήσεως ἀνθρώπου, τὸ θεῖον εἶναι ὅμοιον.",
+  "words": [
+    {
+      "position": 1,
+      "text": "γένος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Offspring",
+      "metadata": {},
+      "gematria": {
+        "standard": 328,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὑπάρχοντες",
+      "lemma": [
+        "G5225"
+      ],
+      "strongs": "G5225",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "being",
+      "metadata": {},
+      "gematria": {
+        "standard": 1806,
+        "ordinal": 146,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 4,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὀφείλομεν",
+      "lemma": [
+        "G3784"
+      ],
+      "strongs": "G3784",
+      "morph": "robinson:V-PAI-1P",
+      "translation": "we ought",
+      "metadata": {},
+      "gematria": {
+        "standard": 780,
+        "ordinal": 106,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 8,
+      "text": "νομίζειν",
+      "lemma": [
+        "G3543"
+      ],
+      "strongs": "G3543",
+      "morph": "robinson:V-PAN",
+      "translation": "to consider",
+      "metadata": {},
+      "gematria": {
+        "standard": 242,
+        "ordinal": 82,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 9,
+      "text": "χρυσῷ",
+      "lemma": [
+        "G5557"
+      ],
+      "strongs": "G5557",
+      "morph": "robinson:N-DSM",
+      "translation": "to gold",
+      "metadata": {},
+      "gematria": {
+        "standard": 2110,
+        "ordinal": 110,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἀργύρῳ",
+      "lemma": [
+        "G696"
+      ],
+      "strongs": "G696",
+      "morph": "robinson:N-DSM",
+      "translation": "to silver",
+      "metadata": {},
+      "gematria": {
+        "standard": 1414,
+        "ordinal": 91,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 13,
+      "text": "λίθῳ,",
+      "lemma": [
+        "G3037"
+      ],
+      "strongs": "G3037",
+      "morph": "robinson:N-DSM",
+      "translation": "to stone,",
+      "metadata": {},
+      "gematria": {
+        "standard": 859,
+        "ordinal": 61,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 14,
+      "text": "χαράγματι",
+      "lemma": [
+        "G5480"
+      ],
+      "strongs": "G5480",
+      "morph": "robinson:N-DSN",
+      "translation": "a graven thing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1056,
+        "ordinal": 85,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 15,
+      "text": "τέχνης",
+      "lemma": [
+        "G5078"
+      ],
+      "strongs": "G5078",
+      "morph": "robinson:N-GSF",
+      "translation": "of craft",
+      "metadata": {},
+      "gematria": {
+        "standard": 1163,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐνθυμήσεως",
+      "lemma": [
+        "G1761"
+      ],
+      "strongs": "G1761",
+      "morph": "robinson:N-GSF",
+      "translation": "imagination",
+      "metadata": {},
+      "gematria": {
+        "standard": 1717,
+        "ordinal": 130,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἀνθρώπου,",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-GSM",
+      "translation": "of man,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1510,
+        "ordinal": 114,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 19,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 20,
+      "text": "θεῖον",
+      "lemma": [
+        "G2304"
+      ],
+      "strongs": "G2304",
+      "morph": "robinson:A-ASN",
+      "translation": "Divine Being",
+      "metadata": {},
+      "gematria": {
+        "standard": 144,
+        "ordinal": 50,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 21,
+      "text": "εἶναι",
+      "lemma": [
+        "G1511"
+      ],
+      "strongs": "G1511",
+      "morph": "robinson:V-PAN",
+      "translation": "to be",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 37,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 22,
+      "text": "ὅμοιον.",
+      "lemma": [
+        "G3664"
+      ],
+      "strongs": "G3664",
+      "morph": "robinson:A-ASN",
+      "translation": "like.",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 16196,
+    "ordinal": 1492,
+    "reduced": 610
+  }
+}

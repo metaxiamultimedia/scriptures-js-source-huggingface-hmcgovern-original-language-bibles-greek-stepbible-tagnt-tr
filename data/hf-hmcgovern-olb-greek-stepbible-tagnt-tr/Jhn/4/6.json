@@ -1,0 +1,340 @@
+{
+  "text": "ἦν δὲ ἐκεῖ πηγὴ τοῦ Ἰακώβ. Ὁ οὖν Ἰησοῦς κεκοπιακὼς ἐκ τῆς ὁδοιπορίας ἐκαθέζετο οὕτως ἐπὶ τῇ πηγῇ· ὥρα ἦν ἕκτη.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "Was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐκεῖ",
+      "lemma": [
+        "G1563"
+      ],
+      "strongs": "G1563",
+      "morph": "robinson:ADV",
+      "translation": "there",
+      "metadata": {},
+      "gematria": {
+        "standard": 40,
+        "ordinal": 29,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "πηγὴ",
+      "lemma": [
+        "G4077"
+      ],
+      "strongs": "G4077",
+      "morph": "robinson:N-NSF",
+      "translation": "[the] well",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "Ἰακώβ.",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Jacob.",
+      "metadata": {},
+      "gematria": {
+        "standard": 833,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "Therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 10,
+      "text": "κεκοπιακὼς",
+      "lemma": [
+        "G2872"
+      ],
+      "strongs": "G2872",
+      "morph": "robinson:V-RAP-NSM",
+      "translation": "already wearying",
+      "metadata": {},
+      "gematria": {
+        "standard": 1226,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 12,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὁδοιπορίας",
+      "lemma": [
+        "G3597"
+      ],
+      "strongs": "G3597",
+      "morph": "robinson:N-GSF",
+      "translation": "journey",
+      "metadata": {},
+      "gematria": {
+        "standard": 615,
+        "ordinal": 119,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐκαθέζετο",
+      "lemma": [
+        "G2516"
+      ],
+      "strongs": "G2516",
+      "morph": "robinson:V-INI-3S",
+      "translation": "was sitting",
+      "metadata": {},
+      "gematria": {
+        "standard": 422,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 15,
+      "text": "οὕτως",
+      "lemma": [
+        "G3779"
+      ],
+      "strongs": "G3779",
+      "morph": "robinson:ADV",
+      "translation": "thus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 96,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "at",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 17,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "πηγῇ·",
+      "lemma": [
+        "G4077"
+      ],
+      "strongs": "G4077",
+      "morph": "robinson:N-DSF",
+      "translation": "well;",
+      "metadata": {},
+      "gematria": {
+        "standard": 109,
+        "ordinal": 42,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὥρα",
+      "lemma": [
+        "G5610"
+      ],
+      "strongs": "G5610",
+      "morph": "robinson:N-NSF",
+      "translation": "[The] hour",
+      "metadata": {},
+      "gematria": {
+        "standard": 901,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἕκτη.",
+      "lemma": [
+        "G1623"
+      ],
+      "strongs": "G1623",
+      "morph": "robinson:A-NSF",
+      "translation": "[the] sixth.",
+      "metadata": {},
+      "gematria": {
+        "standard": 333,
+        "ordinal": 41,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9667,
+    "ordinal": 1017,
+    "reduced": 459
+  }
+}

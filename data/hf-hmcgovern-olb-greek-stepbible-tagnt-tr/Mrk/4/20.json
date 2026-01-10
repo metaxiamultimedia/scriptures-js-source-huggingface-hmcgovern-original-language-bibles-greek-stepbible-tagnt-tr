@@ -1,0 +1,404 @@
+{
+  "text": "καὶ εἰσιν οἱ ἐπὶ τὴν γῆν τὴν καλὴν σπαρέντες, οἵτινες ἀκούουσιν τὸν λόγον καὶ παραδέχονται καὶ καρποφοροῦσιν ἓν τριάκοντα καὶ ἓν ἑξήκοντα καὶ ἓν ἑκατόν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἰσιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "are",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 54,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 3,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "upon",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "γῆν",
+      "lemma": null,
+      "morph": null,
+      "translation": "soil",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 8,
+      "text": "καλὴν",
+      "lemma": null,
+      "morph": null,
+      "translation": "good",
+      "metadata": {},
+      "gematria": {
+        "standard": 109,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "σπαρέντες,",
+      "lemma": [
+        "G4687"
+      ],
+      "strongs": "G4687",
+      "morph": "robinson:V-2APP-NPM",
+      "translation": "having been sown,",
+      "metadata": {},
+      "gematria": {
+        "standard": 941,
+        "ordinal": 112,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 10,
+      "text": "οἵτινες",
+      "lemma": [
+        "G3748"
+      ],
+      "strongs": "G3748",
+      "morph": "robinson:R-NPM",
+      "translation": "such as",
+      "metadata": {},
+      "gematria": {
+        "standard": 645,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἀκούουσιν",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "hear",
+      "metadata": {},
+      "gematria": {
+        "standard": 1221,
+        "ordinal": 121,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "λόγον",
+      "lemma": [
+        "G3056"
+      ],
+      "strongs": "G3056",
+      "morph": "robinson:N-ASM",
+      "translation": "word",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "παραδέχονται",
+      "lemma": [
+        "G3858"
+      ],
+      "strongs": "G3858",
+      "morph": "robinson:V-PNI-3P",
+      "translation": "receive [it]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1222,
+        "ordinal": 123,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "καρποφοροῦσιν",
+      "lemma": [
+        "G2592"
+      ],
+      "strongs": "G2592",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "bring forth fruit",
+      "metadata": {},
+      "gematria": {
+        "standard": 1671,
+        "ordinal": 187,
+        "reduced": 70
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἓν",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-NSN",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 19,
+      "text": "τριάκοντα",
+      "lemma": [
+        "G5144"
+      ],
+      "strongs": "G5144",
+      "morph": "robinson:A-NUI",
+      "translation": "thirtyfold",
+      "metadata": {},
+      "gematria": {
+        "standard": 852,
+        "ordinal": 104,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 20,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἓν",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-NSN",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἑξήκοντα",
+      "lemma": [
+        "G1835"
+      ],
+      "strongs": "G1835",
+      "morph": "robinson:A-NUI",
+      "translation": "sixty",
+      "metadata": {},
+      "gematria": {
+        "standard": 514,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 23,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἓν",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-NSN",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἑκατόν.",
+      "lemma": [
+        "G1540"
+      ],
+      "strongs": "G1540",
+      "morph": "robinson:A-NUI",
+      "translation": "a hundred.",
+      "metadata": {},
+      "gematria": {
+        "standard": 446,
+        "ordinal": 63,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9811,
+    "ordinal": 1391,
+    "reduced": 572
+  }
+}

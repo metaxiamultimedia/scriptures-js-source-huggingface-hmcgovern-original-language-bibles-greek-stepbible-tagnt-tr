@@ -1,0 +1,183 @@
+{
+  "text": "λέγων· ἐπὶ τῆς Μωϋσέως καθέδρας ἐκάθισαν οἱ γραμματεῖς καὶ οἱ Φαρισαῖοι·",
+  "words": [
+    {
+      "position": 1,
+      "text": "λέγων·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "On",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
+      "text": "Μωϋσέως",
+      "lemma": [
+        "G3475"
+      ],
+      "strongs": "G3475",
+      "morph": "robinson:N-GSM-P",
+      "translation": "Moses’",
+      "metadata": {},
+      "gematria": {
+        "standard": 2445,
+        "ordinal": 121,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "καθέδρας",
+      "lemma": [
+        "G2515"
+      ],
+      "strongs": "G2515",
+      "morph": "robinson:N-GSF",
+      "translation": "seat",
+      "metadata": {},
+      "gematria": {
+        "standard": 340,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐκάθισαν",
+      "lemma": [
+        "G2523"
+      ],
+      "strongs": "G2523",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "sat down",
+      "metadata": {},
+      "gematria": {
+        "standard": 296,
+        "ordinal": 65,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 7,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "γραμματεῖς",
+      "lemma": [
+        "G1122"
+      ],
+      "strongs": "G1122",
+      "morph": "robinson:N-NPM",
+      "translation": "scribes",
+      "metadata": {},
+      "gematria": {
+        "standard": 700,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "Φαρισαῖοι·",
+      "lemma": [
+        "G5330"
+      ],
+      "strongs": "G5330",
+      "morph": "robinson:N-NPM-T",
+      "translation": "Pharisees;",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 100,
+        "reduced": 55
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6365,
+    "ordinal": 645,
+    "reduced": 312
+  }
+}

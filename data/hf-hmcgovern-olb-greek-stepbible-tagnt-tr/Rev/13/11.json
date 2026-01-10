@@ -1,0 +1,292 @@
+{
+  "text": "Καὶ εἶδον ἄλλο θηρίον ἀναβαῖνον ἐκ τῆς γῆς, καὶ εἶχεν κέρατα δύο ὅμοια ἀρνίῳ καὶ ἐλάλει ὡς δράκων.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἶδον",
+      "lemma": null,
+      "morph": null,
+      "translation": "I saw",
+      "metadata": {},
+      "gematria": {
+        "standard": 139,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἄλλο",
+      "lemma": [
+        "G243"
+      ],
+      "strongs": "G243",
+      "morph": "robinson:A-ASN",
+      "translation": "another",
+      "metadata": {},
+      "gematria": {
+        "standard": 131,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "θηρίον",
+      "lemma": [
+        "G2342"
+      ],
+      "strongs": "G2342",
+      "morph": "robinson:N-ASN",
+      "translation": "beast",
+      "metadata": {},
+      "gematria": {
+        "standard": 247,
+        "ordinal": 69,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀναβαῖνον",
+      "lemma": [
+        "G305"
+      ],
+      "strongs": "G305",
+      "morph": "robinson:V-PAP-ASN",
+      "translation": "rising",
+      "metadata": {},
+      "gematria": {
+        "standard": 235,
+        "ordinal": 68,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "γῆς,",
+      "lemma": null,
+      "morph": null,
+      "translation": "earth,",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "εἶχεν",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "it had",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 11,
+      "text": "κέρατα",
+      "lemma": [
+        "G2768"
+      ],
+      "strongs": "G2768",
+      "morph": "robinson:N-APN",
+      "translation": "horns",
+      "metadata": {},
+      "gematria": {
+        "standard": 427,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 12,
+      "text": "δύο",
+      "lemma": [
+        "G1417"
+      ],
+      "strongs": "G1417",
+      "morph": "robinson:A-NUI",
+      "translation": "two",
+      "metadata": {},
+      "gematria": {
+        "standard": 474,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὅμοια",
+      "lemma": [
+        "G3664"
+      ],
+      "strongs": "G3664",
+      "morph": "robinson:A-NPN",
+      "translation": "like",
+      "metadata": {},
+      "gematria": {
+        "standard": 191,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀρνίῳ",
+      "lemma": [
+        "G721"
+      ],
+      "strongs": "G721",
+      "morph": "robinson:N-DSN",
+      "translation": "as a lamb",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 73,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐλάλει",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "it was speaking",
+      "metadata": {},
+      "gematria": {
+        "standard": 81,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "like",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 18,
+      "text": "δράκων.",
+      "lemma": [
+        "G1404"
+      ],
+      "strongs": "G1404",
+      "morph": "robinson:N-NSM",
+      "translation": "a dragon.",
+      "metadata": {},
+      "gematria": {
+        "standard": 975,
+        "ordinal": 69,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6378,
+    "ordinal": 792,
+    "reduced": 369
+  }
+}

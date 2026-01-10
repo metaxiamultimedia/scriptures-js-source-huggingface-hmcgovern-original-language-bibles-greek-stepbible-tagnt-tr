@@ -1,0 +1,103 @@
+{
+  "text": "ἔξεστιν Καίσαρι φόρον δοῦναι ἢ οὔ;",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἔξεστιν",
+      "lemma": [
+        "G1832"
+      ],
+      "strongs": "G1832",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "Is it lawful",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 2,
+      "text": "Καίσαρι",
+      "lemma": null,
+      "morph": null,
+      "translation": "to Caesar",
+      "metadata": {},
+      "gematria": {
+        "standard": 342,
+        "ordinal": 65,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 3,
+      "text": "φόρον",
+      "lemma": [
+        "G5411"
+      ],
+      "strongs": "G5411",
+      "morph": "robinson:N-ASM",
+      "translation": "tribute",
+      "metadata": {},
+      "gematria": {
+        "standard": 790,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "δοῦναι",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-2AAN",
+      "translation": "to give",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὔ;",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not?",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2775,
+    "ordinal": 333,
+    "reduced": 144
+  }
+}

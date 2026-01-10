@@ -1,0 +1,401 @@
+{
+  "text": "Ἀκούσας δὲ ὅτι Ἀρχέλαος βασιλεύει τῆς Ἰουδαίας ἀντὶ τοῦ πατρὸς αὐτοῦ Ἡρῴδου ἐφοβήθη ἐκεῖ ἀπελθεῖν. χρηματισθεὶς δὲ κατ᾽ ὄναρ ἀνεχώρησεν εἰς τὰ μέρη τῆς Γαλιλαίας,",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἀκούσας",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "Having heard",
+      "metadata": {},
+      "gematria": {
+        "standard": 892,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἀρχέλαος",
+      "lemma": [
+        "G745"
+      ],
+      "strongs": "G745",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Archelaus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1007,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 5,
+      "text": "βασιλεύει",
+      "lemma": [
+        "G936"
+      ],
+      "strongs": "G936",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "rules",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 80,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ἰουδαίας",
+      "lemma": [
+        "G2449"
+      ],
+      "strongs": "G2449",
+      "morph": "robinson:N-GSF-L",
+      "translation": "Judea",
+      "metadata": {},
+      "gematria": {
+        "standard": 696,
+        "ordinal": 77,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀντὶ",
+      "lemma": [
+        "G473"
+      ],
+      "strongs": "G473",
+      "morph": "robinson:PREP",
+      "translation": "in place of",
+      "metadata": {},
+      "gematria": {
+        "standard": 361,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "πατρὸς",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-GSM",
+      "translation": "father",
+      "metadata": {},
+      "gematria": {
+        "standard": 751,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
+      "text": "Ἡρῴδου",
+      "lemma": null,
+      "morph": null,
+      "translation": "Herod",
+      "metadata": {},
+      "gematria": {
+        "standard": 1392,
+        "ordinal": 96,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐφοβήθη",
+      "lemma": [
+        "G5399"
+      ],
+      "strongs": "G5399",
+      "morph": "robinson:V-AOI-3S",
+      "translation": "he was afraid",
+      "metadata": {},
+      "gematria": {
+        "standard": 602,
+        "ordinal": 65,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐκεῖ",
+      "lemma": [
+        "G1563"
+      ],
+      "strongs": "G1563",
+      "morph": "robinson:ADV",
+      "translation": "there",
+      "metadata": {},
+      "gematria": {
+        "standard": 40,
+        "ordinal": 29,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀπελθεῖν.",
+      "lemma": [
+        "G565"
+      ],
+      "strongs": "G565",
+      "morph": "robinson:V-2AAN",
+      "translation": "to go.",
+      "metadata": {},
+      "gematria": {
+        "standard": 190,
+        "ordinal": 68,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 16,
+      "text": "χρηματισθεὶς",
+      "lemma": [
+        "G5537"
+      ],
+      "strongs": "G5537",
+      "morph": "robinson:V-APP-NSM",
+      "translation": "having been divinely warned",
+      "metadata": {},
+      "gematria": {
+        "standard": 1483,
+        "ordinal": 145,
+        "reduced": 73
+      }
+    },
+    {
+      "position": 17,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "κατ᾽",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 30,
+        "reduced": 3
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὄναρ",
+      "lemma": [
+        "G3677"
+      ],
+      "strongs": "G3677",
+      "morph": "robinson:N-ASN",
+      "translation": "a dream",
+      "metadata": {},
+      "gematria": {
+        "standard": 221,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀνεχώρησεν",
+      "lemma": [
+        "G402"
+      ],
+      "strongs": "G402",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he withdrew",
+      "metadata": {},
+      "gematria": {
+        "standard": 1819,
+        "ordinal": 125,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 21,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 22,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 23,
+      "text": "μέρη",
+      "lemma": [
+        "G3313"
+      ],
+      "strongs": "G3313",
+      "morph": "robinson:N-APN",
+      "translation": "district",
+      "metadata": {},
+      "gematria": {
+        "standard": 153,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 24,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 25,
+      "text": "Γαλιλαίας,",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Galilee,",
+      "metadata": {},
+      "gematria": {
+        "standard": 286,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14748,
+    "ordinal": 1497,
+    "reduced": 660
+  }
+}

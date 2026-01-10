@@ -1,0 +1,260 @@
+{
+  "text": "Ἀκούσας δὲ ὁ υἱὸς τῆς ἀδελφῆς Παύλου παραγενόμενος καὶ εἰσελθὼν εἰς τὴν παρεμβολὴν ἀπήγγειλεν τῷ Παύλῳ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἀκούσας",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "Having heard",
+      "metadata": {},
+      "gematria": {
+        "standard": 892,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "υἱὸς",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-NSM",
+      "translation": "son",
+      "metadata": {},
+      "gematria": {
+        "standard": 680,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀδελφῆς",
+      "lemma": [
+        "G79"
+      ],
+      "strongs": "G79",
+      "morph": "robinson:N-GSF",
+      "translation": "sister",
+      "metadata": {},
+      "gematria": {
+        "standard": 748,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 7,
+      "text": "Παύλου",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Paul",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 83,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "παραγενόμενος",
+      "lemma": [
+        "G3854"
+      ],
+      "strongs": "G3854",
+      "morph": "robinson:V-2ADP-NSM",
+      "translation": "having come near",
+      "metadata": {},
+      "gematria": {
+        "standard": 675,
+        "ordinal": 134,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "εἰσελθὼν",
+      "lemma": [
+        "G1525"
+      ],
+      "strongs": "G1525",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having entered",
+      "metadata": {},
+      "gematria": {
+        "standard": 1109,
+        "ordinal": 93,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 11,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
+      "text": "παρεμβολὴν",
+      "lemma": [
+        "G3925"
+      ],
+      "strongs": "G3925",
+      "morph": "robinson:N-ASF",
+      "translation": "barracks",
+      "metadata": {},
+      "gematria": {
+        "standard": 386,
+        "ordinal": 99,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀπήγγειλεν",
+      "lemma": [
+        "G518"
+      ],
+      "strongs": "G518",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he reported [it]",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 73,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 15,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "Παύλῳ.",
+      "lemma": null,
+      "morph": null,
+      "translation": "to Paul.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1321,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9288,
+    "ordinal": 986,
+    "reduced": 428
+  }
+}

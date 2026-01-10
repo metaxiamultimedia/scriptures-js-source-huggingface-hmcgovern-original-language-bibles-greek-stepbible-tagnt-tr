@@ -1,0 +1,119 @@
+{
+  "text": "καὶ Ἰούδαν Ἰσκαριὼθ ὃς καὶ παρέδωκεν αὐτόν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "Ἰούδαν",
+      "lemma": null,
+      "morph": null,
+      "translation": "Judas",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἰσκαριὼθ",
+      "lemma": [
+        "G2469"
+      ],
+      "strongs": "G2469",
+      "morph": "robinson:N-ASM-P",
+      "translation": "Iscariot",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 96,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὃς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "παρέδωκεν",
+      "lemma": [
+        "G3860"
+      ],
+      "strongs": "G3860",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "betrayed",
+      "metadata": {},
+      "gematria": {
+        "standard": 1065,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 7,
+      "text": "αὐτόν.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3903,
+    "ordinal": 394,
+    "reduced": 169
+  }
+}

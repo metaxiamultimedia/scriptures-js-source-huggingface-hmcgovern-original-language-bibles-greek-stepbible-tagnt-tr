@@ -1,0 +1,318 @@
+{
+  "text": "Καὶ ἀναστενάξας τῷ πνεύματι αὐτοῦ λέγει· τί ἡ γενεὰ αὕτη σημεῖον; ἀμὴν λέγω ὑμῖν, εἰ δοθήσεται τῇ γενεᾷ ταύτῃ σημεῖον.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀναστενάξας",
+      "lemma": [
+        "G389"
+      ],
+      "strongs": "G389",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having sighed deeply",
+      "metadata": {},
+      "gematria": {
+        "standard": 869,
+        "ordinal": 104,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 3,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "in the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "πνεύματι",
+      "lemma": null,
+      "morph": null,
+      "translation": "spirit",
+      "metadata": {},
+      "gematria": {
+        "standard": 886,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "λέγει·",
+      "lemma": null,
+      "morph": null,
+      "translation": "He says;",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "τί",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-ASN",
+      "translation": "Why",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "γενεὰ",
+      "lemma": [
+        "G1074"
+      ],
+      "strongs": "G1074",
+      "morph": "robinson:N-NSF",
+      "translation": "generation",
+      "metadata": {},
+      "gematria": {
+        "standard": 64,
+        "ordinal": 27,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 10,
+      "text": "αὕτη",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSF",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "σημεῖον;",
+      "lemma": [
+        "G4592"
+      ],
+      "strongs": "G4592",
+      "morph": "robinson:N-ASN",
+      "translation": "a sign?",
+      "metadata": {},
+      "gematria": {
+        "standard": 383,
+        "ordinal": 79,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀμὴν",
+      "lemma": [
+        "G281"
+      ],
+      "strongs": "G281",
+      "morph": "robinson:INJ-HEB",
+      "translation": "Amen",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "λέγω",
+      "lemma": null,
+      "morph": null,
+      "translation": "I say",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὑμῖν,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 15,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "δοθήσεται",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-FPI-3S",
+      "translation": "there will be given",
+      "metadata": {},
+      "gematria": {
+        "standard": 607,
+        "ordinal": 86,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 17,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "γενεᾷ",
+      "lemma": [
+        "G1074"
+      ],
+      "strongs": "G1074",
+      "morph": "robinson:N-DSF",
+      "translation": "generation",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 19,
+      "text": "ταύτῃ",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-DSF",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1019,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 20,
+      "text": "σημεῖον.",
+      "lemma": [
+        "G4592"
+      ],
+      "strongs": "G4592",
+      "morph": "robinson:N-NSN",
+      "translation": "a sign.",
+      "metadata": {},
+      "gematria": {
+        "standard": 383,
+        "ordinal": 79,
+        "reduced": 43
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9447,
+    "ordinal": 1022,
+    "reduced": 446
+  }
+}

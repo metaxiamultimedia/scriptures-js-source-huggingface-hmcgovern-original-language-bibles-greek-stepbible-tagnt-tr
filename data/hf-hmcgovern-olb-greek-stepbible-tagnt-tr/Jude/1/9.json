@@ -1,0 +1,391 @@
+{
+  "text": "ὁ δὲ Μιχαὴλ ὁ ἀρχάγγελος, ὅτε τῷ διαβόλῳ διακρινόμενος διελέγετο περὶ τοῦ Μωϋσέως σώματος, οὐκ ἐτόλμησεν κρίσιν ἐπενεγκεῖν βλασφημίας ἀλλ᾽ εἶπεν· ἐπιτιμήσαι σοι κύριος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "But",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "Μιχαὴλ",
+      "lemma": [
+        "G3413"
+      ],
+      "strongs": "G3413",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Michael",
+      "metadata": {},
+      "gematria": {
+        "standard": 689,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀρχάγγελος,",
+      "lemma": [
+        "G743"
+      ],
+      "strongs": "G743",
+      "morph": "robinson:N-NSM",
+      "translation": "archangel,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1013,
+        "ordinal": 96,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὅτε",
+      "lemma": [
+        "G3753"
+      ],
+      "strongs": "G3753",
+      "morph": "robinson:CONJ",
+      "translation": "when",
+      "metadata": {},
+      "gematria": {
+        "standard": 375,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "with the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "διαβόλῳ",
+      "lemma": [
+        "G1228"
+      ],
+      "strongs": "G1228",
+      "morph": "robinson:A-DSM",
+      "translation": "devil",
+      "metadata": {},
+      "gematria": {
+        "standard": 927,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 9,
+      "text": "διακρινόμενος",
+      "lemma": [
+        "G1252"
+      ],
+      "strongs": "G1252",
+      "morph": "robinson:V-PMP-NSM",
+      "translation": "disputing",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 141,
+        "reduced": 69
+      }
+    },
+    {
+      "position": 10,
+      "text": "διελέγετο",
+      "lemma": [
+        "G1256"
+      ],
+      "strongs": "G1256",
+      "morph": "robinson:V-INI-3S",
+      "translation": "he was reasoning",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 11,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "about",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 12,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "Μωϋσέως",
+      "lemma": [
+        "G3475"
+      ],
+      "strongs": "G3475",
+      "morph": "robinson:N-GSM-P",
+      "translation": "Moses’",
+      "metadata": {},
+      "gematria": {
+        "standard": 2445,
+        "ordinal": 121,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 14,
+      "text": "σώματος,",
+      "lemma": [
+        "G4983"
+      ],
+      "strongs": "G4983",
+      "morph": "robinson:N-GSN",
+      "translation": "body,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1611,
+        "ordinal": 107,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 15,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐτόλμησεν",
+      "lemma": [
+        "G5111"
+      ],
+      "strongs": "G5111",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "did dare",
+      "metadata": {},
+      "gematria": {
+        "standard": 708,
+        "ordinal": 105,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 17,
+      "text": "κρίσιν",
+      "lemma": [
+        "G2920"
+      ],
+      "strongs": "G2920",
+      "morph": "robinson:N-ASF",
+      "translation": "a judgment",
+      "metadata": {},
+      "gematria": {
+        "standard": 390,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐπενεγκεῖν",
+      "lemma": [
+        "G2018"
+      ],
+      "strongs": "G2018",
+      "morph": "robinson:V-2AAN",
+      "translation": "to bring against [him]",
+      "metadata": {},
+      "gematria": {
+        "standard": 233,
+        "ordinal": 84,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 19,
+      "text": "βλασφημίας",
+      "lemma": [
+        "G988"
+      ],
+      "strongs": "G988",
+      "morph": "robinson:N-GSF",
+      "translation": "blasphemy",
+      "metadata": {},
+      "gematria": {
+        "standard": 992,
+        "ordinal": 100,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 21,
+      "text": "εἶπεν·",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "said;",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἐπιτιμήσαι",
+      "lemma": [
+        "G2008"
+      ],
+      "strongs": "G2008",
+      "morph": "robinson:V-AAO-3S",
+      "translation": "Would [that] he rebuke",
+      "metadata": {},
+      "gematria": {
+        "standard": 664,
+        "ordinal": 105,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 23,
+      "text": "σοι",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DS",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 24,
+      "text": "κύριος.",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] Lord.",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15114,
+    "ordinal": 1626,
+    "reduced": 717
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "text": "ἡ δὲ σπαταλῶσα ζῶσα τέθνηκεν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "She",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "σπαταλῶσα",
+      "lemma": [
+        "G4684"
+      ],
+      "strongs": "G4684",
+      "morph": "robinson:V-PAP-NSF",
+      "translation": "living in self-indulgence",
+      "metadata": {},
+      "gematria": {
+        "standard": 1613,
+        "ordinal": 109,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 4,
+      "text": "ζῶσα",
+      "lemma": [
+        "G2198"
+      ],
+      "strongs": "G2198",
+      "morph": "robinson:V-PAP-NSF",
+      "translation": "[while] living",
+      "metadata": {},
+      "gematria": {
+        "standard": 1008,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "τέθνηκεν.",
+      "lemma": [
+        "G2348"
+      ],
+      "strongs": "G2348",
+      "morph": "robinson:V-RAI-3S",
+      "translation": "has died.",
+      "metadata": {},
+      "gematria": {
+        "standard": 447,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3085,
+    "ordinal": 254,
+    "reduced": 110
+  }
+}

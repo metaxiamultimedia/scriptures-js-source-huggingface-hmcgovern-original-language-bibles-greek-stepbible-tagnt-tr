@@ -1,0 +1,446 @@
+{
+  "text": "εἰ δέ τις χήρα τέκνα ἢ ἔκγονα ἔχει, μανθανέτωσαν πρῶτον τὸν ἴδιον οἶκον εὐσεβεῖν καὶ ἀμοιβὰς ἀποδιδόναι τοῖς προγόνοις· τοῦτο γάρ ἐστιν καλὸν καὶ ἀπόδεκτον ἐνώπιον τοῦ θεοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δέ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSF",
+      "translation": "any",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "χήρα",
+      "lemma": [
+        "G5503"
+      ],
+      "strongs": "G5503",
+      "morph": "robinson:N-NSF",
+      "translation": "widow",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
+      "text": "τέκνα",
+      "lemma": [
+        "G5043"
+      ],
+      "strongs": "G5043",
+      "morph": "robinson:N-APN",
+      "translation": "children",
+      "metadata": {},
+      "gematria": {
+        "standard": 376,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἔκγονα",
+      "lemma": [
+        "G1549"
+      ],
+      "strongs": "G1549",
+      "morph": "robinson:A-APN",
+      "translation": "grandchildren",
+      "metadata": {},
+      "gematria": {
+        "standard": 149,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἔχει,",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "has,",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "μανθανέτωσαν",
+      "lemma": [
+        "G3129"
+      ],
+      "strongs": "G3129",
+      "morph": "robinson:V-PAM-3P",
+      "translation": "they should learn",
+      "metadata": {},
+      "gematria": {
+        "standard": 1507,
+        "ordinal": 128,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 10,
+      "text": "πρῶτον",
+      "lemma": null,
+      "morph": null,
+      "translation": "first",
+      "metadata": {},
+      "gematria": {
+        "standard": 1400,
+        "ordinal": 104,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἴδιον",
+      "lemma": [
+        "G2398"
+      ],
+      "strongs": "G2398",
+      "morph": "robinson:A-ASM",
+      "translation": "[her] own",
+      "metadata": {},
+      "gematria": {
+        "standard": 144,
+        "ordinal": 50,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 13,
+      "text": "οἶκον",
+      "lemma": null,
+      "morph": null,
+      "translation": "household",
+      "metadata": {},
+      "gematria": {
+        "standard": 220,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 14,
+      "text": "εὐσεβεῖν",
+      "lemma": [
+        "G2151"
+      ],
+      "strongs": "G2151",
+      "morph": "robinson:V-PAN",
+      "translation": "to be devout",
+      "metadata": {},
+      "gematria": {
+        "standard": 677,
+        "ordinal": 77,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἀμοιβὰς",
+      "lemma": [
+        "G287"
+      ],
+      "strongs": "G287",
+      "morph": "robinson:N-APF",
+      "translation": "recompense",
+      "metadata": {},
+      "gematria": {
+        "standard": 324,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀποδιδόναι",
+      "lemma": [
+        "G591"
+      ],
+      "strongs": "G591",
+      "morph": "robinson:V-PAN",
+      "translation": "to give",
+      "metadata": {},
+      "gematria": {
+        "standard": 300,
+        "ordinal": 87,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 18,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 19,
+      "text": "προγόνοις·",
+      "lemma": [
+        "G4269"
+      ],
+      "strongs": "G4269",
+      "morph": "robinson:N-DPM",
+      "translation": "to parents;",
+      "metadata": {},
+      "gematria": {
+        "standard": 653,
+        "ordinal": 121,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 20,
+      "text": "τοῦτο",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSN",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 21,
+      "text": "γάρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 23,
+      "text": "καλὸν",
+      "lemma": null,
+      "morph": null,
+      "translation": "good",
+      "metadata": {},
+      "gematria": {
+        "standard": 171,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 24,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἀπόδεκτον",
+      "lemma": [
+        "G587"
+      ],
+      "strongs": "G587",
+      "morph": "robinson:A-NSN",
+      "translation": "pleasing",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 98,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 26,
+      "text": "ἐνώπιον",
+      "lemma": [
+        "G1799"
+      ],
+      "strongs": "G1799",
+      "morph": "robinson:PREP",
+      "translation": "before",
+      "metadata": {},
+      "gematria": {
+        "standard": 1065,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 27,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 28,
+      "text": "θεοῦ.",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "God.",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13582,
+    "ordinal": 1612,
+    "reduced": 676
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "text": "Ὁ δὲ Πέτρος ἠκολούθει αὐτῷ ἀπὸ μακρόθεν ἕως τῆς αὐλῆς τοῦ ἀρχιερέως, καὶ εἰσελθὼν ἔσω ἐκάθητο μετὰ τῶν ὑπηρετῶν ἰδεῖν τὸ τέλος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "Πέτρος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Peter",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἠκολούθει",
+      "lemma": [
+        "G190"
+      ],
+      "strongs": "G190",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was following",
+      "metadata": {},
+      "gematria": {
+        "standard": 622,
+        "ordinal": 100,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "μακρόθεν",
+      "lemma": [
+        "G3113"
+      ],
+      "strongs": "G3113",
+      "morph": "robinson:ADV",
+      "translation": "afar",
+      "metadata": {},
+      "gematria": {
+        "standard": 295,
+        "ordinal": 81,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἕως",
+      "lemma": [
+        "G2193"
+      ],
+      "strongs": "G2193",
+      "morph": "robinson:PREP",
+      "translation": "until",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 9,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
+      "text": "αὐλῆς",
+      "lemma": [
+        "G833"
+      ],
+      "strongs": "G833",
+      "morph": "robinson:N-GSF",
+      "translation": "court",
+      "metadata": {},
+      "gematria": {
+        "standard": 639,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀρχιερέως,",
+      "lemma": [
+        "G749"
+      ],
+      "strongs": "G749",
+      "morph": "robinson:N-GSM",
+      "translation": "high priest,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1821,
+        "ordinal": 118,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "εἰσελθὼν",
+      "lemma": [
+        "G1525"
+      ],
+      "strongs": "G1525",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having entered",
+      "metadata": {},
+      "gematria": {
+        "standard": 1109,
+        "ordinal": 93,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἔσω",
+      "lemma": [
+        "G2080"
+      ],
+      "strongs": "G2080",
+      "morph": "robinson:ADV",
+      "translation": "within",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐκάθητο",
+      "lemma": [
+        "G2521"
+      ],
+      "strongs": "G2521",
+      "morph": "robinson:V-INI-3S",
+      "translation": "he was sitting",
+      "metadata": {},
+      "gematria": {
+        "standard": 413,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 17,
+      "text": "μετὰ",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 18,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὑπηρετῶν",
+      "lemma": [
+        "G5257"
+      ],
+      "strongs": "G5257",
+      "morph": "robinson:N-GPM",
+      "translation": "guards",
+      "metadata": {},
+      "gematria": {
+        "standard": 1743,
+        "ordinal": 121,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἰδεῖν",
+      "lemma": null,
+      "morph": null,
+      "translation": "to see",
+      "metadata": {},
+      "gematria": {
+        "standard": 79,
+        "ordinal": 40,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 21,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 22,
+      "text": "τέλος.",
+      "lemma": [
+        "G5056"
+      ],
+      "strongs": "G5056",
+      "morph": "robinson:N-ASN",
+      "translation": "outcome.",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15007,
+    "ordinal": 1301,
+    "reduced": 518
+  }
+}

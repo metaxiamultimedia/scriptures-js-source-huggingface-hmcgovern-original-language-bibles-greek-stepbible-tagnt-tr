@@ -1,0 +1,279 @@
+{
+  "text": "ὧν οὐκ ἦν ἄξιος ὁ κόσμος· ἐρημίαις πλανώμενοι καὶ ὄρεσιν καὶ σπηλαίοις καὶ ταῖς ὀπαῖς τῆς γῆς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὧν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-GPM",
+      "translation": "of whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἄξιος",
+      "lemma": [
+        "G514"
+      ],
+      "strongs": "G514",
+      "morph": "robinson:A-NSM",
+      "translation": "worthy",
+      "metadata": {},
+      "gematria": {
+        "standard": 341,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "κόσμος·",
+      "lemma": [
+        "G2889"
+      ],
+      "strongs": "G2889",
+      "morph": "robinson:N-NSM",
+      "translation": "world;",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐρημίαις",
+      "lemma": [
+        "G2047"
+      ],
+      "strongs": "G2047",
+      "morph": "robinson:N-DPF",
+      "translation": "deserts",
+      "metadata": {},
+      "gematria": {
+        "standard": 374,
+        "ordinal": 78,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 8,
+      "text": "πλανώμενοι",
+      "lemma": [
+        "G4105"
+      ],
+      "strongs": "G4105",
+      "morph": "robinson:V-PPP-NPM",
+      "translation": "wandering",
+      "metadata": {},
+      "gematria": {
+        "standard": 1136,
+        "ordinal": 119,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὄρεσιν",
+      "lemma": [
+        "G3735"
+      ],
+      "strongs": "G3735",
+      "morph": "robinson:N-DPN",
+      "translation": "in mountains",
+      "metadata": {},
+      "gematria": {
+        "standard": 435,
+        "ordinal": 77,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "σπηλαίοις",
+      "lemma": [
+        "G4693"
+      ],
+      "strongs": "G4693",
+      "morph": "robinson:N-DPN",
+      "translation": "in caves",
+      "metadata": {},
+      "gematria": {
+        "standard": 609,
+        "ordinal": 104,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ταῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPF",
+      "translation": "in the",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὀπαῖς",
+      "lemma": [
+        "G3692"
+      ],
+      "strongs": "G3692",
+      "morph": "robinson:N-DPF",
+      "translation": "holes",
+      "metadata": {},
+      "gematria": {
+        "standard": 361,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 16,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 17,
+      "text": "γῆς.",
+      "lemma": null,
+      "morph": null,
+      "translation": "earth.",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6647,
+    "ordinal": 878,
+    "reduced": 419
+  }
+}

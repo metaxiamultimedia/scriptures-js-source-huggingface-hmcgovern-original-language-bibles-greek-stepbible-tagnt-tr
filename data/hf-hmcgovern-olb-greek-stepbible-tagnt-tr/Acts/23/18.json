@@ -1,0 +1,423 @@
+{
+  "text": "ὁ μὲν οὖν παραλαβὼν αὐτὸν ἤγαγεν πρὸς τὸν χιλίαρχον καὶ φησίν· ὁ δέσμιος Παῦλος προσκαλεσάμενός με ἠρώτησεν τοῦτον τὸν ἀγαγεῖν πρὸς σὲ ἔχοντά τι λαλῆσαί σοι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "μὲν",
+      "lemma": [
+        "G3303"
+      ],
+      "strongs": "G3303",
+      "morph": "robinson:PRT",
+      "translation": "indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "παραλαβὼν",
+      "lemma": [
+        "G3880"
+      ],
+      "strongs": "G3880",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having taken",
+      "metadata": {},
+      "gematria": {
+        "standard": 1065,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἤγαγεν",
+      "lemma": [
+        "G71"
+      ],
+      "strongs": "G71",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "he brought [him]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "χιλίαρχον",
+      "lemma": [
+        "G5506"
+      ],
+      "strongs": "G5506",
+      "morph": "robinson:N-ASM",
+      "translation": "commander",
+      "metadata": {},
+      "gematria": {
+        "standard": 1471,
+        "ordinal": 119,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "φησίν·",
+      "lemma": [
+        "G5346"
+      ],
+      "strongs": "G5346",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "he says;",
+      "metadata": {},
+      "gematria": {
+        "standard": 768,
+        "ordinal": 68,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "δέσμιος",
+      "lemma": [
+        "G1198"
+      ],
+      "strongs": "G1198",
+      "morph": "robinson:N-NSM",
+      "translation": "prisoner",
+      "metadata": {},
+      "gematria": {
+        "standard": 529,
+        "ordinal": 81,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 14,
+      "text": "Παῦλος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Paul",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 15,
+      "text": "προσκαλεσάμενός",
+      "lemma": [
+        "G4341"
+      ],
+      "strongs": "G4341",
+      "morph": "robinson:V-ADP-NSM",
+      "translation": "having called to",
+      "metadata": {},
+      "gematria": {
+        "standard": 1072,
+        "ordinal": 175,
+        "reduced": 76
+      }
+    },
+    {
+      "position": 16,
+      "text": "με",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "me",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἠρώτησεν",
+      "lemma": [
+        "G2065"
+      ],
+      "strongs": "G2065",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he asked [me]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1471,
+        "ordinal": 110,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 18,
+      "text": "τοῦτον",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-ASM",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1190,
+        "ordinal": 101,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 19,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀγαγεῖν",
+      "lemma": [
+        "G71"
+      ],
+      "strongs": "G71",
+      "morph": "robinson:V-2AAN",
+      "translation": "to lead",
+      "metadata": {},
+      "gematria": {
+        "standard": 73,
+        "ordinal": 35,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 21,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 22,
+      "text": "σὲ",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AS",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 205,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἔχοντά",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAP-ASM",
+      "translation": "having",
+      "metadata": {},
+      "gematria": {
+        "standard": 1026,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 24,
+      "text": "τι",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-ASN",
+      "translation": "something",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 25,
+      "text": "λαλῆσαί",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-AAN",
+      "translation": "to say",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 26,
+      "text": "σοι.",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DS",
+      "translation": "to you.",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13983,
+    "ordinal": 1553,
+    "reduced": 626
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "text": "ἐὰν δὲ καὶ ἀθλῇ τις, οὐ στεφανοῦται ἐὰν μὴ νομίμως ἀθλήσῃ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀθλῇ",
+      "lemma": [
+        "G118"
+      ],
+      "strongs": "G118",
+      "morph": "robinson:V-PAS-3S",
+      "translation": "shall compete",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 5,
+      "text": "τις,",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSM",
+      "translation": "anyone,",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 7,
+      "text": "στεφανοῦται",
+      "lemma": [
+        "G4737"
+      ],
+      "strongs": "G4737",
+      "morph": "robinson:V-PPI-3S",
+      "translation": "he is crowned",
+      "metadata": {},
+      "gematria": {
+        "standard": 1837,
+        "ordinal": 141,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "unless",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "νομίμως",
+      "lemma": [
+        "G3545"
+      ],
+      "strongs": "G3545",
+      "morph": "robinson:ADV",
+      "translation": "lawfully",
+      "metadata": {},
+      "gematria": {
+        "standard": 1210,
+        "ordinal": 103,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἀθλήσῃ.",
+      "lemma": [
+        "G118"
+      ],
+      "strongs": "G118",
+      "morph": "robinson:V-AAS-3S",
+      "translation": "he shall compete.",
+      "metadata": {},
+      "gematria": {
+        "standard": 266,
+        "ordinal": 61,
+        "reduced": 43
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4551,
+    "ordinal": 508,
+    "reduced": 229
+  }
+}

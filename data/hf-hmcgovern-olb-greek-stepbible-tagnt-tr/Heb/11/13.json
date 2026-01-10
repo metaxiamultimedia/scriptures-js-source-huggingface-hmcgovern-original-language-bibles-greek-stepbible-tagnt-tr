@@ -1,0 +1,430 @@
+{
+  "text": "Κατὰ πίστιν ἀπέθανον οὗτοι πάντες μὴ λαβόντες τὰς ἐπαγγελίας ἀλλὰ πόρρωθεν αὐτὰς ἰδόντες καὶ πεισθέντες καὶ ἀσπασάμενοι καὶ ὁμολογήσαντες ὅτι ξένοι καὶ παρεπίδημοί εἰσιν ἐπὶ τῆς γῆς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Κατὰ",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "In",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 31,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 2,
+      "text": "πίστιν",
+      "lemma": null,
+      "morph": null,
+      "translation": "faith",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀπέθανον",
+      "lemma": [
+        "G599"
+      ],
+      "strongs": "G599",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "died",
+      "metadata": {},
+      "gematria": {
+        "standard": 266,
+        "ordinal": 72,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 4,
+      "text": "οὗτοι",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NPM",
+      "translation": "these",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "πάντες",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NPM",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 636,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 6,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "λαβόντες",
+      "lemma": [
+        "G2983"
+      ],
+      "strongs": "G2983",
+      "morph": "robinson:V-2AAP-NPM",
+      "translation": "having received",
+      "metadata": {},
+      "gematria": {
+        "standard": 658,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐπαγγελίας",
+      "lemma": [
+        "G1860"
+      ],
+      "strongs": "G1860",
+      "morph": "robinson:N-APF",
+      "translation": "promises",
+      "metadata": {},
+      "gematria": {
+        "standard": 338,
+        "ordinal": 72,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀλλὰ",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "πόρρωθεν",
+      "lemma": [
+        "G4207"
+      ],
+      "strongs": "G4207",
+      "morph": "robinson:ADV-C",
+      "translation": "from afar",
+      "metadata": {},
+      "gematria": {
+        "standard": 1214,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 12,
+      "text": "αὐτὰς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APF",
+      "translation": "them",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 59,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἰδόντες",
+      "lemma": null,
+      "morph": null,
+      "translation": "having seen",
+      "metadata": {},
+      "gematria": {
+        "standard": 639,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "πεισθέντες",
+      "lemma": [
+        "G3982"
+      ],
+      "strongs": "G3982",
+      "morph": "robinson:V-APP-NPM",
+      "translation": "having been persuaded",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 116,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀσπασάμενοι",
+      "lemma": [
+        "G782"
+      ],
+      "strongs": "G782",
+      "morph": "robinson:V-ADP-NPM",
+      "translation": "having embraced [them]",
+      "metadata": {},
+      "gematria": {
+        "standard": 658,
+        "ordinal": 109,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὁμολογήσαντες",
+      "lemma": [
+        "G3670"
+      ],
+      "strongs": "G3670",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "having confessed",
+      "metadata": {},
+      "gematria": {
+        "standard": 1047,
+        "ordinal": 152,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 20,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 21,
+      "text": "ξένοι",
+      "lemma": [
+        "G3581"
+      ],
+      "strongs": "G3581",
+      "morph": "robinson:A-NPM",
+      "translation": "strangers",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 22,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 23,
+      "text": "παρεπίδημοί",
+      "lemma": [
+        "G3927"
+      ],
+      "strongs": "G3927",
+      "morph": "robinson:A-NPM",
+      "translation": "sojourners",
+      "metadata": {},
+      "gematria": {
+        "standard": 408,
+        "ordinal": 111,
+        "reduced": 66
+      }
+    },
+    {
+      "position": 24,
+      "text": "εἰσιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "they are",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 54,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "on",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 26,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 27,
+      "text": "γῆς.",
+      "lemma": null,
+      "morph": null,
+      "translation": "earth.",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11851,
+    "ordinal": 1654,
+    "reduced": 763
+  }
+}

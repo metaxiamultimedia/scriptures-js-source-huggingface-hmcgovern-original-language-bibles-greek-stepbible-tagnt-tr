@@ -1,0 +1,244 @@
+{
+  "text": "ἀποκριθεὶς Σίμων εἶπεν· ὑπολαμβάνω ὅτι ᾧ τὸ πλεῖον ἐχαρίσατο. ὁ δὲ εἶπεν αὐτῷ· ὀρθῶς ἔκρινας.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀποκριθεὶς",
+      "lemma": [
+        "G611"
+      ],
+      "strongs": "G611",
+      "morph": "robinson:V-AOP-NSM",
+      "translation": "Answering",
+      "metadata": {},
+      "gematria": {
+        "standard": 505,
+        "ordinal": 108,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 2,
+      "text": "Σίμων",
+      "lemma": null,
+      "morph": null,
+      "translation": "Simon",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 76,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 3,
+      "text": "εἶπεν·",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "said;",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὑπολαμβάνω",
+      "lemma": [
+        "G5274"
+      ],
+      "strongs": "G5274",
+      "morph": "robinson:V-PAI-1S",
+      "translation": "I take it",
+      "metadata": {},
+      "gematria": {
+        "standard": 1474,
+        "ordinal": 115,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "ᾧ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-DSM",
+      "translation": "[he] to whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "πλεῖον",
+      "lemma": [
+        "G4119"
+      ],
+      "strongs": "G4119",
+      "morph": "robinson:A-ASN-C",
+      "translation": "most",
+      "metadata": {},
+      "gematria": {
+        "standard": 245,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐχαρίσατο.",
+      "lemma": [
+        "G5483"
+      ],
+      "strongs": "G5483",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "he forgave.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1287,
+        "ordinal": 107,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "He said",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτῷ·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὀρθῶς",
+      "lemma": [
+        "G3723"
+      ],
+      "strongs": "G3723",
+      "morph": "robinson:ADV",
+      "translation": "Rightly",
+      "metadata": {},
+      "gematria": {
+        "standard": 1179,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἔκρινας.",
+      "lemma": [
+        "G2919"
+      ],
+      "strongs": "G2919",
+      "morph": "robinson:V-AAI-2S",
+      "translation": "You have judged.",
+      "metadata": {},
+      "gematria": {
+        "standard": 386,
+        "ordinal": 73,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9626,
+    "ordinal": 933,
+    "reduced": 411
+  }
+}

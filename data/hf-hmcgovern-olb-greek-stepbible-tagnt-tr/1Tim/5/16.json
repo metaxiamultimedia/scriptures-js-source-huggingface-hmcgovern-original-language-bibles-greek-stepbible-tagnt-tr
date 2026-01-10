@@ -1,0 +1,311 @@
+{
+  "text": "εἴ τις πιστὸς ἢ πιστὴ ἔχει χήρας, ἐπαρκείτω αὐταῖς καὶ μὴ βαρείσθω ἡ ἐκκλησία, ἵνα ταῖς ὄντως χήραις ἐπαρκέσῃ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSF",
+      "translation": "any",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "πιστὸς",
+      "lemma": [
+        "G4103"
+      ],
+      "strongs": "G4103",
+      "morph": "robinson:A-NSM",
+      "translation": "faithful",
+      "metadata": {},
+      "gematria": {
+        "standard": 860,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "πιστὴ",
+      "lemma": [
+        "G4103"
+      ],
+      "strongs": "G4103",
+      "morph": "robinson:A-NSF",
+      "translation": "believing [woman]",
+      "metadata": {},
+      "gematria": {
+        "standard": 598,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἔχει",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "has",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "χήρας,",
+      "lemma": [
+        "G5503"
+      ],
+      "strongs": "G5503",
+      "morph": "robinson:N-APF",
+      "translation": "[dependent] widows,",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐπαρκείτω",
+      "lemma": [
+        "G1884"
+      ],
+      "strongs": "G1884",
+      "morph": "robinson:V-PAM-3S",
+      "translation": "she should help",
+      "metadata": {},
+      "gematria": {
+        "standard": 1321,
+        "ordinal": 106,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 9,
+      "text": "αὐταῖς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPF",
+      "translation": "to them",
+      "metadata": {},
+      "gematria": {
+        "standard": 912,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "βαρείσθω",
+      "lemma": [
+        "G916"
+      ],
+      "strongs": "G916",
+      "morph": "robinson:V-PPM-3S",
+      "translation": "should be burdened",
+      "metadata": {},
+      "gematria": {
+        "standard": 1127,
+        "ordinal": 84,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐκκλησία,",
+      "lemma": [
+        "G1577"
+      ],
+      "strongs": "G1577",
+      "morph": "robinson:N-NSF",
+      "translation": "church,",
+      "metadata": {},
+      "gematria": {
+        "standard": 294,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "so that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "ταῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPF",
+      "translation": "to those [who are]",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὄντως",
+      "lemma": [
+        "G3689"
+      ],
+      "strongs": "G3689",
+      "morph": "robinson:ADV",
+      "translation": "truly",
+      "metadata": {},
+      "gematria": {
+        "standard": 1420,
+        "ordinal": 89,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 18,
+      "text": "χήραις",
+      "lemma": [
+        "G5503"
+      ],
+      "strongs": "G5503",
+      "morph": "robinson:N-DPF",
+      "translation": "widows",
+      "metadata": {},
+      "gematria": {
+        "standard": 919,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐπαρκέσῃ.",
+      "lemma": [
+        "G1884"
+      ],
+      "strongs": "G1884",
+      "morph": "robinson:V-AAS-3S",
+      "translation": "it may impart relief.",
+      "metadata": {},
+      "gematria": {
+        "standard": 429,
+        "ordinal": 88,
+        "reduced": 52
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10601,
+    "ordinal": 1033,
+    "reduced": 493
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "text": "τὸ Ἁγὰρ Σινᾶ ὄρος ἐστὶν ἐν τῇ Ἀραβίᾳ, συστοιχεῖ δὲ τῇ νῦν Ἰερουσαλήμ, δουλεύει μετὰ τῶν τέκνων αὐτῆς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "Ἁγὰρ",
+      "lemma": [
+        "G28"
+      ],
+      "strongs": "G28",
+      "morph": "robinson:N-NSF-P",
+      "translation": "Hagar",
+      "metadata": {},
+      "gematria": {
+        "standard": 105,
+        "ordinal": 22,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "Σινᾶ",
+      "lemma": [
+        "G4614"
+      ],
+      "strongs": "G4614",
+      "morph": "robinson:N-NSN-L",
+      "translation": "Sinai",
+      "metadata": {},
+      "gematria": {
+        "standard": 261,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὄρος",
+      "lemma": [
+        "G3735"
+      ],
+      "strongs": "G3735",
+      "morph": "robinson:N-NSN-L",
+      "translation": "Mount",
+      "metadata": {},
+      "gematria": {
+        "standard": 440,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐστὶν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "Ἀραβίᾳ,",
+      "lemma": [
+        "G688"
+      ],
+      "strongs": "G688",
+      "morph": "robinson:N-DSF-L",
+      "translation": "Arabia,",
+      "metadata": {},
+      "gematria": {
+        "standard": 125,
+        "ordinal": 40,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 9,
+      "text": "συστοιχεῖ",
+      "lemma": [
+        "G4960"
+      ],
+      "strongs": "G4960",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "she corresponds",
+      "metadata": {},
+      "gematria": {
+        "standard": 1795,
+        "ordinal": 135,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 10,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 12,
+      "text": "νῦν",
+      "lemma": [
+        "G3568"
+      ],
+      "strongs": "G3568",
+      "morph": "robinson:ADV",
+      "translation": "present",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 46,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "Ἰερουσαλήμ,",
+      "lemma": [
+        "G2419"
+      ],
+      "strongs": "G2419",
+      "morph": "robinson:N-DSF-L",
+      "translation": "Jerusalem,",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 14,
+      "text": "δουλεύει",
+      "lemma": [
+        "G1398"
+      ],
+      "strongs": "G1398",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "she is in slavery",
+      "metadata": {},
+      "gematria": {
+        "standard": 924,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 15,
+      "text": "μετὰ",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "τέκνων",
+      "lemma": [
+        "G5043"
+      ],
+      "strongs": "G5043",
+      "morph": "robinson:N-GPN",
+      "translation": "children",
+      "metadata": {},
+      "gematria": {
+        "standard": 1225,
+        "ordinal": 84,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 18,
+      "text": "αὐτῆς.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "of her.",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10279,
+    "ordinal": 990,
+    "reduced": 396
+  }
+}

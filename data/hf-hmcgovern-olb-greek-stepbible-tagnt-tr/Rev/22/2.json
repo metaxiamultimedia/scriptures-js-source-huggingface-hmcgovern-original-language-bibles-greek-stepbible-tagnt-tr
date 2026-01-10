@@ -1,0 +1,519 @@
+{
+  "text": "ἐν μέσῳ τῆς πλατείας αὐτῆς καὶ τοῦ ποταμοῦ, ἐντεῦθεν καὶ ξύλον ζωῆς ποιοῦν καρποὺς δώδεκα, κατὰ μῆνα ἕνα ἕκαστον ἀποδιδοῦν τὸν καρπὸν αὐτοῦ, καὶ τὰ φύλλα τοῦ ξύλου εἰς θεραπείαν τῶν ἐθνῶν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "In",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "μέσῳ",
+      "lemma": [
+        "G3319"
+      ],
+      "strongs": "G3319",
+      "morph": "robinson:A-DSN",
+      "translation": "[the] middle",
+      "metadata": {},
+      "gematria": {
+        "standard": 1055,
+        "ordinal": 68,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 3,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
+      "text": "πλατείας",
+      "lemma": [
+        "G4116"
+      ],
+      "strongs": "G4116",
+      "morph": "robinson:N-GSF",
+      "translation": "street",
+      "metadata": {},
+      "gematria": {
+        "standard": 627,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτῆς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "of it",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "ποταμοῦ,",
+      "lemma": [
+        "G4215"
+      ],
+      "strongs": "G4215",
+      "morph": "robinson:N-GSM",
+      "translation": "river,",
+      "metadata": {},
+      "gematria": {
+        "standard": 961,
+        "ordinal": 98,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐντεῦθεν",
+      "lemma": [
+        "G1782"
+      ],
+      "strongs": "G1782",
+      "morph": "robinson:ADV",
+      "translation": "from here",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ξύλον",
+      "lemma": [
+        "G3586"
+      ],
+      "strongs": "G3586",
+      "morph": "robinson:N-NSN",
+      "translation": "[was a] tree",
+      "metadata": {},
+      "gematria": {
+        "standard": 610,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "ζωῆς",
+      "lemma": [
+        "G2222"
+      ],
+      "strongs": "G2222",
+      "morph": "robinson:N-GSF",
+      "translation": "of life",
+      "metadata": {},
+      "gematria": {
+        "standard": 1015,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 13,
+      "text": "ποιοῦν",
+      "lemma": null,
+      "morph": null,
+      "translation": "producing",
+      "metadata": {},
+      "gematria": {
+        "standard": 680,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 14,
+      "text": "καρποὺς",
+      "lemma": [
+        "G2590"
+      ],
+      "strongs": "G2590",
+      "morph": "robinson:N-APM",
+      "translation": "fruits",
+      "metadata": {},
+      "gematria": {
+        "standard": 871,
+        "ordinal": 97,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 15,
+      "text": "δώδεκα,",
+      "lemma": [
+        "G1427"
+      ],
+      "strongs": "G1427",
+      "morph": "robinson:A-NUI",
+      "translation": "twelve,",
+      "metadata": {},
+      "gematria": {
+        "standard": 834,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 16,
+      "text": "κατὰ",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "according to",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 31,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 17,
+      "text": "μῆνα",
+      "lemma": [
+        "G3376"
+      ],
+      "strongs": "G3376",
+      "morph": "robinson:N-ASM",
+      "translation": "month",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἕνα",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-ASM",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἕκαστον",
+      "lemma": [
+        "G1538"
+      ],
+      "strongs": "G1538",
+      "morph": "robinson:A-ASM",
+      "translation": "each",
+      "metadata": {},
+      "gematria": {
+        "standard": 646,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀποδιδοῦν",
+      "lemma": [
+        "G591"
+      ],
+      "strongs": "G591",
+      "morph": "robinson:V-PAP-NSN",
+      "translation": "yielding",
+      "metadata": {},
+      "gematria": {
+        "standard": 689,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 21,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "καρπὸν",
+      "lemma": [
+        "G2590"
+      ],
+      "strongs": "G2590",
+      "morph": "robinson:N-ASM",
+      "translation": "fruit",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 23,
+      "text": "αὐτοῦ,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSN",
+      "translation": "of it,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 24,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 25,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 26,
+      "text": "φύλλα",
+      "lemma": [
+        "G5444"
+      ],
+      "strongs": "G5444",
+      "morph": "robinson:N-NPN",
+      "translation": "leaves",
+      "metadata": {},
+      "gematria": {
+        "standard": 961,
+        "ordinal": 64,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 27,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 28,
+      "text": "ξύλου",
+      "lemma": [
+        "G3586"
+      ],
+      "strongs": "G3586",
+      "morph": "robinson:N-GSN",
+      "translation": "tree",
+      "metadata": {},
+      "gematria": {
+        "standard": 960,
+        "ordinal": 80,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 29,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "[are] for",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 30,
+      "text": "θεραπείαν",
+      "lemma": [
+        "G2322"
+      ],
+      "strongs": "G2322",
+      "morph": "robinson:N-ASF",
+      "translation": "[the] healing",
+      "metadata": {},
+      "gematria": {
+        "standard": 261,
+        "ordinal": 75,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 31,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 32,
+      "text": "ἐθνῶν.",
+      "lemma": [
+        "G1484"
+      ],
+      "strongs": "G1484",
+      "morph": "robinson:N-GPN",
+      "translation": "nations.",
+      "metadata": {},
+      "gematria": {
+        "standard": 914,
+        "ordinal": 63,
+        "reduced": 27
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 19068,
+    "ordinal": 1835,
+    "reduced": 647
+  }
+}

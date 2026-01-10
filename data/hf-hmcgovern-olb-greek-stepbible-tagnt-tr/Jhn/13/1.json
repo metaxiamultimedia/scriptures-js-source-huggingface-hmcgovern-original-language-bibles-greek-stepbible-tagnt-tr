@@ -1,0 +1,532 @@
+{
+  "text": "Πρὸ δὲ τῆς ἑορτῆς τοῦ πάσχα εἰδὼς ὁ Ἰησοῦς ὅτι αὐτοῦ ἡ ὥρα ἵνα μεταβῇ ἐκ τοῦ κόσμου τούτου πρὸς τὸν πατέρα, ἀγαπήσας τοὺς ἰδίους τοὺς ἐν τῷ κόσμῳ εἰς τέλος ἠγάπησεν αὐτούς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Πρὸ",
+      "lemma": [
+        "G4253"
+      ],
+      "strongs": "G4253",
+      "morph": "robinson:PREP",
+      "translation": "Before",
+      "metadata": {},
+      "gematria": {
+        "standard": 250,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἑορτῆς",
+      "lemma": [
+        "G1859"
+      ],
+      "strongs": "G1859",
+      "morph": "robinson:N-GSF",
+      "translation": "feast",
+      "metadata": {},
+      "gematria": {
+        "standard": 683,
+        "ordinal": 81,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "πάσχα",
+      "lemma": [
+        "G3957"
+      ],
+      "strongs": "G3957",
+      "morph": "robinson:N-GSN",
+      "translation": "Passover",
+      "metadata": {},
+      "gematria": {
+        "standard": 882,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 7,
+      "text": "εἰδὼς",
+      "lemma": [
+        "G6063"
+      ],
+      "strongs": "G6063",
+      "morph": "robinson:V-RAP-NSM",
+      "translation": "knowing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1019,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "to him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὥρα",
+      "lemma": [
+        "G5610"
+      ],
+      "strongs": "G5610",
+      "morph": "robinson:N-NSF",
+      "translation": "hour",
+      "metadata": {},
+      "gematria": {
+        "standard": 901,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 15,
+      "text": "μεταβῇ",
+      "lemma": [
+        "G3327"
+      ],
+      "strongs": "G3327",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "He may depart",
+      "metadata": {},
+      "gematria": {
+        "standard": 366,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 17,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "κόσμου",
+      "lemma": [
+        "G2889"
+      ],
+      "strongs": "G2889",
+      "morph": "robinson:N-GSM",
+      "translation": "world",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 90,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 19,
+      "text": "τούτου",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-GSM",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1540,
+        "ordinal": 108,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 20,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 21,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "πατέρα,",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-ASM-T",
+      "translation": "Father,",
+      "metadata": {},
+      "gematria": {
+        "standard": 487,
+        "ordinal": 59,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἀγαπήσας",
+      "lemma": [
+        "G25"
+      ],
+      "strongs": "G25",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having loved",
+      "metadata": {},
+      "gematria": {
+        "standard": 494,
+        "ordinal": 65,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 24,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἰδίους",
+      "lemma": [
+        "G2398"
+      ],
+      "strongs": "G2398",
+      "morph": "robinson:A-APM",
+      "translation": "[his] own",
+      "metadata": {},
+      "gematria": {
+        "standard": 694,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 26,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "who [were]",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 27,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 28,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 29,
+      "text": "κόσμῳ",
+      "lemma": [
+        "G2889"
+      ],
+      "strongs": "G2889",
+      "morph": "robinson:N-DSM",
+      "translation": "world",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 30,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 31,
+      "text": "τέλος",
+      "lemma": [
+        "G5056"
+      ],
+      "strongs": "G5056",
+      "morph": "robinson:N-ASN",
+      "translation": "[the] end",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 32,
+      "text": "ἠγάπησεν",
+      "lemma": [
+        "G25"
+      ],
+      "strongs": "G25",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "He loved",
+      "metadata": {},
+      "gematria": {
+        "standard": 355,
+        "ordinal": 70,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 33,
+      "text": "αὐτούς.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APM",
+      "translation": "them.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 93,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 20437,
+    "ordinal": 1845,
+    "reduced": 693
+  }
+}

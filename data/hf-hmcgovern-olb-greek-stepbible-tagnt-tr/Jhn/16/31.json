@@ -1,0 +1,87 @@
+{
+  "text": "ἀπεκρίθη αὐτοῖς Ἰησοῦς· ἄρτι πιστεύετε;",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀπεκρίθη",
+      "lemma": [
+        "G611"
+      ],
+      "strongs": "G611",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "Answered",
+      "metadata": {},
+      "gematria": {
+        "standard": 233,
+        "ordinal": 73,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 2,
+      "text": "αὐτοῖς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἰησοῦς·",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἄρτι",
+      "lemma": [
+        "G737"
+      ],
+      "strongs": "G737",
+      "morph": "robinson:ADV",
+      "translation": "Now",
+      "metadata": {},
+      "gematria": {
+        "standard": 411,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "πιστεύετε;",
+      "lemma": [
+        "G4100"
+      ],
+      "strongs": "G4100",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "do you believe?",
+      "metadata": {},
+      "gematria": {
+        "standard": 1305,
+        "ordinal": 116,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3818,
+    "ordinal": 404,
+    "reduced": 179
+  }
+}

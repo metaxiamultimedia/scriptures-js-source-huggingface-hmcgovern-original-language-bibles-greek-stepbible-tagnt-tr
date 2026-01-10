@@ -1,0 +1,132 @@
+{
+  "text": "καὶ ἐβόησεν λέγων· Ἰησοῦ υἱὲ Δαυίδ, ἐλέησόν με.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐβόησεν",
+      "lemma": [
+        "G994"
+      ],
+      "strongs": "G994",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he called out",
+      "metadata": {},
+      "gematria": {
+        "standard": 340,
+        "ordinal": 65,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 3,
+      "text": "λέγων·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἰησοῦ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "υἱὲ",
+      "lemma": [
+        "G5207"
+      ],
+      "strongs": "G5207",
+      "morph": "robinson:N-VSM",
+      "translation": "Son",
+      "metadata": {},
+      "gematria": {
+        "standard": 415,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "Δαυίδ,",
+      "lemma": [
+        "G1138"
+      ],
+      "strongs": "G1138",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of David,",
+      "metadata": {},
+      "gematria": {
+        "standard": 419,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐλέησόν",
+      "lemma": [
+        "G1653"
+      ],
+      "strongs": "G1653",
+      "morph": "robinson:V-AAM-2S",
+      "translation": "do have mercy on",
+      "metadata": {},
+      "gematria": {
+        "standard": 368,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 8,
+      "text": "με.",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "me.",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3194,
+    "ordinal": 373,
+    "reduced": 184
+  }
+}

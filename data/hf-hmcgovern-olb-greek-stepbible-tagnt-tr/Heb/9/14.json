@@ -1,0 +1,433 @@
+{
+  "text": "πόσῳ μᾶλλον τὸ αἷμα τοῦ Χριστοῦ, ὃς διὰ πνεύματος αἰωνίου ἑαυτὸν προσήνεγκεν ἄμωμον τῷ θεῷ, καθαριεῖ τὴν συνείδησιν ἡμῶν ἀπὸ νεκρῶν ἔργων εἰς τὸ λατρεύειν θεῷ ζῶντι;",
+  "words": [
+    {
+      "position": 1,
+      "text": "πόσῳ",
+      "lemma": [
+        "G4214"
+      ],
+      "strongs": "G4214",
+      "morph": "robinson:Q-DSN",
+      "translation": "how much",
+      "metadata": {},
+      "gematria": {
+        "standard": 1160,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 2,
+      "text": "μᾶλλον",
+      "lemma": null,
+      "morph": null,
+      "translation": "more",
+      "metadata": {},
+      "gematria": {
+        "standard": 221,
+        "ordinal": 63,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "αἷμα",
+      "lemma": null,
+      "morph": null,
+      "translation": "blood",
+      "metadata": {},
+      "gematria": {
+        "standard": 52,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "Χριστοῦ,",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of Christ,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὃς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "πνεύματος",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] Spirit",
+      "metadata": {},
+      "gematria": {
+        "standard": 1146,
+        "ordinal": 119,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 10,
+      "text": "αἰωνίου",
+      "lemma": [
+        "G166"
+      ],
+      "strongs": "G166",
+      "morph": "robinson:A-GSN",
+      "translation": "eternal",
+      "metadata": {},
+      "gematria": {
+        "standard": 1341,
+        "ordinal": 91,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἑαυτὸν",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-3ASM",
+      "translation": "Himself",
+      "metadata": {},
+      "gematria": {
+        "standard": 826,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "προσήνεγκεν",
+      "lemma": [
+        "G4374"
+      ],
+      "strongs": "G4374",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "offered",
+      "metadata": {},
+      "gematria": {
+        "standard": 591,
+        "ordinal": 122,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἄμωμον",
+      "lemma": [
+        "G299"
+      ],
+      "strongs": "G299",
+      "morph": "robinson:A-ASM",
+      "translation": "unblemished",
+      "metadata": {},
+      "gematria": {
+        "standard": 1001,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 14,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "θεῷ,",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-DSM-T",
+      "translation": "to God,",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 16,
+      "text": "καθαριεῖ",
+      "lemma": [
+        "G2511"
+      ],
+      "strongs": "G2511",
+      "morph": "robinson:V-FAI-3S",
+      "translation": "will purify",
+      "metadata": {},
+      "gematria": {
+        "standard": 156,
+        "ordinal": 60,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 17,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 18,
+      "text": "συνείδησιν",
+      "lemma": [
+        "G4893"
+      ],
+      "strongs": "G4893",
+      "morph": "robinson:N-ASF",
+      "translation": "conscience",
+      "metadata": {},
+      "gematria": {
+        "standard": 937,
+        "ordinal": 116,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἡμῶν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GP",
+      "translation": "of us",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 21,
+      "text": "νεκρῶν",
+      "lemma": [
+        "G3498"
+      ],
+      "strongs": "G3498",
+      "morph": "robinson:A-GPN",
+      "translation": "dead",
+      "metadata": {},
+      "gematria": {
+        "standard": 1025,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἔργων",
+      "lemma": [
+        "G2041"
+      ],
+      "strongs": "G2041",
+      "morph": "robinson:N-GPN",
+      "translation": "works",
+      "metadata": {},
+      "gematria": {
+        "standard": 958,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 23,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "in order",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 24,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 25,
+      "text": "λατρεύειν",
+      "lemma": [
+        "G3000"
+      ],
+      "strongs": "G3000",
+      "morph": "robinson:V-PAN",
+      "translation": "to serve",
+      "metadata": {},
+      "gematria": {
+        "standard": 901,
+        "ordinal": 100,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 26,
+      "text": "θεῷ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-DSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 27,
+      "text": "ζῶντι;",
+      "lemma": [
+        "G2198"
+      ],
+      "strongs": "G2198",
+      "morph": "robinson:V-PAP-DSM",
+      "translation": "[the] living?",
+      "metadata": {},
+      "gematria": {
+        "standard": 1167,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 19337,
+    "ordinal": 1733,
+    "reduced": 698
+  }
+}

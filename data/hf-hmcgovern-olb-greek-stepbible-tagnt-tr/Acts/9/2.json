@@ -1,0 +1,388 @@
+{
+  "text": "ᾐτήσατο παρ᾽ αὐτοῦ ἐπιστολὰς εἰς Δαμασκὸν πρὸς τὰς συναγωγάς, ὅπως ἐάν τινας εὕρῃ τῆς ὁδοῦ ὄντας ἄνδρας τε καὶ γυναῖκας, δεδεμένους ἀγάγῃ εἰς Ἰερουσαλήμ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ᾐτήσατο",
+      "lemma": [
+        "G154"
+      ],
+      "strongs": "G154",
+      "morph": "robinson:V-AMI-3S",
+      "translation": "requested",
+      "metadata": {},
+      "gematria": {
+        "standard": 897,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 2,
+      "text": "παρ᾽",
+      "lemma": [
+        "G3844"
+      ],
+      "strongs": "G3844",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 181,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐπιστολὰς",
+      "lemma": [
+        "G1992"
+      ],
+      "strongs": "G1992",
+      "morph": "robinson:N-APF",
+      "translation": "letters",
+      "metadata": {},
+      "gematria": {
+        "standard": 896,
+        "ordinal": 112,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "Δαμασκὸν",
+      "lemma": [
+        "G1154"
+      ],
+      "strongs": "G1154",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Damascus",
+      "metadata": {},
+      "gematria": {
+        "standard": 386,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "συναγωγάς,",
+      "lemma": [
+        "G4864"
+      ],
+      "strongs": "G4864",
+      "morph": "robinson:N-APF",
+      "translation": "synagogues,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1658,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὅπως",
+      "lemma": [
+        "G3704"
+      ],
+      "strongs": "G3704",
+      "morph": "robinson:CONJ",
+      "translation": "so that",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐάν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "τινας",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-APM",
+      "translation": "any",
+      "metadata": {},
+      "gematria": {
+        "standard": 561,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 13,
+      "text": "εὕρῃ",
+      "lemma": [
+        "G2147"
+      ],
+      "strongs": "G2147",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "he shall find",
+      "metadata": {},
+      "gematria": {
+        "standard": 523,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 14,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὁδοῦ",
+      "lemma": [
+        "G3598"
+      ],
+      "strongs": "G3598",
+      "morph": "robinson:N-GSF",
+      "translation": "way",
+      "metadata": {},
+      "gematria": {
+        "standard": 544,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὄντας",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAP-APM",
+      "translation": "being",
+      "metadata": {},
+      "gematria": {
+        "standard": 621,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἄνδρας",
+      "lemma": null,
+      "morph": null,
+      "translation": "men",
+      "metadata": {},
+      "gematria": {
+        "standard": 356,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 18,
+      "text": "τε",
+      "lemma": [
+        "G5037"
+      ],
+      "strongs": "G5037",
+      "morph": "robinson:CONJ",
+      "translation": "both",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 19,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "γυναῖκας,",
+      "lemma": null,
+      "morph": null,
+      "translation": "women,",
+      "metadata": {},
+      "gematria": {
+        "standard": 685,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 21,
+      "text": "δεδεμένους",
+      "lemma": [
+        "G1210"
+      ],
+      "strongs": "G1210",
+      "morph": "robinson:V-RPP-APM",
+      "translation": "bound",
+      "metadata": {},
+      "gematria": {
+        "standard": 783,
+        "ordinal": 101,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἀγάγῃ",
+      "lemma": [
+        "G71"
+      ],
+      "strongs": "G71",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "he may bring [them]",
+      "metadata": {},
+      "gematria": {
+        "standard": 26,
+        "ordinal": 24,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 23,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 24,
+      "text": "Ἰερουσαλήμ.",
+      "lemma": [
+        "G2419"
+      ],
+      "strongs": "G2419",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Jerusalem.",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13583,
+    "ordinal": 1446,
+    "reduced": 618
+  }
+}

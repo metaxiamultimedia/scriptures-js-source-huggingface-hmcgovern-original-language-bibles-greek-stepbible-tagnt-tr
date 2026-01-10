@@ -1,0 +1,321 @@
+{
+  "text": "καὶ ἐμνήσθη ὁ Πέτρος τοῦ ῥήματος Ἰησοῦ εἰρηκότος ὅτι πρὶν ἀλέκτορα φωνῆσαι τρὶς ἀπαρνήσῃ με, καὶ ἐξελθὼν ἔξω ἔκλαυσεν πικρῶς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐμνήσθη",
+      "lemma": [
+        "G3403"
+      ],
+      "strongs": "G3403",
+      "morph": "robinson:V-API-3S",
+      "translation": "remembered",
+      "metadata": {},
+      "gematria": {
+        "standard": 320,
+        "ordinal": 70,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "Πέτρος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Peter",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "ῥήματος",
+      "lemma": [
+        "G4487"
+      ],
+      "strongs": "G4487",
+      "morph": "robinson:N-GSN",
+      "translation": "declaration",
+      "metadata": {},
+      "gematria": {
+        "standard": 719,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ἰησοῦ",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 688,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 8,
+      "text": "εἰρηκότος",
+      "lemma": [
+        "G2046"
+      ],
+      "strongs": "G2046",
+      "morph": "robinson:V-RAP-GSM",
+      "translation": "having said",
+      "metadata": {},
+      "gematria": {
+        "standard": 783,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "πρὶν",
+      "lemma": [
+        "G4250"
+      ],
+      "strongs": "G4250",
+      "morph": "robinson:ADV",
+      "translation": "Before [the]",
+      "metadata": {},
+      "gematria": {
+        "standard": 240,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἀλέκτορα",
+      "lemma": [
+        "G220"
+      ],
+      "strongs": "G220",
+      "morph": "robinson:N-ASM",
+      "translation": "rooster",
+      "metadata": {},
+      "gematria": {
+        "standard": 527,
+        "ordinal": 79,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 12,
+      "text": "φωνῆσαι",
+      "lemma": [
+        "G5455"
+      ],
+      "strongs": "G5455",
+      "morph": "robinson:V-AAN",
+      "translation": "crowing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1569,
+        "ordinal": 93,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 13,
+      "text": "τρὶς",
+      "lemma": [
+        "G5151"
+      ],
+      "strongs": "G5151",
+      "morph": "robinson:ADV",
+      "translation": "three times",
+      "metadata": {},
+      "gematria": {
+        "standard": 610,
+        "ordinal": 63,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀπαρνήσῃ",
+      "lemma": [
+        "G533"
+      ],
+      "strongs": "G533",
+      "morph": "robinson:V-FDI-2S",
+      "translation": "you will deny",
+      "metadata": {},
+      "gematria": {
+        "standard": 458,
+        "ordinal": 89,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 15,
+      "text": "με,",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "Me,",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐξελθὼν",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having gone",
+      "metadata": {},
+      "gematria": {
+        "standard": 959,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἔξω",
+      "lemma": [
+        "G1854"
+      ],
+      "strongs": "G1854",
+      "morph": "robinson:PREP",
+      "translation": "out",
+      "metadata": {},
+      "gematria": {
+        "standard": 865,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἔκλαυσεν",
+      "lemma": [
+        "G2799"
+      ],
+      "strongs": "G2799",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he wept",
+      "metadata": {},
+      "gematria": {
+        "standard": 711,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 20,
+      "text": "πικρῶς.",
+      "lemma": [
+        "G4090"
+      ],
+      "strongs": "G4090",
+      "morph": "robinson:ADV",
+      "translation": "bitterly.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1210,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11741,
+    "ordinal": 1281,
+    "reduced": 552
+  }
+}

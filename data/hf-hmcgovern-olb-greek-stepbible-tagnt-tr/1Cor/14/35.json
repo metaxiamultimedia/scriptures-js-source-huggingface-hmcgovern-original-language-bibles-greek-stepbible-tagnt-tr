@@ -1,0 +1,286 @@
+{
+  "text": "εἰ δέ τι μαθεῖν θέλουσιν, ἐν οἴκῳ τοὺς ἰδίους ἄνδρας ἐπερωτάτωσαν· αἰσχρὸν γάρ ἐστιν γυναικὶ λαλεῖν ἐν ἐκκλησίᾳ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δέ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τι",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-ASN",
+      "translation": "anything",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "μαθεῖν",
+      "lemma": [
+        "G3129"
+      ],
+      "strongs": "G3129",
+      "morph": "robinson:V-2AAN",
+      "translation": "to learn",
+      "metadata": {},
+      "gematria": {
+        "standard": 115,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "θέλουσιν,",
+      "lemma": [
+        "G2309"
+      ],
+      "strongs": "G2309",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "they desire,",
+      "metadata": {},
+      "gematria": {
+        "standard": 774,
+        "ordinal": 99,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "at",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "οἴκῳ",
+      "lemma": null,
+      "morph": null,
+      "translation": "home",
+      "metadata": {},
+      "gematria": {
+        "standard": 910,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἰδίους",
+      "lemma": [
+        "G2398"
+      ],
+      "strongs": "G2398",
+      "morph": "robinson:A-APM",
+      "translation": "[their] own",
+      "metadata": {},
+      "gematria": {
+        "standard": 694,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἄνδρας",
+      "lemma": null,
+      "morph": null,
+      "translation": "husbands",
+      "metadata": {},
+      "gematria": {
+        "standard": 356,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐπερωτάτωσαν·",
+      "lemma": [
+        "G1905"
+      ],
+      "strongs": "G1905",
+      "morph": "robinson:V-PAM-3P",
+      "translation": "they should ask;",
+      "metadata": {},
+      "gematria": {
+        "standard": 2642,
+        "ordinal": 162,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 12,
+      "text": "αἰσχρὸν",
+      "lemma": [
+        "G150"
+      ],
+      "strongs": "G150",
+      "morph": "robinson:A-NSN",
+      "translation": "shameful",
+      "metadata": {},
+      "gematria": {
+        "standard": 1031,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 13,
+      "text": "γάρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "it is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "γυναικὶ",
+      "lemma": null,
+      "morph": null,
+      "translation": "for a woman",
+      "metadata": {},
+      "gematria": {
+        "standard": 494,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 16,
+      "text": "λαλεῖν",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-PAN",
+      "translation": "to speak",
+      "metadata": {},
+      "gematria": {
+        "standard": 126,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐκκλησίᾳ.",
+      "lemma": [
+        "G1577"
+      ],
+      "strongs": "G1577",
+      "morph": "robinson:N-DSF",
+      "translation": "[the] church.",
+      "metadata": {},
+      "gematria": {
+        "standard": 304,
+        "ordinal": 80,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9529,
+    "ordinal": 1039,
+    "reduced": 472
+  }
+}

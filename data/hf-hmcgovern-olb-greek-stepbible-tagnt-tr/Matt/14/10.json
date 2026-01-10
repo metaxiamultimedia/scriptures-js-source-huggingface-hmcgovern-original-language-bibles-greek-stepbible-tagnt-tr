@@ -1,0 +1,132 @@
+{
+  "text": "καὶ πέμψας ἀπεκεφάλισεν τὸν Ἰωάννην ἐν τῇ φυλακῇ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "πέμψας",
+      "lemma": [
+        "G3992"
+      ],
+      "strongs": "G3992",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "he having sent",
+      "metadata": {},
+      "gematria": {
+        "standard": 1026,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀπεκεφάλισεν",
+      "lemma": [
+        "G607"
+      ],
+      "strongs": "G607",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "beheaded",
+      "metadata": {},
+      "gematria": {
+        "standard": 907,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "Ἰωάννην",
+      "lemma": null,
+      "morph": null,
+      "translation": "John",
+      "metadata": {},
+      "gematria": {
+        "standard": 969,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "φυλακῇ.",
+      "lemma": null,
+      "morph": null,
+      "translation": "prison.",
+      "metadata": {},
+      "gematria": {
+        "standard": 969,
+        "ordinal": 79,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4695,
+    "ordinal": 469,
+    "reduced": 190
+  }
+}

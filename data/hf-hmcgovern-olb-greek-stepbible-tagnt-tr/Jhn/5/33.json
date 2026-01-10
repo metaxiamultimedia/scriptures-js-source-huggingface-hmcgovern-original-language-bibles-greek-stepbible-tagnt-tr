@@ -1,0 +1,135 @@
+{
+  "text": "ὑμεῖς ἀπεστάλκατε πρὸς Ἰωάννην, καὶ μεμαρτύρηκεν τῇ ἀληθείᾳ·",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὑμεῖς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NP",
+      "translation": "You yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀπεστάλκατε",
+      "lemma": [
+        "G649"
+      ],
+      "strongs": "G649",
+      "morph": "robinson:V-RAI-2P",
+      "translation": "have sent",
+      "metadata": {},
+      "gematria": {
+        "standard": 943,
+        "ordinal": 106,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 3,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "unto",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἰωάννην,",
+      "lemma": null,
+      "morph": null,
+      "translation": "John",
+      "metadata": {},
+      "gematria": {
+        "standard": 969,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "μεμαρτύρηκεν",
+      "lemma": [
+        "G3140"
+      ],
+      "strongs": "G3140",
+      "morph": "robinson:V-RAI-3S",
+      "translation": "he has borne witness",
+      "metadata": {},
+      "gematria": {
+        "standard": 1069,
+        "ordinal": 138,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀληθείᾳ·",
+      "lemma": [
+        "G225"
+      ],
+      "strongs": "G225",
+      "morph": "robinson:N-DSF",
+      "translation": "truth;",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 51,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4509,
+    "ordinal": 560,
+    "reduced": 245
+  }
+}

@@ -1,0 +1,484 @@
+{
+  "text": "ἀναστὰς δὲ Πέτρος συνῆλθεν αὐτοῖς· ὃν παραγενόμενον ἀνήγαγον εἰς τὸ ὑπερῷον, καὶ παρέστησαν αὐτῷ πᾶσαι αἱ χῆραι κλαίουσαι καὶ ἐπιδεικνύμεναι χιτῶνας καὶ ἱμάτια ὅσα ἐποίει μετ᾽ αὐτῶν οὖσα ἡ Δορκάς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀναστὰς",
+      "lemma": [
+        "G450"
+      ],
+      "strongs": "G450",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "Having risen up",
+      "metadata": {},
+      "gematria": {
+        "standard": 753,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "Πέτρος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Peter",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 4,
+      "text": "συνῆλθεν",
+      "lemma": [
+        "G4905"
+      ],
+      "strongs": "G4905",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "went with",
+      "metadata": {},
+      "gematria": {
+        "standard": 752,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτοῖς·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "them;",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὃν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "παραγενόμενον",
+      "lemma": [
+        "G3854"
+      ],
+      "strongs": "G3854",
+      "morph": "robinson:V-2ADP-ASM",
+      "translation": "having arrived",
+      "metadata": {},
+      "gematria": {
+        "standard": 525,
+        "ordinal": 129,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀνήγαγον",
+      "lemma": [
+        "G321"
+      ],
+      "strongs": "G321",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "they brought [him]",
+      "metadata": {},
+      "gematria": {
+        "standard": 186,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 9,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὑπερῷον,",
+      "lemma": [
+        "G5253"
+      ],
+      "strongs": "G5253",
+      "morph": "robinson:N-ASN",
+      "translation": "upper room,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1515,
+        "ordinal": 119,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "παρέστησαν",
+      "lemma": [
+        "G3936"
+      ],
+      "strongs": "G3936",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "stood by",
+      "metadata": {},
+      "gematria": {
+        "standard": 945,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 14,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 15,
+      "text": "πᾶσαι",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NPF",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 292,
+        "ordinal": 45,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 16,
+      "text": "αἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 17,
+      "text": "χῆραι",
+      "lemma": [
+        "G5503"
+      ],
+      "strongs": "G5503",
+      "morph": "robinson:N-NPF",
+      "translation": "widows",
+      "metadata": {},
+      "gematria": {
+        "standard": 719,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 18,
+      "text": "κλαίουσαι",
+      "lemma": [
+        "G2799"
+      ],
+      "strongs": "G2799",
+      "morph": "robinson:V-PAP-NPF",
+      "translation": "weeping",
+      "metadata": {},
+      "gematria": {
+        "standard": 742,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 19,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐπιδεικνύμεναι",
+      "lemma": [
+        "G1925"
+      ],
+      "strongs": "G1925",
+      "morph": "robinson:V-PMP-NPF",
+      "translation": "showing",
+      "metadata": {},
+      "gematria": {
+        "standard": 690,
+        "ordinal": 131,
+        "reduced": 68
+      }
+    },
+    {
+      "position": 21,
+      "text": "χιτῶνας",
+      "lemma": [
+        "G5509"
+      ],
+      "strongs": "G5509",
+      "morph": "robinson:N-APM",
+      "translation": "[the] tunics",
+      "metadata": {},
+      "gematria": {
+        "standard": 1961,
+        "ordinal": 106,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 22,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἱμάτια",
+      "lemma": [
+        "G2440"
+      ],
+      "strongs": "G2440",
+      "morph": "robinson:N-APN",
+      "translation": "garments",
+      "metadata": {},
+      "gematria": {
+        "standard": 362,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 24,
+      "text": "ὅσα",
+      "lemma": [
+        "G3745"
+      ],
+      "strongs": "G3745",
+      "morph": "robinson:K-APN",
+      "translation": "how much",
+      "metadata": {},
+      "gematria": {
+        "standard": 271,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἐποίει",
+      "lemma": null,
+      "morph": null,
+      "translation": "was making",
+      "metadata": {},
+      "gematria": {
+        "standard": 180,
+        "ordinal": 59,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 26,
+      "text": "μετ᾽",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 345,
+        "ordinal": 36,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 27,
+      "text": "αὐτῶν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPF",
+      "translation": "them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 28,
+      "text": "οὖσα",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAP-NSF",
+      "translation": "being",
+      "metadata": {},
+      "gematria": {
+        "standard": 671,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 29,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 30,
+      "text": "Δορκάς.",
+      "lemma": [
+        "G1393"
+      ],
+      "strongs": "G1393",
+      "morph": "robinson:N-NSF-P",
+      "translation": "Dorcas.",
+      "metadata": {},
+      "gematria": {
+        "standard": 395,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 16928,
+    "ordinal": 1818,
+    "reduced": 783
+  }
+}

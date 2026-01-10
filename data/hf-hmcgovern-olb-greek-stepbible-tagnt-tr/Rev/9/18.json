@@ -1,0 +1,378 @@
+{
+  "text": "τῶν τριῶν τούτων ἀπεκτάνθησαν τὸ τρίτον τῶν ἀνθρώπων, ἐκ τοῦ πυρὸς καὶ τοῦ καπνοῦ καὶ τοῦ θείου τοῦ ἐκπορευομένου ἐκ τῶν στομάτων αὐτῶν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "τριῶν",
+      "lemma": [
+        "G5140"
+      ],
+      "strongs": "G5140",
+      "morph": "robinson:A-GPF",
+      "translation": "three",
+      "metadata": {},
+      "gematria": {
+        "standard": 1260,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "τούτων",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-GPF",
+      "translation": "these",
+      "metadata": {},
+      "gematria": {
+        "standard": 1920,
+        "ordinal": 110,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀπεκτάνθησαν",
+      "lemma": [
+        "G615"
+      ],
+      "strongs": "G615",
+      "morph": "robinson:V-API-3P",
+      "translation": "was killed",
+      "metadata": {},
+      "gematria": {
+        "standard": 725,
+        "ordinal": 112,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "τρίτον",
+      "lemma": [
+        "G5154"
+      ],
+      "strongs": "G5154",
+      "morph": "robinson:A-NSN",
+      "translation": "a third",
+      "metadata": {},
+      "gematria": {
+        "standard": 830,
+        "ordinal": 92,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀνθρώπων,",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-GPM",
+      "translation": "of mankind,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1890,
+        "ordinal": 116,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "πυρὸς",
+      "lemma": [
+        "G4442"
+      ],
+      "strongs": "G4442",
+      "morph": "robinson:N-GSN",
+      "translation": "fire",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "καπνοῦ",
+      "lemma": [
+        "G2586"
+      ],
+      "strongs": "G2586",
+      "morph": "robinson:N-GSM",
+      "translation": "smoke",
+      "metadata": {},
+      "gematria": {
+        "standard": 621,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 17,
+      "text": "θείου",
+      "lemma": [
+        "G2303"
+      ],
+      "strongs": "G2303",
+      "morph": "robinson:N-GSN",
+      "translation": "brimstone",
+      "metadata": {},
+      "gematria": {
+        "standard": 494,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 18,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐκπορευομένου",
+      "lemma": [
+        "G1607"
+      ],
+      "strongs": "G1607",
+      "morph": "robinson:V-PNP-GSN",
+      "translation": "is proceeding",
+      "metadata": {},
+      "gematria": {
+        "standard": 1315,
+        "ordinal": 168,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 21,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "στομάτων",
+      "lemma": [
+        "G4750"
+      ],
+      "strongs": "G4750",
+      "morph": "robinson:N-GPN",
+      "translation": "mouths",
+      "metadata": {},
+      "gematria": {
+        "standard": 1761,
+        "ordinal": 121,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 23,
+      "text": "αὐτῶν.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "of them.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 20229,
+    "ordinal": 1584,
+    "reduced": 468
+  }
+}

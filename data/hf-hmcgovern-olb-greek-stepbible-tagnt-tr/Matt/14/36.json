@@ -1,0 +1,250 @@
+{
+  "text": "καὶ παρεκάλουν αὐτὸν ἵνα μόνον ἅψωνται τοῦ κρασπέδου τοῦ ἱματίου αὐτοῦ· καὶ ὅσοι ἥψαντο διεσώθησαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "παρεκάλουν",
+      "lemma": [
+        "G3870"
+      ],
+      "strongs": "G3870",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "they were begging",
+      "metadata": {},
+      "gematria": {
+        "standard": 757,
+        "ordinal": 109,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "μόνον",
+      "lemma": [
+        "G3441"
+      ],
+      "strongs": "G3441",
+      "morph": "robinson:A-ASN",
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἅψωνται",
+      "lemma": [
+        "G681"
+      ],
+      "strongs": "G681",
+      "morph": "robinson:V-AMS-3P",
+      "translation": "they may touch",
+      "metadata": {},
+      "gematria": {
+        "standard": 1862,
+        "ordinal": 90,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "κρασπέδου",
+      "lemma": [
+        "G2899"
+      ],
+      "strongs": "G2899",
+      "morph": "robinson:N-GSN",
+      "translation": "fringe",
+      "metadata": {},
+      "gematria": {
+        "standard": 880,
+        "ordinal": 106,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 9,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἱματίου",
+      "lemma": [
+        "G2440"
+      ],
+      "strongs": "G2440",
+      "morph": "robinson:N-GSN",
+      "translation": "garment",
+      "metadata": {},
+      "gematria": {
+        "standard": 831,
+        "ordinal": 85,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτοῦ·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὅσοι",
+      "lemma": [
+        "G3745"
+      ],
+      "strongs": "G3745",
+      "morph": "robinson:K-NPM",
+      "translation": "as many as",
+      "metadata": {},
+      "gematria": {
+        "standard": 350,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἥψαντο",
+      "lemma": [
+        "G681"
+      ],
+      "strongs": "G681",
+      "morph": "robinson:V-ADI-3P",
+      "translation": "touched",
+      "metadata": {},
+      "gematria": {
+        "standard": 1129,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "διεσώθησαν.",
+      "lemma": [
+        "G1295"
+      ],
+      "strongs": "G1295",
+      "morph": "robinson:V-API-3P",
+      "translation": "were cured.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1287,
+        "ordinal": 107,
+        "reduced": 62
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11031,
+    "ordinal": 1014,
+    "reduced": 357
+  }
+}

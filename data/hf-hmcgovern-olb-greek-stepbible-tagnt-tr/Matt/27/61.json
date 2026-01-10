@@ -1,0 +1,228 @@
+{
+  "text": "ἦν δὲ ἐκεῖ Μαριὰμ ἡ Μαγδαληνὴ καὶ ἡ ἄλλη Μαρία καθήμεναι ἀπέναντι τοῦ τάφου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "Was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐκεῖ",
+      "lemma": [
+        "G1563"
+      ],
+      "strongs": "G1563",
+      "morph": "robinson:ADV",
+      "translation": "there",
+      "metadata": {},
+      "gematria": {
+        "standard": 40,
+        "ordinal": 29,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "Μαριὰμ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Mary",
+      "metadata": {},
+      "gematria": {
+        "standard": 192,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "Μαγδαληνὴ",
+      "lemma": [
+        "G3094"
+      ],
+      "strongs": "G3094",
+      "morph": "robinson:N-NSF-LG",
+      "translation": "Magdalene",
+      "metadata": {},
+      "gematria": {
+        "standard": 145,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἄλλη",
+      "lemma": [
+        "G243"
+      ],
+      "strongs": "G243",
+      "morph": "robinson:A-NSF",
+      "translation": "other",
+      "metadata": {},
+      "gematria": {
+        "standard": 69,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "Μαρία",
+      "lemma": null,
+      "morph": null,
+      "translation": "Mary",
+      "metadata": {},
+      "gematria": {
+        "standard": 152,
+        "ordinal": 40,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 11,
+      "text": "καθήμεναι",
+      "lemma": [
+        "G2521"
+      ],
+      "strongs": "G2521",
+      "morph": "robinson:V-PNP-NPF",
+      "translation": "sitting",
+      "metadata": {},
+      "gematria": {
+        "standard": 144,
+        "ordinal": 66,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀπέναντι",
+      "lemma": [
+        "G561"
+      ],
+      "strongs": "G561",
+      "morph": "robinson:PREP",
+      "translation": "opposite",
+      "metadata": {},
+      "gematria": {
+        "standard": 497,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "τάφου.",
+      "lemma": [
+        "G5028"
+      ],
+      "strongs": "G5028",
+      "morph": "robinson:N-GSM",
+      "translation": "tomb.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1271,
+        "ordinal": 76,
+        "reduced": 13
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3394,
+    "ordinal": 546,
+    "reduced": 249
+  }
+}

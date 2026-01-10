@@ -1,0 +1,202 @@
+{
+  "text": "Καὶ οἱ μὲν πλείονές εἰσιν γεγονότες ἱερεῖς διὰ τὸ θανάτῳ κωλύεσθαι παραμένειν·",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "μὲν",
+      "lemma": [
+        "G3303"
+      ],
+      "strongs": "G3303",
+      "morph": "robinson:PRT",
+      "translation": "indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "πλείονές",
+      "lemma": [
+        "G4119"
+      ],
+      "strongs": "G4119",
+      "morph": "robinson:A-NPM-C",
+      "translation": "many",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 92,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἰσιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "are",
+      "metadata": {},
+      "gematria": {
+        "standard": 275,
+        "ordinal": 54,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 6,
+      "text": "γεγονότες",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2RAP-NPM",
+      "translation": "having become",
+      "metadata": {},
+      "gematria": {
+        "standard": 706,
+        "ordinal": 96,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἱερεῖς",
+      "lemma": [
+        "G2409"
+      ],
+      "strongs": "G2409",
+      "morph": "robinson:N-NPM",
+      "translation": "priests",
+      "metadata": {},
+      "gematria": {
+        "standard": 330,
+        "ordinal": 63,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 8,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "because of",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "θανάτῳ",
+      "lemma": [
+        "G2288"
+      ],
+      "strongs": "G2288",
+      "morph": "robinson:N-DSM",
+      "translation": "by death",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 11,
+      "text": "κωλύεσθαι",
+      "lemma": [
+        "G2967"
+      ],
+      "strongs": "G2967",
+      "morph": "robinson:V-PPN",
+      "translation": "being prevented from",
+      "metadata": {},
+      "gematria": {
+        "standard": 1475,
+        "ordinal": 106,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 12,
+      "text": "παραμένειν·",
+      "lemma": [
+        "G3887"
+      ],
+      "strongs": "G3887",
+      "morph": "robinson:V-PAN",
+      "translation": "continuing;",
+      "metadata": {},
+      "gematria": {
+        "standard": 342,
+        "ordinal": 92,
+        "reduced": 47
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5340,
+    "ordinal": 700,
+    "reduced": 349
+  }
+}

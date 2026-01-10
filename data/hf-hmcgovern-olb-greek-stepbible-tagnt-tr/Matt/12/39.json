@@ -1,0 +1,372 @@
+{
+  "text": "Ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς· γενεὰ πονηρὰ καὶ μοιχαλὶς σημεῖον ἐπιζητεῖ· καὶ σημεῖον οὐ δοθήσεται αὐτῇ εἰ μὴ τὸ σημεῖον Ἰωνᾶ τοῦ προφήτου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀποκριθεὶς",
+      "lemma": [
+        "G611"
+      ],
+      "strongs": "G611",
+      "morph": "robinson:V-AOP-NSM",
+      "translation": "answering",
+      "metadata": {},
+      "gematria": {
+        "standard": 505,
+        "ordinal": 108,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "He said",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτοῖς·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them;",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "γενεὰ",
+      "lemma": [
+        "G1074"
+      ],
+      "strongs": "G1074",
+      "morph": "robinson:N-NSF",
+      "translation": "A generation",
+      "metadata": {},
+      "gematria": {
+        "standard": 64,
+        "ordinal": 27,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "πονηρὰ",
+      "lemma": [
+        "G4190"
+      ],
+      "strongs": "G4190",
+      "morph": "robinson:A-NSF",
+      "translation": "evil",
+      "metadata": {},
+      "gematria": {
+        "standard": 309,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "μοιχαλὶς",
+      "lemma": [
+        "G3428"
+      ],
+      "strongs": "G3428",
+      "morph": "robinson:A-NSF",
+      "translation": "adulterous",
+      "metadata": {},
+      "gematria": {
+        "standard": 961,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 10,
+      "text": "σημεῖον",
+      "lemma": [
+        "G4592"
+      ],
+      "strongs": "G4592",
+      "morph": "robinson:N-ASN",
+      "translation": "a sign",
+      "metadata": {},
+      "gematria": {
+        "standard": 383,
+        "ordinal": 79,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐπιζητεῖ·",
+      "lemma": [
+        "G1934"
+      ],
+      "strongs": "G1934",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "seeks for;",
+      "metadata": {},
+      "gematria": {
+        "standard": 425,
+        "ordinal": 76,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "σημεῖον",
+      "lemma": [
+        "G4592"
+      ],
+      "strongs": "G4592",
+      "morph": "robinson:N-NSN",
+      "translation": "a sign",
+      "metadata": {},
+      "gematria": {
+        "standard": 383,
+        "ordinal": 79,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 14,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 15,
+      "text": "δοθήσεται",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-FPI-3S",
+      "translation": "will be given",
+      "metadata": {},
+      "gematria": {
+        "standard": 607,
+        "ordinal": 86,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 16,
+      "text": "αὐτῇ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSF",
+      "translation": "to it",
+      "metadata": {},
+      "gematria": {
+        "standard": 719,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 17,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 18,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "except",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 19,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 20,
+      "text": "σημεῖον",
+      "lemma": [
+        "G4592"
+      ],
+      "strongs": "G4592",
+      "morph": "robinson:N-NSN",
+      "translation": "sign",
+      "metadata": {},
+      "gematria": {
+        "standard": 383,
+        "ordinal": 79,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 21,
+      "text": "Ἰωνᾶ",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Jonah",
+      "metadata": {},
+      "gematria": {
+        "standard": 861,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 22,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 23,
+      "text": "προφήτου.",
+      "lemma": [
+        "G4396"
+      ],
+      "strongs": "G4396",
+      "morph": "robinson:N-GSM",
+      "translation": "prophet.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1528,
+        "ordinal": 130,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10073,
+    "ordinal": 1283,
+    "reduced": 608
+  }
+}

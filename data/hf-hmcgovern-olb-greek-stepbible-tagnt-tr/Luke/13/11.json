@@ -1,0 +1,273 @@
+{
+  "text": "καὶ ἰδοὺ γυνὴ πνεῦμα ἔχουσα ἀσθενείας ἔτη καὶ ἦν συγκύπτουσα καὶ μὴ δυναμένη ἀνακύψαι εἰς τὸ παντελές.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἰδοὺ",
+      "lemma": [
+        "G2400"
+      ],
+      "strongs": "G2400",
+      "morph": "robinson:INJ",
+      "translation": "behold",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "γυνὴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "a woman",
+      "metadata": {},
+      "gematria": {
+        "standard": 461,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "πνεῦμα",
+      "lemma": null,
+      "morph": null,
+      "translation": "a spirit",
+      "metadata": {},
+      "gematria": {
+        "standard": 576,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἔχουσα",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAP-NSF",
+      "translation": "having",
+      "metadata": {},
+      "gematria": {
+        "standard": 1276,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀσθενείας",
+      "lemma": null,
+      "morph": null,
+      "translation": "of infirmity",
+      "metadata": {},
+      "gematria": {
+        "standard": 481,
+        "ordinal": 78,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἔτη",
+      "lemma": [
+        "G2094"
+      ],
+      "strongs": "G2094",
+      "morph": "robinson:N-APN",
+      "translation": "years",
+      "metadata": {},
+      "gematria": {
+        "standard": 313,
+        "ordinal": 31,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "she was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "συγκύπτουσα",
+      "lemma": [
+        "G4794"
+      ],
+      "strongs": "G4794",
+      "morph": "robinson:V-PAP-NSF",
+      "translation": "bent over",
+      "metadata": {},
+      "gematria": {
+        "standard": 2074,
+        "ordinal": 160,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "δυναμένη",
+      "lemma": [
+        "G1410"
+      ],
+      "strongs": "G1410",
+      "morph": "robinson:V-PNP-NSF",
+      "translation": "able",
+      "metadata": {},
+      "gematria": {
+        "standard": 558,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀνακύψαι",
+      "lemma": [
+        "G352"
+      ],
+      "strongs": "G352",
+      "morph": "robinson:V-AAN",
+      "translation": "to lift up herself",
+      "metadata": {},
+      "gematria": {
+        "standard": 1183,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 17,
+      "text": "παντελές.",
+      "lemma": [
+        "G3838"
+      ],
+      "strongs": "G3838",
+      "morph": "robinson:A-ASN",
+      "translation": "full.",
+      "metadata": {},
+      "gematria": {
+        "standard": 671,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8861,
+    "ordinal": 914,
+    "reduced": 365
+  }
+}

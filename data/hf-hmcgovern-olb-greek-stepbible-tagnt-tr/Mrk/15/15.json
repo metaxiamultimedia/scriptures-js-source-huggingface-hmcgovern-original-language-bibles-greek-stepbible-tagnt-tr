@@ -1,0 +1,321 @@
+{
+  "text": "ὁ δὲ Πιλᾶτος βουλόμενος τῷ ὄχλῳ τὸ ἱκανὸν ποιῆσαι ἀπέλυσεν αὐτοῖς τὸν Βαραββᾶν καὶ παρέδωκεν τὸν Ἰησοῦν φραγελλώσας ἵνα σταυρωθῇ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "Πιλᾶτος",
+      "lemma": [
+        "G4091"
+      ],
+      "strongs": "G4091",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Pilate",
+      "metadata": {},
+      "gematria": {
+        "standard": 691,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 4,
+      "text": "βουλόμενος",
+      "lemma": [
+        "G1014"
+      ],
+      "strongs": "G1014",
+      "morph": "robinson:V-PNP-NSM",
+      "translation": "desiring",
+      "metadata": {},
+      "gematria": {
+        "standard": 937,
+        "ordinal": 126,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 5,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὄχλῳ",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-DSM",
+      "translation": "crowd",
+      "metadata": {},
+      "gematria": {
+        "standard": 1510,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "that which [was]",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἱκανὸν",
+      "lemma": [
+        "G2425"
+      ],
+      "strongs": "G2425",
+      "morph": "robinson:A-ASN",
+      "translation": "satisfactory",
+      "metadata": {},
+      "gematria": {
+        "standard": 201,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 9,
+      "text": "ποιῆσαι",
+      "lemma": null,
+      "morph": null,
+      "translation": "to do",
+      "metadata": {},
+      "gematria": {
+        "standard": 379,
+        "ordinal": 75,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀπέλυσεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "he released",
+      "metadata": {},
+      "gematria": {
+        "standard": 771,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτοῖς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "Βαραββᾶν",
+      "lemma": [
+        "G912"
+      ],
+      "strongs": "G912",
+      "morph": "robinson:N-ASM-P",
+      "translation": "Barabbas",
+      "metadata": {},
+      "gematria": {
+        "standard": 159,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "παρέδωκεν",
+      "lemma": [
+        "G3860"
+      ],
+      "strongs": "G3860",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he delivered",
+      "metadata": {},
+      "gematria": {
+        "standard": 1065,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 16,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "Ἰησοῦν",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 738,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 18,
+      "text": "φραγελλώσας",
+      "lemma": [
+        "G5417"
+      ],
+      "strongs": "G5417",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having flogged [him]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1870,
+        "ordinal": 130,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 20,
+      "text": "σταυρωθῇ.",
+      "lemma": [
+        "G4717"
+      ],
+      "strongs": "G4717",
+      "morph": "robinson:V-APS-3S",
+      "translation": "He may be crucified.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1828,
+        "ordinal": 123,
+        "reduced": 51
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13621,
+    "ordinal": 1319,
+    "reduced": 527
+  }
+}

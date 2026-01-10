@@ -1,0 +1,247 @@
+{
+  "text": "οἱ λοιποὶ τῶν νεκρῶν οὐκ ἔζησαν τελεσθῇ τὰ χίλια ἔτη. Αὕτη ἡ ἀνάστασις ἡ πρώτη.",
+  "words": [
+    {
+      "position": 1,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "λοιποὶ",
+      "lemma": [
+        "G3062"
+      ],
+      "strongs": "G3062",
+      "morph": "robinson:A-NPM",
+      "translation": "rest",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 3,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "νεκρῶν",
+      "lemma": [
+        "G3498"
+      ],
+      "strongs": "G3498",
+      "morph": "robinson:A-GPM",
+      "translation": "dead",
+      "metadata": {},
+      "gematria": {
+        "standard": 1025,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἔζησαν",
+      "lemma": [
+        "G2198"
+      ],
+      "strongs": "G2198",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "lived",
+      "metadata": {},
+      "gematria": {
+        "standard": 271,
+        "ordinal": 50,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 7,
+      "text": "τελεσθῇ",
+      "lemma": [
+        "G5055"
+      ],
+      "strongs": "G5055",
+      "morph": "robinson:V-APS-3S",
+      "translation": "may have been completed",
+      "metadata": {},
+      "gematria": {
+        "standard": 567,
+        "ordinal": 82,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 8,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 9,
+      "text": "χίλια",
+      "lemma": [
+        "G5507"
+      ],
+      "strongs": "G5507",
+      "morph": "robinson:A-NPN",
+      "translation": "thousand",
+      "metadata": {},
+      "gematria": {
+        "standard": 651,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἔτη.",
+      "lemma": [
+        "G2094"
+      ],
+      "strongs": "G2094",
+      "morph": "robinson:N-NPN",
+      "translation": "years.",
+      "metadata": {},
+      "gematria": {
+        "standard": 313,
+        "ordinal": 31,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 11,
+      "text": "Αὕτη",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSF",
+      "translation": "This [is]",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἀνάστασις",
+      "lemma": [
+        "G386"
+      ],
+      "strongs": "G386",
+      "morph": "robinson:N-NSF",
+      "translation": "resurrection",
+      "metadata": {},
+      "gematria": {
+        "standard": 963,
+        "ordinal": 98,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 15,
+      "text": "πρώτη.",
+      "lemma": null,
+      "morph": null,
+      "translation": "first.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1288,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8094,
+    "ordinal": 759,
+    "reduced": 318
+  }
+}

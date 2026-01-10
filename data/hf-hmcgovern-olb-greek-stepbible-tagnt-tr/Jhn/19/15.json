@@ -1,0 +1,353 @@
+{
+  "text": "ἐκραύγασαν ἆρον ἆρον, σταύρωσον αὐτόν. λέγει αὐτοῖς ὁ Πιλᾶτος· τὸν βασιλέα ὑμῶν σταυρώσω; ἀπεκρίθησαν οἱ ἀρχιερεῖς· οὐκ ἔχομεν βασιλέα εἰ μὴ Καίσαρα.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐκραύγασαν",
+      "lemma": [
+        "G2905"
+      ],
+      "strongs": "G2905",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "They cried out",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἆρον",
+      "lemma": [
+        "G142"
+      ],
+      "strongs": "G142",
+      "morph": "robinson:V-AAM-2S",
+      "translation": "away",
+      "metadata": {},
+      "gematria": {
+        "standard": 221,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἆρον,",
+      "lemma": [
+        "G142"
+      ],
+      "strongs": "G142",
+      "morph": "robinson:V-AAM-2S",
+      "translation": "away!",
+      "metadata": {},
+      "gematria": {
+        "standard": 221,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "σταύρωσον",
+      "lemma": [
+        "G4717"
+      ],
+      "strongs": "G4717",
+      "morph": "robinson:V-AAM-2S",
+      "translation": "do crucify",
+      "metadata": {},
+      "gematria": {
+        "standard": 2121,
+        "ordinal": 145,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτόν.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him!",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "λέγει",
+      "lemma": null,
+      "morph": null,
+      "translation": "Says",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "αὐτοῖς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "Πιλᾶτος·",
+      "lemma": [
+        "G4091"
+      ],
+      "strongs": "G4091",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Pilate;",
+      "metadata": {},
+      "gematria": {
+        "standard": 691,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 10,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "βασιλέα",
+      "lemma": [
+        "G935"
+      ],
+      "strongs": "G935",
+      "morph": "robinson:N-ASM-T",
+      "translation": "King",
+      "metadata": {},
+      "gematria": {
+        "standard": 249,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὑμῶν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "σταυρώσω;",
+      "lemma": [
+        "G4717"
+      ],
+      "strongs": "G4717",
+      "morph": "robinson:V-AAS-1S",
+      "translation": "shall I crucify?",
+      "metadata": {},
+      "gematria": {
+        "standard": 2801,
+        "ordinal": 141,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀπεκρίθησαν",
+      "lemma": [
+        "G611"
+      ],
+      "strongs": "G611",
+      "morph": "robinson:V-ADI-3P",
+      "translation": "Answered",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 105,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 15,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἀρχιερεῖς·",
+      "lemma": [
+        "G749"
+      ],
+      "strongs": "G749",
+      "morph": "robinson:N-NPM",
+      "translation": "chief priests;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1031,
+        "ordinal": 103,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 17,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "Not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἔχομεν",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAI-1P",
+      "translation": "we have",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 19,
+      "text": "βασιλέα",
+      "lemma": [
+        "G935"
+      ],
+      "strongs": "G935",
+      "morph": "robinson:N-ASM",
+      "translation": "a king",
+      "metadata": {},
+      "gematria": {
+        "standard": 249,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 20,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 21,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "except",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 22,
+      "text": "Καίσαρα.",
+      "lemma": null,
+      "morph": null,
+      "translation": "Caesar.",
+      "metadata": {},
+      "gematria": {
+        "standard": 333,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14220,
+    "ordinal": 1403,
+    "reduced": 575
+  }
+}

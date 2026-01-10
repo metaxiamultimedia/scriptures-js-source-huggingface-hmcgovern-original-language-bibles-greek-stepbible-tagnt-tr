@@ -1,0 +1,266 @@
+{
+  "text": "καὶ ἐπέβαλον αὐτοῖς τὰς χεῖρας καὶ ἔθεντο εἰς τήρησιν εἰς τὴν αὔριον· ἦν γὰρ ἑσπέρα ἤδη.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐπέβαλον",
+      "lemma": [
+        "G1911"
+      ],
+      "strongs": "G1911",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "they laid",
+      "metadata": {},
+      "gematria": {
+        "standard": 243,
+        "ordinal": 68,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτοῖς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "on them",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "χεῖρας",
+      "lemma": [
+        "G5495"
+      ],
+      "strongs": "G5495",
+      "morph": "robinson:N-APF",
+      "translation": "hands",
+      "metadata": {},
+      "gematria": {
+        "standard": 916,
+        "ordinal": 72,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἔθεντο",
+      "lemma": [
+        "G5087"
+      ],
+      "strongs": "G5087",
+      "morph": "robinson:V-2AMI-3P",
+      "translation": "put [them]",
+      "metadata": {},
+      "gematria": {
+        "standard": 439,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 8,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "τήρησιν",
+      "lemma": [
+        "G5084"
+      ],
+      "strongs": "G5084",
+      "morph": "robinson:N-ASF",
+      "translation": "custody",
+      "metadata": {},
+      "gematria": {
+        "standard": 676,
+        "ordinal": 90,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 10,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "until",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
+      "text": "αὔριον·",
+      "lemma": [
+        "G839"
+      ],
+      "strongs": "G839",
+      "morph": "robinson:ADV",
+      "translation": "next day;",
+      "metadata": {},
+      "gematria": {
+        "standard": 631,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "it was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἑσπέρα",
+      "lemma": [
+        "G2073"
+      ],
+      "strongs": "G2073",
+      "morph": "robinson:N-NSF",
+      "translation": "evening",
+      "metadata": {},
+      "gematria": {
+        "standard": 391,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἤδη.",
+      "lemma": [
+        "G2235"
+      ],
+      "strongs": "G2235",
+      "morph": "robinson:ADV",
+      "translation": "already.",
+      "metadata": {},
+      "gematria": {
+        "standard": 20,
+        "ordinal": 18,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5810,
+    "ordinal": 754,
+    "reduced": 367
+  }
+}

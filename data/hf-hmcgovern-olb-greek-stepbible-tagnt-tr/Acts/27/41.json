@@ -1,0 +1,391 @@
+{
+  "text": "περιπεσόντες δὲ εἰς τόπον διθάλασσον ἐπέκειλαν τὴν ναῦν· καὶ ἡ μὲν πρῷρα ἐρείσασα ἔμεινεν ἀσάλευτος, ἡ δὲ πρύμνα ἐλύετο ὑπὸ τῆς βίας τῶν κυμάτων.",
+  "words": [
+    {
+      "position": 1,
+      "text": "περιπεσόντες",
+      "lemma": [
+        "G4045"
+      ],
+      "strongs": "G4045",
+      "morph": "robinson:V-2AAP-NPM",
+      "translation": "Having fallen",
+      "metadata": {},
+      "gematria": {
+        "standard": 1105,
+        "ordinal": 156,
+        "reduced": 75
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "τόπον",
+      "lemma": [
+        "G5117"
+      ],
+      "strongs": "G5117",
+      "morph": "robinson:N-ASM",
+      "translation": "a place",
+      "metadata": {},
+      "gematria": {
+        "standard": 570,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "διθάλασσον",
+      "lemma": [
+        "G1337"
+      ],
+      "strongs": "G1337",
+      "morph": "robinson:A-ASM",
+      "translation": "between two seas",
+      "metadata": {},
+      "gematria": {
+        "standard": 575,
+        "ordinal": 98,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐπέκειλαν",
+      "lemma": [
+        "G2027"
+      ],
+      "strongs": "G2027",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "they ran aground",
+      "metadata": {},
+      "gematria": {
+        "standard": 206,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 7,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 8,
+      "text": "ναῦν·",
+      "lemma": [
+        "G3491"
+      ],
+      "strongs": "G3491",
+      "morph": "robinson:N-ASF",
+      "translation": "vessel;",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 11,
+      "text": "μὲν",
+      "lemma": [
+        "G3303"
+      ],
+      "strongs": "G3303",
+      "morph": "robinson:PRT",
+      "translation": "indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
+      "text": "πρῷρα",
+      "lemma": [
+        "G4408"
+      ],
+      "strongs": "G4408",
+      "morph": "robinson:N-NSF",
+      "translation": "bow",
+      "metadata": {},
+      "gematria": {
+        "standard": 1091,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐρείσασα",
+      "lemma": [
+        "G2043"
+      ],
+      "strongs": "G2043",
+      "morph": "robinson:V-AAP-NSF",
+      "translation": "having stuck fast",
+      "metadata": {},
+      "gematria": {
+        "standard": 522,
+        "ordinal": 74,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἔμεινεν",
+      "lemma": [
+        "G3306"
+      ],
+      "strongs": "G3306",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "it remained",
+      "metadata": {},
+      "gematria": {
+        "standard": 165,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀσάλευτος,",
+      "lemma": [
+        "G761"
+      ],
+      "strongs": "G761",
+      "morph": "robinson:A-NSF",
+      "translation": "immovable,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1207,
+        "ordinal": 108,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 17,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "πρύμνα",
+      "lemma": [
+        "G4403"
+      ],
+      "strongs": "G4403",
+      "morph": "robinson:N-NSF",
+      "translation": "the stern",
+      "metadata": {},
+      "gematria": {
+        "standard": 671,
+        "ordinal": 79,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐλύετο",
+      "lemma": [
+        "G3089"
+      ],
+      "strongs": "G3089",
+      "morph": "robinson:V-IPI-3S",
+      "translation": "was being broken up",
+      "metadata": {},
+      "gematria": {
+        "standard": 810,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 20,
+      "text": "ὑπὸ",
+      "lemma": null,
+      "morph": null,
+      "translation": "by",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 21,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 22,
+      "text": "βίας",
+      "lemma": [
+        "G970"
+      ],
+      "strongs": "G970",
+      "morph": "robinson:N-GSF",
+      "translation": "violence",
+      "metadata": {},
+      "gematria": {
+        "standard": 213,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 23,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 24,
+      "text": "κυμάτων.",
+      "lemma": [
+        "G2949"
+      ],
+      "strongs": "G2949",
+      "morph": "robinson:N-GPN",
+      "translation": "waves.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1611,
+        "ordinal": 99,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12188,
+    "ordinal": 1369,
+    "reduced": 577
+  }
+}

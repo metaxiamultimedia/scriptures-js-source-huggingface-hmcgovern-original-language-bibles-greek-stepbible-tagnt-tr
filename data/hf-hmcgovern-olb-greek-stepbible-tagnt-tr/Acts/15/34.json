@@ -1,0 +1,106 @@
+{
+  "text": "ἔδοξεν δὲ τῷ Σίλᾳ ἐπιμεῖναι αὐτοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἔδοξεν",
+      "lemma": [
+        "G1380"
+      ],
+      "strongs": "G1380",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "It seemed good",
+      "metadata": {},
+      "gematria": {
+        "standard": 194,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "Σίλᾳ",
+      "lemma": [
+        "G4609"
+      ],
+      "strongs": "G4609",
+      "morph": "robinson:N-DSM-P",
+      "translation": "to Silas",
+      "metadata": {},
+      "gematria": {
+        "standard": 251,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐπιμεῖναι",
+      "lemma": [
+        "G1961"
+      ],
+      "strongs": "G1961",
+      "morph": "robinson:V-AAN",
+      "translation": "to remain",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 79,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G847"
+      ],
+      "strongs": "G847",
+      "morph": "robinson:ADV",
+      "translation": "here.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2946,
+    "ordinal": 319,
+    "reduced": 148
+  }
+}

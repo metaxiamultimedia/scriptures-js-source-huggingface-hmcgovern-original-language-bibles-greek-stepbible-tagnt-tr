@@ -1,0 +1,119 @@
+{
+  "text": "Ἠκούσατε ὅτι ἐρρέθη τοῖς ἀρχαίοις· οὐ μοιχεύσεις.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἠκούσατε",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAI-2P",
+      "translation": "You have heard",
+      "metadata": {},
+      "gematria": {
+        "standard": 1004,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐρρέθη",
+      "lemma": [
+        "G2046"
+      ],
+      "strongs": "G2046",
+      "morph": "robinson:V-API-3S",
+      "translation": "it was said",
+      "metadata": {},
+      "gematria": {
+        "standard": 227,
+        "ordinal": 59,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 4,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀρχαίοις·",
+      "lemma": [
+        "G744"
+      ],
+      "strongs": "G744",
+      "morph": "robinson:A-DPM",
+      "translation": "ancients:",
+      "metadata": {},
+      "gematria": {
+        "standard": 992,
+        "ordinal": 92,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "Not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 7,
+      "text": "μοιχεύσεις.",
+      "lemma": [
+        "G3431"
+      ],
+      "strongs": "G3431",
+      "morph": "robinson:V-FAI-2S",
+      "translation": "will you commit adultery.’",
+      "metadata": {},
+      "gematria": {
+        "standard": 1540,
+        "ordinal": 133,
+        "reduced": 61
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5193,
+    "ordinal": 518,
+    "reduced": 230
+  }
+}

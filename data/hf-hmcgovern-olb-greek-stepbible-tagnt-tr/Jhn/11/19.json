@@ -1,0 +1,247 @@
+{
+  "text": "Πολλοὶ ἐκ τῶν Ἰουδαίων ἐληλύθεισαν πρὸς Μάρθαν καὶ Μαριὰμ ἵνα παραμυθήσωνται αὐτὰς περὶ τοῦ ἀδελφοῦ",
+  "words": [
+    {
+      "position": 1,
+      "text": "Πολλοὶ",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-NPM",
+      "translation": "Many",
+      "metadata": {},
+      "gematria": {
+        "standard": 290,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἰουδαίων",
+      "lemma": [
+        "G2453"
+      ],
+      "strongs": "G2453",
+      "morph": "robinson:N-GPM-PG",
+      "translation": "Jews",
+      "metadata": {},
+      "gematria": {
+        "standard": 1345,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐληλύθεισαν",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-2LAI-3P",
+      "translation": "had come",
+      "metadata": {},
+      "gematria": {
+        "standard": 748,
+        "ordinal": 108,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 6,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "unto",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "Μάρθαν",
+      "lemma": [
+        "G3136"
+      ],
+      "strongs": "G3136",
+      "morph": "robinson:N-ASF-P",
+      "translation": "Martha",
+      "metadata": {},
+      "gematria": {
+        "standard": 201,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "Μαριὰμ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Mary",
+      "metadata": {},
+      "gematria": {
+        "standard": 192,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "παραμυθήσωνται",
+      "lemma": [
+        "G3888"
+      ],
+      "strongs": "G3888",
+      "morph": "robinson:V-ADS-3P",
+      "translation": "they may console",
+      "metadata": {},
+      "gematria": {
+        "standard": 2000,
+        "ordinal": 166,
+        "reduced": 67
+      }
+    },
+    {
+      "position": 12,
+      "text": "αὐτὰς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APF",
+      "translation": "them",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 59,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "concerning",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 14,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀδελφοῦ",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-GSM",
+      "translation": "brother",
+      "metadata": {},
+      "gematria": {
+        "standard": 1010,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9370,
+    "ordinal": 967,
+    "reduced": 391
+  }
+}

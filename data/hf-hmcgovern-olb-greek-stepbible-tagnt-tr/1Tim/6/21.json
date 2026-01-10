@@ -1,0 +1,119 @@
+{
+  "text": "ἥν τινες ἐπαγγελλόμενοι περὶ τὴν πίστιν ἠστόχησαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἥν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASF",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "τινες",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NPM",
+      "translation": "some",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐπαγγελλόμενοι",
+      "lemma": [
+        "G1861"
+      ],
+      "strongs": "G1861",
+      "morph": "robinson:V-PNP-NPM",
+      "translation": "professing",
+      "metadata": {},
+      "gematria": {
+        "standard": 402,
+        "ordinal": 124,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 4,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "πίστιν",
+      "lemma": null,
+      "morph": null,
+      "translation": "faith",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἠστόχησαν.",
+      "lemma": [
+        "G795"
+      ],
+      "strongs": "G795",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "went astray.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1437,
+        "ordinal": 120,
+        "reduced": 48
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3665,
+    "ordinal": 498,
+    "reduced": 228
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "text": "Ἄρα οὖν, ἀδελφοί, στήκετε καὶ κρατεῖτε τὰς παραδόσεις ἃς ἐδιδάχθητε εἴτε διὰ λόγου εἴτε δι᾽ ἐπιστολῆς ἡμῶν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἄρα",
+      "lemma": [
+        "G686"
+      ],
+      "strongs": "G686",
+      "morph": "robinson:CONJ",
+      "translation": "So",
+      "metadata": {},
+      "gematria": {
+        "standard": 102,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὖν,",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "then,",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀδελφοί,",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-VPM",
+      "translation": "brothers,",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "στήκετε",
+      "lemma": [
+        "G4739"
+      ],
+      "strongs": "G4739",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do stand firm",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "κρατεῖτε",
+      "lemma": [
+        "G2902"
+      ],
+      "strongs": "G2902",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do hold fast",
+      "metadata": {},
+      "gematria": {
+        "standard": 741,
+        "ordinal": 85,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 7,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "παραδόσεις",
+      "lemma": [
+        "G3862"
+      ],
+      "strongs": "G3862",
+      "morph": "robinson:N-APF",
+      "translation": "traditions",
+      "metadata": {},
+      "gematria": {
+        "standard": 671,
+        "ordinal": 104,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἃς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-APF",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 201,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐδιδάχθητε",
+      "lemma": [
+        "G1321"
+      ],
+      "strongs": "G1321",
+      "morph": "robinson:V-API-2P",
+      "translation": "you were taught",
+      "metadata": {},
+      "gematria": {
+        "standard": 946,
+        "ordinal": 84,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 11,
+      "text": "εἴτε",
+      "lemma": [
+        "G1535"
+      ],
+      "strongs": "G1535",
+      "morph": "robinson:COND",
+      "translation": "whether",
+      "metadata": {},
+      "gematria": {
+        "standard": 320,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 12,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "λόγου",
+      "lemma": [
+        "G3056"
+      ],
+      "strongs": "G3056",
+      "morph": "robinson:N-GSM",
+      "translation": "word",
+      "metadata": {},
+      "gematria": {
+        "standard": 573,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 14,
+      "text": "εἴτε",
+      "lemma": [
+        "G1535"
+      ],
+      "strongs": "G1535",
+      "morph": "robinson:COND",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 320,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
+      "text": "δι᾽",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 14,
+        "ordinal": 13,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐπιστολῆς",
+      "lemma": [
+        "G1992"
+      ],
+      "strongs": "G1992",
+      "morph": "robinson:N-GSF",
+      "translation": "letter",
+      "metadata": {},
+      "gematria": {
+        "standard": 903,
+        "ordinal": 118,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἡμῶν.",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GP",
+      "translation": "from us.",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8214,
+    "ordinal": 907,
+    "reduced": 412
+  }
+}

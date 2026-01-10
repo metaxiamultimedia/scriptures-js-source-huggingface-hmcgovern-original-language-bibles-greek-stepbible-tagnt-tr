@@ -1,0 +1,250 @@
+{
+  "text": "καὶ πᾶς ὁ ἔχων τὴν ἐλπίδα ταύτην ἐπ᾽ αὐτῷ ἁγνίζει ἑαυτὸν καθὼς ἐκεῖνος ἁγνός ἐστιν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "πᾶς",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NSM",
+      "translation": "everyone",
+      "metadata": {},
+      "gematria": {
+        "standard": 281,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἔχων",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "is having",
+      "metadata": {},
+      "gematria": {
+        "standard": 1455,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐλπίδα",
+      "lemma": [
+        "G1680"
+      ],
+      "strongs": "G1680",
+      "morph": "robinson:N-ASF",
+      "translation": "hope",
+      "metadata": {},
+      "gematria": {
+        "standard": 130,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "ταύτην",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-ASF",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1059,
+        "ordinal": 79,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐπ᾽",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 85,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἁγνίζει",
+      "lemma": [
+        "G48"
+      ],
+      "strongs": "G48",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "purifies",
+      "metadata": {},
+      "gematria": {
+        "standard": 86,
+        "ordinal": 46,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἑαυτὸν",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-3ASM",
+      "translation": "himself",
+      "metadata": {},
+      "gematria": {
+        "standard": 826,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "καθὼς",
+      "lemma": [
+        "G2531"
+      ],
+      "strongs": "G2531",
+      "morph": "robinson:CONJ",
+      "translation": "even as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1030,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐκεῖνος",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-NSM",
+      "translation": "He",
+      "metadata": {},
+      "gematria": {
+        "standard": 360,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἁγνός",
+      "lemma": [
+        "G53"
+      ],
+      "strongs": "G53",
+      "morph": "robinson:A-NSM",
+      "translation": "pure",
+      "metadata": {},
+      "gematria": {
+        "standard": 324,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐστιν.",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is.",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8171,
+    "ordinal": 761,
+    "reduced": 311
+  }
+}

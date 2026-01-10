@@ -1,0 +1,186 @@
+{
+  "text": "καὶ φέρουσιν αὐτὸν ἐπὶ Γολγοθᾶν τόπον, ὅ ἐστιν μεθερμηνευόμενον, κρανίου τόπος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "φέρουσιν",
+      "lemma": [
+        "G5342"
+      ],
+      "strongs": "G5342",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "they bring",
+      "metadata": {},
+      "gematria": {
+        "standard": 1335,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "Γολγοθᾶν",
+      "lemma": [
+        "G1115"
+      ],
+      "strongs": "G1115",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Golgotha",
+      "metadata": {},
+      "gematria": {
+        "standard": 236,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "τόπον,",
+      "lemma": [
+        "G5117"
+      ],
+      "strongs": "G5117",
+      "morph": "robinson:N-ASM",
+      "translation": "a place",
+      "metadata": {},
+      "gematria": {
+        "standard": 570,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὅ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSN",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "μεθερμηνευόμενον,",
+      "lemma": [
+        "G3177"
+      ],
+      "strongs": "G3177",
+      "morph": "robinson:V-PPP-NSN",
+      "translation": "being translated,",
+      "metadata": {},
+      "gematria": {
+        "standard": 947,
+        "ordinal": 177,
+        "reduced": 78
+      }
+    },
+    {
+      "position": 10,
+      "text": "κρανίου",
+      "lemma": [
+        "G2898"
+      ],
+      "strongs": "G2898",
+      "morph": "robinson:N-GSN-L",
+      "translation": "of a Skull",
+      "metadata": {},
+      "gematria": {
+        "standard": 651,
+        "ordinal": 85,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 11,
+      "text": "τόπος.",
+      "lemma": [
+        "G5117"
+      ],
+      "strongs": "G5117",
+      "morph": "robinson:N-NSM-L",
+      "translation": "Place.",
+      "metadata": {},
+      "gematria": {
+        "standard": 720,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6041,
+    "ordinal": 807,
+    "reduced": 321
+  }
+}

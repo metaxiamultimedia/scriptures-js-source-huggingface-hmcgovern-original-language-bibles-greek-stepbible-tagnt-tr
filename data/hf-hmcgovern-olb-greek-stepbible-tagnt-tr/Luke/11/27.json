@@ -1,0 +1,417 @@
+{
+  "text": "Ἐγένετο δὲ ἐν τῷ λέγειν αὐτὸν ταῦτα, ἐπάρασά τις φωνὴν γυνὴ ἐκ τοῦ ὄχλου εἶπεν αὐτῷ· μακαρία ἡ κοιλία ἡ βαστάσασά σε, καὶ μαστοὶ οὓς ἐθήλασας.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "It came to pass",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "while",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "λέγειν",
+      "lemma": null,
+      "morph": null,
+      "translation": "[is] saying",
+      "metadata": {},
+      "gematria": {
+        "standard": 103,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "He",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "ταῦτα,",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-APN",
+      "translation": "these things,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1002,
+        "ordinal": 60,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐπάρασά",
+      "lemma": [
+        "G1869"
+      ],
+      "strongs": "G1869",
+      "morph": "robinson:V-AAP-NSF",
+      "translation": "having lifted up",
+      "metadata": {},
+      "gematria": {
+        "standard": 388,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 9,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSF",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 10,
+      "text": "φωνὴν",
+      "lemma": null,
+      "morph": null,
+      "translation": "[her] voice",
+      "metadata": {},
+      "gematria": {
+        "standard": 1408,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 11,
+      "text": "γυνὴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "a woman",
+      "metadata": {},
+      "gematria": {
+        "standard": 461,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὄχλου",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-GSM",
+      "translation": "crowd",
+      "metadata": {},
+      "gematria": {
+        "standard": 1170,
+        "ordinal": 83,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
+      "text": "εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "said",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 16,
+      "text": "αὐτῷ·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to Him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 17,
+      "text": "μακαρία",
+      "lemma": [
+        "G3107"
+      ],
+      "strongs": "G3107",
+      "morph": "robinson:A-NSF",
+      "translation": "Blessed [is]",
+      "metadata": {},
+      "gematria": {
+        "standard": 173,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 19,
+      "text": "κοιλία",
+      "lemma": [
+        "G2836"
+      ],
+      "strongs": "G2836",
+      "morph": "robinson:N-NSF",
+      "translation": "womb",
+      "metadata": {},
+      "gematria": {
+        "standard": 141,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 21,
+      "text": "βαστάσασά",
+      "lemma": [
+        "G941"
+      ],
+      "strongs": "G941",
+      "morph": "robinson:V-AAP-NSF",
+      "translation": "having borne",
+      "metadata": {},
+      "gematria": {
+        "standard": 906,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 22,
+      "text": "σε,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AS",
+      "translation": "You,",
+      "metadata": {},
+      "gematria": {
+        "standard": 205,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 23,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 24,
+      "text": "μαστοὶ",
+      "lemma": [
+        "G3149"
+      ],
+      "strongs": "G3149",
+      "morph": "robinson:N-NPM",
+      "translation": "[the] breasts",
+      "metadata": {},
+      "gematria": {
+        "standard": 621,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 25,
+      "text": "οὓς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-APM",
+      "translation": "at which",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 26,
+      "text": "ἐθήλασας.",
+      "lemma": [
+        "G2337"
+      ],
+      "strongs": "G2337",
+      "morph": "robinson:V-AAI-2S",
+      "translation": "You nursed.",
+      "metadata": {},
+      "gematria": {
+        "standard": 454,
+        "ordinal": 69,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13148,
+    "ordinal": 1255,
+    "reduced": 499
+  }
+}

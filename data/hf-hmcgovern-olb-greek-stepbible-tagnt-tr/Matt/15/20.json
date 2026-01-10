@@ -1,0 +1,250 @@
+{
+  "text": "ταῦτά ἐστιν τὰ κοινοῦντα τὸν ἄνθρωπον· τὸ δὲ ἀνίπτοις χερσὶν φαγεῖν οὐ κοινοῖ τὸν ἄνθρωπον.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ταῦτά",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NPN",
+      "translation": "These",
+      "metadata": {},
+      "gematria": {
+        "standard": 1002,
+        "ordinal": 60,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "are",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPN",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 4,
+      "text": "κοινοῦντα",
+      "lemma": [
+        "G2840"
+      ],
+      "strongs": "G2840",
+      "morph": "robinson:V-PAP-NPN",
+      "translation": "defiling",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 115,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἄνθρωπον·",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-ASM",
+      "translation": "man;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1160,
+        "ordinal": 107,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 7,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "that which",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀνίπτοις",
+      "lemma": [
+        "G449"
+      ],
+      "strongs": "G449",
+      "morph": "robinson:A-DPF",
+      "translation": "with unwashed",
+      "metadata": {},
+      "gematria": {
+        "standard": 721,
+        "ordinal": 100,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 10,
+      "text": "χερσὶν",
+      "lemma": [
+        "G5495"
+      ],
+      "strongs": "G5495",
+      "morph": "robinson:N-DPF",
+      "translation": "hands",
+      "metadata": {},
+      "gematria": {
+        "standard": 965,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 11,
+      "text": "φαγεῖν",
+      "lemma": [
+        "G5315"
+      ],
+      "strongs": "G5315",
+      "morph": "robinson:V-AAN",
+      "translation": "to eat",
+      "metadata": {},
+      "gematria": {
+        "standard": 569,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 12,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 13,
+      "text": "κοινοῖ",
+      "lemma": [
+        "G2840"
+      ],
+      "strongs": "G2840",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "it defiles",
+      "metadata": {},
+      "gematria": {
+        "standard": 230,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 14,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἄνθρωπον.",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-ASM",
+      "translation": "man.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1160,
+        "ordinal": 107,
+        "reduced": 44
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9333,
+    "ordinal": 952,
+    "reduced": 349
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "text": "οὐκ ἄρα σὺ εἶ ὁ Αἰγύπτιος ὁ πρὸ τούτων τῶν ἡμερῶν ἀναστατώσας καὶ ἐξαγαγὼν εἰς τὴν ἔρημον τοὺς τετρακισχιλίους ἄνδρας τῶν σικαρίων;",
+  "words": [
+    {
+      "position": 1,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "Surely",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἄρα",
+      "lemma": [
+        "G686"
+      ],
+      "strongs": "G686",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 102,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "σὺ",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NS",
+      "translation": "you yourself",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἶ",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-2S",
+      "translation": "are",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "Αἰγύπτιος",
+      "lemma": [
+        "G124"
+      ],
+      "strongs": "G124",
+      "morph": "robinson:A-NSM-LG",
+      "translation": "Egyptian",
+      "metadata": {},
+      "gematria": {
+        "standard": 1074,
+        "ordinal": 110,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "πρὸ",
+      "lemma": [
+        "G4253"
+      ],
+      "strongs": "G4253",
+      "morph": "robinson:PREP",
+      "translation": "before",
+      "metadata": {},
+      "gematria": {
+        "standard": 250,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 9,
+      "text": "τούτων",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-GPF",
+      "translation": "these",
+      "metadata": {},
+      "gematria": {
+        "standard": 1920,
+        "ordinal": 110,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἡμερῶν",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-GPF",
+      "translation": "days",
+      "metadata": {},
+      "gematria": {
+        "standard": 1003,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀναστατώσας",
+      "lemma": [
+        "G387"
+      ],
+      "strongs": "G387",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having led a revolt",
+      "metadata": {},
+      "gematria": {
+        "standard": 2054,
+        "ordinal": 133,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐξαγαγὼν",
+      "lemma": [
+        "G1806"
+      ],
+      "strongs": "G1806",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having led out",
+      "metadata": {},
+      "gematria": {
+        "standard": 923,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἔρημον",
+      "lemma": [
+        "G2048"
+      ],
+      "strongs": "G2048",
+      "morph": "robinson:A-ASF",
+      "translation": "wilderness",
+      "metadata": {},
+      "gematria": {
+        "standard": 273,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 18,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 19,
+      "text": "τετρακισχιλίους",
+      "lemma": [
+        "G5070"
+      ],
+      "strongs": "G5070",
+      "morph": "robinson:A-APM",
+      "translation": "four thousand",
+      "metadata": {},
+      "gematria": {
+        "standard": 2256,
+        "ordinal": 202,
+        "reduced": 76
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἄνδρας",
+      "lemma": null,
+      "morph": null,
+      "translation": "men",
+      "metadata": {},
+      "gematria": {
+        "standard": 356,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 21,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "σικαρίων;",
+      "lemma": [
+        "G4607"
+      ],
+      "strongs": "G4607",
+      "morph": "robinson:N-GPM",
+      "translation": "Assassins?",
+      "metadata": {},
+      "gematria": {
+        "standard": 1191,
+        "ordinal": 101,
+        "reduced": 47
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 16521,
+    "ordinal": 1390,
+    "reduced": 517
+  }
+}

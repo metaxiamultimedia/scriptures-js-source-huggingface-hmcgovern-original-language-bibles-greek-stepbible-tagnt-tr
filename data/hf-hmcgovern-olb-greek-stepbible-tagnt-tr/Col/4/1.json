@@ -1,0 +1,273 @@
+{
+  "text": "Οἱ κύριοι, τὸ δίκαιον καὶ τὴν ἰσότητα τοῖς δούλοις παρέχεσθε εἰδότες ὅτι καὶ ὑμεῖς ἔχετε κύριον ἐν",
+  "words": [
+    {
+      "position": 1,
+      "text": "Οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-VPM",
+      "translation": "you who [are]",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "κύριοι,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Masters,",
+      "metadata": {},
+      "gematria": {
+        "standard": 610,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "that which",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "δίκαιον",
+      "lemma": [
+        "G1342"
+      ],
+      "strongs": "G1342",
+      "morph": "robinson:A-ASN",
+      "translation": "[is] righteous",
+      "metadata": {},
+      "gematria": {
+        "standard": 165,
+        "ordinal": 61,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "that which",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἰσότητα",
+      "lemma": [
+        "G2471"
+      ],
+      "strongs": "G2471",
+      "morph": "robinson:N-ASF",
+      "translation": "[is] equal",
+      "metadata": {},
+      "gematria": {
+        "standard": 889,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 9,
+      "text": "δούλοις",
+      "lemma": [
+        "G1401"
+      ],
+      "strongs": "G1401",
+      "morph": "robinson:N-DPM",
+      "translation": "slaves",
+      "metadata": {},
+      "gematria": {
+        "standard": 784,
+        "ordinal": 92,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 10,
+      "text": "παρέχεσθε",
+      "lemma": [
+        "G3930"
+      ],
+      "strongs": "G3930",
+      "morph": "robinson:V-PMM-2P",
+      "translation": "do give",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 97,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 11,
+      "text": "εἰδότες",
+      "lemma": [
+        "G6063"
+      ],
+      "strongs": "G6063",
+      "morph": "robinson:V-RAP-NPM",
+      "translation": "knowing",
+      "metadata": {},
+      "gematria": {
+        "standard": 594,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὑμεῖς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NP",
+      "translation": "you yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἔχετε",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "have",
+      "metadata": {},
+      "gematria": {
+        "standard": 915,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 16,
+      "text": "κύριον",
+      "lemma": null,
+      "morph": null,
+      "translation": "a Master",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8152,
+    "ordinal": 956,
+    "reduced": 416
+  }
+}

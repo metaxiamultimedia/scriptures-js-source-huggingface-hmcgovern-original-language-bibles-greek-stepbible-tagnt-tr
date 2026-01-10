@@ -1,0 +1,209 @@
+{
+  "text": "γῆ Ζαβουλὼν καὶ γῆ Νεφθαλίμ, ὁδὸν θαλάσσης πέραν τοῦ Ἰορδάνου, Γαλιλαία τῶν ἐθνῶν,",
+  "words": [
+    {
+      "position": 1,
+      "text": "γῆ",
+      "lemma": null,
+      "morph": null,
+      "translation": "Land",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "Ζαβουλὼν",
+      "lemma": [
+        "G2194"
+      ],
+      "strongs": "G2194",
+      "morph": "robinson:N-GSM-L",
+      "translation": "of Zebulun",
+      "metadata": {},
+      "gematria": {
+        "standard": 1360,
+        "ordinal": 92,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "γῆ",
+      "lemma": null,
+      "morph": null,
+      "translation": "land",
+      "metadata": {},
+      "gematria": {
+        "standard": 11,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "Νεφθαλίμ,",
+      "lemma": [
+        "G3508"
+      ],
+      "strongs": "G3508",
+      "morph": "robinson:N-GSM-L",
+      "translation": "of Naphtali,",
+      "metadata": {},
+      "gematria": {
+        "standard": 645,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὁδὸν",
+      "lemma": [
+        "G3598"
+      ],
+      "strongs": "G3598",
+      "morph": "robinson:N-ASF",
+      "translation": "way",
+      "metadata": {},
+      "gematria": {
+        "standard": 194,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "θαλάσσης",
+      "lemma": [
+        "G2281"
+      ],
+      "strongs": "G2281",
+      "morph": "robinson:N-GSF",
+      "translation": "of [the] sea",
+      "metadata": {},
+      "gematria": {
+        "standard": 649,
+        "ordinal": 82,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 8,
+      "text": "πέραν",
+      "lemma": [
+        "G4008"
+      ],
+      "strongs": "G4008",
+      "morph": "robinson:PREP",
+      "translation": "beyond",
+      "metadata": {},
+      "gematria": {
+        "standard": 236,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 9,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "Ἰορδάνου,",
+      "lemma": [
+        "G2446"
+      ],
+      "strongs": "G2446",
+      "morph": "robinson:N-GSM-L",
+      "translation": "Jordan,",
+      "metadata": {},
+      "gematria": {
+        "standard": 705,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 11,
+      "text": "Γαλιλαία",
+      "lemma": null,
+      "morph": null,
+      "translation": "Galilee",
+      "metadata": {},
+      "gematria": {
+        "standard": 86,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 12,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐθνῶν,",
+      "lemma": [
+        "G1484"
+      ],
+      "strongs": "G1484",
+      "morph": "robinson:N-GPN",
+      "translation": "Gentiles —",
+      "metadata": {},
+      "gematria": {
+        "standard": 914,
+        "ordinal": 63,
+        "reduced": 27
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6762,
+    "ordinal": 706,
+    "reduced": 301
+  }
+}

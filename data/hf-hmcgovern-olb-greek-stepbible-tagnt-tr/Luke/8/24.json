@@ -1,0 +1,375 @@
+{
+  "text": "προσελθόντες δὲ διήγειραν αὐτὸν λέγοντες· ἐπιστάτα ἐπιστάτα, ἀπολλύμεθα. ὁ δὲ ἐπετίμησεν τῷ ἀνέμῳ καὶ τῷ κλύδωνι τοῦ ὕδατος. καὶ ἐπαύσαντο, καὶ ἐγένετο γαλήνη.",
+  "words": [
+    {
+      "position": 1,
+      "text": "προσελθόντες",
+      "lemma": [
+        "G4334"
+      ],
+      "strongs": "G4334",
+      "morph": "robinson:V-2AAP-NPM",
+      "translation": "Having come to [Him]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1119,
+        "ordinal": 160,
+        "reduced": 70
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "διήγειραν",
+      "lemma": [
+        "G1326"
+      ],
+      "strongs": "G1326",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "they awoke",
+      "metadata": {},
+      "gematria": {
+        "standard": 191,
+        "ordinal": 68,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 4,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "λέγοντες·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐπιστάτα",
+      "lemma": [
+        "G1988"
+      ],
+      "strongs": "G1988",
+      "morph": "robinson:N-VSM-T",
+      "translation": "Master",
+      "metadata": {},
+      "gematria": {
+        "standard": 897,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐπιστάτα,",
+      "lemma": [
+        "G1988"
+      ],
+      "strongs": "G1988",
+      "morph": "robinson:N-VSM-T",
+      "translation": "Master,",
+      "metadata": {},
+      "gematria": {
+        "standard": 897,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀπολλύμεθα.",
+      "lemma": [
+        "G622"
+      ],
+      "strongs": "G622",
+      "morph": "robinson:V-PMI-1P",
+      "translation": "we are perishing!",
+      "metadata": {},
+      "gematria": {
+        "standard": 666,
+        "ordinal": 100,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐπετίμησεν",
+      "lemma": [
+        "G2008"
+      ],
+      "strongs": "G2008",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "He rebuked",
+      "metadata": {},
+      "gematria": {
+        "standard": 703,
+        "ordinal": 109,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 12,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἀνέμῳ",
+      "lemma": [
+        "G417"
+      ],
+      "strongs": "G417",
+      "morph": "robinson:N-DSM",
+      "translation": "wind",
+      "metadata": {},
+      "gematria": {
+        "standard": 906,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "κλύδωνι",
+      "lemma": [
+        "G2830"
+      ],
+      "strongs": "G2830",
+      "morph": "robinson:N-DSM",
+      "translation": "raging",
+      "metadata": {},
+      "gematria": {
+        "standard": 1314,
+        "ordinal": 91,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 17,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "ὕδατος.",
+      "lemma": [
+        "G5204"
+      ],
+      "strongs": "G5204",
+      "morph": "robinson:N-GSN",
+      "translation": "water.",
+      "metadata": {},
+      "gematria": {
+        "standard": 975,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 19,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐπαύσαντο,",
+      "lemma": [
+        "G3973"
+      ],
+      "strongs": "G3973",
+      "morph": "robinson:V-AMI-3P",
+      "translation": "they ceased,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1107,
+        "ordinal": 108,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 21,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "there was",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 23,
+      "text": "γαλήνη.",
+      "lemma": [
+        "G1055"
+      ],
+      "strongs": "G1055",
+      "morph": "robinson:N-NSF",
+      "translation": "a calm.",
+      "metadata": {},
+      "gematria": {
+        "standard": 100,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13968,
+    "ordinal": 1468,
+    "reduced": 595
+  }
+}

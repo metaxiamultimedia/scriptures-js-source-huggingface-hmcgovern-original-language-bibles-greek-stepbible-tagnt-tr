@@ -1,0 +1,427 @@
+{
+  "text": "ἦσαν ὁμοῦ Σίμων Πέτρος, καὶ Θωμᾶς ὁ λεγόμενος Δίδυμος, καὶ Ναθαναὴλ ὁ ἀπὸ Κανὰ τῆς Γαλιλαίας, καὶ οἱ τοῦ Ζεβεδαίου, καὶ ἄλλοι ἐκ τῶν μαθητῶν αὐτοῦ δύο.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἦσαν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "They were",
+      "metadata": {},
+      "gematria": {
+        "standard": 259,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὁμοῦ",
+      "lemma": [
+        "G3674"
+      ],
+      "strongs": "G3674",
+      "morph": "robinson:ADV",
+      "translation": "together",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 62,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
+      "text": "Σίμων",
+      "lemma": null,
+      "morph": null,
+      "translation": "Simon",
+      "metadata": {},
+      "gematria": {
+        "standard": 1100,
+        "ordinal": 76,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 4,
+      "text": "Πέτρος,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Peter,",
+      "metadata": {},
+      "gematria": {
+        "standard": 755,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "Θωμᾶς",
+      "lemma": [
+        "G2381"
+      ],
+      "strongs": "G2381",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Thomas",
+      "metadata": {},
+      "gematria": {
+        "standard": 1050,
+        "ordinal": 63,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "λεγόμενος",
+      "lemma": null,
+      "morph": null,
+      "translation": "is being named",
+      "metadata": {},
+      "gematria": {
+        "standard": 473,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 9,
+      "text": "Δίδυμος,",
+      "lemma": [
+        "G1324"
+      ],
+      "strongs": "G1324",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Didymus,",
+      "metadata": {},
+      "gematria": {
+        "standard": 728,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "Ναθαναὴλ",
+      "lemma": [
+        "G3482"
+      ],
+      "strongs": "G3482",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Nathanael",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "Κανὰ",
+      "lemma": [
+        "G2580"
+      ],
+      "strongs": "G2580",
+      "morph": "robinson:N-GSF-L",
+      "translation": "Cana",
+      "metadata": {},
+      "gematria": {
+        "standard": 72,
+        "ordinal": 25,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 15,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 16,
+      "text": "Γαλιλαίας,",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Galilee,",
+      "metadata": {},
+      "gematria": {
+        "standard": 286,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 17,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the [sons]",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 19,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 20,
+      "text": "Ζεβεδαίου,",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Zebedee,",
+      "metadata": {},
+      "gematria": {
+        "standard": 504,
+        "ordinal": 67,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 21,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἄλλοι",
+      "lemma": [
+        "G243"
+      ],
+      "strongs": "G243",
+      "morph": "robinson:A-NPM",
+      "translation": "others",
+      "metadata": {},
+      "gematria": {
+        "standard": 141,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 24,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 25,
+      "text": "μαθητῶν",
+      "lemma": [
+        "G3101"
+      ],
+      "strongs": "G3101",
+      "morph": "robinson:N-GPM",
+      "translation": "disciples",
+      "metadata": {},
+      "gematria": {
+        "standard": 1208,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 26,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 27,
+      "text": "δύο.",
+      "lemma": [
+        "G1417"
+      ],
+      "strongs": "G1417",
+      "morph": "robinson:A-NUI",
+      "translation": "two.",
+      "metadata": {},
+      "gematria": {
+        "standard": 474,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11899,
+    "ordinal": 1300,
+    "reduced": 526
+  }
+}

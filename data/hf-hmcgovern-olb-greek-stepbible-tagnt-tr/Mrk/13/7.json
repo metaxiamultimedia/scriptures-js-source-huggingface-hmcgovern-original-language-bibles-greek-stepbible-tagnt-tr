@@ -1,0 +1,250 @@
+{
+  "text": "ὅταν δὲ ἀκούσητε πολέμους καὶ ἀκοὰς πολέμων, μὴ θροεῖσθε· δεῖ γενέσθαι, ἀλλ᾽ οὔπω τὸ τέλος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅταν",
+      "lemma": [
+        "G3752"
+      ],
+      "strongs": "G3752",
+      "morph": "robinson:CONJ",
+      "translation": "When",
+      "metadata": {},
+      "gematria": {
+        "standard": 421,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀκούσητε",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAS-2P",
+      "translation": "you may hear of",
+      "metadata": {},
+      "gematria": {
+        "standard": 1004,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 4,
+      "text": "πολέμους",
+      "lemma": [
+        "G4171"
+      ],
+      "strongs": "G4171",
+      "morph": "robinson:N-APM",
+      "translation": "wars",
+      "metadata": {},
+      "gematria": {
+        "standard": 895,
+        "ordinal": 112,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀκοὰς",
+      "lemma": [
+        "G189"
+      ],
+      "strongs": "G189",
+      "morph": "robinson:N-APF",
+      "translation": "rumors",
+      "metadata": {},
+      "gematria": {
+        "standard": 292,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 7,
+      "text": "πολέμων,",
+      "lemma": [
+        "G4171"
+      ],
+      "strongs": "G4171",
+      "morph": "robinson:N-GPM",
+      "translation": "of wars,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1075,
+        "ordinal": 96,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 8,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "θροεῖσθε·",
+      "lemma": [
+        "G2360"
+      ],
+      "strongs": "G2360",
+      "morph": "robinson:V-PPM-2P",
+      "translation": "do be disturbed;",
+      "metadata": {},
+      "gematria": {
+        "standard": 408,
+        "ordinal": 85,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 10,
+      "text": "δεῖ",
+      "lemma": [
+        "G1163"
+      ],
+      "strongs": "G1163",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "it must",
+      "metadata": {},
+      "gematria": {
+        "standard": 19,
+        "ordinal": 18,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 11,
+      "text": "γενέσθαι,",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADN",
+      "translation": "come to pass,",
+      "metadata": {},
+      "gematria": {
+        "standard": 283,
+        "ordinal": 62,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 13,
+      "text": "οὔπω",
+      "lemma": [
+        "G3768"
+      ],
+      "strongs": "G3768",
+      "morph": "robinson:ADV-N",
+      "translation": "not yet [is]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1350,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 15,
+      "text": "τέλος.",
+      "lemma": [
+        "G5056"
+      ],
+      "strongs": "G5056",
+      "morph": "robinson:N-NSN",
+      "translation": "end.",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6871,
+    "ordinal": 809,
+    "reduced": 341
+  }
+}

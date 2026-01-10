@@ -1,0 +1,250 @@
+{
+  "text": "δοκιμαζέτω δὲ ἄνθρωπος ἑαυτόν, καὶ οὕτως ἐκ τοῦ ἄρτου ἐσθιέτω καὶ ἐκ τοῦ ποτηρίου πινέτω·",
+  "words": [
+    {
+      "position": 1,
+      "text": "δοκιμαζέτω",
+      "lemma": [
+        "G1381"
+      ],
+      "strongs": "G1381",
+      "morph": "robinson:V-PAM-3S",
+      "translation": "should examine",
+      "metadata": {},
+      "gematria": {
+        "standard": 1257,
+        "ordinal": 105,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἄνθρωπος",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-NSM",
+      "translation": "a man",
+      "metadata": {},
+      "gematria": {
+        "standard": 1310,
+        "ordinal": 112,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἑαυτόν,",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-3ASM",
+      "translation": "himself,",
+      "metadata": {},
+      "gematria": {
+        "standard": 826,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὕτως",
+      "lemma": [
+        "G3779"
+      ],
+      "strongs": "G3779",
+      "morph": "robinson:ADV",
+      "translation": "in this manner",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 96,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἄρτου",
+      "lemma": [
+        "G740"
+      ],
+      "strongs": "G740",
+      "morph": "robinson:N-GSM",
+      "translation": "bread",
+      "metadata": {},
+      "gematria": {
+        "standard": 871,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐσθιέτω",
+      "lemma": [
+        "G2068"
+      ],
+      "strongs": "G2068",
+      "morph": "robinson:V-PAM-3S",
+      "translation": "he should eat",
+      "metadata": {},
+      "gematria": {
+        "standard": 1329,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "ποτηρίου",
+      "lemma": [
+        "G4221"
+      ],
+      "strongs": "G4221",
+      "morph": "robinson:N-GSN",
+      "translation": "cup",
+      "metadata": {},
+      "gematria": {
+        "standard": 1038,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 15,
+      "text": "πινέτω·",
+      "lemma": [
+        "G4095"
+      ],
+      "strongs": "G4095",
+      "morph": "robinson:V-PAM-3S",
+      "translation": "he should drink;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1245,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11307,
+    "ordinal": 937,
+    "reduced": 334
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "text": "ὑμῖν οὖν ἡ τιμὴ τοῖς πιστεύουσιν· ἀπιστοῦσιν δὲ ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες, οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "To you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore [is]",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "τιμὴ",
+      "lemma": [
+        "G5092"
+      ],
+      "strongs": "G5092",
+      "morph": "robinson:N-NSF",
+      "translation": "preciousness",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "of those",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "πιστεύουσιν·",
+      "lemma": [
+        "G4100"
+      ],
+      "strongs": "G4100",
+      "morph": "robinson:V-PAP-DPM",
+      "translation": "believing;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1725,
+        "ordinal": 162,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀπιστοῦσιν",
+      "lemma": [
+        "G569"
+      ],
+      "strongs": "G569",
+      "morph": "robinson:V-PAP-DPM",
+      "translation": "[for those] disbelieving",
+      "metadata": {},
+      "gematria": {
+        "standard": 1321,
+        "ordinal": 138,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 8,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὃν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASM",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀπεδοκίμασαν",
+      "lemma": [
+        "G593"
+      ],
+      "strongs": "G593",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "rejected",
+      "metadata": {},
+      "gematria": {
+        "standard": 482,
+        "ordinal": 105,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 11,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 12,
+      "text": "οἰκοδομοῦντες,",
+      "lemma": [
+        "G3618"
+      ],
+      "strongs": "G3618",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "building,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1309,
+        "ordinal": 170,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 13,
+      "text": "οὗτος",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSM",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1040,
+        "ordinal": 87,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐγενήθη",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2AOI-3S",
+      "translation": "has become",
+      "metadata": {},
+      "gematria": {
+        "standard": 88,
+        "ordinal": 48,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 15,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "κεφαλὴν",
+      "lemma": [
+        "G2776"
+      ],
+      "strongs": "G2776",
+      "morph": "robinson:N-ASF",
+      "translation": "[the] head",
+      "metadata": {},
+      "gematria": {
+        "standard": 614,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 17,
+      "text": "γωνίας",
+      "lemma": [
+        "G1137"
+      ],
+      "strongs": "G1137",
+      "morph": "robinson:N-GSF",
+      "translation": "of [the] corner",
+      "metadata": {},
+      "gematria": {
+        "standard": 1064,
+        "ordinal": 68,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10033,
+    "ordinal": 1156,
+    "reduced": 490
+  }
+}

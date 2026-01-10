@@ -1,0 +1,231 @@
+{
+  "text": "Καὶ ὄντος τοῦ Πέτρου κάτω ἐν τῇ αὐλῇ ἔρχεται μία τῶν παιδισκῶν τοῦ ἀρχιερέως.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὄντος",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAP-GSM",
+      "translation": "when is being",
+      "metadata": {},
+      "gematria": {
+        "standard": 690,
+        "ordinal": 80,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 3,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "Πέτρου",
+      "lemma": null,
+      "morph": null,
+      "translation": "Peter",
+      "metadata": {},
+      "gematria": {
+        "standard": 955,
+        "ordinal": 92,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "κάτω",
+      "lemma": [
+        "G2736"
+      ],
+      "strongs": "G2736",
+      "morph": "robinson:PREP",
+      "translation": "below",
+      "metadata": {},
+      "gematria": {
+        "standard": 1121,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐλῇ",
+      "lemma": [
+        "G833"
+      ],
+      "strongs": "G833",
+      "morph": "robinson:N-DSF",
+      "translation": "courtyard",
+      "metadata": {},
+      "gematria": {
+        "standard": 449,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἔρχεται",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-PNI-3S",
+      "translation": "comes",
+      "metadata": {},
+      "gematria": {
+        "standard": 1021,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 10,
+      "text": "μία",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-NSF",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 22,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "παιδισκῶν",
+      "lemma": [
+        "G3814"
+      ],
+      "strongs": "G3814",
+      "morph": "robinson:N-GPF",
+      "translation": "servant girls",
+      "metadata": {},
+      "gematria": {
+        "standard": 1175,
+        "ordinal": 104,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀρχιερέως.",
+      "lemma": [
+        "G749"
+      ],
+      "strongs": "G749",
+      "morph": "robinson:N-GSM",
+      "translation": "high priest.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1821,
+        "ordinal": 118,
+        "reduced": 55
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10377,
+    "ordinal": 833,
+    "reduced": 302
+  }
+}

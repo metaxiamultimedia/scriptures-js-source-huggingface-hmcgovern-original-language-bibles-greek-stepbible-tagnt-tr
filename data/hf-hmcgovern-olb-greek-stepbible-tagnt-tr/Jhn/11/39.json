@@ -1,0 +1,286 @@
+{
+  "text": "λέγει ὁ Ἰησοῦς· ἄρατε τὸν λίθον. λέγει αὐτῷ ἡ ἀδελφὴ τοῦ Μάρθα· κύριε, ἤδη ὄζει· τεταρταῖος γάρ ἐστιν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "λέγει",
+      "lemma": null,
+      "morph": null,
+      "translation": "Says",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἰησοῦς·",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἄρατε",
+      "lemma": [
+        "G142"
+      ],
+      "strongs": "G142",
+      "morph": "robinson:V-AAM-2P",
+      "translation": "do take away",
+      "metadata": {},
+      "gematria": {
+        "standard": 407,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "λίθον.",
+      "lemma": [
+        "G3037"
+      ],
+      "strongs": "G3037",
+      "morph": "robinson:N-ASM",
+      "translation": "stone.",
+      "metadata": {},
+      "gematria": {
+        "standard": 169,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "λέγει",
+      "lemma": null,
+      "morph": null,
+      "translation": "Says",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀδελφὴ",
+      "lemma": [
+        "G79"
+      ],
+      "strongs": "G79",
+      "morph": "robinson:N-NSF",
+      "translation": "sister",
+      "metadata": {},
+      "gematria": {
+        "standard": 548,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "Μάρθα·",
+      "lemma": [
+        "G3136"
+      ],
+      "strongs": "G3136",
+      "morph": "robinson:N-NSF-P",
+      "translation": "Martha;",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 13,
+      "text": "κύριε,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lord,",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἤδη",
+      "lemma": [
+        "G2235"
+      ],
+      "strongs": "G2235",
+      "morph": "robinson:ADV",
+      "translation": "already",
+      "metadata": {},
+      "gematria": {
+        "standard": 20,
+        "ordinal": 18,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὄζει·",
+      "lemma": [
+        "G3605"
+      ],
+      "strongs": "G3605",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "he stinks;",
+      "metadata": {},
+      "gematria": {
+        "standard": 92,
+        "ordinal": 35,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 16,
+      "text": "τεταρταῖος",
+      "lemma": [
+        "G5066"
+      ],
+      "strongs": "G5066",
+      "morph": "robinson:A-NSM",
+      "translation": "four days",
+      "metadata": {},
+      "gematria": {
+        "standard": 1287,
+        "ordinal": 123,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 17,
+      "text": "γάρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐστιν.",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "it is.",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7651,
+    "ordinal": 858,
+    "reduced": 381
+  }
+}

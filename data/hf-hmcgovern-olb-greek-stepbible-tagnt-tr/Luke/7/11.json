@@ -1,0 +1,295 @@
+{
+  "text": "Καὶ ἐγένετο ἐν ἑξῆς εἰς πόλιν καλουμένην Ναΐν, καὶ συνεπορεύοντο αὐτῷ οἱ μαθηταὶ αὐτοῦ ἱκανοί καὶ ὄχλος πολύς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "it came to pass",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "on",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἑξῆς",
+      "lemma": [
+        "G1836"
+      ],
+      "strongs": "G1836",
+      "morph": "robinson:ADV",
+      "translation": "next [day]",
+      "metadata": {},
+      "gematria": {
+        "standard": 273,
+        "ordinal": 44,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "πόλιν",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-ASF",
+      "translation": "a town",
+      "metadata": {},
+      "gematria": {
+        "standard": 240,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "καλουμένην",
+      "lemma": null,
+      "morph": null,
+      "translation": "being called",
+      "metadata": {},
+      "gematria": {
+        "standard": 674,
+        "ordinal": 107,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "Ναΐν,",
+      "lemma": [
+        "G3484"
+      ],
+      "strongs": "G3484",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Nain,",
+      "metadata": {},
+      "gematria": {
+        "standard": 111,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "συνεπορεύοντο",
+      "lemma": [
+        "G4848"
+      ],
+      "strongs": "G4848",
+      "morph": "robinson:V-INI-3P",
+      "translation": "were going",
+      "metadata": {},
+      "gematria": {
+        "standard": 1800,
+        "ordinal": 191,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "with Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "μαθηταὶ",
+      "lemma": [
+        "G3101"
+      ],
+      "strongs": "G3101",
+      "morph": "robinson:N-NPM",
+      "translation": "disciples",
+      "metadata": {},
+      "gematria": {
+        "standard": 369,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 14,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἱκανοί",
+      "lemma": [
+        "G2425"
+      ],
+      "strongs": "G2425",
+      "morph": "robinson:A-NPM",
+      "translation": "many",
+      "metadata": {},
+      "gematria": {
+        "standard": 161,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὄχλος",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-NSM",
+      "translation": "a crowd",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 18,
+      "text": "πολύς.",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-NSM",
+      "translation": "great.",
+      "metadata": {},
+      "gematria": {
+        "standard": 780,
+        "ordinal": 80,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8941,
+    "ordinal": 1064,
+    "reduced": 425
+  }
+}

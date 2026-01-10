@@ -1,0 +1,116 @@
+{
+  "text": "ὅθεν οὐδὲ ἡ πρώτη χωρὶς αἵματος ἐγκεκαίνισται.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅθεν",
+      "lemma": [
+        "G3606"
+      ],
+      "strongs": "G3606",
+      "morph": "robinson:CONJ",
+      "translation": "wherefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὐδὲ",
+      "lemma": [
+        "G3761"
+      ],
+      "strongs": "G3761",
+      "morph": "robinson:CONJ-N",
+      "translation": "neither",
+      "metadata": {},
+      "gematria": {
+        "standard": 479,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "πρώτη",
+      "lemma": null,
+      "morph": null,
+      "translation": "first",
+      "metadata": {},
+      "gematria": {
+        "standard": 1288,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "χωρὶς",
+      "lemma": [
+        "G5565"
+      ],
+      "strongs": "G5565",
+      "morph": "robinson:PREP",
+      "translation": "apart from",
+      "metadata": {},
+      "gematria": {
+        "standard": 1710,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 6,
+      "text": "αἵματος",
+      "lemma": null,
+      "morph": null,
+      "translation": "blood",
+      "metadata": {},
+      "gematria": {
+        "standard": 622,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐγκεκαίνισται.",
+      "lemma": [
+        "G1457"
+      ],
+      "strongs": "G1457",
+      "morph": "robinson:V-RPI-3S",
+      "translation": "has been inaugurated.",
+      "metadata": {},
+      "gematria": {
+        "standard": 635,
+        "ordinal": 112,
+        "reduced": 58
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4876,
+    "ordinal": 452,
+    "reduced": 200
+  }
+}

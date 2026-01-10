@@ -1,0 +1,282 @@
+{
+  "text": "Σπούδασον πρὸ χειμῶνος ἐλθεῖν. Ἀσπάζεταί σε Εὔβουλος καὶ Πούδης καὶ Λίνος καὶ Κλαυδία καὶ οἱ ἀδελφοὶ πάντες.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Σπούδασον",
+      "lemma": [
+        "G4704"
+      ],
+      "strongs": "G4704",
+      "morph": "robinson:V-AAM-2S",
+      "translation": "do be eager",
+      "metadata": {},
+      "gematria": {
+        "standard": 1075,
+        "ordinal": 120,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 2,
+      "text": "πρὸ",
+      "lemma": [
+        "G4253"
+      ],
+      "strongs": "G4253",
+      "morph": "robinson:PREP",
+      "translation": "before",
+      "metadata": {},
+      "gematria": {
+        "standard": 250,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "χειμῶνος",
+      "lemma": [
+        "G5494"
+      ],
+      "strongs": "G5494",
+      "morph": "robinson:N-GSM",
+      "translation": "winter",
+      "metadata": {},
+      "gematria": {
+        "standard": 1775,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐλθεῖν.",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-2AAN",
+      "translation": "to come.",
+      "metadata": {},
+      "gematria": {
+        "standard": 109,
+        "ordinal": 51,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "Ἀσπάζεταί",
+      "lemma": [
+        "G782"
+      ],
+      "strongs": "G782",
+      "morph": "robinson:V-PNI-3S",
+      "translation": "Greets",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 6,
+      "text": "σε",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AS",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 205,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "Εὔβουλος",
+      "lemma": [
+        "G2103"
+      ],
+      "strongs": "G2103",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Eubulus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1177,
+        "ordinal": 106,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "Πούδης",
+      "lemma": [
+        "G4227"
+      ],
+      "strongs": "G4227",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Pudens",
+      "metadata": {},
+      "gematria": {
+        "standard": 762,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "Λίνος",
+      "lemma": [
+        "G3044"
+      ],
+      "strongs": "G3044",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Linus",
+      "metadata": {},
+      "gematria": {
+        "standard": 360,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "Κλαυδία",
+      "lemma": [
+        "G2803"
+      ],
+      "strongs": "G2803",
+      "morph": "robinson:N-NSF-P",
+      "translation": "Claudia",
+      "metadata": {},
+      "gematria": {
+        "standard": 466,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἀδελφοὶ",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-NPM",
+      "translation": "brothers",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 17,
+      "text": "πάντες.",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NPM",
+      "translation": "all.",
+      "metadata": {},
+      "gematria": {
+        "standard": 636,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8244,
+    "ordinal": 986,
+    "reduced": 437
+  }
+}

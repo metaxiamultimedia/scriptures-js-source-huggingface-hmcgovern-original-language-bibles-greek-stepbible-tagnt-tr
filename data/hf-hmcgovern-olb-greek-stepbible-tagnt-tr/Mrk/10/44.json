@@ -1,0 +1,135 @@
+{
+  "text": "καὶ ὃς ἂν θέλῃ πρῶτος, ἔσται πάντων δοῦλος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὃς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSM",
+      "translation": "who[ever]",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἂν",
+      "lemma": [
+        "G302"
+      ],
+      "strongs": "G302",
+      "morph": "robinson:PRT",
+      "translation": "maybe",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 14,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 4,
+      "text": "θέλῃ",
+      "lemma": [
+        "G2309"
+      ],
+      "strongs": "G2309",
+      "morph": "robinson:V-PAS-3S",
+      "translation": "shall desire",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 40,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 5,
+      "text": "πρῶτος,",
+      "lemma": null,
+      "morph": null,
+      "translation": "first,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1550,
+        "ordinal": 109,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἔσται",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-FDI-3S",
+      "translation": "will be",
+      "metadata": {},
+      "gematria": {
+        "standard": 516,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "πάντων",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-GPM",
+      "translation": "of all",
+      "metadata": {},
+      "gematria": {
+        "standard": 1281,
+        "ordinal": 86,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "δοῦλος.",
+      "lemma": [
+        "G1401"
+      ],
+      "strongs": "G1401",
+      "morph": "robinson:N-NSM",
+      "translation": "slave.",
+      "metadata": {},
+      "gematria": {
+        "standard": 774,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4535,
+    "ordinal": 437,
+    "reduced": 176
+  }
+}

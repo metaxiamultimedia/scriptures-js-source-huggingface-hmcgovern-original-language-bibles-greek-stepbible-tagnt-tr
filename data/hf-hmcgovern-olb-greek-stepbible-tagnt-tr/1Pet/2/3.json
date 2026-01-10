@@ -1,0 +1,84 @@
+{
+  "text": "ἐγεύσασθε ὅτι χρηστὸς ὁ κύριος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐγεύσασθε",
+      "lemma": [
+        "G1089"
+      ],
+      "strongs": "G1089",
+      "morph": "robinson:V-ADI-2P",
+      "translation": "you have tasted",
+      "metadata": {},
+      "gematria": {
+        "standard": 828,
+        "ordinal": 83,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "χρηστὸς",
+      "lemma": [
+        "G5543"
+      ],
+      "strongs": "G5543",
+      "morph": "robinson:A-NSM",
+      "translation": "[is] good",
+      "metadata": {},
+      "gematria": {
+        "standard": 1478,
+        "ordinal": 116,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "κύριος.",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lord.",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3556,
+    "ordinal": 346,
+    "reduced": 148
+  }
+}

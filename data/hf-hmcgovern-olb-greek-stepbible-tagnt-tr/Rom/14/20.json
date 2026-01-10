@@ -1,0 +1,311 @@
+{
+  "text": "μὴ ἕνεκεν βρώματος κατάλυε τὸ ἔργον τοῦ θεοῦ. πάντα μὲν καθαρὰ ἀλλὰ κακὸν τῷ ἀνθρώπῳ τῷ διὰ προσκόμματος ἐσθίοντι·",
+  "words": [
+    {
+      "position": 1,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "Not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἕνεκεν",
+      "lemma": [
+        "G1752"
+      ],
+      "strongs": "G1752",
+      "morph": "robinson:PREP",
+      "translation": "for the sake of",
+      "metadata": {},
+      "gematria": {
+        "standard": 135,
+        "ordinal": 51,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "βρώματος",
+      "lemma": [
+        "G1033"
+      ],
+      "strongs": "G1033",
+      "morph": "robinson:N-GSN",
+      "translation": "food",
+      "metadata": {},
+      "gematria": {
+        "standard": 1513,
+        "ordinal": 108,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 4,
+      "text": "κατάλυε",
+      "lemma": [
+        "G2647"
+      ],
+      "strongs": "G2647",
+      "morph": "robinson:V-PAM-2S",
+      "translation": "do destroy",
+      "metadata": {},
+      "gematria": {
+        "standard": 757,
+        "ordinal": 67,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἔργον",
+      "lemma": [
+        "G2041"
+      ],
+      "strongs": "G2041",
+      "morph": "robinson:N-ASN",
+      "translation": "work",
+      "metadata": {},
+      "gematria": {
+        "standard": 228,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 7,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "θεοῦ.",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God.",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 9,
+      "text": "πάντα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NPN",
+      "translation": "All things",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "μὲν",
+      "lemma": [
+        "G3303"
+      ],
+      "strongs": "G3303",
+      "morph": "robinson:PRT",
+      "translation": "indeed [are]",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
+      "text": "καθαρὰ",
+      "lemma": [
+        "G2513"
+      ],
+      "strongs": "G2513",
+      "morph": "robinson:A-NPN",
+      "translation": "clean",
+      "metadata": {},
+      "gematria": {
+        "standard": 132,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀλλὰ",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "κακὸν",
+      "lemma": null,
+      "morph": null,
+      "translation": "[it is] evil",
+      "metadata": {},
+      "gematria": {
+        "standard": 161,
+        "ordinal": 49,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 14,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀνθρώπῳ",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-DSM",
+      "translation": "man",
+      "metadata": {},
+      "gematria": {
+        "standard": 1850,
+        "ordinal": 112,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 16,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 17,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 18,
+      "text": "προσκόμματος",
+      "lemma": [
+        "G4348"
+      ],
+      "strongs": "G4348",
+      "morph": "robinson:N-GSN",
+      "translation": "a stumbling block",
+      "metadata": {},
+      "gematria": {
+        "standard": 1191,
+        "ordinal": 168,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐσθίοντι·",
+      "lemma": [
+        "G2068"
+      ],
+      "strongs": "G2068",
+      "morph": "robinson:V-PAP-DSM",
+      "translation": "eating;",
+      "metadata": {},
+      "gematria": {
+        "standard": 654,
+        "ordinal": 96,
+        "reduced": 51
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11117,
+    "ordinal": 1119,
+    "reduced": 417
+  }
+}

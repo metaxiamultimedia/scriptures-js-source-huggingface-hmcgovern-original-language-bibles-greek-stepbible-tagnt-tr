@@ -1,0 +1,372 @@
+{
+  "text": "Ἔστιν δὲ καὶ ἄλλα πολλὰ ἐποίησεν ὁ Ἰησοῦς ἅτινα ἐὰν γράφηται καθ᾽ ἕν, οὐδ᾽ αὐτὸν οἶμαι τὸν κόσμον χωρῆσαι τὰ γραφόμενα βιβλία. ἀμήν",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἔστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "There are",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἄλλα",
+      "lemma": [
+        "G243"
+      ],
+      "strongs": "G243",
+      "morph": "robinson:A-NPN",
+      "translation": "other things",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "πολλὰ",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-NPN",
+      "translation": "many",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐποίησεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "did",
+      "metadata": {},
+      "gematria": {
+        "standard": 428,
+        "ordinal": 88,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἅτινα",
+      "lemma": [
+        "G3748"
+      ],
+      "strongs": "G3748",
+      "morph": "robinson:R-NPN",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 362,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐὰν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "γράφηται",
+      "lemma": [
+        "G1125"
+      ],
+      "strongs": "G1125",
+      "morph": "robinson:V-PPS-3S",
+      "translation": "they shall be written",
+      "metadata": {},
+      "gematria": {
+        "standard": 923,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 12,
+      "text": "καθ᾽",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "every",
+      "metadata": {},
+      "gematria": {
+        "standard": 30,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἕν,",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-ASN",
+      "translation": "one,",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "οὐδ᾽",
+      "lemma": [
+        "G3761"
+      ],
+      "strongs": "G3761",
+      "morph": "robinson:CONJ-N",
+      "translation": "not even",
+      "metadata": {},
+      "gematria": {
+        "standard": 474,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 15,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "itself",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "οἶμαι",
+      "lemma": [
+        "G3633"
+      ],
+      "strongs": "G3633",
+      "morph": "robinson:V-PNI-1S",
+      "translation": "I suppose",
+      "metadata": {},
+      "gematria": {
+        "standard": 131,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 17,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "κόσμον",
+      "lemma": [
+        "G2889"
+      ],
+      "strongs": "G2889",
+      "morph": "robinson:N-ASM",
+      "translation": "world",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 19,
+      "text": "χωρῆσαι",
+      "lemma": [
+        "G5562"
+      ],
+      "strongs": "G5562",
+      "morph": "robinson:V-AAN",
+      "translation": "to have space",
+      "metadata": {},
+      "gematria": {
+        "standard": 1719,
+        "ordinal": 98,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 20,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "for the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 21,
+      "text": "γραφόμενα",
+      "lemma": [
+        "G1125"
+      ],
+      "strongs": "G1125",
+      "morph": "robinson:V-PPP-APN",
+      "translation": "to be written",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 22,
+      "text": "βιβλία.",
+      "lemma": [
+        "G975"
+      ],
+      "strongs": "G975",
+      "morph": "robinson:N-APN",
+      "translation": "books.",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 34,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἀμήν",
+      "lemma": [
+        "G281"
+      ],
+      "strongs": "G281",
+      "morph": "robinson:INJ-HEB",
+      "translation": "Amen",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8930,
+    "ordinal": 1094,
+    "reduced": 464
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "text": "τοῦτον οὖν τὸν τίτλον πολλοὶ ἀνέγνωσαν τῶν Ἰουδαίων, ὅτι ἐγγὺς ἦν ὁ τόπος τῆς πόλεως ὅπου ἐσταυρώθη ὁ Ἰησοῦς· καὶ ἦν γεγραμμένον Ἑβραϊστί, Ῥωμαϊστί, Ἑλληνιστί.",
+  "words": [
+    {
+      "position": 1,
+      "text": "τοῦτον",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-ASM",
+      "translation": "This",
+      "metadata": {},
+      "gematria": {
+        "standard": 1190,
+        "ordinal": 101,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "τίτλον",
+      "lemma": [
+        "G5102"
+      ],
+      "strongs": "G5102",
+      "morph": "robinson:N-ASM",
+      "translation": "title",
+      "metadata": {},
+      "gematria": {
+        "standard": 760,
+        "ordinal": 86,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "πολλοὶ",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-NPM",
+      "translation": "many",
+      "metadata": {},
+      "gematria": {
+        "standard": 290,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀνέγνωσαν",
+      "lemma": [
+        "G314"
+      ],
+      "strongs": "G314",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "read",
+      "metadata": {},
+      "gematria": {
+        "standard": 1160,
+        "ordinal": 91,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "Ἰουδαίων,",
+      "lemma": [
+        "G2453"
+      ],
+      "strongs": "G2453",
+      "morph": "robinson:N-GPM-PG",
+      "translation": "Jews,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1345,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐγγὺς",
+      "lemma": [
+        "G1451"
+      ],
+      "strongs": "G1451",
+      "morph": "robinson:PREP",
+      "translation": "near",
+      "metadata": {},
+      "gematria": {
+        "standard": 611,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "τόπος",
+      "lemma": [
+        "G5117"
+      ],
+      "strongs": "G5117",
+      "morph": "robinson:N-NSM",
+      "translation": "place",
+      "metadata": {},
+      "gematria": {
+        "standard": 720,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 14,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 15,
+      "text": "πόλεως",
+      "lemma": [
+        "G4172"
+      ],
+      "strongs": "G4172",
+      "morph": "robinson:N-GSF",
+      "translation": "city",
+      "metadata": {},
+      "gematria": {
+        "standard": 1185,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὅπου",
+      "lemma": [
+        "G3699"
+      ],
+      "strongs": "G3699",
+      "morph": "robinson:PREP",
+      "translation": "where",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐσταυρώθη",
+      "lemma": [
+        "G4717"
+      ],
+      "strongs": "G4717",
+      "morph": "robinson:V-API-3S",
+      "translation": "was crucified",
+      "metadata": {},
+      "gematria": {
+        "standard": 1823,
+        "ordinal": 119,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 18,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 19,
+      "text": "Ἰησοῦς·",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 20,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "it was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "γεγραμμένον",
+      "lemma": [
+        "G1125"
+      ],
+      "strongs": "G1125",
+      "morph": "robinson:V-RPP-NSN",
+      "translation": "written",
+      "metadata": {},
+      "gematria": {
+        "standard": 367,
+        "ordinal": 99,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 23,
+      "text": "Ἑβραϊστί,",
+      "lemma": [
+        "G1447"
+      ],
+      "strongs": "G1447",
+      "morph": "robinson:ADV-T",
+      "translation": "in Hebrew,",
+      "metadata": {},
+      "gematria": {
+        "standard": 628,
+        "ordinal": 80,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 24,
+      "text": "Ῥωμαϊστί,",
+      "lemma": [
+        "G4515"
+      ],
+      "strongs": "G4515",
+      "morph": "robinson:ADV-T",
+      "translation": "in Latin,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1461,
+        "ordinal": 109,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 25,
+      "text": "Ἑλληνιστί.",
+      "lemma": [
+        "G1676"
+      ],
+      "strongs": "G1676",
+      "morph": "robinson:ADV-T",
+      "translation": "in Greek.",
+      "metadata": {},
+      "gematria": {
+        "standard": 643,
+        "ordinal": 102,
+        "reduced": 48
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 16956,
+    "ordinal": 1661,
+    "reduced": 644
+  }
+}

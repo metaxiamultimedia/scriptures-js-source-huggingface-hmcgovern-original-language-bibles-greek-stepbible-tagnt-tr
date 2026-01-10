@@ -1,0 +1,122 @@
+{
+  "text": "καὶ σὺ Καφαρναοὺμ ἕως οὐρανοῦ ἕως ᾅδου",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "σὺ",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NS",
+      "translation": "you yourself",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "Καφαρναοὺμ",
+      "lemma": [
+        "G2584"
+      ],
+      "strongs": "G2584",
+      "morph": "robinson:N-VSF-L",
+      "translation": "Capernaum",
+      "metadata": {},
+      "gematria": {
+        "standard": 1183,
+        "ordinal": 111,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἕως",
+      "lemma": [
+        "G2193"
+      ],
+      "strongs": "G2193",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
+      "text": "οὐρανοῦ",
+      "lemma": [
+        "G3772"
+      ],
+      "strongs": "G3772",
+      "morph": "robinson:N-GSM",
+      "translation": "heaven",
+      "metadata": {},
+      "gematria": {
+        "standard": 1091,
+        "ordinal": 101,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἕως",
+      "lemma": [
+        "G2193"
+      ],
+      "strongs": "G2193",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "ᾅδου",
+      "lemma": [
+        "G86"
+      ],
+      "strongs": "G86",
+      "morph": "robinson:N-GSM-L",
+      "translation": "Hades",
+      "metadata": {},
+      "gematria": {
+        "standard": 485,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5400,
+    "ordinal": 413,
+    "reduced": 143
+  }
+}

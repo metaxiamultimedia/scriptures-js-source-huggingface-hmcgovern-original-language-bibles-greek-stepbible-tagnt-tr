@@ -1,0 +1,87 @@
+{
+  "text": "καὶ καθήμενοι ἐτήρουν αὐτὸν ἐκεῖ,",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "καθήμενοι",
+      "lemma": [
+        "G2521"
+      ],
+      "strongs": "G2521",
+      "morph": "robinson:V-PNP-NPM",
+      "translation": "sitting down",
+      "metadata": {},
+      "gematria": {
+        "standard": 213,
+        "ordinal": 80,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐτήρουν",
+      "lemma": null,
+      "morph": null,
+      "translation": "they were guarding",
+      "metadata": {},
+      "gematria": {
+        "standard": 933,
+        "ordinal": 96,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐκεῖ,",
+      "lemma": [
+        "G1563"
+      ],
+      "strongs": "G1563",
+      "morph": "robinson:ADV",
+      "translation": "there,",
+      "metadata": {},
+      "gematria": {
+        "standard": 40,
+        "ordinal": 29,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2038,
+    "ordinal": 293,
+    "reduced": 122
+  }
+}

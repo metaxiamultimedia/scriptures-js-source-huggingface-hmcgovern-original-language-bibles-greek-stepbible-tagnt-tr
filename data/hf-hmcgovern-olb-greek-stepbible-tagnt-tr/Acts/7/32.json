@@ -1,0 +1,327 @@
+{
+  "text": "ἐγὼ ὁ θεὸς τῶν πατέρων σου, ὁ θεὸς Ἀβραὰμ καὶ Ἰσαὰκ καὶ Ἰακώβ. ἔντρομος δὲ γενόμενος Μωϋσῆς οὐκ ἐτόλμα κατανοῆσαι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS",
+      "translation": "I myself [am]",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "πατέρων",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-GPM-T",
+      "translation": "Fathers",
+      "metadata": {},
+      "gematria": {
+        "standard": 1336,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 6,
+      "text": "σου,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "Ἀβραὰμ",
+      "lemma": [
+        "G11"
+      ],
+      "strongs": "G11",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of Abraham",
+      "metadata": {},
+      "gematria": {
+        "standard": 145,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "Ἰσαὰκ",
+      "lemma": [
+        "G2464"
+      ],
+      "strongs": "G2464",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of Isaac",
+      "metadata": {},
+      "gematria": {
+        "standard": 232,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "Ἰακώβ.",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Jacob.’",
+      "metadata": {},
+      "gematria": {
+        "standard": 833,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἔντρομος",
+      "lemma": [
+        "G1790"
+      ],
+      "strongs": "G1790",
+      "morph": "robinson:A-NSM",
+      "translation": "Terrified",
+      "metadata": {},
+      "gematria": {
+        "standard": 835,
+        "ordinal": 114,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 15,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 16,
+      "text": "γενόμενος",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADP-NSM",
+      "translation": "having become",
+      "metadata": {},
+      "gematria": {
+        "standard": 493,
+        "ordinal": 99,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 17,
+      "text": "Μωϋσῆς",
+      "lemma": [
+        "G3475"
+      ],
+      "strongs": "G3475",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Moses",
+      "metadata": {},
+      "gematria": {
+        "standard": 1648,
+        "ordinal": 99,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 18,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐτόλμα",
+      "lemma": [
+        "G5111"
+      ],
+      "strongs": "G5111",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "he was daring",
+      "metadata": {},
+      "gematria": {
+        "standard": 446,
+        "ordinal": 63,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 20,
+      "text": "κατανοῆσαι.",
+      "lemma": [
+        "G2657"
+      ],
+      "strongs": "G2657",
+      "morph": "robinson:V-AAN",
+      "translation": "to look.",
+      "metadata": {},
+      "gematria": {
+        "standard": 661,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10526,
+    "ordinal": 1040,
+    "reduced": 419
+  }
+}

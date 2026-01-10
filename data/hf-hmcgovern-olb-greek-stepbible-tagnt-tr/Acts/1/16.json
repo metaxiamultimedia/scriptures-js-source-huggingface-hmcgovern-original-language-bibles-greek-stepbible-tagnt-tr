@@ -1,0 +1,363 @@
+{
+  "text": "ἄνδρες ἀδελφοί, ἔδει πληρωθῆναι τὴν γραφὴν ἣν προεῖπεν τὸ πνεῦμα τὸ ἅγιον διὰ στόματος Δαυὶδ περὶ Ἰούδα τοῦ γενομένου ὁδηγοῦ τοῖς συλλαβοῦσιν Ἰησοῦν·",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἄνδρες",
+      "lemma": null,
+      "morph": null,
+      "translation": "Men",
+      "metadata": {},
+      "gematria": {
+        "standard": 360,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀδελφοί,",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-VPM",
+      "translation": "brothers,",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἔδει",
+      "lemma": [
+        "G1163"
+      ],
+      "strongs": "G1163",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "it was necessary for",
+      "metadata": {},
+      "gematria": {
+        "standard": 24,
+        "ordinal": 23,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "πληρωθῆναι",
+      "lemma": [
+        "G4137"
+      ],
+      "strongs": "G4137",
+      "morph": "robinson:V-APN",
+      "translation": "to have been fulfilled",
+      "metadata": {},
+      "gematria": {
+        "standard": 1096,
+        "ordinal": 113,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "γραφὴν",
+      "lemma": [
+        "G1124"
+      ],
+      "strongs": "G1124",
+      "morph": "robinson:N-ASF",
+      "translation": "Scripture",
+      "metadata": {},
+      "gematria": {
+        "standard": 662,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἣν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASF",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "προεῖπεν",
+      "lemma": [
+        "G4302"
+      ],
+      "strongs": "G4302",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "foretold",
+      "metadata": {},
+      "gematria": {
+        "standard": 400,
+        "ordinal": 96,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 9,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "πνεῦμα",
+      "lemma": null,
+      "morph": null,
+      "translation": "Spirit",
+      "metadata": {},
+      "gematria": {
+        "standard": 576,
+        "ordinal": 67,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 11,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἅγιον",
+      "lemma": null,
+      "morph": null,
+      "translation": "Holy",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 13,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "στόματος",
+      "lemma": [
+        "G4750"
+      ],
+      "strongs": "G4750",
+      "morph": "robinson:N-GSN",
+      "translation": "[the] mouth",
+      "metadata": {},
+      "gematria": {
+        "standard": 1181,
+        "ordinal": 117,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 15,
+      "text": "Δαυὶδ",
+      "lemma": [
+        "G1138"
+      ],
+      "strongs": "G1138",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of David",
+      "metadata": {},
+      "gematria": {
+        "standard": 419,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 16,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "concerning",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 17,
+      "text": "Ἰούδα",
+      "lemma": null,
+      "morph": null,
+      "translation": "Judas",
+      "metadata": {},
+      "gematria": {
+        "standard": 485,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 18,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 19,
+      "text": "γενομένου",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADP-GSM",
+      "translation": "having become",
+      "metadata": {},
+      "gematria": {
+        "standard": 693,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 20,
+      "text": "ὁδηγοῦ",
+      "lemma": [
+        "G3595"
+      ],
+      "strongs": "G3595",
+      "morph": "robinson:N-GSM",
+      "translation": "guide",
+      "metadata": {},
+      "gematria": {
+        "standard": 555,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 21,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "to those",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 22,
+      "text": "συλλαβοῦσιν",
+      "lemma": [
+        "G4815"
+      ],
+      "strongs": "G4815",
+      "morph": "robinson:V-2AAP-DPM",
+      "translation": "having arrested",
+      "metadata": {},
+      "gematria": {
+        "standard": 1393,
+        "ordinal": 138,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 23,
+      "text": "Ἰησοῦν·",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus;",
+      "metadata": {},
+      "gematria": {
+        "standard": 738,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12052,
+    "ordinal": 1418,
+    "reduced": 608
+  }
+}

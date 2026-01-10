@@ -1,0 +1,87 @@
+{
+  "text": "καὶ ἀναπεσεῖν ἐπὶ τὴν γῆν",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀναπεσεῖν",
+      "lemma": [
+        "G377"
+      ],
+      "strongs": "G377",
+      "morph": "robinson:V-2AAN",
+      "translation": "to sit down",
+      "metadata": {},
+      "gematria": {
+        "standard": 402,
+        "ordinal": 81,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "on",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "γῆν",
+      "lemma": null,
+      "morph": null,
+      "translation": "ground",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 947,
+    "ordinal": 193,
+    "reduced": 103
+  }
+}

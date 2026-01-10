@@ -1,0 +1,276 @@
+{
+  "text": "κύριε, τοὺς προφήτας σου ἀπέκτειναν, τὰ θυσιαστήριά σου κατέσκαψαν, κἀγὼ ὑπελείφθην μόνος, καὶ ζητοῦσιν τὴν ψυχήν μου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "κύριε,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lord,",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 2,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "προφήτας",
+      "lemma": [
+        "G4396"
+      ],
+      "strongs": "G4396",
+      "morph": "robinson:N-APM",
+      "translation": "prophets",
+      "metadata": {},
+      "gematria": {
+        "standard": 1259,
+        "ordinal": 114,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 4,
+      "text": "σου",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of You",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀπέκτειναν,",
+      "lemma": [
+        "G615"
+      ],
+      "strongs": "G615",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "they have killed,",
+      "metadata": {},
+      "gematria": {
+        "standard": 522,
+        "ordinal": 92,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 7,
+      "text": "θυσιαστήριά",
+      "lemma": [
+        "G2379"
+      ],
+      "strongs": "G2379",
+      "morph": "robinson:N-APN",
+      "translation": "altars",
+      "metadata": {},
+      "gematria": {
+        "standard": 1239,
+        "ordinal": 127,
+        "reduced": 64
+      }
+    },
+    {
+      "position": 8,
+      "text": "σου",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of You",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 9,
+      "text": "κατέσκαψαν,",
+      "lemma": [
+        "G2679"
+      ],
+      "strongs": "G2679",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "they have torn down,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1298,
+        "ordinal": 101,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 10,
+      "text": "κἀγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS + G2532=CONJ",
+      "translation": "and I myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὑπελείφθην",
+      "lemma": [
+        "G5275"
+      ],
+      "strongs": "G5275",
+      "morph": "robinson:V-API-1S",
+      "translation": "were left",
+      "metadata": {},
+      "gematria": {
+        "standard": 1097,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 12,
+      "text": "μόνος,",
+      "lemma": [
+        "G3441"
+      ],
+      "strongs": "G3441",
+      "morph": "robinson:A-NSM",
+      "translation": "alone,",
+      "metadata": {},
+      "gematria": {
+        "standard": 430,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ζητοῦσιν",
+      "lemma": [
+        "G2212"
+      ],
+      "strongs": "G2212",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "they are seeking",
+      "metadata": {},
+      "gematria": {
+        "standard": 1045,
+        "ordinal": 107,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 15,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 16,
+      "text": "ψυχήν",
+      "lemma": null,
+      "morph": null,
+      "translation": "life",
+      "metadata": {},
+      "gematria": {
+        "standard": 1758,
+        "ordinal": 85,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 17,
+      "text": "μου.",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of me.",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13517,
+    "ordinal": 1217,
+    "reduced": 443
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "text": "Τότε ἐρεῖ ὁ βασιλεὺς τοῖς ἐκ δεξιῶν αὐτοῦ· δεῦτε οἱ εὐλογημένοι τοῦ πατρός μου, κληρονομήσατε τὴν ἡτοιμασμένην ὑμῖν βασιλείαν ἀπὸ καταβολῆς κόσμου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Τότε",
+      "lemma": [
+        "G5119"
+      ],
+      "strongs": "G5119",
+      "morph": "robinson:ADV",
+      "translation": "Then",
+      "metadata": {},
+      "gematria": {
+        "standard": 675,
+        "ordinal": 58,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐρεῖ",
+      "lemma": [
+        "G4483"
+      ],
+      "strongs": "G4483",
+      "morph": "robinson:V-FAI-3S",
+      "translation": "will say",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "βασιλεὺς",
+      "lemma": [
+        "G935"
+      ],
+      "strongs": "G935",
+      "morph": "robinson:N-NSM-T",
+      "translation": "King",
+      "metadata": {},
+      "gematria": {
+        "standard": 848,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "to those",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "on",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "δεξιῶν",
+      "lemma": [
+        "G1188"
+      ],
+      "strongs": "G1188",
+      "morph": "robinson:A-GPN",
+      "translation": "[the] right hand",
+      "metadata": {},
+      "gematria": {
+        "standard": 929,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτοῦ·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "δεῦτε",
+      "lemma": [
+        "G1205"
+      ],
+      "strongs": "G1205",
+      "morph": "robinson:INJ",
+      "translation": "Come",
+      "metadata": {},
+      "gematria": {
+        "standard": 714,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-VPM",
+      "translation": "you who [are]",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "εὐλογημένοι",
+      "lemma": [
+        "G2127"
+      ],
+      "strongs": "G2127",
+      "morph": "robinson:V-RPP-VPM",
+      "translation": "blessed",
+      "metadata": {},
+      "gematria": {
+        "standard": 691,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 12,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "πατρός",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-GSM-T",
+      "translation": "Father",
+      "metadata": {},
+      "gematria": {
+        "standard": 751,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 14,
+      "text": "μου,",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of mine,",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "κληρονομήσατε",
+      "lemma": [
+        "G2816"
+      ],
+      "strongs": "G2816",
+      "morph": "robinson:V-AAM-2P",
+      "translation": "do inherit",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 150,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 16,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἡτοιμασμένην",
+      "lemma": [
+        "G2090"
+      ],
+      "strongs": "G2090",
+      "morph": "robinson:V-RPP-ASF",
+      "translation": "prepared",
+      "metadata": {},
+      "gematria": {
+        "standard": 782,
+        "ordinal": 131,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 18,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "for you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 19,
+      "text": "βασιλείαν",
+      "lemma": [
+        "G932"
+      ],
+      "strongs": "G932",
+      "morph": "robinson:N-ASF",
+      "translation": "kingdom",
+      "metadata": {},
+      "gematria": {
+        "standard": 309,
+        "ordinal": 69,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from [the]",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 21,
+      "text": "καταβολῆς",
+      "lemma": [
+        "G2602"
+      ],
+      "strongs": "G2602",
+      "morph": "robinson:N-GSF",
+      "translation": "foundation",
+      "metadata": {},
+      "gematria": {
+        "standard": 632,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 22,
+      "text": "κόσμου.",
+      "lemma": [
+        "G2889"
+      ],
+      "strongs": "G2889",
+      "morph": "robinson:N-GSM",
+      "translation": "of [the] world.",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 90,
+        "reduced": 27
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12368,
+    "ordinal": 1441,
+    "reduced": 559
+  }
+}

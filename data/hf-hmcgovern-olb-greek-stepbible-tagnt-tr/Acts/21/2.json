@@ -1,0 +1,138 @@
+{
+  "text": "καὶ εὑρόντες πλοῖον διαπερῶν εἰς Φοινίκην ἐπιβάντες ἀνήχθημεν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "εὑρόντες",
+      "lemma": [
+        "G2147"
+      ],
+      "strongs": "G2147",
+      "morph": "robinson:V-2AAP-NPM",
+      "translation": "having found",
+      "metadata": {},
+      "gematria": {
+        "standard": 1130,
+        "ordinal": 112,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 3,
+      "text": "πλοῖον",
+      "lemma": [
+        "G4143"
+      ],
+      "strongs": "G4143",
+      "morph": "robinson:N-ASN",
+      "translation": "a boat",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 4,
+      "text": "διαπερῶν",
+      "lemma": [
+        "G1276"
+      ],
+      "strongs": "G1276",
+      "morph": "robinson:V-PAP-ASN",
+      "translation": "passing over",
+      "metadata": {},
+      "gematria": {
+        "standard": 1050,
+        "ordinal": 89,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "Φοινίκην",
+      "lemma": [
+        "G5403"
+      ],
+      "strongs": "G5403",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Phoenicia",
+      "metadata": {},
+      "gematria": {
+        "standard": 718,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐπιβάντες",
+      "lemma": [
+        "G1910"
+      ],
+      "strongs": "G1910",
+      "morph": "robinson:V-2AAP-NPM",
+      "translation": "having gone on board",
+      "metadata": {},
+      "gematria": {
+        "standard": 653,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀνήχθημεν.",
+      "lemma": [
+        "G321"
+      ],
+      "strongs": "G321",
+      "morph": "robinson:V-API-1P",
+      "translation": "we set sail.",
+      "metadata": {},
+      "gematria": {
+        "standard": 771,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4878,
+    "ordinal": 605,
+    "reduced": 281
+  }
+}

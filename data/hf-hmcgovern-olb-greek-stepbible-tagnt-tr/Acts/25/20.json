@@ -1,0 +1,260 @@
+{
+  "text": "ἀπορούμενος δὲ ἐγὼ τὴν περὶ ζήτησιν ἔλεγον εἰ βούλοιτο πορεύεσθαι εἰς Ἱεροσόλυμα κἀκεῖ κρίνεσθαι περὶ τούτων.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀπορούμενος",
+      "lemma": [
+        "G639"
+      ],
+      "strongs": "G639",
+      "morph": "robinson:V-PMP-NSM",
+      "translation": "Being perplexed",
+      "metadata": {},
+      "gematria": {
+        "standard": 1086,
+        "ordinal": 147,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS",
+      "translation": "I myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "concerning",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "ζήτησιν",
+      "lemma": [
+        "G2214"
+      ],
+      "strongs": "G2214",
+      "morph": "robinson:N-ASF",
+      "translation": "inquiry",
+      "metadata": {},
+      "gematria": {
+        "standard": 583,
+        "ordinal": 79,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἔλεγον",
+      "lemma": null,
+      "morph": null,
+      "translation": "was asking",
+      "metadata": {},
+      "gematria": {
+        "standard": 163,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "βούλοιτο",
+      "lemma": [
+        "G1014"
+      ],
+      "strongs": "G1014",
+      "morph": "robinson:V-PNO-3S",
+      "translation": "he would be willing",
+      "metadata": {},
+      "gematria": {
+        "standard": 952,
+        "ordinal": 106,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 10,
+      "text": "πορεύεσθαι",
+      "lemma": [
+        "G4198"
+      ],
+      "strongs": "G4198",
+      "morph": "robinson:V-PNN",
+      "translation": "to go",
+      "metadata": {},
+      "gematria": {
+        "standard": 880,
+        "ordinal": 114,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 11,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 12,
+      "text": "Ἱεροσόλυμα",
+      "lemma": [
+        "G2414"
+      ],
+      "strongs": "G2414",
+      "morph": "robinson:N-APN-L",
+      "translation": "Jerusalem",
+      "metadata": {},
+      "gematria": {
+        "standard": 926,
+        "ordinal": 123,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 13,
+      "text": "κἀκεῖ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ + G1563=ADV",
+      "translation": "and there",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 14,
+      "text": "κρίνεσθαι",
+      "lemma": [
+        "G2919"
+      ],
+      "strongs": "G2919",
+      "morph": "robinson:V-PPN",
+      "translation": "to be judged",
+      "metadata": {},
+      "gematria": {
+        "standard": 405,
+        "ordinal": 90,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 15,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "concerning",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 16,
+      "text": "τούτων.",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-GPN",
+      "translation": "these things.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1920,
+        "ordinal": 110,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8766,
+    "ordinal": 1076,
+    "reduced": 491
+  }
+}

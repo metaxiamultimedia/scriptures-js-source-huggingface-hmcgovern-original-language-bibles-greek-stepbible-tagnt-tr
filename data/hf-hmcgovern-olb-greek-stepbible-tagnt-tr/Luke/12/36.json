@@ -1,0 +1,311 @@
+{
+  "text": "καὶ ὑμεῖς ὅμοιοι ἀνθρώποις προσδεχομένοις τὸν κύριον ἑαυτῶν πότε ἐκ τῶν γάμων, ἵνα ἐλθόντος καὶ κρούσαντος εὐθέως ἀνοίξωσιν αὐτῷ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὑμεῖς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NP",
+      "translation": "you yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὅμοιοι",
+      "lemma": [
+        "G3664"
+      ],
+      "strongs": "G3664",
+      "morph": "robinson:A-NPM",
+      "translation": "like",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀνθρώποις",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-DPM",
+      "translation": "to men",
+      "metadata": {},
+      "gematria": {
+        "standard": 1320,
+        "ordinal": 121,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 5,
+      "text": "προσδεχομένοις",
+      "lemma": [
+        "G4327"
+      ],
+      "strongs": "G4327",
+      "morph": "robinson:V-PNP-DPM",
+      "translation": "waiting for",
+      "metadata": {},
+      "gematria": {
+        "standard": 1504,
+        "ordinal": 184,
+        "reduced": 85
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "κύριον",
+      "lemma": null,
+      "morph": null,
+      "translation": "master",
+      "metadata": {},
+      "gematria": {
+        "standard": 650,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἑαυτῶν",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-3GPM",
+      "translation": "of themselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 1556,
+        "ordinal": 82,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 9,
+      "text": "πότε",
+      "lemma": [
+        "G4219"
+      ],
+      "strongs": "G4219",
+      "morph": "robinson:PRT-I",
+      "translation": "whenever",
+      "metadata": {},
+      "gematria": {
+        "standard": 455,
+        "ordinal": 55,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "γάμων,",
+      "lemma": [
+        "G1062"
+      ],
+      "strongs": "G1062",
+      "morph": "robinson:N-GPM",
+      "translation": "wedding feasts,",
+      "metadata": {},
+      "gematria": {
+        "standard": 894,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐλθόντος",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-2AAP-GSM",
+      "translation": "having come",
+      "metadata": {},
+      "gematria": {
+        "standard": 734,
+        "ordinal": 104,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "κρούσαντος",
+      "lemma": [
+        "G2925"
+      ],
+      "strongs": "G2925",
+      "morph": "robinson:V-AAP-GSM",
+      "translation": "having knocked",
+      "metadata": {},
+      "gematria": {
+        "standard": 1411,
+        "ordinal": 146,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 17,
+      "text": "εὐθέως",
+      "lemma": [
+        "G2112"
+      ],
+      "strongs": "G2112",
+      "morph": "robinson:ADV",
+      "translation": "immediately",
+      "metadata": {},
+      "gematria": {
+        "standard": 1419,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἀνοίξωσιν",
+      "lemma": [
+        "G455"
+      ],
+      "strongs": "G455",
+      "morph": "robinson:V-AAS-3P",
+      "translation": "they may open",
+      "metadata": {},
+      "gematria": {
+        "standard": 1251,
+        "ordinal": 116,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 19,
+      "text": "αὐτῷ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15348,
+    "ordinal": 1418,
+    "reduced": 554
+  }
+}

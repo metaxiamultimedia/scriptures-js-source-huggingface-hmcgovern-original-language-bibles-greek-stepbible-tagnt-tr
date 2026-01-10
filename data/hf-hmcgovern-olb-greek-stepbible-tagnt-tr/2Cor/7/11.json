@@ -1,0 +1,538 @@
+{
+  "text": "ἰδοὺ γὰρ αὐτὸ τοῦτο τὸ κατὰ θεὸν λυπηθῆναι ὑμᾶς, πόσην κατειργάσατο ὑμῖν σπουδήν, ἀλλ᾽ ἀπολογίαν, ἀλλ᾽ ἀγανάκτησιν, ἀλλὰ φόβον, ἀλλ᾽ ἐπιπόθησιν, ἀλλὰ ζῆλον, ἀλλ᾽ ἐκδίκησιν; ἐν παντὶ συνεστήσατε ἑαυτοὺς ἁγνοὺς εἶναι τῷ πράγματι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἰδοὺ",
+      "lemma": [
+        "G2400"
+      ],
+      "strongs": "G2400",
+      "morph": "robinson:INJ",
+      "translation": "Behold",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτὸ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NSN",
+      "translation": "this very",
+      "metadata": {},
+      "gematria": {
+        "standard": 771,
+        "ordinal": 55,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "τοῦτο",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSN",
+      "translation": "same",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "<the> [thing]",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "κατὰ",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "according to",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 31,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 7,
+      "text": "θεὸν",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-ASM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "λυπηθῆναι",
+      "lemma": [
+        "G3076"
+      ],
+      "strongs": "G3076",
+      "morph": "robinson:V-APN",
+      "translation": "to have been grieved",
+      "metadata": {},
+      "gematria": {
+        "standard": 596,
+        "ordinal": 92,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὑμᾶς,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "by you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "πόσην",
+      "lemma": [
+        "G4214"
+      ],
+      "strongs": "G4214",
+      "morph": "robinson:Q-ASF",
+      "translation": "how much",
+      "metadata": {},
+      "gematria": {
+        "standard": 408,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 11,
+      "text": "κατειργάσατο",
+      "lemma": [
+        "G2716"
+      ],
+      "strongs": "G2716",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "has produced",
+      "metadata": {},
+      "gematria": {
+        "standard": 1011,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "in you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 13,
+      "text": "σπουδήν,",
+      "lemma": [
+        "G4710"
+      ],
+      "strongs": "G4710",
+      "morph": "robinson:N-ASF",
+      "translation": "earnestness,",
+      "metadata": {},
+      "gematria": {
+        "standard": 812,
+        "ordinal": 93,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but instead",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀπολογίαν,",
+      "lemma": [
+        "G627"
+      ],
+      "strongs": "G627",
+      "morph": "robinson:N-ASF",
+      "translation": "reasoned defense,",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀγανάκτησιν,",
+      "lemma": [
+        "G24"
+      ],
+      "strongs": "G24",
+      "morph": "robinson:N-ASF",
+      "translation": "indignation,",
+      "metadata": {},
+      "gematria": {
+        "standard": 644,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἀλλὰ",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 19,
+      "text": "φόβον,",
+      "lemma": [
+        "G5401"
+      ],
+      "strongs": "G5401",
+      "morph": "robinson:N-ASM",
+      "translation": "fear,",
+      "metadata": {},
+      "gematria": {
+        "standard": 692,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἐπιπόθησιν,",
+      "lemma": [
+        "G1972"
+      ],
+      "strongs": "G1972",
+      "morph": "robinson:N-ASF",
+      "translation": "longing,",
+      "metadata": {},
+      "gematria": {
+        "standard": 522,
+        "ordinal": 116,
+        "reduced": 71
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἀλλὰ",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 23,
+      "text": "ζῆλον,",
+      "lemma": [
+        "G2205"
+      ],
+      "strongs": "G2205",
+      "morph": "robinson:N-ASM",
+      "translation": "zeal,",
+      "metadata": {},
+      "gematria": {
+        "standard": 165,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἀλλ᾽",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἐκδίκησιν;",
+      "lemma": [
+        "G1557"
+      ],
+      "strongs": "G1557",
+      "morph": "robinson:N-ASF",
+      "translation": "vindication?",
+      "metadata": {},
+      "gematria": {
+        "standard": 327,
+        "ordinal": 85,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 26,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "In",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 27,
+      "text": "παντὶ",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-DSN",
+      "translation": "everything",
+      "metadata": {},
+      "gematria": {
+        "standard": 441,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 28,
+      "text": "συνεστήσατε",
+      "lemma": [
+        "G4921"
+      ],
+      "strongs": "G4921",
+      "morph": "robinson:V-AAI-2P",
+      "translation": "you have proved",
+      "metadata": {},
+      "gematria": {
+        "standard": 1669,
+        "ordinal": 143,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 29,
+      "text": "ἑαυτοὺς",
+      "lemma": [
+        "G1438"
+      ],
+      "strongs": "G1438",
+      "morph": "robinson:F-2APM",
+      "translation": "yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 1376,
+        "ordinal": 98,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 30,
+      "text": "ἁγνοὺς",
+      "lemma": [
+        "G53"
+      ],
+      "strongs": "G53",
+      "morph": "robinson:A-APM",
+      "translation": "innocent",
+      "metadata": {},
+      "gematria": {
+        "standard": 724,
+        "ordinal": 70,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 31,
+      "text": "εἶναι",
+      "lemma": [
+        "G1511"
+      ],
+      "strongs": "G1511",
+      "morph": "robinson:V-PAN",
+      "translation": "to be",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 37,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 32,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 33,
+      "text": "πράγματι.",
+      "lemma": [
+        "G4229"
+      ],
+      "strongs": "G4229",
+      "morph": "robinson:N-DSN",
+      "translation": "matter.",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 16312,
+    "ordinal": 1987,
+    "reduced": 781
+  }
+}

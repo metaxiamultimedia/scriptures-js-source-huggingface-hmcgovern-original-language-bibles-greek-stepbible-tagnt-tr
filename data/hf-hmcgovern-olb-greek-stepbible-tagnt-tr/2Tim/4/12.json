@@ -1,0 +1,90 @@
+{
+  "text": "Τύχικον δὲ ἀπέστειλα εἰς Ἔφεσον.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Τύχικον",
+      "lemma": [
+        "G5190"
+      ],
+      "strongs": "G5190",
+      "morph": "robinson:N-ASM-P",
+      "translation": "Tychicus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1450,
+        "ordinal": 108,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀπέστειλα",
+      "lemma": [
+        "G649"
+      ],
+      "strongs": "G649",
+      "morph": "robinson:V-AAI-1S",
+      "translation": "I have sent",
+      "metadata": {},
+      "gematria": {
+        "standard": 632,
+        "ordinal": 85,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "Ἔφεσον.",
+      "lemma": [
+        "G2181"
+      ],
+      "strongs": "G2181",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Ephesus.",
+      "metadata": {},
+      "gematria": {
+        "standard": 830,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3136,
+    "ordinal": 311,
+    "reduced": 131
+  }
+}

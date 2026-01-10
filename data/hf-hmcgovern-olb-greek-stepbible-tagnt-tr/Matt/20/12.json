@@ -1,0 +1,337 @@
+{
+  "text": "λέγοντες οὗτοι οἱ ἔσχατοι μίαν ὥραν ἐποίησαν, καὶ ἴσους ἡμῖν αὐτοὺς ἐποίησας, τοῖς βαστάσασιν τὸ βάρος τῆς ἡμέρας καὶ τὸν καύσωνα.",
+  "words": [
+    {
+      "position": 1,
+      "text": "λέγοντες",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὗτοι",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NPM",
+      "translation": "These",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἔσχατοι",
+      "lemma": [
+        "G2078"
+      ],
+      "strongs": "G2078",
+      "morph": "robinson:A-NPM",
+      "translation": "last",
+      "metadata": {},
+      "gematria": {
+        "standard": 1186,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "μίαν",
+      "lemma": [
+        "G1520"
+      ],
+      "strongs": "G1520",
+      "morph": "robinson:A-ASF",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 101,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὥραν",
+      "lemma": [
+        "G5610"
+      ],
+      "strongs": "G5610",
+      "morph": "robinson:N-ASF",
+      "translation": "hour",
+      "metadata": {},
+      "gematria": {
+        "standard": 951,
+        "ordinal": 55,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐποίησαν,",
+      "lemma": null,
+      "morph": null,
+      "translation": "worked,",
+      "metadata": {},
+      "gematria": {
+        "standard": 424,
+        "ordinal": 84,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἴσους",
+      "lemma": [
+        "G2470"
+      ],
+      "strongs": "G2470",
+      "morph": "robinson:A-APM",
+      "translation": "equal",
+      "metadata": {},
+      "gematria": {
+        "standard": 880,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἡμῖν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DP",
+      "translation": "to us",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτοὺς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APM",
+      "translation": "them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 93,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐποίησας,",
+      "lemma": null,
+      "morph": null,
+      "translation": "you have made,",
+      "metadata": {},
+      "gematria": {
+        "standard": 574,
+        "ordinal": 89,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "to [we] who",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 14,
+      "text": "βαστάσασιν",
+      "lemma": [
+        "G941"
+      ],
+      "strongs": "G941",
+      "morph": "robinson:V-AAP-DPM",
+      "translation": "having borne",
+      "metadata": {},
+      "gematria": {
+        "standard": 965,
+        "ordinal": 100,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 15,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 16,
+      "text": "βάρος",
+      "lemma": [
+        "G922"
+      ],
+      "strongs": "G922",
+      "morph": "robinson:N-ASN",
+      "translation": "burden",
+      "metadata": {},
+      "gematria": {
+        "standard": 373,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 17,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἡμέρας",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-GSF",
+      "translation": "day",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 19,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "καύσωνα.",
+      "lemma": [
+        "G2742"
+      ],
+      "strongs": "G2742",
+      "morph": "robinson:N-ASM",
+      "translation": "scorching heat.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1472,
+        "ordinal": 87,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12292,
+    "ordinal": 1283,
+    "reduced": 536
+  }
+}

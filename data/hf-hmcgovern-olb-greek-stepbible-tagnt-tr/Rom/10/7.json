@@ -1,0 +1,202 @@
+{
+  "text": "ἢ τίς καταβήσεται εἰς τὴν ἄβυσσον; τοῦτ᾽ ἔστιν Χριστὸν ἐκ νεκρῶν ἀναγαγεῖν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἢ",
+      "lemma": [
+        "G2228"
+      ],
+      "strongs": "G2228",
+      "morph": "robinson:CONJ",
+      "translation": "or",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "τίς",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-NSM",
+      "translation": "Who",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "καταβήσεται",
+      "lemma": [
+        "G2597"
+      ],
+      "strongs": "G2597",
+      "morph": "robinson:V-FDI-3S",
+      "translation": "will descend",
+      "metadata": {},
+      "gematria": {
+        "standard": 848,
+        "ordinal": 92,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἄβυσσον;",
+      "lemma": [
+        "G12"
+      ],
+      "strongs": "G12",
+      "morph": "robinson:N-ASF",
+      "translation": "abyss?’",
+      "metadata": {},
+      "gematria": {
+        "standard": 923,
+        "ordinal": 87,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 7,
+      "text": "τοῦτ᾽",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSN",
+      "translation": "That",
+      "metadata": {},
+      "gematria": {
+        "standard": 1070,
+        "ordinal": 73,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἔστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "Χριστὸν",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-ASM-T",
+      "translation": "Christ",
+      "metadata": {},
+      "gematria": {
+        "standard": 1330,
+        "ordinal": 113,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out from",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "νεκρῶν",
+      "lemma": [
+        "G3498"
+      ],
+      "strongs": "G3498",
+      "morph": "robinson:A-GPM",
+      "translation": "[the] dead",
+      "metadata": {},
+      "gematria": {
+        "standard": 1025,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀναγαγεῖν.",
+      "lemma": [
+        "G321"
+      ],
+      "strongs": "G321",
+      "morph": "robinson:V-2AAN",
+      "translation": "to bring up.",
+      "metadata": {},
+      "gematria": {
+        "standard": 124,
+        "ordinal": 49,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7001,
+    "ordinal": 699,
+    "reduced": 276
+  }
+}

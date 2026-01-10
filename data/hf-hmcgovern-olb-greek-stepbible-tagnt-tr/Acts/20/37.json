@@ -1,0 +1,231 @@
+{
+  "text": "ἱκανὸς δὲ κλαυθμὸς ἐγένετο πάντων, καὶ ἐπιπεσόντες ἐπὶ τὸν τράχηλον τοῦ Παύλου κατεφίλουν αὐτόν,",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἱκανὸς",
+      "lemma": [
+        "G2425"
+      ],
+      "strongs": "G2425",
+      "morph": "robinson:A-NSM",
+      "translation": "Much",
+      "metadata": {},
+      "gematria": {
+        "standard": 351,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "κλαυθμὸς",
+      "lemma": [
+        "G2805"
+      ],
+      "strongs": "G2805",
+      "morph": "robinson:N-NSM",
+      "translation": "weeping",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "there was",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "πάντων,",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-GPM",
+      "translation": "among all,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1281,
+        "ordinal": 86,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐπιπεσόντες",
+      "lemma": [
+        "G1968"
+      ],
+      "strongs": "G1968",
+      "morph": "robinson:V-2AAP-NPM",
+      "translation": "having fallen",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 139,
+        "reduced": 67
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "upon",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 9,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "τράχηλον",
+      "lemma": [
+        "G5137"
+      ],
+      "strongs": "G5137",
+      "morph": "robinson:N-ASM",
+      "translation": "neck",
+      "metadata": {},
+      "gematria": {
+        "standard": 1159,
+        "ordinal": 105,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "Παύλου",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Paul",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 83,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 13,
+      "text": "κατεφίλουν",
+      "lemma": [
+        "G2705"
+      ],
+      "strongs": "G2705",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "they were kissing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1386,
+        "ordinal": 124,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 14,
+      "text": "αὐτόν,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9517,
+    "ordinal": 991,
+    "reduced": 343
+  }
+}

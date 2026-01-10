@@ -1,0 +1,71 @@
+{
+  "text": "κηρύξαι ἐνιαυτὸν κυρίου δεκτόν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "κηρύξαι",
+      "lemma": [
+        "G2784"
+      ],
+      "strongs": "G2784",
+      "morph": "robinson:V-AAN",
+      "translation": "to proclaim",
+      "metadata": {},
+      "gematria": {
+        "standard": 599,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐνιαυτὸν",
+      "lemma": [
+        "G1763"
+      ],
+      "strongs": "G1763",
+      "morph": "robinson:N-ASM",
+      "translation": "[the] year",
+      "metadata": {},
+      "gematria": {
+        "standard": 886,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 3,
+      "text": "κυρίου",
+      "lemma": null,
+      "morph": null,
+      "translation": "of [the] Lord’s",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 91,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "δεκτόν.",
+      "lemma": [
+        "G1184"
+      ],
+      "strongs": "G1184",
+      "morph": "robinson:A-ASM",
+      "translation": "favor.",
+      "metadata": {},
+      "gematria": {
+        "standard": 449,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2934,
+    "ordinal": 330,
+    "reduced": 114
+  }
+}

@@ -1,0 +1,465 @@
+{
+  "text": "Λέγει αὐτοῖς ὁ Ἰησοῦς· οὐδέποτε ἀνέγνωτε ἐν ταῖς γραφαῖς· λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες, οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας. παρὰ κυρίου ἐγένετο αὕτη, καὶ ἔστιν θαυμαστὴ ἐν ὀφθαλμοῖς ἡμῶν;",
+  "words": [
+    {
+      "position": 1,
+      "text": "Λέγει",
+      "lemma": null,
+      "morph": null,
+      "translation": "Says",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "αὐτοῖς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἰησοῦς·",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 5,
+      "text": "οὐδέποτε",
+      "lemma": [
+        "G3763"
+      ],
+      "strongs": "G3763",
+      "morph": "robinson:ADV-N",
+      "translation": "surely sometime",
+      "metadata": {},
+      "gematria": {
+        "standard": 934,
+        "ordinal": 99,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀνέγνωτε",
+      "lemma": [
+        "G314"
+      ],
+      "strongs": "G314",
+      "morph": "robinson:V-2AAI-2P",
+      "translation": "you did read",
+      "metadata": {},
+      "gematria": {
+        "standard": 1214,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "ταῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 9,
+      "text": "γραφαῖς·",
+      "lemma": [
+        "G1124"
+      ],
+      "strongs": "G1124",
+      "morph": "robinson:N-DPF",
+      "translation": "Scriptures:",
+      "metadata": {},
+      "gematria": {
+        "standard": 815,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 10,
+      "text": "λίθον",
+      "lemma": [
+        "G3037"
+      ],
+      "strongs": "G3037",
+      "morph": "robinson:N-ASM",
+      "translation": "[The] stone",
+      "metadata": {},
+      "gematria": {
+        "standard": 169,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὃν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASM",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀπεδοκίμασαν",
+      "lemma": [
+        "G593"
+      ],
+      "strongs": "G593",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "rejected",
+      "metadata": {},
+      "gematria": {
+        "standard": 482,
+        "ordinal": 105,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 13,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "οἰκοδομοῦντες,",
+      "lemma": [
+        "G3618"
+      ],
+      "strongs": "G3618",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "building,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1309,
+        "ordinal": 170,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 15,
+      "text": "οὗτος",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSM",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1040,
+        "ordinal": 87,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐγενήθη",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2AOI-3S",
+      "translation": "has become",
+      "metadata": {},
+      "gematria": {
+        "standard": 88,
+        "ordinal": 48,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 17,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 18,
+      "text": "κεφαλὴν",
+      "lemma": [
+        "G2776"
+      ],
+      "strongs": "G2776",
+      "morph": "robinson:N-ASF",
+      "translation": "chief",
+      "metadata": {},
+      "gematria": {
+        "standard": 614,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 19,
+      "text": "γωνίας.",
+      "lemma": [
+        "G1137"
+      ],
+      "strongs": "G1137",
+      "morph": "robinson:N-GSF",
+      "translation": "corner.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1064,
+        "ordinal": 68,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 20,
+      "text": "παρὰ",
+      "lemma": [
+        "G3844"
+      ],
+      "strongs": "G3844",
+      "morph": "robinson:PREP",
+      "translation": "From",
+      "metadata": {},
+      "gematria": {
+        "standard": 182,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 21,
+      "text": "κυρίου",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] Lord",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 91,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "was",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 23,
+      "text": "αὕτη,",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSF",
+      "translation": "this,",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 24,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἔστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "it is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 26,
+      "text": "θαυμαστὴ",
+      "lemma": [
+        "G2298"
+      ],
+      "strongs": "G2298",
+      "morph": "robinson:A-NSF",
+      "translation": "marvelous",
+      "metadata": {},
+      "gematria": {
+        "standard": 959,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 27,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 28,
+      "text": "ὀφθαλμοῖς",
+      "lemma": [
+        "G3788"
+      ],
+      "strongs": "G3788",
+      "morph": "robinson:N-DPM",
+      "translation": "[the] eyes",
+      "metadata": {},
+      "gematria": {
+        "standard": 930,
+        "ordinal": 110,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 29,
+      "text": "ἡμῶν;",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GP",
+      "translation": "of us?’",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 16469,
+    "ordinal": 1812,
+    "reduced": 768
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "text": "ὃς ἐκ τηλικούτου θανάτου ἐρρύσατο ἡμᾶς καὶ εἰς ὃν ἠλπίκαμεν ὅτι καὶ ἔτι ῥύσεται",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὃς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 3,
+      "text": "τηλικούτου",
+      "lemma": [
+        "G5082"
+      ],
+      "strongs": "G5082",
+      "morph": "robinson:D-GSM",
+      "translation": "such a great",
+      "metadata": {},
+      "gematria": {
+        "standard": 1608,
+        "ordinal": 145,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 4,
+      "text": "θανάτου",
+      "lemma": [
+        "G2288"
+      ],
+      "strongs": "G2288",
+      "morph": "robinson:N-GSM",
+      "translation": "a death",
+      "metadata": {},
+      "gematria": {
+        "standard": 831,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐρρύσατο",
+      "lemma": [
+        "G4506"
+      ],
+      "strongs": "G4506",
+      "morph": "robinson:V-ANI-3S",
+      "translation": "has delivered",
+      "metadata": {},
+      "gematria": {
+        "standard": 1176,
+        "ordinal": 112,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἡμᾶς",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AP",
+      "translation": "us",
+      "metadata": {},
+      "gematria": {
+        "standard": 249,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὃν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASM",
+      "translation": "whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἠλπίκαμεν",
+      "lemma": [
+        "G1679"
+      ],
+      "strongs": "G1679",
+      "morph": "robinson:V-RAI-1P",
+      "translation": "we have hope",
+      "metadata": {},
+      "gematria": {
+        "standard": 244,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἔτι",
+      "lemma": [
+        "G2089"
+      ],
+      "strongs": "G2089",
+      "morph": "robinson:ADV",
+      "translation": "still",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "ῥύσεται",
+      "lemma": [
+        "G4506"
+      ],
+      "strongs": "G4506",
+      "morph": "robinson:V-FDI-3S",
+      "translation": "He will deliver [us]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1016,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 6511,
+    "ordinal": 769,
+    "reduced": 301
+  }
+}

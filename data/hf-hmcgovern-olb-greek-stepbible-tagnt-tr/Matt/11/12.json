@@ -1,0 +1,295 @@
+{
+  "text": "ἀπὸ δὲ τῶν ἡμερῶν Ἰωάννου τοῦ βαπτιστοῦ ἕως ἄρτι ἡ βασιλεία τῶν οὐρανῶν βιάζεται, καὶ βιασταὶ ἁρπάζουσιν αὐτήν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "From",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἡμερῶν",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-GPF",
+      "translation": "days",
+      "metadata": {},
+      "gematria": {
+        "standard": 1003,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "Ἰωάννου",
+      "lemma": null,
+      "morph": null,
+      "translation": "of John",
+      "metadata": {},
+      "gematria": {
+        "standard": 1381,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 6,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "βαπτιστοῦ",
+      "lemma": [
+        "G910"
+      ],
+      "strongs": "G910",
+      "morph": "robinson:N-GSM",
+      "translation": "Baptist",
+      "metadata": {},
+      "gematria": {
+        "standard": 1363,
+        "ordinal": 119,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἕως",
+      "lemma": [
+        "G2193"
+      ],
+      "strongs": "G2193",
+      "morph": "robinson:PREP",
+      "translation": "until",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἄρτι",
+      "lemma": [
+        "G737"
+      ],
+      "strongs": "G737",
+      "morph": "robinson:ADV",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 411,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 11,
+      "text": "βασιλεία",
+      "lemma": [
+        "G932"
+      ],
+      "strongs": "G932",
+      "morph": "robinson:N-NSF",
+      "translation": "kingdom",
+      "metadata": {},
+      "gematria": {
+        "standard": 259,
+        "ordinal": 56,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 12,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "οὐρανῶν",
+      "lemma": [
+        "G3772"
+      ],
+      "strongs": "G3772",
+      "morph": "robinson:N-GPM",
+      "translation": "heavens",
+      "metadata": {},
+      "gematria": {
+        "standard": 1471,
+        "ordinal": 103,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 14,
+      "text": "βιάζεται,",
+      "lemma": [
+        "G971"
+      ],
+      "strongs": "G971",
+      "morph": "robinson:V-PEI-3S",
+      "translation": "is taken by violence,",
+      "metadata": {},
+      "gematria": {
+        "standard": 336,
+        "ordinal": 52,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and [the]",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "βιασταὶ",
+      "lemma": [
+        "G973"
+      ],
+      "strongs": "G973",
+      "morph": "robinson:N-NPM",
+      "translation": "violent",
+      "metadata": {},
+      "gematria": {
+        "standard": 524,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἁρπάζουσιν",
+      "lemma": [
+        "G726"
+      ],
+      "strongs": "G726",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "claim",
+      "metadata": {},
+      "gematria": {
+        "standard": 919,
+        "ordinal": 116,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 18,
+      "text": "αὐτήν.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASF",
+      "translation": "it.",
+      "metadata": {},
+      "gematria": {
+        "standard": 759,
+        "ordinal": 60,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12700,
+    "ordinal": 1065,
+    "reduced": 417
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "text": "Διὸ ἀποθέμενοι τὸ ψεῦδος λαλεῖτε ἀλήθειαν ἕκαστος μετὰ τοῦ πλησίον αὐτοῦ, ὅτι ἐσμὲν ἀλλήλων μέλη.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Διὸ",
+      "lemma": [
+        "G1352"
+      ],
+      "strongs": "G1352",
+      "morph": "robinson:CONJ",
+      "translation": "Therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 84,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀποθέμενοι",
+      "lemma": [
+        "G659"
+      ],
+      "strongs": "G659",
+      "morph": "robinson:V-2AMP-NPM",
+      "translation": "having put off",
+      "metadata": {},
+      "gematria": {
+        "standard": 340,
+        "ordinal": 99,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 3,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "ψεῦδος",
+      "lemma": [
+        "G5579"
+      ],
+      "strongs": "G5579",
+      "morph": "robinson:N-ASN",
+      "translation": "falsehood",
+      "metadata": {},
+      "gematria": {
+        "standard": 1379,
+        "ordinal": 85,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 5,
+      "text": "λαλεῖτε",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do speak",
+      "metadata": {},
+      "gematria": {
+        "standard": 381,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀλήθειαν",
+      "lemma": [
+        "G225"
+      ],
+      "strongs": "G225",
+      "morph": "robinson:N-ASF",
+      "translation": "truth",
+      "metadata": {},
+      "gematria": {
+        "standard": 114,
+        "ordinal": 55,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἕκαστος",
+      "lemma": [
+        "G1538"
+      ],
+      "strongs": "G1538",
+      "morph": "robinson:A-NSM",
+      "translation": "each one",
+      "metadata": {},
+      "gematria": {
+        "standard": 796,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 8,
+      "text": "μετὰ",
+      "lemma": [
+        "G3326"
+      ],
+      "strongs": "G3326",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 37,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "πλησίον",
+      "lemma": [
+        "G4139"
+      ],
+      "strongs": "G4139",
+      "morph": "robinson:ADV",
+      "translation": "neighbour",
+      "metadata": {},
+      "gematria": {
+        "standard": 448,
+        "ordinal": 89,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτοῦ,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "because",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐσμὲν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-1P",
+      "translation": "we are",
+      "metadata": {},
+      "gematria": {
+        "standard": 300,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀλλήλων",
+      "lemma": [
+        "G240"
+      ],
+      "strongs": "G240",
+      "morph": "robinson:C-GPM",
+      "translation": "of one another",
+      "metadata": {},
+      "gematria": {
+        "standard": 949,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "μέλη.",
+      "lemma": [
+        "G3196"
+      ],
+      "strongs": "G3196",
+      "morph": "robinson:N-NPN",
+      "translation": "members.",
+      "metadata": {},
+      "gematria": {
+        "standard": 83,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7911,
+    "ordinal": 912,
+    "reduced": 363
+  }
+}

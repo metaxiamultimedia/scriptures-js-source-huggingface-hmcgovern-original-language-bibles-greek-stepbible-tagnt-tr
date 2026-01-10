@@ -1,0 +1,135 @@
+{
+  "text": "εἶπαν αὐτῷ· ποῦ ἐστιν ἐκεῖνος; λέγει· οὐκ οἶδα.",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἶπαν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "they said",
+      "metadata": {},
+      "gematria": {
+        "standard": 146,
+        "ordinal": 44,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "αὐτῷ·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "ποῦ",
+      "lemma": [
+        "G4226"
+      ],
+      "strongs": "G4226",
+      "morph": "robinson:ADV-I",
+      "translation": "Where",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐκεῖνος;",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-NSM",
+      "translation": "He?",
+      "metadata": {},
+      "gematria": {
+        "standard": 360,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 6,
+      "text": "λέγει·",
+      "lemma": null,
+      "morph": null,
+      "translation": "He says;",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "Not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "οἶδα.",
+      "lemma": [
+        "G6063"
+      ],
+      "strongs": "G6063",
+      "morph": "robinson:V-RAI-1S",
+      "translation": "I know.",
+      "metadata": {},
+      "gematria": {
+        "standard": 85,
+        "ordinal": 29,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3760,
+    "ordinal": 414,
+    "reduced": 180
+  }
+}

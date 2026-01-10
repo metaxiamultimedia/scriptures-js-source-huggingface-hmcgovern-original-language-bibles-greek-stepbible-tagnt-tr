@@ -1,0 +1,193 @@
+{
+  "text": "εὐχαριστῶ τῷ θεῷ ὅτι οὐδένα ὑμῶν ἐβάπτισα εἰ μὴ Κρίσπον καὶ Γάϊον,",
+  "words": [
+    {
+      "position": 1,
+      "text": "εὐχαριστῶ",
+      "lemma": [
+        "G2168"
+      ],
+      "strongs": "G2168",
+      "morph": "robinson:V-PAI-1S",
+      "translation": "I thank",
+      "metadata": {},
+      "gematria": {
+        "standard": 2416,
+        "ordinal": 135,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 2,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "θεῷ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-DSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "οὐδένα",
+      "lemma": [
+        "G3762"
+      ],
+      "strongs": "G3762",
+      "morph": "robinson:A-ASM",
+      "translation": "no [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 530,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὑμῶν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐβάπτισα",
+      "lemma": [
+        "G907"
+      ],
+      "strongs": "G907",
+      "morph": "robinson:V-AAI-1S",
+      "translation": "I baptized",
+      "metadata": {},
+      "gematria": {
+        "standard": 599,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "except",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "Κρίσπον",
+      "lemma": [
+        "G2921"
+      ],
+      "strongs": "G2921",
+      "morph": "robinson:N-ASM-P",
+      "translation": "Crispus",
+      "metadata": {},
+      "gematria": {
+        "standard": 530,
+        "ordinal": 98,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "Γάϊον,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Gaius,",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7907,
+    "ordinal": 666,
+    "reduced": 279
+  }
+}

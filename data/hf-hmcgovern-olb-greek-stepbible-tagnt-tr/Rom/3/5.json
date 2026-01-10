@@ -1,0 +1,340 @@
+{
+  "text": "Εἰ δὲ ἡ ἀδικία ἡμῶν θεοῦ δικαιοσύνην συνίστησιν, τί ἐροῦμεν; μὴ ἄδικος ὁ θεὸς ὁ ἐπιφέρων τὴν ὀργήν; κατὰ ἄνθρωπον λέγω·",
+  "words": [
+    {
+      "position": 1,
+      "text": "Εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀδικία",
+      "lemma": [
+        "G93"
+      ],
+      "strongs": "G93",
+      "morph": "robinson:N-NSF",
+      "translation": "unrighteousness",
+      "metadata": {},
+      "gematria": {
+        "standard": 46,
+        "ordinal": 34,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἡμῶν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GP",
+      "translation": "of us",
+      "metadata": {},
+      "gematria": {
+        "standard": 898,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "God’s",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
+      "text": "δικαιοσύνην",
+      "lemma": [
+        "G1343"
+      ],
+      "strongs": "G1343",
+      "morph": "robinson:N-ASF",
+      "translation": "righteousness",
+      "metadata": {},
+      "gematria": {
+        "standard": 823,
+        "ordinal": 119,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 8,
+      "text": "συνίστησιν,",
+      "lemma": [
+        "G4921"
+      ],
+      "strongs": "G4921",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "shows,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1428,
+        "ordinal": 144,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 9,
+      "text": "τί",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-ASN",
+      "translation": "what",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐροῦμεν;",
+      "lemma": [
+        "G4483"
+      ],
+      "strongs": "G4483",
+      "morph": "robinson:V-FAI-1P",
+      "translation": "will we say?",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 87,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 11,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "Surely not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἄδικος",
+      "lemma": [
+        "G94"
+      ],
+      "strongs": "G94",
+      "morph": "robinson:A-NSM",
+      "translation": "[is] unrighteous",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 14,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐπιφέρων",
+      "lemma": [
+        "G2018"
+      ],
+      "strongs": "G2018",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "is inflicting",
+      "metadata": {},
+      "gematria": {
+        "standard": 1550,
+        "ordinal": 110,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 17,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 18,
+      "text": "ὀργήν;",
+      "lemma": [
+        "G3709"
+      ],
+      "strongs": "G3709",
+      "morph": "robinson:N-ASF",
+      "translation": "wrath?",
+      "metadata": {},
+      "gematria": {
+        "standard": 231,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 19,
+      "text": "κατὰ",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "According to",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 31,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἄνθρωπον",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-ASM",
+      "translation": "man",
+      "metadata": {},
+      "gematria": {
+        "standard": 1160,
+        "ordinal": 107,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 21,
+      "text": "λέγω·",
+      "lemma": null,
+      "morph": null,
+      "translation": "I speak;",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9927,
+    "ordinal": 1083,
+    "reduced": 489
+  }
+}

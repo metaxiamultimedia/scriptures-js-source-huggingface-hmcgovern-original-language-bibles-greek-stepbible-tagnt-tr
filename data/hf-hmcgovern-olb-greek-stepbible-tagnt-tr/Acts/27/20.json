@@ -1,0 +1,346 @@
+{
+  "text": "μήτε δὲ ἡλίου μήτε ἄστρων ἐπιφαινόντων ἐπὶ πλείονας ἡμέρας, χειμῶνός τε οὐκ ὀλίγου ἐπικειμένου λοιπὸν περιῃρεῖτο ἐλπὶς πᾶσα τοῦ σῴζεσθαι ἡμᾶς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "μήτε",
+      "lemma": [
+        "G3383"
+      ],
+      "strongs": "G3383",
+      "morph": "robinson:CONJ-N",
+      "translation": "Neither",
+      "metadata": {},
+      "gematria": {
+        "standard": 353,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἡλίου",
+      "lemma": [
+        "G2246"
+      ],
+      "strongs": "G2246",
+      "morph": "robinson:N-GSM",
+      "translation": "sun",
+      "metadata": {},
+      "gematria": {
+        "standard": 518,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 4,
+      "text": "μήτε",
+      "lemma": [
+        "G3383"
+      ],
+      "strongs": "G3383",
+      "morph": "robinson:CONJ-N",
+      "translation": "nor",
+      "metadata": {},
+      "gematria": {
+        "standard": 353,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἄστρων",
+      "lemma": [
+        "G798"
+      ],
+      "strongs": "G798",
+      "morph": "robinson:N-GPN",
+      "translation": "stars",
+      "metadata": {},
+      "gematria": {
+        "standard": 1451,
+        "ordinal": 92,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐπιφαινόντων",
+      "lemma": [
+        "G2014"
+      ],
+      "strongs": "G2014",
+      "morph": "robinson:V-PAP-GPN",
+      "translation": "appearing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1926,
+        "ordinal": 158,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 8,
+      "text": "πλείονας",
+      "lemma": [
+        "G4119"
+      ],
+      "strongs": "G4119",
+      "morph": "robinson:A-APF-C",
+      "translation": "many",
+      "metadata": {},
+      "gematria": {
+        "standard": 446,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἡμέρας,",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-APF",
+      "translation": "days,",
+      "metadata": {},
+      "gematria": {
+        "standard": 354,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 10,
+      "text": "χειμῶνός",
+      "lemma": [
+        "G5494"
+      ],
+      "strongs": "G5494",
+      "morph": "robinson:N-GSM",
+      "translation": "tempest",
+      "metadata": {},
+      "gematria": {
+        "standard": 1775,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 11,
+      "text": "τε",
+      "lemma": [
+        "G5037"
+      ],
+      "strongs": "G5037",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 305,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 12,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "no",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὀλίγου",
+      "lemma": [
+        "G3641"
+      ],
+      "strongs": "G3641",
+      "morph": "robinson:A-GSM",
+      "translation": "small",
+      "metadata": {},
+      "gematria": {
+        "standard": 583,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐπικειμένου",
+      "lemma": [
+        "G1945"
+      ],
+      "strongs": "G1945",
+      "morph": "robinson:V-PNP-GSM",
+      "translation": "afflicted [us]",
+      "metadata": {},
+      "gematria": {
+        "standard": 695,
+        "ordinal": 119,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 15,
+      "text": "λοιπὸν",
+      "lemma": [
+        "G3063"
+      ],
+      "strongs": "G3063",
+      "morph": "robinson:A-ASN",
+      "translation": "from then on",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 16,
+      "text": "περιῃρεῖτο",
+      "lemma": [
+        "G4014"
+      ],
+      "strongs": "G4014",
+      "morph": "robinson:V-IPI-3S",
+      "translation": "was abandoned",
+      "metadata": {},
+      "gematria": {
+        "standard": 698,
+        "ordinal": 128,
+        "reduced": 74
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐλπὶς",
+      "lemma": [
+        "G1680"
+      ],
+      "strongs": "G1680",
+      "morph": "robinson:N-NSF",
+      "translation": "hope",
+      "metadata": {},
+      "gematria": {
+        "standard": 325,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 18,
+      "text": "πᾶσα",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NSF",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 282,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 19,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 20,
+      "text": "σῴζεσθαι",
+      "lemma": [
+        "G4982"
+      ],
+      "strongs": "G4982",
+      "morph": "robinson:V-PPN",
+      "translation": "being saved",
+      "metadata": {},
+      "gematria": {
+        "standard": 1242,
+        "ordinal": 98,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἡμᾶς.",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AP",
+      "translation": "us.",
+      "metadata": {},
+      "gematria": {
+        "standard": 249,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13229,
+    "ordinal": 1456,
+    "reduced": 646
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "text": "ἦσαν δὲ καὶ γυναῖκες ἀπὸ μακρόθεν θεωροῦσαι ἐν αἷς καὶ Μαρία ἡ Μαγδαληνὴ καὶ Μαρία ἡ Ἰακώβου τοῦ μικροῦ καὶ Ἰωσῆτος μήτηρ καὶ Σαλώμη,",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἦσαν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "There were",
+      "metadata": {},
+      "gematria": {
+        "standard": 259,
+        "ordinal": 39,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "γυναῖκες",
+      "lemma": null,
+      "morph": null,
+      "translation": "women",
+      "metadata": {},
+      "gematria": {
+        "standard": 689,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "μακρόθεν",
+      "lemma": [
+        "G3113"
+      ],
+      "strongs": "G3113",
+      "morph": "robinson:ADV",
+      "translation": "afar off",
+      "metadata": {},
+      "gematria": {
+        "standard": 295,
+        "ordinal": 81,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 7,
+      "text": "θεωροῦσαι",
+      "lemma": [
+        "G2334"
+      ],
+      "strongs": "G2334",
+      "morph": "robinson:V-PAP-NPF",
+      "translation": "looking on",
+      "metadata": {},
+      "gematria": {
+        "standard": 1595,
+        "ordinal": 117,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "among",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "αἷς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-DPF",
+      "translation": "whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 28,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "Μαρία",
+      "lemma": null,
+      "morph": null,
+      "translation": "Mary",
+      "metadata": {},
+      "gematria": {
+        "standard": 152,
+        "ordinal": 40,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 13,
+      "text": "Μαγδαληνὴ",
+      "lemma": [
+        "G3094"
+      ],
+      "strongs": "G3094",
+      "morph": "robinson:N-NSF-LG",
+      "translation": "Magdalene",
+      "metadata": {},
+      "gematria": {
+        "standard": 145,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "Μαρία",
+      "lemma": null,
+      "morph": null,
+      "translation": "Mary",
+      "metadata": {},
+      "gematria": {
+        "standard": 152,
+        "ordinal": 40,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 17,
+      "text": "Ἰακώβου",
+      "lemma": null,
+      "morph": null,
+      "translation": "of James",
+      "metadata": {},
+      "gematria": {
+        "standard": 1303,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 18,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 19,
+      "text": "μικροῦ",
+      "lemma": [
+        "G3398"
+      ],
+      "strongs": "G3398",
+      "morph": "robinson:A-GSM",
+      "translation": "least",
+      "metadata": {},
+      "gematria": {
+        "standard": 640,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 20,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "Ἰωσῆτος",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Joses",
+      "metadata": {},
+      "gematria": {
+        "standard": 1588,
+        "ordinal": 110,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 22,
+      "text": "μήτηρ",
+      "lemma": [
+        "G3384"
+      ],
+      "strongs": "G3384",
+      "morph": "robinson:N-NSF",
+      "translation": "mother",
+      "metadata": {},
+      "gematria": {
+        "standard": 456,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 23,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 24,
+      "text": "Σαλώμη,",
+      "lemma": [
+        "G4539"
+      ],
+      "strongs": "G4539",
+      "morph": "robinson:N-NSF-P",
+      "translation": "Salome,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1079,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9720,
+    "ordinal": 1119,
+    "reduced": 507
+  }
+}

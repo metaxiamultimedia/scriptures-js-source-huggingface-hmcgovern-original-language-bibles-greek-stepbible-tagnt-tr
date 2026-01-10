@@ -1,0 +1,103 @@
+{
+  "text": "τεκνία, φυλάξατε ἀπὸ τῶν εἰδώλων ἀμήν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "τεκνία,",
+      "lemma": [
+        "G5040"
+      ],
+      "strongs": "G5040",
+      "morph": "robinson:N-VPN",
+      "translation": "Little children,",
+      "metadata": {},
+      "gematria": {
+        "standard": 386,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "φυλάξατε",
+      "lemma": null,
+      "morph": null,
+      "translation": "do keep",
+      "metadata": {},
+      "gematria": {
+        "standard": 1297,
+        "ordinal": 92,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἰδώλων",
+      "lemma": [
+        "G1497"
+      ],
+      "strongs": "G1497",
+      "morph": "robinson:N-GPN",
+      "translation": "idols",
+      "metadata": {},
+      "gematria": {
+        "standard": 1699,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀμήν.",
+      "lemma": [
+        "G281"
+      ],
+      "strongs": "G281",
+      "morph": "robinson:INJ-HEB",
+      "translation": "Amen.",
+      "metadata": {},
+      "gematria": {
+        "standard": 99,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4782,
+    "ordinal": 360,
+    "reduced": 117
+  }
+}

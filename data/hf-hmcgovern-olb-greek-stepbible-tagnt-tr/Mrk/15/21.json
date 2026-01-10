@@ -1,0 +1,302 @@
+{
+  "text": "καὶ ἀγγαρεύουσιν παράγοντά τινα Σίμωνα Κυρηναῖον ἐρχόμενον ἀπ᾽ ἀγροῦ, τὸν πατέρα Ἀλεξάνδρου καὶ Ῥούφου, ἵνα ἄρῃ τὸν σταυρὸν αὐτοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀγγαρεύουσιν",
+      "lemma": [
+        "G29"
+      ],
+      "strongs": "G29",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "they compel",
+      "metadata": {},
+      "gematria": {
+        "standard": 1243,
+        "ordinal": 125,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 3,
+      "text": "παράγοντά",
+      "lemma": [
+        "G3855"
+      ],
+      "strongs": "G3855",
+      "morph": "robinson:V-PAP-ASM",
+      "translation": "passing by",
+      "metadata": {},
+      "gematria": {
+        "standard": 606,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 4,
+      "text": "τινα",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-ASM",
+      "translation": "one",
+      "metadata": {},
+      "gematria": {
+        "standard": 361,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "Σίμωνα",
+      "lemma": null,
+      "morph": null,
+      "translation": "Simon",
+      "metadata": {},
+      "gematria": {
+        "standard": 1101,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 6,
+      "text": "Κυρηναῖον",
+      "lemma": [
+        "G2956"
+      ],
+      "strongs": "G2956",
+      "morph": "robinson:N-ASM-LG",
+      "translation": "of Cyrene",
+      "metadata": {},
+      "gematria": {
+        "standard": 709,
+        "ordinal": 105,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐρχόμενον",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-PNP-ASM",
+      "translation": "coming",
+      "metadata": {},
+      "gematria": {
+        "standard": 990,
+        "ordinal": 117,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀπ᾽",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 81,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀγροῦ,",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] country,",
+      "metadata": {},
+      "gematria": {
+        "standard": 574,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "πατέρα",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-ASM",
+      "translation": "father",
+      "metadata": {},
+      "gematria": {
+        "standard": 487,
+        "ordinal": 59,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 12,
+      "text": "Ἀλεξάνδρου",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Alexander",
+      "metadata": {},
+      "gematria": {
+        "standard": 721,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "Ῥούφου,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Rufus,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1540,
+        "ordinal": 108,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἄρῃ",
+      "lemma": [
+        "G142"
+      ],
+      "strongs": "G142",
+      "morph": "robinson:V-AAS-3S",
+      "translation": "he may carry",
+      "metadata": {},
+      "gematria": {
+        "standard": 119,
+        "ordinal": 34,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 17,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "σταυρὸν",
+      "lemma": [
+        "G4716"
+      ],
+      "strongs": "G4716",
+      "morph": "robinson:N-ASM",
+      "translation": "cross",
+      "metadata": {},
+      "gematria": {
+        "standard": 1121,
+        "ordinal": 103,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 19,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11787,
+    "ordinal": 1262,
+    "reduced": 461
+  }
+}

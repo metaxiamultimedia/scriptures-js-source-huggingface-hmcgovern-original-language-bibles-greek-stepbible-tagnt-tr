@@ -1,0 +1,215 @@
+{
+  "text": "Ὁ δὲ Ἰησοῦς εἶπεν αὐτοῖς· οὐ χρείαν ἔχουσιν ἀπελθεῖν· δότε αὐτοῖς ὑμεῖς φαγεῖν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "said",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτοῖς·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them;",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "No",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 7,
+      "text": "χρείαν",
+      "lemma": [
+        "G5532"
+      ],
+      "strongs": "G5532",
+      "morph": "robinson:N-ASF",
+      "translation": "need",
+      "metadata": {},
+      "gematria": {
+        "standard": 766,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἔχουσιν",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAI-3P",
+      "translation": "they have",
+      "metadata": {},
+      "gematria": {
+        "standard": 1335,
+        "ordinal": 102,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀπελθεῖν·",
+      "lemma": [
+        "G565"
+      ],
+      "strongs": "G565",
+      "morph": "robinson:V-2AAN",
+      "translation": "to go away;",
+      "metadata": {},
+      "gematria": {
+        "standard": 190,
+        "ordinal": 68,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 10,
+      "text": "δότε",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-2AAM-2P",
+      "translation": "do give",
+      "metadata": {},
+      "gematria": {
+        "standard": 379,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτοῖς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὑμεῖς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NP",
+      "translation": "you yourselves",
+      "metadata": {},
+      "gematria": {
+        "standard": 655,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 13,
+      "text": "φαγεῖν.",
+      "lemma": [
+        "G5315"
+      ],
+      "strongs": "G5315",
+      "morph": "robinson:V-AAN",
+      "translation": "to eat.",
+      "metadata": {},
+      "gematria": {
+        "standard": 569,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7443,
+    "ordinal": 754,
+    "reduced": 331
+  }
+}

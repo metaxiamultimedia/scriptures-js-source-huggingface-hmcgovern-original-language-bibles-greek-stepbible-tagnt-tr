@@ -1,0 +1,199 @@
+{
+  "text": "εἰ δὲ τοῖς ἐκείνου γράμμασιν οὐ πιστεύετε, πῶς τοῖς ἐμοῖς ῥήμασιν πιστεύσετε;",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐκείνου",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-GSM",
+      "translation": "in his",
+      "metadata": {},
+      "gematria": {
+        "standard": 560,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 5,
+      "text": "γράμμασιν",
+      "lemma": [
+        "G1121"
+      ],
+      "strongs": "G1121",
+      "morph": "robinson:N-DPN",
+      "translation": "writings",
+      "metadata": {},
+      "gematria": {
+        "standard": 445,
+        "ordinal": 86,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 7,
+      "text": "πιστεύετε,",
+      "lemma": [
+        "G4100"
+      ],
+      "strongs": "G4100",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "you believe,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1305,
+        "ordinal": 116,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 8,
+      "text": "πῶς",
+      "lemma": [
+        "G4459"
+      ],
+      "strongs": "G4459",
+      "morph": "robinson:PRT-I",
+      "translation": "how",
+      "metadata": {},
+      "gematria": {
+        "standard": 1080,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 9,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐμοῖς",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:S-1SDPN",
+      "translation": "in My",
+      "metadata": {},
+      "gematria": {
+        "standard": 325,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 11,
+      "text": "ῥήμασιν",
+      "lemma": [
+        "G4487"
+      ],
+      "strongs": "G4487",
+      "morph": "robinson:N-DPN",
+      "translation": "declarations",
+      "metadata": {},
+      "gematria": {
+        "standard": 409,
+        "ordinal": 77,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 12,
+      "text": "πιστεύσετε;",
+      "lemma": [
+        "G4100"
+      ],
+      "strongs": "G4100",
+      "morph": "robinson:V-FAI-2P",
+      "translation": "will you believe?",
+      "metadata": {},
+      "gematria": {
+        "standard": 1505,
+        "ordinal": 134,
+        "reduced": 53
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7283,
+    "ordinal": 787,
+    "reduced": 346
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "text": "ἐξελθὼν δὲ οὐκ ἐδύνατο λαλῆσαι αὐτοῖς· καὶ ἐπέγνωσαν ὅτι ὀπτασίαν ἑώρακεν ἐν τῷ ναῷ. καὶ αὐτὸς ἦν διανεύων αὐτοῖς καὶ διέμενεν κωφός.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐξελθὼν",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "Having come out",
+      "metadata": {},
+      "gematria": {
+        "standard": 959,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐδύνατο",
+      "lemma": [
+        "G1410"
+      ],
+      "strongs": "G1410",
+      "morph": "robinson:V-INI-3S",
+      "translation": "he was able",
+      "metadata": {},
+      "gematria": {
+        "standard": 830,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "λαλῆσαι",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-AAN",
+      "translation": "to speak",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτοῖς·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them;",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐπέγνωσαν",
+      "lemma": [
+        "G1921"
+      ],
+      "strongs": "G1921",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "they recognized",
+      "metadata": {},
+      "gematria": {
+        "standard": 1194,
+        "ordinal": 98,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὀπτασίαν",
+      "lemma": [
+        "G3701"
+      ],
+      "strongs": "G3701",
+      "morph": "robinson:N-ASF",
+      "translation": "a vision",
+      "metadata": {},
+      "gematria": {
+        "standard": 712,
+        "ordinal": 92,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἑώρακεν",
+      "lemma": [
+        "G3708"
+      ],
+      "strongs": "G3708",
+      "morph": "robinson:V-RAI-3S",
+      "translation": "he has seen",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "ναῷ.",
+      "lemma": [
+        "G3485"
+      ],
+      "strongs": "G3485",
+      "morph": "robinson:N-DSM",
+      "translation": "temple.",
+      "metadata": {},
+      "gematria": {
+        "standard": 861,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "αὐτὸς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-NSM",
+      "translation": "he himself",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "διανεύων",
+      "lemma": [
+        "G1269"
+      ],
+      "strongs": "G1269",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "making signs",
+      "metadata": {},
+      "gematria": {
+        "standard": 1320,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 19,
+      "text": "αὐτοῖς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "to them",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 20,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "διέμενεν",
+      "lemma": [
+        "G1265"
+      ],
+      "strongs": "G1265",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was remaining",
+      "metadata": {},
+      "gematria": {
+        "standard": 169,
+        "ordinal": 66,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 22,
+      "text": "κωφός.",
+      "lemma": [
+        "G2974"
+      ],
+      "strongs": "G2974",
+      "morph": "robinson:A-NSM",
+      "translation": "mute.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1590,
+        "ordinal": 88,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14024,
+    "ordinal": 1254,
+    "reduced": 498
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "text": "ἐρρέθη αὐτῇ ὅτι ὁ μείζων δουλεύσει τῷ ἐλάσσονι·",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐρρέθη",
+      "lemma": [
+        "G2046"
+      ],
+      "strongs": "G2046",
+      "morph": "robinson:V-API-3S",
+      "translation": "[12] it was said",
+      "metadata": {},
+      "gematria": {
+        "standard": 227,
+        "ordinal": 59,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 2,
+      "text": "αὐτῇ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSF",
+      "translation": "to her",
+      "metadata": {},
+      "gematria": {
+        "standard": 719,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "μείζων",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-NSM-C",
+      "translation": "older",
+      "metadata": {},
+      "gematria": {
+        "standard": 912,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "δουλεύσει",
+      "lemma": [
+        "G1398"
+      ],
+      "strongs": "G1398",
+      "morph": "robinson:V-FAI-3S",
+      "translation": "will serve",
+      "metadata": {},
+      "gematria": {
+        "standard": 1124,
+        "ordinal": 107,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐλάσσονι·",
+      "lemma": [
+        "G1640"
+      ],
+      "strongs": "G1640",
+      "morph": "robinson:A-DSM-C",
+      "translation": "younger;",
+      "metadata": {},
+      "gematria": {
+        "standard": 566,
+        "ordinal": 90,
+        "reduced": 45
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5108,
+    "ordinal": 491,
+    "reduced": 221
+  }
+}

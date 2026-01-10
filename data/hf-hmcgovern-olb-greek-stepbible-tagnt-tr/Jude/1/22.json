@@ -1,0 +1,74 @@
+{
+  "text": "καὶ οὓς μὲν ἐλεᾶτε",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὓς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-APM",
+      "translation": "those who",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
+      "text": "μὲν",
+      "lemma": [
+        "G3303"
+      ],
+      "strongs": "G3303",
+      "morph": "robinson:PRT",
+      "translation": "indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐλεᾶτε",
+      "lemma": [
+        "G1653"
+      ],
+      "strongs": "G1653",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do have mercy on",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1142,
+    "ordinal": 149,
+    "reduced": 59
+  }
+}

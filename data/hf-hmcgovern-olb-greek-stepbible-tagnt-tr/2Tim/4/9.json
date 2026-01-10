@@ -1,0 +1,90 @@
+{
+  "text": "Σπούδασον ἐλθεῖν πρός με ταχέως.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Σπούδασον",
+      "lemma": [
+        "G4704"
+      ],
+      "strongs": "G4704",
+      "morph": "robinson:V-AAM-2S",
+      "translation": "do be diligent",
+      "metadata": {},
+      "gematria": {
+        "standard": 1075,
+        "ordinal": 120,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐλθεῖν",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-2AAN",
+      "translation": "to come",
+      "metadata": {},
+      "gematria": {
+        "standard": 109,
+        "ordinal": 51,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 3,
+      "text": "πρός",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "με",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "me",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "ταχέως.",
+      "lemma": [
+        "G5030"
+      ],
+      "strongs": "G5030",
+      "morph": "robinson:ADV",
+      "translation": "soon.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1906,
+        "ordinal": 89,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3585,
+    "ordinal": 343,
+    "reduced": 145
+  }
+}

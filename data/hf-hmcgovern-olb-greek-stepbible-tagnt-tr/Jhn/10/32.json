@@ -1,0 +1,292 @@
+{
+  "text": "ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς· πολλὰ ἔργα καλὰ ἔδειξα ὑμῖν ἐκ τοῦ πατρός διὰ ποῖον αὐτῶν ἔργον ἐμὲ λιθάζετε;",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀπεκρίθη",
+      "lemma": [
+        "G611"
+      ],
+      "strongs": "G611",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "Answered",
+      "metadata": {},
+      "gematria": {
+        "standard": 233,
+        "ordinal": 73,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 2,
+      "text": "αὐτοῖς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "them",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἰησοῦς·",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 5,
+      "text": "πολλὰ",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-APN",
+      "translation": "Many",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἔργα",
+      "lemma": [
+        "G2041"
+      ],
+      "strongs": "G2041",
+      "morph": "robinson:N-APN",
+      "translation": "works",
+      "metadata": {},
+      "gematria": {
+        "standard": 109,
+        "ordinal": 26,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "καλὰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "good",
+      "metadata": {},
+      "gematria": {
+        "standard": 52,
+        "ordinal": 23,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἔδειξα",
+      "lemma": [
+        "G1166"
+      ],
+      "strongs": "G1166",
+      "morph": "robinson:V-AAI-1S",
+      "translation": "I have shown",
+      "metadata": {},
+      "gematria": {
+        "standard": 85,
+        "ordinal": 38,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "πατρός",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-GSM-T",
+      "translation": "Father",
+      "metadata": {},
+      "gematria": {
+        "standard": 751,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 13,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "because of",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "ποῖον",
+      "lemma": [
+        "G4169"
+      ],
+      "strongs": "G4169",
+      "morph": "robinson:I-ASN",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 68,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 15,
+      "text": "αὐτῶν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPN",
+      "translation": "of these",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἔργον",
+      "lemma": [
+        "G2041"
+      ],
+      "strongs": "G2041",
+      "morph": "robinson:N-ASN",
+      "translation": "work",
+      "metadata": {},
+      "gematria": {
+        "standard": 228,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐμὲ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1AS",
+      "translation": "Me myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 50,
+        "ordinal": 22,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 18,
+      "text": "λιθάζετε;",
+      "lemma": [
+        "G3034"
+      ],
+      "strongs": "G3034",
+      "morph": "robinson:V-PAI-2P",
+      "translation": "do you stone",
+      "metadata": {},
+      "gematria": {
+        "standard": 367,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7166,
+    "ordinal": 905,
+    "reduced": 392
+  }
+}

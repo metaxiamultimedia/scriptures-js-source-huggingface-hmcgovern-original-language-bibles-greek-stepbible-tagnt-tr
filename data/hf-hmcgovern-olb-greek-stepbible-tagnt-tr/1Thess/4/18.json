@@ -1,0 +1,122 @@
+{
+  "text": "Ὥστε παρακαλεῖτε ἀλλήλους ἐν τοῖς λόγοις τούτοις.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ὥστε",
+      "lemma": [
+        "G5620"
+      ],
+      "strongs": "G5620",
+      "morph": "robinson:CONJ",
+      "translation": "Therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 1305,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "παρακαλεῖτε",
+      "lemma": [
+        "G3870"
+      ],
+      "strongs": "G3870",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do encourage",
+      "metadata": {},
+      "gematria": {
+        "standard": 553,
+        "ordinal": 95,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀλλήλους",
+      "lemma": [
+        "G240"
+      ],
+      "strongs": "G240",
+      "morph": "robinson:C-APM",
+      "translation": "one another",
+      "metadata": {},
+      "gematria": {
+        "standard": 769,
+        "ordinal": 94,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 6,
+      "text": "λόγοις",
+      "lemma": [
+        "G3056"
+      ],
+      "strongs": "G3056",
+      "morph": "robinson:N-DPM",
+      "translation": "words",
+      "metadata": {},
+      "gematria": {
+        "standard": 383,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 7,
+      "text": "τούτοις.",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-DPM",
+      "translation": "these.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1350,
+        "ordinal": 115,
+        "reduced": 34
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4995,
+    "ordinal": 520,
+    "reduced": 196
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "text": "Ὁμοία γάρ ἐστιν ἡ βασιλεία τῶν οὐρανῶν ἀνθρώπῳ οἰκοδεσπότῃ ὅστις ἐξῆλθεν ἅμα πρωῒ μισθώσασθαι ἐργάτας εἰς τὸν ἀμπελῶνα αὐτοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ὁμοία",
+      "lemma": [
+        "G3664"
+      ],
+      "strongs": "G3664",
+      "morph": "robinson:A-NSF",
+      "translation": "Like",
+      "metadata": {},
+      "gematria": {
+        "standard": 191,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 2,
+      "text": "γάρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "βασιλεία",
+      "lemma": [
+        "G932"
+      ],
+      "strongs": "G932",
+      "morph": "robinson:N-NSF",
+      "translation": "kingdom",
+      "metadata": {},
+      "gematria": {
+        "standard": 259,
+        "ordinal": 56,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 6,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "οὐρανῶν",
+      "lemma": [
+        "G3772"
+      ],
+      "strongs": "G3772",
+      "morph": "robinson:N-GPM",
+      "translation": "heavens",
+      "metadata": {},
+      "gematria": {
+        "standard": 1471,
+        "ordinal": 103,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀνθρώπῳ",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-DSM",
+      "translation": "to a man",
+      "metadata": {},
+      "gematria": {
+        "standard": 1850,
+        "ordinal": 112,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 9,
+      "text": "οἰκοδεσπότῃ",
+      "lemma": [
+        "G3617"
+      ],
+      "strongs": "G3617",
+      "morph": "robinson:N-DSM",
+      "translation": "a master of a house",
+      "metadata": {},
+      "gematria": {
+        "standard": 847,
+        "ordinal": 142,
+        "reduced": 70
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὅστις",
+      "lemma": [
+        "G3748"
+      ],
+      "strongs": "G3748",
+      "morph": "robinson:R-NSM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 780,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐξῆλθεν",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "went out",
+      "metadata": {},
+      "gematria": {
+        "standard": 167,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἅμα",
+      "lemma": [
+        "G260"
+      ],
+      "strongs": "G260",
+      "morph": "robinson:ADV",
+      "translation": "in [the]",
+      "metadata": {},
+      "gematria": {
+        "standard": 42,
+        "ordinal": 14,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 13,
+      "text": "πρωῒ",
+      "lemma": [
+        "G4404"
+      ],
+      "strongs": "G4404",
+      "morph": "robinson:ADV",
+      "translation": "morning",
+      "metadata": {},
+      "gematria": {
+        "standard": 990,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 14,
+      "text": "μισθώσασθαι",
+      "lemma": [
+        "G3409"
+      ],
+      "strongs": "G3409",
+      "morph": "robinson:V-AMN",
+      "translation": "to hire",
+      "metadata": {},
+      "gematria": {
+        "standard": 1480,
+        "ordinal": 126,
+        "reduced": 72
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐργάτας",
+      "lemma": [
+        "G2040"
+      ],
+      "strongs": "G2040",
+      "morph": "robinson:N-APM",
+      "translation": "workmen",
+      "metadata": {},
+      "gematria": {
+        "standard": 610,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 16,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 17,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἀμπελῶνα",
+      "lemma": [
+        "G290"
+      ],
+      "strongs": "G290",
+      "morph": "robinson:N-ASM",
+      "translation": "vineyard",
+      "metadata": {},
+      "gematria": {
+        "standard": 1007,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 19,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13327,
+    "ordinal": 1262,
+    "reduced": 551
+  }
+}

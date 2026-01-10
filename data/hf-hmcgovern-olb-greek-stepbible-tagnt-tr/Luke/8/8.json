@@ -1,0 +1,321 @@
+{
+  "text": "καὶ ἕτερον ἔπεσεν τὴν γῆν τὴν ἀγαθήν, καὶ φυὲν ἐποίησεν καρπὸν ἑκατονταπλασίονα. ταῦτα λέγων ἐφώνει· ὁ ἔχων ὦτα ἀκούειν ἀκουέτω.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἕτερον",
+      "lemma": [
+        "G2087"
+      ],
+      "strongs": "G2087",
+      "morph": "robinson:A-NSN",
+      "translation": "other",
+      "metadata": {},
+      "gematria": {
+        "standard": 530,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἔπεσεν",
+      "lemma": [
+        "G4098"
+      ],
+      "strongs": "G4098",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "fell",
+      "metadata": {},
+      "gematria": {
+        "standard": 345,
+        "ordinal": 62,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "γῆν",
+      "lemma": null,
+      "morph": null,
+      "translation": "soil",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀγαθήν,",
+      "lemma": [
+        "G18"
+      ],
+      "strongs": "G18",
+      "morph": "robinson:A-ASF",
+      "translation": "good,",
+      "metadata": {},
+      "gematria": {
+        "standard": 72,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "φυὲν",
+      "lemma": [
+        "G5453"
+      ],
+      "strongs": "G5453",
+      "morph": "robinson:V-2APP-NSN",
+      "translation": "having sprung up",
+      "metadata": {},
+      "gematria": {
+        "standard": 955,
+        "ordinal": 59,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐποίησεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "it produced",
+      "metadata": {},
+      "gematria": {
+        "standard": 428,
+        "ordinal": 88,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 11,
+      "text": "καρπὸν",
+      "lemma": [
+        "G2590"
+      ],
+      "strongs": "G2590",
+      "morph": "robinson:N-ASM",
+      "translation": "fruit",
+      "metadata": {},
+      "gematria": {
+        "standard": 321,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἑκατονταπλασίονα.",
+      "lemma": [
+        "G1542"
+      ],
+      "strongs": "G1542",
+      "morph": "robinson:A-ASM",
+      "translation": "a hundredfold.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1189,
+        "ordinal": 167,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 13,
+      "text": "ταῦτα",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-APN",
+      "translation": "These things",
+      "metadata": {},
+      "gematria": {
+        "standard": 1002,
+        "ordinal": 60,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 14,
+      "text": "λέγων",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐφώνει·",
+      "lemma": [
+        "G5455"
+      ],
+      "strongs": "G5455",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "He was calling out;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1370,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 16,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἔχων",
+      "lemma": [
+        "G2192"
+      ],
+      "strongs": "G2192",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "having",
+      "metadata": {},
+      "gematria": {
+        "standard": 1455,
+        "ordinal": 64,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 18,
+      "text": "ὦτα",
+      "lemma": [
+        "G3775"
+      ],
+      "strongs": "G3775",
+      "morph": "robinson:N-APN",
+      "translation": "ears",
+      "metadata": {},
+      "gematria": {
+        "standard": 1101,
+        "ordinal": 44,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἀκούειν",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-PAN",
+      "translation": "to hear",
+      "metadata": {},
+      "gematria": {
+        "standard": 556,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀκουέτω.",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-PAM-3S",
+      "translation": "he should hear.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1596,
+        "ordinal": 94,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12717,
+    "ordinal": 1179,
+    "reduced": 441
+  }
+}

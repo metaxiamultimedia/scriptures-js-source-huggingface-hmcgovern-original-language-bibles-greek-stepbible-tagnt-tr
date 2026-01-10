@@ -1,0 +1,186 @@
+{
+  "text": "καὶ εἰπόντος αὐτοῦ εὐθὺς ἀπῆλθεν ἀπ᾽ αὐτοῦ ἡ λέπρα, καὶ ἐκαθαρίσθη.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "εἰπόντος",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAP-GSM",
+      "translation": "when was speaking",
+      "metadata": {},
+      "gematria": {
+        "standard": 785,
+        "ordinal": 110,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "he",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "εὐθὺς",
+      "lemma": [
+        "G2112"
+      ],
+      "strongs": "G2112",
+      "morph": "robinson:ADV",
+      "translation": "immediately",
+      "metadata": {},
+      "gematria": {
+        "standard": 1014,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀπῆλθεν",
+      "lemma": [
+        "G565"
+      ],
+      "strongs": "G565",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "departed",
+      "metadata": {},
+      "gematria": {
+        "standard": 183,
+        "ordinal": 61,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀπ᾽",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 81,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 7,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "λέπρα,",
+      "lemma": [
+        "G3014"
+      ],
+      "strongs": "G3014",
+      "morph": "robinson:N-NSF",
+      "translation": "leprosy,",
+      "metadata": {},
+      "gematria": {
+        "standard": 216,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐκαθαρίσθη.",
+      "lemma": [
+        "G2511"
+      ],
+      "strongs": "G2511",
+      "morph": "robinson:V-API-3S",
+      "translation": "he was cleansed.",
+      "metadata": {},
+      "gematria": {
+        "standard": 363,
+        "ordinal": 84,
+        "reduced": 57
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5054,
+    "ordinal": 590,
+    "reduced": 248
+  }
+}

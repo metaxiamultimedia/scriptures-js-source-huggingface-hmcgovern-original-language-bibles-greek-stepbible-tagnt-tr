@@ -1,0 +1,311 @@
+{
+  "text": "Ἡ δὲ ἄνωθεν σοφία πρῶτον μὲν ἁγνή ἐστιν, ἔπειτα εἰρηνική, ἐπιεικής, εὐπειθής, μεστὴ ἐλέους καὶ καρπῶν ἀγαθῶν, ἀδιάκριτος, ἀνυπόκριτος.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "But",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἄνωθεν",
+      "lemma": [
+        "G509"
+      ],
+      "strongs": "G509",
+      "morph": "robinson:ADV",
+      "translation": "the from above",
+      "metadata": {},
+      "gematria": {
+        "standard": 915,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "σοφία",
+      "lemma": [
+        "G4678"
+      ],
+      "strongs": "G4678",
+      "morph": "robinson:N-NSF",
+      "translation": "wisdom",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "πρῶτον",
+      "lemma": null,
+      "morph": null,
+      "translation": "first",
+      "metadata": {},
+      "gematria": {
+        "standard": 1400,
+        "ordinal": 104,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 6,
+      "text": "μὲν",
+      "lemma": [
+        "G3303"
+      ],
+      "strongs": "G3303",
+      "morph": "robinson:PRT",
+      "translation": "indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἁγνή",
+      "lemma": [
+        "G53"
+      ],
+      "strongs": "G53",
+      "morph": "robinson:A-NSF",
+      "translation": "pure",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐστιν,",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is,",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἔπειτα",
+      "lemma": [
+        "G1899"
+      ],
+      "strongs": "G1899",
+      "morph": "robinson:ADV",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 401,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 10,
+      "text": "εἰρηνική,",
+      "lemma": [
+        "G1516"
+      ],
+      "strongs": "G1516",
+      "morph": "robinson:A-NSF",
+      "translation": "peaceable,",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 77,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐπιεικής,",
+      "lemma": [
+        "G1933"
+      ],
+      "strongs": "G1933",
+      "morph": "robinson:A-NSF",
+      "translation": "gentle,",
+      "metadata": {},
+      "gematria": {
+        "standard": 338,
+        "ordinal": 79,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 12,
+      "text": "εὐπειθής,",
+      "lemma": [
+        "G2138"
+      ],
+      "strongs": "G2138",
+      "morph": "robinson:A-NSF",
+      "translation": "reasonable,",
+      "metadata": {},
+      "gematria": {
+        "standard": 717,
+        "ordinal": 88,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 13,
+      "text": "μεστὴ",
+      "lemma": [
+        "G3324"
+      ],
+      "strongs": "G3324",
+      "morph": "robinson:A-NSF",
+      "translation": "full",
+      "metadata": {},
+      "gematria": {
+        "standard": 553,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐλέους",
+      "lemma": [
+        "G1656"
+      ],
+      "strongs": "G1656",
+      "morph": "robinson:N-GSN",
+      "translation": "of mercy",
+      "metadata": {},
+      "gematria": {
+        "standard": 710,
+        "ordinal": 74,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "καρπῶν",
+      "lemma": [
+        "G2590"
+      ],
+      "strongs": "G2590",
+      "morph": "robinson:N-GPM",
+      "translation": "of fruits",
+      "metadata": {},
+      "gematria": {
+        "standard": 1051,
+        "ordinal": 81,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἀγαθῶν,",
+      "lemma": [
+        "G18"
+      ],
+      "strongs": "G18",
+      "morph": "robinson:A-GPM",
+      "translation": "good,",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 50,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἀδιάκριτος,",
+      "lemma": [
+        "G87"
+      ],
+      "strongs": "G87",
+      "morph": "robinson:A-NSF",
+      "translation": "impartial,",
+      "metadata": {},
+      "gematria": {
+        "standard": 716,
+        "ordinal": 103,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἀνυπόκριτος.",
+      "lemma": [
+        "G505"
+      ],
+      "strongs": "G505",
+      "morph": "robinson:A-NSF",
+      "translation": "sincere.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1301,
+        "ordinal": 153,
+        "reduced": 54
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10728,
+    "ordinal": 1207,
+    "reduced": 559
+  }
+}

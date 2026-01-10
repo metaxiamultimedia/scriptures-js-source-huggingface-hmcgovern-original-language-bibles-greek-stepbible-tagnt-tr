@@ -1,0 +1,644 @@
+{
+  "text": "ἐγὼ δὲ λέγω ὑμῖν ὅτι πᾶς ὁ ὀργιζόμενος τῷ ἀδελφῷ αὐτοῦ εἰκῆ ἔνοχος ἔσται τῇ κρίσει· ὃς δ᾽ ἂν εἴπῃ τῷ ἀδελφῷ αὐτοῦ· ῥακά, ἔνοχος ἔσται τῷ συνεδρίῳ· ὃς δ᾽ ἂν εἴπῃ· μωρέ, ἔνοχος ἔσται εἰς τὴν γέενναν τοῦ πυρός.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS",
+      "translation": "I myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 808,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "λέγω",
+      "lemma": null,
+      "morph": null,
+      "translation": "say",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὑμῖν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DP",
+      "translation": "to you",
+      "metadata": {},
+      "gematria": {
+        "standard": 500,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "πᾶς",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NSM",
+      "translation": "everyone",
+      "metadata": {},
+      "gematria": {
+        "standard": 281,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 8,
+      "text": "ὀργιζόμενος",
+      "lemma": [
+        "G3710"
+      ],
+      "strongs": "G3710",
+      "morph": "robinson:V-PMP-NSM",
+      "translation": "is being angry with",
+      "metadata": {},
+      "gematria": {
+        "standard": 625,
+        "ordinal": 128,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 9,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἀδελφῷ",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-DSM",
+      "translation": "brother",
+      "metadata": {},
+      "gematria": {
+        "standard": 1350,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
+      "text": "εἰκῆ",
+      "lemma": [
+        "G1500"
+      ],
+      "strongs": "G1500",
+      "morph": "robinson:ADV",
+      "translation": "in vain",
+      "metadata": {},
+      "gematria": {
+        "standard": 43,
+        "ordinal": 31,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἔνοχος",
+      "lemma": [
+        "G1777"
+      ],
+      "strongs": "G1777",
+      "morph": "robinson:A-NSM",
+      "translation": "liable",
+      "metadata": {},
+      "gematria": {
+        "standard": 995,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἔσται",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-FDI-3S",
+      "translation": "will be",
+      "metadata": {},
+      "gematria": {
+        "standard": 516,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 15,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 16,
+      "text": "κρίσει·",
+      "lemma": [
+        "G2920"
+      ],
+      "strongs": "G2920",
+      "morph": "robinson:N-DSF",
+      "translation": "judgment;",
+      "metadata": {},
+      "gematria": {
+        "standard": 345,
+        "ordinal": 68,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὃς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSM",
+      "translation": "who[ever]",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 18,
+      "text": "δ᾽",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 4,
+        "ordinal": 4,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἂν",
+      "lemma": [
+        "G302"
+      ],
+      "strongs": "G302",
+      "morph": "robinson:PRT",
+      "translation": "maybe",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 14,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 20,
+      "text": "εἴπῃ",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "may say",
+      "metadata": {},
+      "gematria": {
+        "standard": 113,
+        "ordinal": 46,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 21,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἀδελφῷ",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-DSM",
+      "translation": "brother",
+      "metadata": {},
+      "gematria": {
+        "standard": 1350,
+        "ordinal": 75,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 23,
+      "text": "αὐτοῦ·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 24,
+      "text": "ῥακά,",
+      "lemma": [
+        "G4469"
+      ],
+      "strongs": "G4469",
+      "morph": "robinson:N-VSM-ARAM",
+      "translation": "Raca,’",
+      "metadata": {},
+      "gematria": {
+        "standard": 122,
+        "ordinal": 29,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἔνοχος",
+      "lemma": [
+        "G1777"
+      ],
+      "strongs": "G1777",
+      "morph": "robinson:A-NSM",
+      "translation": "liable",
+      "metadata": {},
+      "gematria": {
+        "standard": 995,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 26,
+      "text": "ἔσται",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-FDI-3S",
+      "translation": "will be",
+      "metadata": {},
+      "gematria": {
+        "standard": 516,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 27,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 28,
+      "text": "συνεδρίῳ·",
+      "lemma": [
+        "G4892"
+      ],
+      "strongs": "G4892",
+      "morph": "robinson:N-DSN",
+      "translation": "Sanhedrin;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1579,
+        "ordinal": 119,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 29,
+      "text": "ὃς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSM",
+      "translation": "who[ever]",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 30,
+      "text": "δ᾽",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 4,
+        "ordinal": 4,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 31,
+      "text": "ἂν",
+      "lemma": [
+        "G302"
+      ],
+      "strongs": "G302",
+      "morph": "robinson:PRT",
+      "translation": "maybe",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 14,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 32,
+      "text": "εἴπῃ·",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAS-3S",
+      "translation": "may say;",
+      "metadata": {},
+      "gematria": {
+        "standard": 113,
+        "ordinal": 46,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 33,
+      "text": "μωρέ,",
+      "lemma": [
+        "G3474"
+      ],
+      "strongs": "G3474",
+      "morph": "robinson:A-VSM",
+      "translation": "Fool,",
+      "metadata": {},
+      "gematria": {
+        "standard": 945,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 34,
+      "text": "ἔνοχος",
+      "lemma": [
+        "G1777"
+      ],
+      "strongs": "G1777",
+      "morph": "robinson:A-NSM",
+      "translation": "liable",
+      "metadata": {},
+      "gematria": {
+        "standard": 995,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 35,
+      "text": "ἔσται",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-FDI-3S",
+      "translation": "will be",
+      "metadata": {},
+      "gematria": {
+        "standard": 516,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 36,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 37,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 38,
+      "text": "γέενναν",
+      "lemma": [
+        "G1067"
+      ],
+      "strongs": "G1067",
+      "morph": "robinson:N-ASF-T",
+      "translation": "hell",
+      "metadata": {},
+      "gematria": {
+        "standard": 164,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 39,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 40,
+      "text": "πυρός.",
+      "lemma": [
+        "G4442"
+      ],
+      "strongs": "G4442",
+      "morph": "robinson:N-GSN",
+      "translation": "of fire.",
+      "metadata": {},
+      "gematria": {
+        "standard": 850,
+        "ordinal": 86,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 23001,
+    "ordinal": 2033,
+    "reduced": 863
+  }
+}

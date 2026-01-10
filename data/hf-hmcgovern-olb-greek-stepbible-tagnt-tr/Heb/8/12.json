@@ -1,0 +1,295 @@
+{
+  "text": "ὅτι ἵλεως ἔσομαι ταῖς ἀδικίαις αὐτῶν καὶ τῶν ἁμαρτιῶν αὐτῶν καὶ τῶν ἀνομιῶν αὐτῶν οὐ μὴ μνησθῶ ἔτι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "because",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἵλεως",
+      "lemma": [
+        "G2436"
+      ],
+      "strongs": "G2436",
+      "morph": "robinson:A-NSM",
+      "translation": "merciful",
+      "metadata": {},
+      "gematria": {
+        "standard": 1045,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἔσομαι",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-FDI-1S",
+      "translation": "I will be",
+      "metadata": {},
+      "gematria": {
+        "standard": 326,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "ταῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPF",
+      "translation": "toward the",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἀδικίαις",
+      "lemma": [
+        "G93"
+      ],
+      "strongs": "G93",
+      "morph": "robinson:N-DPF",
+      "translation": "iniquities",
+      "metadata": {},
+      "gematria": {
+        "standard": 256,
+        "ordinal": 61,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτῶν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "of them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἁμαρτιῶν",
+      "lemma": [
+        "G266"
+      ],
+      "strongs": "G266",
+      "morph": "robinson:N-GPF",
+      "translation": "sins",
+      "metadata": {},
+      "gematria": {
+        "standard": 1302,
+        "ordinal": 96,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 10,
+      "text": "αὐτῶν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "of them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 12,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἀνομιῶν",
+      "lemma": [
+        "G458"
+      ],
+      "strongs": "G458",
+      "morph": "robinson:N-GPF",
+      "translation": "lawless acts",
+      "metadata": {},
+      "gematria": {
+        "standard": 1021,
+        "ordinal": 87,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 14,
+      "text": "αὐτῶν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "of them",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 15,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "certainly",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 16,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 17,
+      "text": "μνησθῶ",
+      "lemma": [
+        "G3403"
+      ],
+      "strongs": "G3403",
+      "morph": "robinson:V-APS-1S",
+      "translation": "I may remember",
+      "metadata": {},
+      "gematria": {
+        "standard": 1107,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἔτι.",
+      "lemma": [
+        "G2089"
+      ],
+      "strongs": "G2089",
+      "morph": "robinson:ADV",
+      "translation": "more.",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13796,
+    "ordinal": 1013,
+    "reduced": 365
+  }
+}

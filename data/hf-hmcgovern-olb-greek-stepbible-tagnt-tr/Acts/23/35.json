@@ -1,0 +1,260 @@
+{
+  "text": "διακούσομαί σου, ἔφη, ὅταν καὶ οἱ κατήγοροί σου παραγένωνται. ἐν τῷ πραιτωρίῳ τοῦ Ἡρῴδου φυλάσσεσθαι αὐτόν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "διακούσομαί",
+      "lemma": [
+        "G1251"
+      ],
+      "strongs": "G1251",
+      "morph": "robinson:V-FDI-1S",
+      "translation": "I will hear fully",
+      "metadata": {},
+      "gematria": {
+        "standard": 826,
+        "ordinal": 114,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 2,
+      "text": "σου,",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "you,",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἔφη,",
+      "lemma": [
+        "G5346"
+      ],
+      "strongs": "G5346",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "he was saying,",
+      "metadata": {},
+      "gematria": {
+        "standard": 513,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὅταν",
+      "lemma": [
+        "G3752"
+      ],
+      "strongs": "G3752",
+      "morph": "robinson:CONJ",
+      "translation": "when",
+      "metadata": {},
+      "gematria": {
+        "standard": 421,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "κατήγοροί",
+      "lemma": [
+        "G2725"
+      ],
+      "strongs": "G2725",
+      "morph": "robinson:N-NPM",
+      "translation": "accusers",
+      "metadata": {},
+      "gematria": {
+        "standard": 582,
+        "ordinal": 96,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 8,
+      "text": "σου",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 9,
+      "text": "παραγένωνται.",
+      "lemma": [
+        "G3854"
+      ],
+      "strongs": "G3854",
+      "morph": "robinson:V-2ADS-3P",
+      "translation": "may have arrived.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1401,
+        "ordinal": 122,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 11,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "πραιτωρίῳ",
+      "lemma": [
+        "G4232"
+      ],
+      "strongs": "G4232",
+      "morph": "robinson:N-DSN",
+      "translation": "Praetorium",
+      "metadata": {},
+      "gematria": {
+        "standard": 2211,
+        "ordinal": 145,
+        "reduced": 64
+      }
+    },
+    {
+      "position": 13,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "Ἡρῴδου",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Herod",
+      "metadata": {},
+      "gematria": {
+        "standard": 1392,
+        "ordinal": 96,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 15,
+      "text": "φυλάσσεσθαι",
+      "lemma": null,
+      "morph": null,
+      "translation": "to be guarded",
+      "metadata": {},
+      "gematria": {
+        "standard": 1556,
+        "ordinal": 130,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 16,
+      "text": "αὐτόν.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13109,
+    "ordinal": 1126,
+    "reduced": 442
+  }
+}

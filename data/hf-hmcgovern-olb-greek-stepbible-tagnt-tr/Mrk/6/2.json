@@ -1,0 +1,471 @@
+{
+  "text": "καὶ γενομένου σαββάτου ἤρξατο διδάσκειν ἐν τῇ συναγωγῇ· καὶ πολλοὶ ἀκούοντες ἐξεπλήσσοντο λέγοντες· πόθεν τούτῳ ταῦτα, καὶ τίς ἡ σοφία ἡ δοθεῖσα καὶ δυνάμεις τοιαῦται διὰ τῶν χειρῶν αὐτοῦ",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "γενομένου",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADP-GSN",
+      "translation": "when was becoming",
+      "metadata": {},
+      "gematria": {
+        "standard": 693,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 3,
+      "text": "σαββάτου",
+      "lemma": [
+        "G4521"
+      ],
+      "strongs": "G4521",
+      "morph": "robinson:N-GSN",
+      "translation": "[the] Sabbath",
+      "metadata": {},
+      "gematria": {
+        "standard": 976,
+        "ordinal": 78,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἤρξατο",
+      "lemma": [
+        "G757"
+      ],
+      "strongs": "G757",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "He began",
+      "metadata": {},
+      "gematria": {
+        "standard": 539,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "διδάσκειν",
+      "lemma": [
+        "G1321"
+      ],
+      "strongs": "G1321",
+      "morph": "robinson:V-PAN",
+      "translation": "to teach",
+      "metadata": {},
+      "gematria": {
+        "standard": 304,
+        "ordinal": 73,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "συναγωγῇ·",
+      "lemma": [
+        "G4864"
+      ],
+      "strongs": "G4864",
+      "morph": "robinson:N-DSF",
+      "translation": "synagogue;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1475,
+        "ordinal": 98,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "πολλοὶ",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-NPM",
+      "translation": "many",
+      "metadata": {},
+      "gematria": {
+        "standard": 290,
+        "ordinal": 77,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἀκούοντες",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "hearing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1116,
+        "ordinal": 116,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐξεπλήσσοντο",
+      "lemma": [
+        "G1605"
+      ],
+      "strongs": "G1605",
+      "morph": "robinson:V-IPI-3P",
+      "translation": "were astonished",
+      "metadata": {},
+      "gematria": {
+        "standard": 1078,
+        "ordinal": 156,
+        "reduced": 66
+      }
+    },
+    {
+      "position": 13,
+      "text": "λέγοντες·",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 14,
+      "text": "πόθεν",
+      "lemma": [
+        "G4159"
+      ],
+      "strongs": "G4159",
+      "morph": "robinson:ADV-I",
+      "translation": "From where",
+      "metadata": {},
+      "gematria": {
+        "standard": 214,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 15,
+      "text": "τούτῳ",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-DSM",
+      "translation": "to this [man]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1880,
+        "ordinal": 106,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 16,
+      "text": "ταῦτα,",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NPN",
+      "translation": "these things,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1002,
+        "ordinal": 60,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 17,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "τίς",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-NSF",
+      "translation": "what [is]",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 20,
+      "text": "σοφία",
+      "lemma": [
+        "G4678"
+      ],
+      "strongs": "G4678",
+      "morph": "robinson:N-NSF",
+      "translation": "wisdom",
+      "metadata": {},
+      "gematria": {
+        "standard": 781,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 22,
+      "text": "δοθεῖσα",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-APP-NSF",
+      "translation": "having been given",
+      "metadata": {},
+      "gematria": {
+        "standard": 299,
+        "ordinal": 60,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 23,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "even",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 24,
+      "text": "δυνάμεις",
+      "lemma": [
+        "G1411"
+      ],
+      "strongs": "G1411",
+      "morph": "robinson:N-NPF",
+      "translation": "miracles",
+      "metadata": {},
+      "gematria": {
+        "standard": 710,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 25,
+      "text": "τοιαῦται",
+      "lemma": [
+        "G5108"
+      ],
+      "strongs": "G5108",
+      "morph": "robinson:D-NPF",
+      "translation": "such",
+      "metadata": {},
+      "gematria": {
+        "standard": 1092,
+        "ordinal": 93,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 26,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 27,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 28,
+      "text": "χειρῶν",
+      "lemma": [
+        "G5495"
+      ],
+      "strongs": "G5495",
+      "morph": "robinson:N-GPF",
+      "translation": "hands",
+      "metadata": {},
+      "gematria": {
+        "standard": 1565,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 29,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 18036,
+    "ordinal": 1811,
+    "reduced": 722
+  }
+}

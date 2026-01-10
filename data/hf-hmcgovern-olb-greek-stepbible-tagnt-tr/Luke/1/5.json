@@ -1,0 +1,414 @@
+{
+  "text": "Ἐγένετο ἐν ταῖς ἡμέραις Ἡρῴδου βασιλέως τῆς Ἰουδαίας ἱερεύς τις ὀνόματι Ζαχαρίας ἐξ ἐφημερίας Ἀβιά, καὶ γυνὴ ἐκ τῶν θυγατέρων Ἀαρὼν καὶ τὸ ὄνομα αὐτῆς Ἐλισάβετ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "There was",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ταῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἡμέραις",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-DPF",
+      "translation": "days",
+      "metadata": {},
+      "gematria": {
+        "standard": 364,
+        "ordinal": 69,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 5,
+      "text": "Ἡρῴδου",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Herod",
+      "metadata": {},
+      "gematria": {
+        "standard": 1392,
+        "ordinal": 96,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 6,
+      "text": "βασιλέως",
+      "lemma": [
+        "G935"
+      ],
+      "strongs": "G935",
+      "morph": "robinson:N-GSM",
+      "translation": "king",
+      "metadata": {},
+      "gematria": {
+        "standard": 1248,
+        "ordinal": 88,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "Ἰουδαίας",
+      "lemma": [
+        "G2449"
+      ],
+      "strongs": "G2449",
+      "morph": "robinson:N-GSF-L",
+      "translation": "of Judea",
+      "metadata": {},
+      "gematria": {
+        "standard": 696,
+        "ordinal": 77,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἱερεύς",
+      "lemma": [
+        "G2409"
+      ],
+      "strongs": "G2409",
+      "morph": "robinson:N-NSM",
+      "translation": "a priest",
+      "metadata": {},
+      "gematria": {
+        "standard": 720,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 10,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSM",
+      "translation": "certain",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὀνόματι",
+      "lemma": [
+        "G3686"
+      ],
+      "strongs": "G3686",
+      "morph": "robinson:N-DSN",
+      "translation": "named",
+      "metadata": {},
+      "gematria": {
+        "standard": 541,
+        "ordinal": 84,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 12,
+      "text": "Ζαχαρίας",
+      "lemma": null,
+      "morph": null,
+      "translation": "Zechariah",
+      "metadata": {},
+      "gematria": {
+        "standard": 920,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐξ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of [the]",
+      "metadata": {},
+      "gematria": {
+        "standard": 65,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐφημερίας",
+      "lemma": [
+        "G2183"
+      ],
+      "strongs": "G2183",
+      "morph": "robinson:N-GSF",
+      "translation": "division",
+      "metadata": {},
+      "gematria": {
+        "standard": 869,
+        "ordinal": 95,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 15,
+      "text": "Ἀβιά,",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Abijah,",
+      "metadata": {},
+      "gematria": {
+        "standard": 14,
+        "ordinal": 13,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "γυνὴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "wife",
+      "metadata": {},
+      "gematria": {
+        "standard": 461,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 19,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "θυγατέρων",
+      "lemma": [
+        "G2364"
+      ],
+      "strongs": "G2364",
+      "morph": "robinson:N-GPF",
+      "translation": "daughters",
+      "metadata": {},
+      "gematria": {
+        "standard": 1668,
+        "ordinal": 110,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 21,
+      "text": "Ἀαρὼν",
+      "lemma": [
+        "G2"
+      ],
+      "strongs": "G2",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of Aaron",
+      "metadata": {},
+      "gematria": {
+        "standard": 952,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 22,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 23,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 24,
+      "text": "ὄνομα",
+      "lemma": [
+        "G3686"
+      ],
+      "strongs": "G3686",
+      "morph": "robinson:N-NSN",
+      "translation": "name",
+      "metadata": {},
+      "gematria": {
+        "standard": 231,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 25,
+      "text": "αὐτῆς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "of her",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 26,
+      "text": "Ἐλισάβετ.",
+      "lemma": [
+        "G1665"
+      ],
+      "strongs": "G1665",
+      "morph": "robinson:N-NSF-P",
+      "translation": "Elizabeth.",
+      "metadata": {},
+      "gematria": {
+        "standard": 553,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15232,
+    "ordinal": 1455,
+    "reduced": 636
+  }
+}

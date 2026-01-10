@@ -1,0 +1,234 @@
+{
+  "text": "καὶ ὤμοσεν αὐτῇ ὅ ἐάν με αἰτήσῃς δώσω σοι ἕως ἡμίσους τῆς βασιλείας μου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὤμοσεν",
+      "lemma": [
+        "G3660"
+      ],
+      "strongs": "G3660",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he swore",
+      "metadata": {},
+      "gematria": {
+        "standard": 1165,
+        "ordinal": 87,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτῇ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSF",
+      "translation": "to her",
+      "metadata": {},
+      "gematria": {
+        "standard": 719,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὅ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASN",
+      "translation": "whatever",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐάν",
+      "lemma": [
+        "G1437"
+      ],
+      "strongs": "G1437",
+      "morph": "robinson:COND",
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "με",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1AS",
+      "translation": "me",
+      "metadata": {},
+      "gematria": {
+        "standard": 45,
+        "ordinal": 17,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 7,
+      "text": "αἰτήσῃς",
+      "lemma": [
+        "G154"
+      ],
+      "strongs": "G154",
+      "morph": "robinson:V-AAS-2S",
+      "translation": "you shall ask",
+      "metadata": {},
+      "gematria": {
+        "standard": 737,
+        "ordinal": 88,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 8,
+      "text": "δώσω",
+      "lemma": [
+        "G1325"
+      ],
+      "strongs": "G1325",
+      "morph": "robinson:V-FAI-1S",
+      "translation": "I will give",
+      "metadata": {},
+      "gematria": {
+        "standard": 1804,
+        "ordinal": 70,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 9,
+      "text": "σοι",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2DS",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 280,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἕως",
+      "lemma": [
+        "G2193"
+      ],
+      "strongs": "G2193",
+      "morph": "robinson:PREP",
+      "translation": "until",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἡμίσους",
+      "lemma": [
+        "G2255"
+      ],
+      "strongs": "G2255",
+      "morph": "robinson:A-GSN",
+      "translation": "half",
+      "metadata": {},
+      "gematria": {
+        "standard": 928,
+        "ordinal": 99,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 12,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 13,
+      "text": "βασιλείας",
+      "lemma": [
+        "G932"
+      ],
+      "strongs": "G932",
+      "morph": "robinson:N-GSF",
+      "translation": "kingdom",
+      "metadata": {},
+      "gematria": {
+        "standard": 459,
+        "ordinal": 74,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 14,
+      "text": "μου.",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of mine.",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8317,
+    "ordinal": 725,
+    "reduced": 329
+  }
+}

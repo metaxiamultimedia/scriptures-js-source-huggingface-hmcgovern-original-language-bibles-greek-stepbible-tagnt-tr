@@ -1,0 +1,154 @@
+{
+  "text": "καὶ λαλήσαντες ἐν Πέργῃ τὸν λόγον κατέβησαν εἰς Ἀττάλειαν·",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "λαλήσαντες",
+      "lemma": [
+        "G2980"
+      ],
+      "strongs": "G2980",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "having spoken",
+      "metadata": {},
+      "gematria": {
+        "standard": 825,
+        "ordinal": 104,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "Πέργῃ",
+      "lemma": [
+        "G4011"
+      ],
+      "strongs": "G4011",
+      "morph": "robinson:N-DSF-L",
+      "translation": "Perga",
+      "metadata": {},
+      "gematria": {
+        "standard": 206,
+        "ordinal": 57,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 5,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "λόγον",
+      "lemma": [
+        "G3056"
+      ],
+      "strongs": "G3056",
+      "morph": "robinson:N-ASM",
+      "translation": "word",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
+      "text": "κατέβησαν",
+      "lemma": [
+        "G2597"
+      ],
+      "strongs": "G2597",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "they went down",
+      "metadata": {},
+      "gematria": {
+        "standard": 587,
+        "ordinal": 76,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 8,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 9,
+      "text": "Ἀττάλειαν·",
+      "lemma": [
+        "G825"
+      ],
+      "strongs": "G825",
+      "morph": "robinson:N-ASF-L",
+      "translation": "Attalia;",
+      "metadata": {},
+      "gematria": {
+        "standard": 698,
+        "ordinal": 79,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3260,
+    "ordinal": 490,
+    "reduced": 211
+  }
+}

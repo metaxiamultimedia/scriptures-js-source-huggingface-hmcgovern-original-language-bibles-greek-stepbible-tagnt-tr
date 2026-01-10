@@ -1,0 +1,90 @@
+{
+  "text": "Μὴ κρίνετε ἵνα μὴ κριθῆτε·",
+  "words": [
+    {
+      "position": 1,
+      "text": "Μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "Not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "κρίνετε",
+      "lemma": [
+        "G2919"
+      ],
+      "strongs": "G2919",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do judge",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 78,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "κριθῆτε·",
+      "lemma": [
+        "G2919"
+      ],
+      "strongs": "G2919",
+      "morph": "robinson:V-APS-2P",
+      "translation": "you may be judged;",
+      "metadata": {},
+      "gematria": {
+        "standard": 452,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1099,
+    "ordinal": 214,
+    "reduced": 106
+  }
+}

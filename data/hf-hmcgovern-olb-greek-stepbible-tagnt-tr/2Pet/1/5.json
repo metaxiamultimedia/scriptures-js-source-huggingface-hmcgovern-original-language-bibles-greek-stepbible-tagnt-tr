@@ -1,0 +1,327 @@
+{
+  "text": "καὶ αὐτὸ τοῦτο δὲ σπουδὴν πᾶσαν παρεισενέγκαντες ἐπιχορηγήσατε ἐν τῇ πίστει ὑμῶν τὴν ἀρετήν, ἐν δὲ τῇ ἀρετῇ τὴν γνῶσιν,",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "αὐτὸ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASN",
+      "translation": "very [reason]",
+      "metadata": {},
+      "gematria": {
+        "standard": 771,
+        "ordinal": 55,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "τοῦτο",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-ASN",
+      "translation": "for this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "σπουδὴν",
+      "lemma": [
+        "G4710"
+      ],
+      "strongs": "G4710",
+      "morph": "robinson:N-ASF",
+      "translation": "earnestness",
+      "metadata": {},
+      "gematria": {
+        "standard": 812,
+        "ordinal": 93,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 6,
+      "text": "πᾶσαν",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-ASF",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 332,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 7,
+      "text": "παρεισενέγκαντες",
+      "lemma": [
+        "G3923"
+      ],
+      "strongs": "G3923",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "having brought in",
+      "metadata": {},
+      "gematria": {
+        "standard": 1035,
+        "ordinal": 158,
+        "reduced": 77
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐπιχορηγήσατε",
+      "lemma": [
+        "G2023"
+      ],
+      "strongs": "G2023",
+      "morph": "robinson:V-AAM-2P",
+      "translation": "do supplement",
+      "metadata": {},
+      "gematria": {
+        "standard": 1390,
+        "ordinal": 144,
+        "reduced": 72
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 11,
+      "text": "πίστει",
+      "lemma": null,
+      "morph": null,
+      "translation": "faith",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὑμῶν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GP",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 1290,
+        "ordinal": 69,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀρετήν,",
+      "lemma": [
+        "G703"
+      ],
+      "strongs": "G703",
+      "morph": "robinson:N-ASF",
+      "translation": "virtue,",
+      "metadata": {},
+      "gematria": {
+        "standard": 464,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 16,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 17,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἀρετῇ",
+      "lemma": [
+        "G703"
+      ],
+      "strongs": "G703",
+      "morph": "robinson:N-DSF",
+      "translation": "virtue",
+      "metadata": {},
+      "gematria": {
+        "standard": 424,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 19,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 20,
+      "text": "γνῶσιν,",
+      "lemma": [
+        "G1108"
+      ],
+      "strongs": "G1108",
+      "morph": "robinson:N-ASF",
+      "translation": "knowledge,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1113,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 10887,
+    "ordinal": 1154,
+    "reduced": 488
+  }
+}

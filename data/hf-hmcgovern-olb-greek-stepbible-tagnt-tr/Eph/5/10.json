@@ -1,0 +1,103 @@
+{
+  "text": "δοκιμάζοντες τί ἐστιν εὐάρεστον τῷ κυρίῳ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "δοκιμάζοντες",
+      "lemma": [
+        "G1381"
+      ],
+      "strongs": "G1381",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "discerning",
+      "metadata": {},
+      "gematria": {
+        "standard": 777,
+        "ordinal": 127,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 2,
+      "text": "τί",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-NSN",
+      "translation": "what",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "εὐάρεστον",
+      "lemma": [
+        "G2101"
+      ],
+      "strongs": "G2101",
+      "morph": "robinson:A-NSN",
+      "translation": "well-pleasing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1131,
+        "ordinal": 113,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 5,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "κυρίῳ.",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lord.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1340,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5233,
+    "ordinal": 473,
+    "reduced": 185
+  }
+}

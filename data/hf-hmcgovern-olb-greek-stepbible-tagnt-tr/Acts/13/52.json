@@ -1,0 +1,116 @@
+{
+  "text": "οἵ μαθηταὶ ἐπληροῦντο χαρᾶς καὶ πνεύματος ἁγίου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "οἵ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "μαθηταὶ",
+      "lemma": [
+        "G3101"
+      ],
+      "strongs": "G3101",
+      "morph": "robinson:N-NPM",
+      "translation": "the disciples",
+      "metadata": {},
+      "gematria": {
+        "standard": 369,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐπληροῦντο",
+      "lemma": [
+        "G4137"
+      ],
+      "strongs": "G4137",
+      "morph": "robinson:V-IPI-3P",
+      "translation": "were filled",
+      "metadata": {},
+      "gematria": {
+        "standard": 1113,
+        "ordinal": 138,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 4,
+      "text": "χαρᾶς",
+      "lemma": [
+        "G5479"
+      ],
+      "strongs": "G5479",
+      "morph": "robinson:N-GSF",
+      "translation": "with joy",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 59,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and [the]",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "πνεύματος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Spirit",
+      "metadata": {},
+      "gematria": {
+        "standard": 1146,
+        "ordinal": 119,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἁγίου.",
+      "lemma": null,
+      "morph": null,
+      "translation": "Holy.",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4125,
+    "ordinal": 465,
+    "reduced": 186
+  }
+}

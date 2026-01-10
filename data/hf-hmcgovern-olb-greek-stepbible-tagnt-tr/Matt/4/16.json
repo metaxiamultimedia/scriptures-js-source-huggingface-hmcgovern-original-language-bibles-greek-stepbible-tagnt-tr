@@ -1,0 +1,327 @@
+{
+  "text": "ὁ λαὸς ὁ καθήμενος ἐν σκότει φῶς εἶδεν μέγα, καὶ τοῖς καθημένοις ἐν χώρᾳ καὶ σκιᾷ θανάτου φῶς ἀνέτειλεν αὐτοῖς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "λαὸς",
+      "lemma": [
+        "G2992"
+      ],
+      "strongs": "G2992",
+      "morph": "robinson:N-NSM",
+      "translation": "nation",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 45,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 4,
+      "text": "καθήμενος",
+      "lemma": [
+        "G2521"
+      ],
+      "strongs": "G2521",
+      "morph": "robinson:V-PNP-NSM",
+      "translation": "sitting",
+      "metadata": {},
+      "gematria": {
+        "standard": 403,
+        "ordinal": 89,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "σκότει",
+      "lemma": [
+        "G4655"
+      ],
+      "strongs": "G4655",
+      "morph": "robinson:N-DSN",
+      "translation": "darkness",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 76,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 7,
+      "text": "φῶς",
+      "lemma": [
+        "G5457"
+      ],
+      "strongs": "G5457",
+      "morph": "robinson:N-ASN",
+      "translation": "light",
+      "metadata": {},
+      "gematria": {
+        "standard": 1500,
+        "ordinal": 63,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 8,
+      "text": "εἶδεν",
+      "lemma": null,
+      "morph": null,
+      "translation": "have seen",
+      "metadata": {},
+      "gematria": {
+        "standard": 74,
+        "ordinal": 36,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 9,
+      "text": "μέγα,",
+      "lemma": [
+        "G3173"
+      ],
+      "strongs": "G3173",
+      "morph": "robinson:A-ASN",
+      "translation": "great,",
+      "metadata": {},
+      "gematria": {
+        "standard": 49,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "to those",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 12,
+      "text": "καθημένοις",
+      "lemma": [
+        "G2521"
+      ],
+      "strongs": "G2521",
+      "morph": "robinson:V-PNP-DPM",
+      "translation": "sitting",
+      "metadata": {},
+      "gematria": {
+        "standard": 413,
+        "ordinal": 98,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in [the]",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "χώρᾳ",
+      "lemma": [
+        "G5561"
+      ],
+      "strongs": "G5561",
+      "morph": "robinson:N-DSF",
+      "translation": "land",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "σκιᾷ",
+      "lemma": [
+        "G4639"
+      ],
+      "strongs": "G4639",
+      "morph": "robinson:N-DSF",
+      "translation": "in a shadow",
+      "metadata": {},
+      "gematria": {
+        "standard": 241,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 17,
+      "text": "θανάτου",
+      "lemma": [
+        "G2288"
+      ],
+      "strongs": "G2288",
+      "morph": "robinson:N-GSM",
+      "translation": "of death",
+      "metadata": {},
+      "gematria": {
+        "standard": 831,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 18,
+      "text": "φῶς",
+      "lemma": [
+        "G5457"
+      ],
+      "strongs": "G5457",
+      "morph": "robinson:N-NSN",
+      "translation": "a light",
+      "metadata": {},
+      "gematria": {
+        "standard": 1500,
+        "ordinal": 63,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἀνέτειλεν",
+      "lemma": [
+        "G393"
+      ],
+      "strongs": "G393",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "has dawned",
+      "metadata": {},
+      "gematria": {
+        "standard": 456,
+        "ordinal": 81,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 20,
+      "text": "αὐτοῖς.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DPM",
+      "translation": "on them.",
+      "metadata": {},
+      "gematria": {
+        "standard": 981,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9757,
+    "ordinal": 1018,
+    "reduced": 442
+  }
+}

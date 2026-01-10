@@ -1,0 +1,404 @@
+{
+  "text": "Τὸ λοιπόν, ἀδελφοί, ὅσα ἐστὶν ἀληθῆ, ὅσα σεμνά, ὅσα δίκαια, ὅσα ἁγνά, ὅσα προσφιλῆ, ὅσα εὔφημα, εἴ τις ἀρετὴ καὶ εἴ τις ἔπαινος, ταῦτα λογίζεσθε·",
+  "words": [
+    {
+      "position": 1,
+      "text": "Τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "λοιπόν,",
+      "lemma": [
+        "G3063"
+      ],
+      "strongs": "G3063",
+      "morph": "robinson:A-ASN",
+      "translation": "Finally,",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀδελφοί,",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-VPM",
+      "translation": "brothers,",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὅσα",
+      "lemma": [
+        "G3745"
+      ],
+      "strongs": "G3745",
+      "morph": "robinson:K-NPN",
+      "translation": "whatever",
+      "metadata": {},
+      "gematria": {
+        "standard": 271,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἐστὶν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀληθῆ,",
+      "lemma": [
+        "G227"
+      ],
+      "strongs": "G227",
+      "morph": "robinson:A-NPN",
+      "translation": "true,",
+      "metadata": {},
+      "gematria": {
+        "standard": 56,
+        "ordinal": 34,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "ὅσα",
+      "lemma": [
+        "G3745"
+      ],
+      "strongs": "G3745",
+      "morph": "robinson:K-NPN",
+      "translation": "whatever",
+      "metadata": {},
+      "gematria": {
+        "standard": 271,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "σεμνά,",
+      "lemma": [
+        "G4586"
+      ],
+      "strongs": "G4586",
+      "morph": "robinson:A-NPN",
+      "translation": "venerable,",
+      "metadata": {},
+      "gematria": {
+        "standard": 296,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὅσα",
+      "lemma": [
+        "G3745"
+      ],
+      "strongs": "G3745",
+      "morph": "robinson:K-NPN",
+      "translation": "whatever",
+      "metadata": {},
+      "gematria": {
+        "standard": 271,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "δίκαια,",
+      "lemma": [
+        "G1342"
+      ],
+      "strongs": "G1342",
+      "morph": "robinson:A-NPN",
+      "translation": "right,",
+      "metadata": {},
+      "gematria": {
+        "standard": 46,
+        "ordinal": 34,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὅσα",
+      "lemma": [
+        "G3745"
+      ],
+      "strongs": "G3745",
+      "morph": "robinson:K-NPN",
+      "translation": "whatever",
+      "metadata": {},
+      "gematria": {
+        "standard": 271,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἁγνά,",
+      "lemma": [
+        "G53"
+      ],
+      "strongs": "G53",
+      "morph": "robinson:A-NPN",
+      "translation": "pure,",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὅσα",
+      "lemma": [
+        "G3745"
+      ],
+      "strongs": "G3745",
+      "morph": "robinson:K-NPN",
+      "translation": "whatever",
+      "metadata": {},
+      "gematria": {
+        "standard": 271,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "προσφιλῆ,",
+      "lemma": [
+        "G4375"
+      ],
+      "strongs": "G4375",
+      "morph": "robinson:A-NPN",
+      "translation": "lovely,",
+      "metadata": {},
+      "gematria": {
+        "standard": 998,
+        "ordinal": 114,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὅσα",
+      "lemma": [
+        "G3745"
+      ],
+      "strongs": "G3745",
+      "morph": "robinson:K-NPN",
+      "translation": "whatever",
+      "metadata": {},
+      "gematria": {
+        "standard": 271,
+        "ordinal": 34,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "εὔφημα,",
+      "lemma": [
+        "G2163"
+      ],
+      "strongs": "G2163",
+      "morph": "robinson:A-NPN",
+      "translation": "admirable —",
+      "metadata": {},
+      "gematria": {
+        "standard": 954,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 17,
+      "text": "εἴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 18,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSF",
+      "translation": "any",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἀρετὴ",
+      "lemma": [
+        "G703"
+      ],
+      "strongs": "G703",
+      "morph": "robinson:N-NSF",
+      "translation": "excellence",
+      "metadata": {},
+      "gematria": {
+        "standard": 414,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 20,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "εἴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 22,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSM",
+      "translation": "any",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 23,
+      "text": "ἔπαινος,",
+      "lemma": [
+        "G1868"
+      ],
+      "strongs": "G1868",
+      "morph": "robinson:N-NSM",
+      "translation": "praise —",
+      "metadata": {},
+      "gematria": {
+        "standard": 416,
+        "ordinal": 77,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 24,
+      "text": "ταῦτα",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-APN",
+      "translation": "these things",
+      "metadata": {},
+      "gematria": {
+        "standard": 1002,
+        "ordinal": 60,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 25,
+      "text": "λογίζεσθε·",
+      "lemma": [
+        "G3049"
+      ],
+      "strongs": "G3049",
+      "morph": "robinson:V-PNM-2P",
+      "translation": "do think on;",
+      "metadata": {},
+      "gematria": {
+        "standard": 339,
+        "ordinal": 80,
+        "reduced": 53
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9148,
+    "ordinal": 1168,
+    "reduced": 547
+  }
+}

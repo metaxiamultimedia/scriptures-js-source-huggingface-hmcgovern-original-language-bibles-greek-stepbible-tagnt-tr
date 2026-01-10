@@ -1,0 +1,228 @@
+{
+  "text": "Ἐξελθόντες δὲ τῆς φυλακῆς εἰσῆλθον τὴν Λυδίαν· καὶ ἰδόντες παρεκάλεσαν τοὺς ἀδελφοὺς καὶ ἐξῆλθαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἐξελθόντες",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-2AAP-NPM",
+      "translation": "Having gone forth",
+      "metadata": {},
+      "gematria": {
+        "standard": 734,
+        "ordinal": 113,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
+      "text": "φυλακῆς",
+      "lemma": null,
+      "morph": null,
+      "translation": "prison",
+      "metadata": {},
+      "gematria": {
+        "standard": 1159,
+        "ordinal": 88,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἰσῆλθον",
+      "lemma": [
+        "G1525"
+      ],
+      "strongs": "G1525",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "they came",
+      "metadata": {},
+      "gematria": {
+        "standard": 382,
+        "ordinal": 86,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "Λυδίαν·",
+      "lemma": [
+        "G3070"
+      ],
+      "strongs": "G3070",
+      "morph": "robinson:N-ASF-P",
+      "translation": "Lydia;",
+      "metadata": {},
+      "gematria": {
+        "standard": 495,
+        "ordinal": 58,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἰδόντες",
+      "lemma": null,
+      "morph": null,
+      "translation": "having seen [them]",
+      "metadata": {},
+      "gematria": {
+        "standard": 639,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 10,
+      "text": "παρεκάλεσαν",
+      "lemma": [
+        "G3870"
+      ],
+      "strongs": "G3870",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "they exhorted",
+      "metadata": {},
+      "gematria": {
+        "standard": 493,
+        "ordinal": 98,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 11,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀδελφοὺς",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-APM",
+      "translation": "brothers",
+      "metadata": {},
+      "gematria": {
+        "standard": 1210,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐξῆλθαν.",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "departed.",
+      "metadata": {},
+      "gematria": {
+        "standard": 163,
+        "ordinal": 59,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7182,
+    "ordinal": 884,
+    "reduced": 371
+  }
+}

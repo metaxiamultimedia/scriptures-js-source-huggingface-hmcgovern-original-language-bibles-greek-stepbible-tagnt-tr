@@ -1,0 +1,423 @@
+{
+  "text": "Πίστει πλείονα θυσίαν Ἅβελ παρὰ Κάϊν προσήνεγκεν τῷ θεῷ, δι᾽ ἧς ἐμαρτυρήθη εἶναι δίκαιος μαρτυροῦντος ἐπὶ τοῖς δώροις αὐτοῦ τοῦ θεοῦ· καὶ δι᾽ αὐτῆς ἀποθανὼν ἔτι",
+  "words": [
+    {
+      "position": 1,
+      "text": "Πίστει",
+      "lemma": null,
+      "morph": null,
+      "translation": "By faith",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 2,
+      "text": "πλείονα",
+      "lemma": [
+        "G4119"
+      ],
+      "strongs": "G4119",
+      "morph": "robinson:A-ASF-C",
+      "translation": "a more excellent",
+      "metadata": {},
+      "gematria": {
+        "standard": 246,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 3,
+      "text": "θυσίαν",
+      "lemma": [
+        "G2378"
+      ],
+      "strongs": "G2378",
+      "morph": "robinson:N-ASF",
+      "translation": "sacrifice",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἅβελ",
+      "lemma": [
+        "G6"
+      ],
+      "strongs": "G6",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Abel",
+      "metadata": {},
+      "gematria": {
+        "standard": 38,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "παρὰ",
+      "lemma": [
+        "G3844"
+      ],
+      "strongs": "G3844",
+      "morph": "robinson:PREP",
+      "translation": "than",
+      "metadata": {},
+      "gematria": {
+        "standard": 182,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "Κάϊν",
+      "lemma": [
+        "G2535"
+      ],
+      "strongs": "G2535",
+      "morph": "robinson:N-ASM-P",
+      "translation": "Cain",
+      "metadata": {},
+      "gematria": {
+        "standard": 81,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "προσήνεγκεν",
+      "lemma": [
+        "G4374"
+      ],
+      "strongs": "G4374",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "offered",
+      "metadata": {},
+      "gematria": {
+        "standard": 591,
+        "ordinal": 122,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 8,
+      "text": "τῷ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1110,
+        "ordinal": 52,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "θεῷ,",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-DSM-T",
+      "translation": "to God,",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 10,
+      "text": "δι᾽",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 14,
+        "ordinal": 13,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἧς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-GSF",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 208,
+        "ordinal": 25,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐμαρτυρήθη",
+      "lemma": [
+        "G3140"
+      ],
+      "strongs": "G3140",
+      "morph": "robinson:V-API-3S",
+      "translation": "he was testified",
+      "metadata": {},
+      "gematria": {
+        "standard": 971,
+        "ordinal": 113,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 13,
+      "text": "εἶναι",
+      "lemma": [
+        "G1511"
+      ],
+      "strongs": "G1511",
+      "morph": "robinson:V-PAN",
+      "translation": "to be",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 37,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 14,
+      "text": "δίκαιος",
+      "lemma": [
+        "G1342"
+      ],
+      "strongs": "G1342",
+      "morph": "robinson:A-NSM",
+      "translation": "righteous",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 66,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 15,
+      "text": "μαρτυροῦντος",
+      "lemma": [
+        "G3140"
+      ],
+      "strongs": "G3140",
+      "morph": "robinson:V-PAP-GSM",
+      "translation": "bearing witness",
+      "metadata": {},
+      "gematria": {
+        "standard": 2031,
+        "ordinal": 186,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 17,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 18,
+      "text": "δώροις",
+      "lemma": [
+        "G1435"
+      ],
+      "strongs": "G1435",
+      "morph": "robinson:N-DPN",
+      "translation": "gifts",
+      "metadata": {},
+      "gematria": {
+        "standard": 1184,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 19,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 20,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 21,
+      "text": "θεοῦ·",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "God;",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 22,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 23,
+      "text": "δι᾽",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 14,
+        "ordinal": 13,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 24,
+      "text": "αὐτῆς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "it",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἀποθανὼν",
+      "lemma": [
+        "G599"
+      ],
+      "strongs": "G599",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having died",
+      "metadata": {},
+      "gematria": {
+        "standard": 1061,
+        "ordinal": 91,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 26,
+      "text": "ἔτι",
+      "lemma": [
+        "G2089"
+      ],
+      "strongs": "G2089",
+      "morph": "robinson:ADV",
+      "translation": "still",
+      "metadata": {},
+      "gematria": {
+        "standard": 315,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14576,
+    "ordinal": 1539,
+    "reduced": 675
+  }
+}

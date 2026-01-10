@@ -1,0 +1,154 @@
+{
+  "text": "Ἀσπάζεται ὑμᾶς Λουκᾶς ὁ ἰατρὸς ὁ ἀγαπητὸς καὶ Δημᾶς.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἀσπάζεται",
+      "lemma": [
+        "G782"
+      ],
+      "strongs": "G782",
+      "morph": "robinson:V-PNI-3S",
+      "translation": "Greets",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὑμᾶς",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2AP",
+      "translation": "you",
+      "metadata": {},
+      "gematria": {
+        "standard": 641,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "Λουκᾶς",
+      "lemma": [
+        "G3065"
+      ],
+      "strongs": "G3065",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Luke",
+      "metadata": {},
+      "gematria": {
+        "standard": 721,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἰατρὸς",
+      "lemma": [
+        "G2395"
+      ],
+      "strongs": "G2395",
+      "morph": "robinson:N-NSM",
+      "translation": "physician",
+      "metadata": {},
+      "gematria": {
+        "standard": 681,
+        "ordinal": 79,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀγαπητὸς",
+      "lemma": [
+        "G27"
+      ],
+      "strongs": "G27",
+      "morph": "robinson:A-NSM",
+      "translation": "beloved",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and also",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "Δημᾶς.",
+      "lemma": [
+        "G1214"
+      ],
+      "strongs": "G1214",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Demas.",
+      "metadata": {},
+      "gematria": {
+        "standard": 253,
+        "ordinal": 42,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3735,
+    "ordinal": 453,
+    "reduced": 192
+  }
+}

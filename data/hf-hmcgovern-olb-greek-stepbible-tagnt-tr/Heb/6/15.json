@@ -1,0 +1,106 @@
+{
+  "text": "καὶ οὕτως μακροθυμήσας ἐπέτυχεν τῆς ἐπαγγελίας.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὕτως",
+      "lemma": [
+        "G3779"
+      ],
+      "strongs": "G3779",
+      "morph": "robinson:ADV",
+      "translation": "thus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1770,
+        "ordinal": 96,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 3,
+      "text": "μακροθυμήσας",
+      "lemma": [
+        "G3114"
+      ],
+      "strongs": "G3114",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having waited patiently",
+      "metadata": {},
+      "gematria": {
+        "standard": 1089,
+        "ordinal": 139,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐπέτυχεν",
+      "lemma": [
+        "G2013"
+      ],
+      "strongs": "G2013",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "he obtained",
+      "metadata": {},
+      "gematria": {
+        "standard": 1445,
+        "ordinal": 105,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐπαγγελίας.",
+      "lemma": [
+        "G1860"
+      ],
+      "strongs": "G1860",
+      "morph": "robinson:N-GSF",
+      "translation": "promise.",
+      "metadata": {},
+      "gematria": {
+        "standard": 338,
+        "ordinal": 72,
+        "reduced": 45
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5181,
+    "ordinal": 476,
+    "reduced": 188
+  }
+}

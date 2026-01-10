@@ -1,0 +1,58 @@
+{
+  "text": "Καὶ ἐξελθόντες ἵνα",
+  "words": [
+    {
+      "position": 1,
+      "text": "Καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐξελθόντες",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-2AAP-NPM",
+      "translation": "having gone out",
+      "metadata": {},
+      "gematria": {
+        "standard": 734,
+        "ordinal": 113,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἵνα",
+      "lemma": [
+        "G2443"
+      ],
+      "strongs": "G2443",
+      "morph": "robinson:CONJ",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 826,
+    "ordinal": 156,
+    "reduced": 75
+  }
+}

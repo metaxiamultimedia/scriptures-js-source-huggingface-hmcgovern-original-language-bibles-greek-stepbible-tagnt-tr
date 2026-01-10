@@ -1,0 +1,151 @@
+{
+  "text": "ὁ δὲ δῆμος ἐπεφώνει· θεοῦ φωνὴ καὶ οὐκ ἀνθρώπου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "δῆμος",
+      "lemma": [
+        "G1218"
+      ],
+      "strongs": "G1218",
+      "morph": "robinson:N-NSM",
+      "translation": "the people",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἐπεφώνει·",
+      "lemma": [
+        "G2019"
+      ],
+      "strongs": "G2019",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "were crying out;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1455,
+        "ordinal": 98,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 5,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM",
+      "translation": "Of a god",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "φωνὴ",
+      "lemma": null,
+      "morph": null,
+      "translation": "[this is the] voice",
+      "metadata": {},
+      "gematria": {
+        "standard": 1358,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀνθρώπου.",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-GSM",
+      "translation": "of a man!",
+      "metadata": {},
+      "gematria": {
+        "standard": 1510,
+        "ordinal": 114,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 5729,
+    "ordinal": 470,
+    "reduced": 191
+  }
+}

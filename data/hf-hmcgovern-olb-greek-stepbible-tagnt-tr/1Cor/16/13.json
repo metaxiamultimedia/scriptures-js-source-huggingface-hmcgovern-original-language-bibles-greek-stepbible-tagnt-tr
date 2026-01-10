@@ -1,0 +1,119 @@
+{
+  "text": "Γρηγορεῖτε, στήκετε ἐν τῇ πίστει, ἀνδρίζεσθε, κραταιοῦσθε.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Γρηγορεῖτε,",
+      "lemma": [
+        "G1127"
+      ],
+      "strongs": "G1127",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do watch,",
+      "metadata": {},
+      "gematria": {
+        "standard": 604,
+        "ordinal": 100,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 2,
+      "text": "στήκετε",
+      "lemma": [
+        "G4739"
+      ],
+      "strongs": "G4739",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do stand firm",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
+      "text": "πίστει,",
+      "lemma": null,
+      "morph": null,
+      "translation": "faith,",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀνδρίζεσθε,",
+      "lemma": [
+        "G407"
+      ],
+      "strongs": "G407",
+      "morph": "robinson:V-PNM-2P",
+      "translation": "do act like men,",
+      "metadata": {},
+      "gematria": {
+        "standard": 391,
+        "ordinal": 86,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 7,
+      "text": "κραταιοῦσθε.",
+      "lemma": [
+        "G2901"
+      ],
+      "strongs": "G2901",
+      "morph": "robinson:V-PPM-2P",
+      "translation": "do be strong.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1116,
+        "ordinal": 123,
+        "reduced": 51
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3927,
+    "ordinal": 521,
+    "reduced": 260
+  }
+}

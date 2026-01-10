@@ -1,0 +1,116 @@
+{
+  "text": "μακάριος ἀνὴρ οὐ μὴ λογίσηται κύριος ἁμαρτίαν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "μακάριος",
+      "lemma": [
+        "G3107"
+      ],
+      "strongs": "G3107",
+      "morph": "robinson:A-NSM",
+      "translation": "blessed [is]",
+      "metadata": {},
+      "gematria": {
+        "standard": 442,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀνὴρ",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] man",
+      "metadata": {},
+      "gematria": {
+        "standard": 159,
+        "ordinal": 38,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 3,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "certainly",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 4,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "λογίσηται",
+      "lemma": [
+        "G3049"
+      ],
+      "strongs": "G3049",
+      "morph": "robinson:V-ADS-3S",
+      "translation": "may reckon",
+      "metadata": {},
+      "gematria": {
+        "standard": 632,
+        "ordinal": 92,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 6,
+      "text": "κύριος",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] Lord",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἁμαρτίαν.",
+      "lemma": [
+        "G266"
+      ],
+      "strongs": "G266",
+      "morph": "robinson:N-ASF",
+      "translation": "sin.",
+      "metadata": {},
+      "gematria": {
+        "standard": 503,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3054,
+    "ordinal": 429,
+    "reduced": 186
+  }
+}

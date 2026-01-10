@@ -1,0 +1,90 @@
+{
+  "text": "σῶσον σεαυτὸν ἀπὸ τοῦ σταυροῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "σῶσον",
+      "lemma": [
+        "G4982"
+      ],
+      "strongs": "G4982",
+      "morph": "robinson:V-AAM-2S",
+      "translation": "do save",
+      "metadata": {},
+      "gematria": {
+        "standard": 1320,
+        "ordinal": 88,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 2,
+      "text": "σεαυτὸν",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:F-2ASM",
+      "translation": "Yourself",
+      "metadata": {},
+      "gematria": {
+        "standard": 1026,
+        "ordinal": 91,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "σταυροῦ.",
+      "lemma": [
+        "G4716"
+      ],
+      "strongs": "G4716",
+      "morph": "robinson:N-GSM",
+      "translation": "cross!",
+      "metadata": {},
+      "gematria": {
+        "standard": 1471,
+        "ordinal": 110,
+        "reduced": 29
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4738,
+    "ordinal": 375,
+    "reduced": 114
+  }
+}

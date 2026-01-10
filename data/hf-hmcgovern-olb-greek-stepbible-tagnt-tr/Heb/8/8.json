@@ -1,0 +1,328 @@
+{
+  "text": "μεμφόμενος γὰρ λέγει· ἰδοὺ ἡμέραι ἔρχονται, λέγει κύριος, καὶ συντελέσω ἐπὶ τὸν οἶκον Ἰσραὴλ καὶ ἐπὶ τὸν οἶκον Ἰούδα διαθήκην καινήν,",
+  "words": [
+    {
+      "position": 1,
+      "text": "μεμφόμενος",
+      "lemma": [
+        "G3201"
+      ],
+      "strongs": "G3201",
+      "morph": "robinson:V-PNP-NSM",
+      "translation": "Finding fault",
+      "metadata": {},
+      "gematria": {
+        "standard": 1020,
+        "ordinal": 128,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 2,
+      "text": "γὰρ",
+      "lemma": [
+        "G1063"
+      ],
+      "strongs": "G1063",
+      "morph": "robinson:CONJ",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 104,
+        "ordinal": 21,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "λέγει·",
+      "lemma": null,
+      "morph": null,
+      "translation": "He says:",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἰδοὺ",
+      "lemma": [
+        "G2400"
+      ],
+      "strongs": "G2400",
+      "morph": "robinson:INJ",
+      "translation": "Behold",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἡμέραι",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-NPF",
+      "translation": "[the] days",
+      "metadata": {},
+      "gematria": {
+        "standard": 164,
+        "ordinal": 51,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἔρχονται,",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-PNI-3P",
+      "translation": "are coming,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1136,
+        "ordinal": 101,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 7,
+      "text": "λέγει",
+      "lemma": null,
+      "morph": null,
+      "translation": "says",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 8,
+      "text": "κύριος,",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] Lord,",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "συντελέσω",
+      "lemma": [
+        "G4931"
+      ],
+      "strongs": "G4931",
+      "morph": "robinson:V-FAI-1S",
+      "translation": "I will ratify",
+      "metadata": {},
+      "gematria": {
+        "standard": 1990,
+        "ordinal": 133,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "οἶκον",
+      "lemma": null,
+      "morph": null,
+      "translation": "house",
+      "metadata": {},
+      "gematria": {
+        "standard": 220,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 14,
+      "text": "Ἰσραὴλ",
+      "lemma": [
+        "G2474"
+      ],
+      "strongs": "G2474",
+      "morph": "robinson:N-GSM-L",
+      "translation": "of Israel",
+      "metadata": {},
+      "gematria": {
+        "standard": 349,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 17,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "οἶκον",
+      "lemma": null,
+      "morph": null,
+      "translation": "house",
+      "metadata": {},
+      "gematria": {
+        "standard": 220,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 19,
+      "text": "Ἰούδα",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Judah",
+      "metadata": {},
+      "gematria": {
+        "standard": 485,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 20,
+      "text": "διαθήκην",
+      "lemma": [
+        "G1242"
+      ],
+      "strongs": "G1242",
+      "morph": "robinson:N-ASF",
+      "translation": "a covenant",
+      "metadata": {},
+      "gematria": {
+        "standard": 110,
+        "ordinal": 59,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 21,
+      "text": "καινήν,",
+      "lemma": [
+        "G2537"
+      ],
+      "strongs": "G2537",
+      "morph": "robinson:A-ASF",
+      "translation": "new,",
+      "metadata": {},
+      "gematria": {
+        "standard": 139,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8419,
+    "ordinal": 1179,
+    "reduced": 540
+  }
+}

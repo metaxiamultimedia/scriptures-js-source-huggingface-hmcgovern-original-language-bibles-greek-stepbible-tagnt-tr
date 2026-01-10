@@ -1,0 +1,167 @@
+{
+  "text": "ὃς μὲν πιστεύει φαγεῖν πάντα, ὁ δὲ ἀσθενῶν λάχανα ἐσθίει.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ὃς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSM",
+      "translation": "One",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "μὲν",
+      "lemma": [
+        "G3303"
+      ],
+      "strongs": "G3303",
+      "morph": "robinson:PRT",
+      "translation": "indeed",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "πιστεύει",
+      "lemma": [
+        "G4100"
+      ],
+      "strongs": "G4100",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "believes",
+      "metadata": {},
+      "gematria": {
+        "standard": 1010,
+        "ordinal": 101,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 4,
+      "text": "φαγεῖν",
+      "lemma": [
+        "G5315"
+      ],
+      "strongs": "G5315",
+      "morph": "robinson:V-AAN",
+      "translation": "to eat",
+      "metadata": {},
+      "gematria": {
+        "standard": 569,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "πάντα,",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-APN",
+      "translation": "all things,",
+      "metadata": {},
+      "gematria": {
+        "standard": 432,
+        "ordinal": 50,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀσθενῶν",
+      "lemma": null,
+      "morph": null,
+      "translation": "being weak",
+      "metadata": {},
+      "gematria": {
+        "standard": 1115,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 9,
+      "text": "λάχανα",
+      "lemma": [
+        "G3001"
+      ],
+      "strongs": "G3001",
+      "morph": "robinson:N-APN",
+      "translation": "vegetables",
+      "metadata": {},
+      "gematria": {
+        "standard": 683,
+        "ordinal": 49,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐσθίει.",
+      "lemma": [
+        "G2068"
+      ],
+      "strongs": "G2068",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "eats.",
+      "metadata": {},
+      "gematria": {
+        "standard": 239,
+        "ordinal": 54,
+        "reduced": 45
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4492,
+    "ordinal": 475,
+    "reduced": 223
+  }
+}

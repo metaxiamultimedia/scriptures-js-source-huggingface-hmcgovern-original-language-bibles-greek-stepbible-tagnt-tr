@@ -1,0 +1,362 @@
+{
+  "text": "καὶ ἐπιθυμῶν χορτασθῆναι ἀπὸ τῶν ψιχίων τῶν πιπτόντων ἀπὸ τῆς τραπέζης τοῦ πλουσίου· ἀλλὰ καὶ οἱ κύνες ἐρχόμενοι ἐπέλειχον τὰ ἕλκη αὐτοῦ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐπιθυμῶν",
+      "lemma": [
+        "G1937"
+      ],
+      "strongs": "G1937",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "desiring",
+      "metadata": {},
+      "gematria": {
+        "standard": 1394,
+        "ordinal": 107,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 3,
+      "text": "χορτασθῆναι",
+      "lemma": [
+        "G5526"
+      ],
+      "strongs": "G5526",
+      "morph": "robinson:V-APN",
+      "translation": "to be fed",
+      "metadata": {},
+      "gematria": {
+        "standard": 1349,
+        "ordinal": 130,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "ψιχίων",
+      "lemma": [
+        "G5589"
+      ],
+      "strongs": "G5589",
+      "morph": "robinson:N-GPN",
+      "translation": "crumbs",
+      "metadata": {},
+      "gematria": {
+        "standard": 2170,
+        "ordinal": 100,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῶν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GPN",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 1150,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "πιπτόντων",
+      "lemma": [
+        "G4098"
+      ],
+      "strongs": "G4098",
+      "morph": "robinson:V-PAP-GPN",
+      "translation": "falling",
+      "metadata": {},
+      "gematria": {
+        "standard": 1740,
+        "ordinal": 144,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "from",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 11,
+      "text": "τραπέζης",
+      "lemma": [
+        "G5132"
+      ],
+      "strongs": "G5132",
+      "morph": "robinson:N-GSF",
+      "translation": "table",
+      "metadata": {},
+      "gematria": {
+        "standard": 701,
+        "ordinal": 89,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 12,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "πλουσίου·",
+      "lemma": [
+        "G4145"
+      ],
+      "strongs": "G4145",
+      "morph": "robinson:A-GSM",
+      "translation": "rich man;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1260,
+        "ordinal": 124,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἀλλὰ",
+      "lemma": [
+        "G235"
+      ],
+      "strongs": "G235",
+      "morph": "robinson:CONJ",
+      "translation": "but",
+      "metadata": {},
+      "gematria": {
+        "standard": 62,
+        "ordinal": 24,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 15,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "even",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 17,
+      "text": "κύνες",
+      "lemma": [
+        "G2965"
+      ],
+      "strongs": "G2965",
+      "morph": "robinson:N-NPM",
+      "translation": "dogs",
+      "metadata": {},
+      "gematria": {
+        "standard": 675,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐρχόμενοι",
+      "lemma": [
+        "G2064"
+      ],
+      "strongs": "G2064",
+      "morph": "robinson:V-PNP-NPM",
+      "translation": "coming",
+      "metadata": {},
+      "gematria": {
+        "standard": 950,
+        "ordinal": 113,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐπέλειχον",
+      "lemma": [
+        "G621"
+      ],
+      "strongs": "G621",
+      "morph": "robinson:V-IAI-3P",
+      "translation": "were licking",
+      "metadata": {},
+      "gematria": {
+        "standard": 855,
+        "ordinal": 101,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 20,
+      "text": "τὰ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APN",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 20,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἕλκη",
+      "lemma": [
+        "G1668"
+      ],
+      "strongs": "G1668",
+      "morph": "robinson:N-APN",
+      "translation": "sores",
+      "metadata": {},
+      "gematria": {
+        "standard": 63,
+        "ordinal": 33,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 22,
+      "text": "αὐτοῦ.",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 16713,
+    "ordinal": 1464,
+    "reduced": 537
+  }
+}

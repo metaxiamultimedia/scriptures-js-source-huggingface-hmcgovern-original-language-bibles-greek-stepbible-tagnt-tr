@@ -1,0 +1,283 @@
+{
+  "text": "καὶ προσῆλθον αὐτῷ Φαρισαῖοι πειράζοντες αὐτὸν καὶ λέγοντες εἰ ἔξεστιν ἀνθρώπῳ ἀπολῦσαι τὴν γυναῖκα αὐτοῦ κατὰ πᾶσαν αἰτίαν;",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "προσῆλθον",
+      "lemma": [
+        "G4334"
+      ],
+      "strongs": "G4334",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "came",
+      "metadata": {},
+      "gematria": {
+        "standard": 617,
+        "ordinal": 120,
+        "reduced": 57
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτῷ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "Φαρισαῖοι",
+      "lemma": [
+        "G5330"
+      ],
+      "strongs": "G5330",
+      "morph": "robinson:N-NPM-T",
+      "translation": "Pharisees",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 100,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 5,
+      "text": "πειράζοντες",
+      "lemma": null,
+      "morph": null,
+      "translation": "testing",
+      "metadata": {},
+      "gematria": {
+        "standard": 828,
+        "ordinal": 124,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 6,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "λέγοντες",
+      "lemma": null,
+      "morph": null,
+      "translation": "saying",
+      "metadata": {},
+      "gematria": {
+        "standard": 663,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 9,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "If",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἔξεστιν",
+      "lemma": [
+        "G1832"
+      ],
+      "strongs": "G1832",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is it lawful",
+      "metadata": {},
+      "gematria": {
+        "standard": 630,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἀνθρώπῳ",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-DSM",
+      "translation": "for a man",
+      "metadata": {},
+      "gematria": {
+        "standard": 1850,
+        "ordinal": 112,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀπολῦσαι",
+      "lemma": null,
+      "morph": null,
+      "translation": "to divorce",
+      "metadata": {},
+      "gematria": {
+        "standard": 792,
+        "ordinal": 91,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 13,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "γυναῖκα",
+      "lemma": null,
+      "morph": null,
+      "translation": "a wife",
+      "metadata": {},
+      "gematria": {
+        "standard": 485,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "αὐτοῦ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSM",
+      "translation": "of him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1171,
+        "ordinal": 75,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 16,
+      "text": "κατὰ",
+      "lemma": [
+        "G2596"
+      ],
+      "strongs": "G2596",
+      "morph": "robinson:PREP",
+      "translation": "for",
+      "metadata": {},
+      "gematria": {
+        "standard": 322,
+        "ordinal": 31,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 17,
+      "text": "πᾶσαν",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-ASF",
+      "translation": "every",
+      "metadata": {},
+      "gematria": {
+        "standard": 332,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 18,
+      "text": "αἰτίαν;",
+      "lemma": [
+        "G156"
+      ],
+      "strongs": "G156",
+      "morph": "robinson:N-ASF",
+      "translation": "cause?",
+      "metadata": {},
+      "gematria": {
+        "standard": 372,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11731,
+    "ordinal": 1217,
+    "reduced": 497
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "text": "ἐγένετο δὲ ἐν ταῖς ἡμέραις ἐκείναις ἀσθενήσασαν αὐτὴν ἀποθανεῖν· λούσαντες δὲ ἔθηκαν αὐτὴν ἐν ὑπερῴῳ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "It came to pass",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "ταῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 511,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
+      "text": "ἡμέραις",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-DPF",
+      "translation": "days",
+      "metadata": {},
+      "gematria": {
+        "standard": 364,
+        "ordinal": 69,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐκείναις",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-DPF",
+      "translation": "those",
+      "metadata": {},
+      "gematria": {
+        "standard": 301,
+        "ordinal": 70,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἀσθενήσασαν",
+      "lemma": null,
+      "morph": null,
+      "translation": "[that] having become sick",
+      "metadata": {},
+      "gematria": {
+        "standard": 725,
+        "ordinal": 103,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 8,
+      "text": "αὐτὴν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASF",
+      "translation": "she",
+      "metadata": {},
+      "gematria": {
+        "standard": 759,
+        "ordinal": 60,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἀποθανεῖν·",
+      "lemma": [
+        "G599"
+      ],
+      "strongs": "G599",
+      "morph": "robinson:V-2AAN",
+      "translation": "to die;",
+      "metadata": {},
+      "gematria": {
+        "standard": 276,
+        "ordinal": 81,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 10,
+      "text": "λούσαντες",
+      "lemma": [
+        "G3068"
+      ],
+      "strongs": "G3068",
+      "morph": "robinson:V-AAP-NPM",
+      "translation": "Having washed [her]",
+      "metadata": {},
+      "gematria": {
+        "standard": 1256,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 11,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἔθηκαν",
+      "lemma": [
+        "G5087"
+      ],
+      "strongs": "G5087",
+      "morph": "robinson:V-AAI-3P",
+      "translation": "put [her]",
+      "metadata": {},
+      "gematria": {
+        "standard": 93,
+        "ordinal": 44,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτὴν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASF",
+      "translation": "they",
+      "metadata": {},
+      "gematria": {
+        "standard": 759,
+        "ordinal": 60,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὑπερῴῳ.",
+      "lemma": [
+        "G5253"
+      ],
+      "strongs": "G5253",
+      "morph": "robinson:N-DSN",
+      "translation": "an upper room.",
+      "metadata": {},
+      "gematria": {
+        "standard": 2205,
+        "ordinal": 124,
+        "reduced": 52
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7815,
+    "ordinal": 897,
+    "reduced": 420
+  }
+}

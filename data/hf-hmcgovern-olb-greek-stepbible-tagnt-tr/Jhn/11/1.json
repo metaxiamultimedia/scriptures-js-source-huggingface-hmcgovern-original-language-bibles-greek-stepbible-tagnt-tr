@@ -1,0 +1,257 @@
+{
+  "text": "Ἦν δέ τις ἀσθενῶν, Λάζαρος ἀπὸ Βηθανίας ἐκ τῆς κώμης Μαρίας καὶ Μάρθας τῆς ἀδελφῆς αὐτῆς·",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "Was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "δέ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "τις",
+      "lemma": [
+        "G5100"
+      ],
+      "strongs": "G5100",
+      "morph": "robinson:X-NSM",
+      "translation": "a certain [man]",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀσθενῶν,",
+      "lemma": null,
+      "morph": null,
+      "translation": "ailing,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1115,
+        "ordinal": 82,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 5,
+      "text": "Λάζαρος",
+      "lemma": null,
+      "morph": null,
+      "translation": "Lazarus",
+      "metadata": {},
+      "gematria": {
+        "standard": 409,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἀπὸ",
+      "lemma": [
+        "G575"
+      ],
+      "strongs": "G575",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 151,
+        "ordinal": 32,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "Βηθανίας",
+      "lemma": [
+        "G963"
+      ],
+      "strongs": "G963",
+      "morph": "robinson:N-GSF-L",
+      "translation": "Bethany",
+      "metadata": {},
+      "gematria": {
+        "standard": 281,
+        "ordinal": 59,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 10,
+      "text": "κώμης",
+      "lemma": [
+        "G2968"
+      ],
+      "strongs": "G2968",
+      "morph": "robinson:N-GSF",
+      "translation": "village",
+      "metadata": {},
+      "gematria": {
+        "standard": 1068,
+        "ordinal": 71,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 11,
+      "text": "Μαρίας",
+      "lemma": null,
+      "morph": null,
+      "translation": "of Mary",
+      "metadata": {},
+      "gematria": {
+        "standard": 352,
+        "ordinal": 58,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 12,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 13,
+      "text": "Μάρθας",
+      "lemma": [
+        "G3136"
+      ],
+      "strongs": "G3136",
+      "morph": "robinson:N-GSF-P",
+      "translation": "Martha",
+      "metadata": {},
+      "gematria": {
+        "standard": 351,
+        "ordinal": 57,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 14,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀδελφῆς",
+      "lemma": [
+        "G79"
+      ],
+      "strongs": "G79",
+      "morph": "robinson:N-GSF",
+      "translation": "sister",
+      "metadata": {},
+      "gematria": {
+        "standard": 748,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 16,
+      "text": "αὐτῆς·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GSF",
+      "translation": "of her;",
+      "metadata": {},
+      "gematria": {
+        "standard": 909,
+        "ordinal": 65,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7033,
+    "ordinal": 758,
+    "reduced": 353
+  }
+}

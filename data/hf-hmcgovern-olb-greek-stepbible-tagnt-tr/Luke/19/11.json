@@ -1,0 +1,391 @@
+{
+  "text": "Ἀκουόντων δὲ αὐτῶν ταῦτα προσθεὶς εἶπεν παραβολὴν διὰ τὸ ἐγγὺς εἶναι Ἰερουσαλὴμ αὐτὸν καὶ δοκεῖν αὐτοὺς ὅτι παραχρῆμα μέλλει ἡ βασιλεία τοῦ θεοῦ ἀναφαίνεσθαι.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἀκουόντων",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-PAP-GPM",
+      "translation": "When are  hearing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1761,
+        "ordinal": 130,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "αὐτῶν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-GPM",
+      "translation": "they",
+      "metadata": {},
+      "gematria": {
+        "standard": 1551,
+        "ordinal": 77,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "ταῦτα",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-APN",
+      "translation": "these things",
+      "metadata": {},
+      "gematria": {
+        "standard": 1002,
+        "ordinal": 60,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "προσθεὶς",
+      "lemma": [
+        "G4369"
+      ],
+      "strongs": "G4369",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having proceeded",
+      "metadata": {},
+      "gematria": {
+        "standard": 674,
+        "ordinal": 106,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 6,
+      "text": "εἶπεν",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "He spoke",
+      "metadata": {},
+      "gematria": {
+        "standard": 150,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 7,
+      "text": "παραβολὴν",
+      "lemma": [
+        "G3850"
+      ],
+      "strongs": "G3850",
+      "morph": "robinson:N-ASF",
+      "translation": "a parable",
+      "metadata": {},
+      "gematria": {
+        "standard": 342,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 8,
+      "text": "διὰ",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "because",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "τὸ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASN",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 370,
+        "ordinal": 34,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἐγγὺς",
+      "lemma": [
+        "G1451"
+      ],
+      "strongs": "G1451",
+      "morph": "robinson:PREP",
+      "translation": "near",
+      "metadata": {},
+      "gematria": {
+        "standard": 611,
+        "ordinal": 49,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 11,
+      "text": "εἶναι",
+      "lemma": [
+        "G1511"
+      ],
+      "strongs": "G1511",
+      "morph": "robinson:V-PAN",
+      "translation": "being",
+      "metadata": {},
+      "gematria": {
+        "standard": 76,
+        "ordinal": 37,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 12,
+      "text": "Ἰερουσαλὴμ",
+      "lemma": [
+        "G2419"
+      ],
+      "strongs": "G2419",
+      "morph": "robinson:N-GSF-L",
+      "translation": "to Jerusalem",
+      "metadata": {},
+      "gematria": {
+        "standard": 864,
+        "ordinal": 115,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 13,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "He",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "δοκεῖν",
+      "lemma": [
+        "G1380"
+      ],
+      "strongs": "G1380",
+      "morph": "robinson:V-PAN",
+      "translation": "thinking",
+      "metadata": {},
+      "gematria": {
+        "standard": 159,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 16,
+      "text": "αὐτοὺς",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-APM",
+      "translation": "they",
+      "metadata": {},
+      "gematria": {
+        "standard": 1371,
+        "ordinal": 93,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 18,
+      "text": "παραχρῆμα",
+      "lemma": [
+        "G3916"
+      ],
+      "strongs": "G3916",
+      "morph": "robinson:ADV",
+      "translation": "immediately",
+      "metadata": {},
+      "gematria": {
+        "standard": 931,
+        "ordinal": 94,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 19,
+      "text": "μέλλει",
+      "lemma": [
+        "G3195"
+      ],
+      "strongs": "G3195",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is about",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 21,
+      "text": "βασιλεία",
+      "lemma": [
+        "G932"
+      ],
+      "strongs": "G932",
+      "morph": "robinson:N-NSF",
+      "translation": "kingdom",
+      "metadata": {},
+      "gematria": {
+        "standard": 259,
+        "ordinal": 56,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 22,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 23,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 24,
+      "text": "ἀναφαίνεσθαι.",
+      "lemma": [
+        "G398"
+      ],
+      "strongs": "G398",
+      "morph": "robinson:V-PPN",
+      "translation": "to appear.",
+      "metadata": {},
+      "gematria": {
+        "standard": 838,
+        "ordinal": 100,
+        "reduced": 55
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13597,
+    "ordinal": 1454,
+    "reduced": 599
+  }
+}

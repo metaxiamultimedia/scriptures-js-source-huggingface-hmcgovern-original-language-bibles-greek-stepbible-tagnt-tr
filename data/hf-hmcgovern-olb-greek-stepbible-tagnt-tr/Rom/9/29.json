@@ -1,0 +1,321 @@
+{
+  "text": "καὶ καθὼς προείρηκεν Ἠσαΐας· εἰ μὴ κύριος σαβαὼθ ἐγκατέλιπεν ἡμῖν σπέρμα, ὡς Σόδομα ἂν ἐγενήθημεν καὶ ὡς Γόμορρα ἂν ὡμοιώθημεν.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "καθὼς",
+      "lemma": [
+        "G2531"
+      ],
+      "strongs": "G2531",
+      "morph": "robinson:CONJ",
+      "translation": "even as",
+      "metadata": {},
+      "gematria": {
+        "standard": 1030,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 3,
+      "text": "προείρηκεν",
+      "lemma": [
+        "G4280"
+      ],
+      "strongs": "G4280",
+      "morph": "robinson:V-RAI-3S",
+      "translation": "has foretold",
+      "metadata": {},
+      "gematria": {
+        "standard": 448,
+        "ordinal": 114,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἠσαΐας·",
+      "lemma": [
+        "G2268"
+      ],
+      "strongs": "G2268",
+      "morph": "robinson:N-NSM-P",
+      "translation": "Isaiah:",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 54,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 5,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "only",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "unless",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "κύριος",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] Lord",
+      "metadata": {},
+      "gematria": {
+        "standard": 800,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 8,
+      "text": "σαβαὼθ",
+      "lemma": [
+        "G4519"
+      ],
+      "strongs": "G4519",
+      "morph": "robinson:N-GPM-T",
+      "translation": "of Hosts",
+      "metadata": {},
+      "gematria": {
+        "standard": 1013,
+        "ordinal": 54,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐγκατέλιπεν",
+      "lemma": [
+        "G1459"
+      ],
+      "strongs": "G1459",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "had left",
+      "metadata": {},
+      "gematria": {
+        "standard": 509,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἡμῖν",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DP",
+      "translation": "us",
+      "metadata": {},
+      "gematria": {
+        "standard": 108,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 11,
+      "text": "σπέρμα,",
+      "lemma": null,
+      "morph": null,
+      "translation": "descendants,",
+      "metadata": {},
+      "gematria": {
+        "standard": 426,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "like",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "Σόδομα",
+      "lemma": [
+        "G4670"
+      ],
+      "strongs": "G4670",
+      "morph": "robinson:N-NPN-L",
+      "translation": "Sodom",
+      "metadata": {},
+      "gematria": {
+        "standard": 385,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἂν",
+      "lemma": [
+        "G302"
+      ],
+      "strongs": "G302",
+      "morph": "robinson:PRT",
+      "translation": "then",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 14,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἐγενήθημεν",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2AOI-1P",
+      "translation": "we should have become",
+      "metadata": {},
+      "gematria": {
+        "standard": 183,
+        "ordinal": 78,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὡς",
+      "lemma": [
+        "G5613"
+      ],
+      "strongs": "G5613",
+      "morph": "robinson:PRT",
+      "translation": "like",
+      "metadata": {},
+      "gematria": {
+        "standard": 1000,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 18,
+      "text": "Γόμορρα",
+      "lemma": [
+        "G1116"
+      ],
+      "strongs": "G1116",
+      "morph": "robinson:N-NSF-L",
+      "translation": "Gomorrah",
+      "metadata": {},
+      "gematria": {
+        "standard": 384,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἂν",
+      "lemma": [
+        "G302"
+      ],
+      "strongs": "G302",
+      "morph": "robinson:PRT",
+      "translation": "then would",
+      "metadata": {},
+      "gematria": {
+        "standard": 51,
+        "ordinal": 14,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 20,
+      "text": "ὡμοιώθημεν.",
+      "lemma": [
+        "G3666"
+      ],
+      "strongs": "G3666",
+      "morph": "robinson:V-API-1P",
+      "translation": "we have been made.",
+      "metadata": {},
+      "gematria": {
+        "standard": 1832,
+        "ordinal": 129,
+        "reduced": 57
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 9765,
+    "ordinal": 1116,
+    "reduced": 540
+  }
+}

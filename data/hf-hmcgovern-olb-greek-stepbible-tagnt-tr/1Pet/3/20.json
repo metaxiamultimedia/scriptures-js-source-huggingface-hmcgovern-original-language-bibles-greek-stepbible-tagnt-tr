@@ -1,0 +1,340 @@
+{
+  "text": "ἀπειθήσασίν ποτε, ὅτε ἡ τοῦ θεοῦ μακροθυμία ἐν ἡμέραις Νῶε κατασκευαζομένης κιβωτοῦ, εἰς ἣν τοῦτ᾽ ἔστιν ὀκτὼ ψυχαί, διεσώθησαν δι᾽ ὕδατος·",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀπειθήσασίν",
+      "lemma": [
+        "G544"
+      ],
+      "strongs": "G544",
+      "morph": "robinson:V-AAP-DPN",
+      "translation": "having disobeyed",
+      "metadata": {},
+      "gematria": {
+        "standard": 574,
+        "ordinal": 105,
+        "reduced": 69
+      }
+    },
+    {
+      "position": 2,
+      "text": "ποτε,",
+      "lemma": [
+        "G4218"
+      ],
+      "strongs": "G4218",
+      "morph": "robinson:PRT",
+      "translation": "at one time,",
+      "metadata": {},
+      "gematria": {
+        "standard": 455,
+        "ordinal": 55,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὅτε",
+      "lemma": [
+        "G3753"
+      ],
+      "strongs": "G3753",
+      "morph": "robinson:CONJ",
+      "translation": "when",
+      "metadata": {},
+      "gematria": {
+        "standard": 375,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἡ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 8,
+        "ordinal": 7,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "θεοῦ",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of God",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
+      "text": "μακροθυμία",
+      "lemma": [
+        "G3115"
+      ],
+      "strongs": "G3115",
+      "morph": "robinson:N-NSF",
+      "translation": "longsuffering",
+      "metadata": {},
+      "gematria": {
+        "standard": 691,
+        "ordinal": 105,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἡμέραις",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-DPF",
+      "translation": "[the] days",
+      "metadata": {},
+      "gematria": {
+        "standard": 364,
+        "ordinal": 69,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 10,
+      "text": "Νῶε",
+      "lemma": [
+        "G3575"
+      ],
+      "strongs": "G3575",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of Noah",
+      "metadata": {},
+      "gematria": {
+        "standard": 855,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "κατασκευαζομένης",
+      "lemma": [
+        "G2680"
+      ],
+      "strongs": "G2680",
+      "morph": "robinson:V-PPP-GSF",
+      "translation": "when is being prepared",
+      "metadata": {},
+      "gematria": {
+        "standard": 1328,
+        "ordinal": 161,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 12,
+      "text": "κιβωτοῦ,",
+      "lemma": null,
+      "morph": null,
+      "translation": "[the] ark,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1602,
+        "ordinal": 99,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 13,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἣν",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-ASF",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "τοῦτ᾽",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSN",
+      "translation": "That",
+      "metadata": {},
+      "gematria": {
+        "standard": 1070,
+        "ordinal": 73,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἔστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 17,
+      "text": "ὀκτὼ",
+      "lemma": [
+        "G3638"
+      ],
+      "strongs": "G3638",
+      "morph": "robinson:A-NUI",
+      "translation": "eight",
+      "metadata": {},
+      "gematria": {
+        "standard": 1190,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 18,
+      "text": "ψυχαί,",
+      "lemma": null,
+      "morph": null,
+      "translation": "souls —",
+      "metadata": {},
+      "gematria": {
+        "standard": 1711,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 19,
+      "text": "διεσώθησαν",
+      "lemma": [
+        "G1295"
+      ],
+      "strongs": "G1295",
+      "morph": "robinson:V-API-3P",
+      "translation": "were saved",
+      "metadata": {},
+      "gematria": {
+        "standard": 1287,
+        "ordinal": 107,
+        "reduced": 62
+      }
+    },
+    {
+      "position": 20,
+      "text": "δι᾽",
+      "lemma": [
+        "G1223"
+      ],
+      "strongs": "G1223",
+      "morph": "robinson:PREP",
+      "translation": "through",
+      "metadata": {},
+      "gematria": {
+        "standard": 14,
+        "ordinal": 13,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 21,
+      "text": "ὕδατος·",
+      "lemma": [
+        "G5204"
+      ],
+      "strongs": "G5204",
+      "morph": "robinson:N-GSN",
+      "translation": "water;",
+      "metadata": {},
+      "gematria": {
+        "standard": 975,
+        "ordinal": 77,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 14646,
+    "ordinal": 1331,
+    "reduced": 539
+  }
+}

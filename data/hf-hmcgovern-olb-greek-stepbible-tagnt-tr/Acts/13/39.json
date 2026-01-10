@@ -1,0 +1,106 @@
+{
+  "text": "ἐν τούτῳ πᾶς ὁ πιστεύων δικαιοῦται.",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "(39) in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "τούτῳ",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-DSM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 1880,
+        "ordinal": 106,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 3,
+      "text": "πᾶς",
+      "lemma": [
+        "G3956"
+      ],
+      "strongs": "G3956",
+      "morph": "robinson:A-NSM",
+      "translation": "everyone",
+      "metadata": {},
+      "gematria": {
+        "standard": 281,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "πιστεύων",
+      "lemma": [
+        "G4100"
+      ],
+      "strongs": "G4100",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "is believing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1845,
+        "ordinal": 124,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 6,
+      "text": "δικαιοῦται.",
+      "lemma": [
+        "G1344"
+      ],
+      "strongs": "G1344",
+      "morph": "robinson:V-PPI-3S",
+      "translation": "is justified.",
+      "metadata": {},
+      "gematria": {
+        "standard": 826,
+        "ordinal": 97,
+        "reduced": 43
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4957,
+    "ordinal": 395,
+    "reduced": 143
+  }
+}

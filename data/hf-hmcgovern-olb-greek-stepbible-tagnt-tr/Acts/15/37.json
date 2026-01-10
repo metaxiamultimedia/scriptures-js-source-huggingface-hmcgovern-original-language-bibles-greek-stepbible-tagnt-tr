@@ -1,0 +1,129 @@
+{
+  "text": "Βαρναβᾶς δὲ συμπαραλαβεῖν τὸν Ἰωάννην τὸν καλούμενον Μᾶρκον·",
+  "words": [
+    {
+      "position": 1,
+      "text": "Βαρναβᾶς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Barnabas",
+      "metadata": {},
+      "gematria": {
+        "standard": 357,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "συμπαραλαβεῖν",
+      "lemma": [
+        "G4838"
+      ],
+      "strongs": "G4838",
+      "morph": "robinson:V-2AAN",
+      "translation": "to take along",
+      "metadata": {},
+      "gematria": {
+        "standard": 920,
+        "ordinal": 126,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 4,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "Ἰωάννην",
+      "lemma": null,
+      "morph": null,
+      "translation": "John",
+      "metadata": {},
+      "gematria": {
+        "standard": 969,
+        "ordinal": 80,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "who",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "καλούμενον",
+      "lemma": null,
+      "morph": null,
+      "translation": "is being called",
+      "metadata": {},
+      "gematria": {
+        "standard": 736,
+        "ordinal": 115,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "Μᾶρκον·",
+      "lemma": [
+        "G3138"
+      ],
+      "strongs": "G3138",
+      "morph": "robinson:N-ASM-P",
+      "translation": "Mark;",
+      "metadata": {},
+      "gematria": {
+        "standard": 281,
+        "ordinal": 68,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 4112,
+    "ordinal": 547,
+    "reduced": 205
+  }
+}

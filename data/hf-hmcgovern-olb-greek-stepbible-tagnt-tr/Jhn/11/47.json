@@ -1,0 +1,302 @@
+{
+  "text": "Συνήγαγον οὖν οἱ ἀρχιερεῖς καὶ οἱ Φαρισαῖοι συνέδριον καὶ ἔλεγον· τί ποιοῦμεν, ὅτι οὗτος ὁ ἄνθρωπος πολλὰ ποιεῖ σημεῖα;",
+  "words": [
+    {
+      "position": 1,
+      "text": "Συνήγαγον",
+      "lemma": [
+        "G4863"
+      ],
+      "strongs": "G4863",
+      "morph": "robinson:V-2AAI-3P",
+      "translation": "Gathered",
+      "metadata": {},
+      "gematria": {
+        "standard": 785,
+        "ordinal": 93,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 2,
+      "text": "οὖν",
+      "lemma": [
+        "G3767"
+      ],
+      "strongs": "G3767",
+      "morph": "robinson:CONJ",
+      "translation": "therefore",
+      "metadata": {},
+      "gematria": {
+        "standard": 520,
+        "ordinal": 48,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 3,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀρχιερεῖς",
+      "lemma": [
+        "G749"
+      ],
+      "strongs": "G749",
+      "morph": "robinson:N-NPM",
+      "translation": "chief priests",
+      "metadata": {},
+      "gematria": {
+        "standard": 1031,
+        "ordinal": 103,
+        "reduced": 58
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "οἱ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NPM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 80,
+        "ordinal": 24,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "Φαρισαῖοι",
+      "lemma": [
+        "G5330"
+      ],
+      "strongs": "G5330",
+      "morph": "robinson:N-NPM-T",
+      "translation": "Pharisees",
+      "metadata": {},
+      "gematria": {
+        "standard": 902,
+        "ordinal": 100,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 8,
+      "text": "συνέδριον",
+      "lemma": [
+        "G4892"
+      ],
+      "strongs": "G4892",
+      "morph": "robinson:N-ASN",
+      "translation": "a council",
+      "metadata": {},
+      "gematria": {
+        "standard": 889,
+        "ordinal": 114,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἔλεγον·",
+      "lemma": null,
+      "morph": null,
+      "translation": "they were saying;",
+      "metadata": {},
+      "gematria": {
+        "standard": 163,
+        "ordinal": 52,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 11,
+      "text": "τί",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-ASN",
+      "translation": "What",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "ποιοῦμεν,",
+      "lemma": null,
+      "morph": null,
+      "translation": "are we to do?",
+      "metadata": {},
+      "gematria": {
+        "standard": 725,
+        "ordinal": 105,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "For",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "οὗτος",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSM",
+      "translation": "this",
+      "metadata": {},
+      "gematria": {
+        "standard": 1040,
+        "ordinal": 87,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἄνθρωπος",
+      "lemma": [
+        "G444"
+      ],
+      "strongs": "G444",
+      "morph": "robinson:N-NSM",
+      "translation": "man",
+      "metadata": {},
+      "gematria": {
+        "standard": 1310,
+        "ordinal": 112,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 17,
+      "text": "πολλὰ",
+      "lemma": [
+        "G4183"
+      ],
+      "strongs": "G4183",
+      "morph": "robinson:A-APN",
+      "translation": "many",
+      "metadata": {},
+      "gematria": {
+        "standard": 211,
+        "ordinal": 54,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 18,
+      "text": "ποιεῖ",
+      "lemma": null,
+      "morph": null,
+      "translation": "does",
+      "metadata": {},
+      "gematria": {
+        "standard": 175,
+        "ordinal": 54,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 19,
+      "text": "σημεῖα;",
+      "lemma": [
+        "G4592"
+      ],
+      "strongs": "G4592",
+      "morph": "robinson:N-APN",
+      "translation": "signs!",
+      "metadata": {},
+      "gematria": {
+        "standard": 264,
+        "ordinal": 52,
+        "reduced": 34
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8997,
+    "ordinal": 1148,
+    "reduced": 527
+  }
+}

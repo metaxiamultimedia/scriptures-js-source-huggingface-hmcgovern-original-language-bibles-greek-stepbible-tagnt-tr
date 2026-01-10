@@ -1,0 +1,359 @@
+{
+  "text": "ἀκούσατε, ἀδελφοί μου ἀγαπητοί, οὐχ ὁ θεὸς ἐξελέξατο τοὺς πτωχοὺς πλουσίους ἐν πίστει καὶ κληρονόμους τῆς βασιλείας ἧς ἐπηγγείλατο τοῖς ἀγαπῶσιν αὐτόν;",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἀκούσατε,",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-AAM-2P",
+      "translation": "do listen,",
+      "metadata": {},
+      "gematria": {
+        "standard": 997,
+        "ordinal": 89,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀδελφοί",
+      "lemma": [
+        "G80"
+      ],
+      "strongs": "G80",
+      "morph": "robinson:N-VPM",
+      "translation": "brothers",
+      "metadata": {},
+      "gematria": {
+        "standard": 620,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "μου",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1GS",
+      "translation": "of mine",
+      "metadata": {},
+      "gematria": {
+        "standard": 510,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀγαπητοί,",
+      "lemma": [
+        "G27"
+      ],
+      "strongs": "G27",
+      "morph": "robinson:A-VPM",
+      "translation": "beloved,",
+      "metadata": {},
+      "gematria": {
+        "standard": 473,
+        "ordinal": 71,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "οὐχ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "Not",
+      "metadata": {},
+      "gematria": {
+        "standard": 1070,
+        "ordinal": 57,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 7,
+      "text": "θεὸς",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-NSM-T",
+      "translation": "God",
+      "metadata": {},
+      "gematria": {
+        "standard": 284,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐξελέξατο",
+      "lemma": [
+        "G1586"
+      ],
+      "strongs": "G1586",
+      "morph": "robinson:V-AMI-3S",
+      "translation": "has chosen",
+      "metadata": {},
+      "gematria": {
+        "standard": 536,
+        "ordinal": 89,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 9,
+      "text": "τοὺς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 970,
+        "ordinal": 72,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 10,
+      "text": "πτωχοὺς",
+      "lemma": [
+        "G4434"
+      ],
+      "strongs": "G4434",
+      "morph": "robinson:N-APM",
+      "translation": "poor",
+      "metadata": {},
+      "gematria": {
+        "standard": 2450,
+        "ordinal": 134,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 11,
+      "text": "πλουσίους",
+      "lemma": [
+        "G4145"
+      ],
+      "strongs": "G4145",
+      "morph": "robinson:A-APM",
+      "translation": "[to be] rich",
+      "metadata": {},
+      "gematria": {
+        "standard": 1460,
+        "ordinal": 142,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "πίστει",
+      "lemma": null,
+      "morph": null,
+      "translation": "faith",
+      "metadata": {},
+      "gematria": {
+        "standard": 605,
+        "ordinal": 76,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 14,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "κληρονόμους",
+      "lemma": [
+        "G2818"
+      ],
+      "strongs": "G2818",
+      "morph": "robinson:N-APM",
+      "translation": "heirs",
+      "metadata": {},
+      "gematria": {
+        "standard": 1058,
+        "ordinal": 153,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 16,
+      "text": "τῆς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSF",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 508,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 17,
+      "text": "βασιλείας",
+      "lemma": [
+        "G932"
+      ],
+      "strongs": "G932",
+      "morph": "robinson:N-GSF",
+      "translation": "kingdom",
+      "metadata": {},
+      "gematria": {
+        "standard": 459,
+        "ordinal": 74,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἧς",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-GSF",
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 208,
+        "ordinal": 25,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 19,
+      "text": "ἐπηγγείλατο",
+      "lemma": [
+        "G1861"
+      ],
+      "strongs": "G1861",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "He promised",
+      "metadata": {},
+      "gematria": {
+        "standard": 515,
+        "ordinal": 94,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 20,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "to those",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἀγαπῶσιν",
+      "lemma": [
+        "G25"
+      ],
+      "strongs": "G25",
+      "morph": "robinson:V-PAP-DPM",
+      "translation": "loving",
+      "metadata": {},
+      "gematria": {
+        "standard": 1145,
+        "ordinal": 85,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 22,
+      "text": "αὐτόν;",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him?",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15425,
+    "ordinal": 1546,
+    "reduced": 610
+  }
+}

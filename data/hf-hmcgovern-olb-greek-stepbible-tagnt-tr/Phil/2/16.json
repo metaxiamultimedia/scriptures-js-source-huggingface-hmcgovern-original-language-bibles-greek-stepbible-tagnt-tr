@@ -1,0 +1,295 @@
+{
+  "text": "λόγον ζωῆς ἐπέχοντες, εἰς καύχημα ἐμοὶ εἰς ἡμέραν Χριστοῦ, ὅτι οὐκ εἰς κενὸν ἔδραμον, οὐδὲ εἰς κενὸν ἐκοπίασα.",
+  "words": [
+    {
+      "position": 1,
+      "text": "λόγον",
+      "lemma": [
+        "G3056"
+      ],
+      "strongs": "G3056",
+      "morph": "robinson:N-ASM",
+      "translation": "[the] word",
+      "metadata": {},
+      "gematria": {
+        "standard": 223,
+        "ordinal": 57,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "ζωῆς",
+      "lemma": [
+        "G2222"
+      ],
+      "strongs": "G2222",
+      "morph": "robinson:N-GSF",
+      "translation": "of life",
+      "metadata": {},
+      "gematria": {
+        "standard": 1015,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐπέχοντες,",
+      "lemma": [
+        "G1907"
+      ],
+      "strongs": "G1907",
+      "morph": "robinson:V-PAP-NPM",
+      "translation": "holding forth,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1315,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 4,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "unto",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "καύχημα",
+      "lemma": [
+        "G2745"
+      ],
+      "strongs": "G2745",
+      "morph": "robinson:N-ASN",
+      "translation": "a boast",
+      "metadata": {},
+      "gematria": {
+        "standard": 1070,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐμοὶ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1DS",
+      "translation": "to me myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 125,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἡμέραν",
+      "lemma": [
+        "G2250"
+      ],
+      "strongs": "G2250",
+      "morph": "robinson:N-ASF",
+      "translation": "[the] day",
+      "metadata": {},
+      "gematria": {
+        "standard": 204,
+        "ordinal": 55,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 9,
+      "text": "Χριστοῦ,",
+      "lemma": [
+        "G5547"
+      ],
+      "strongs": "G5547",
+      "morph": "robinson:N-GSM-T",
+      "translation": "of Christ",
+      "metadata": {},
+      "gematria": {
+        "standard": 1680,
+        "ordinal": 120,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 10,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "οὐκ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 490,
+        "ordinal": 45,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 13,
+      "text": "κενὸν",
+      "lemma": [
+        "G2756"
+      ],
+      "strongs": "G2756",
+      "morph": "robinson:A-ASN",
+      "translation": "vain",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἔδραμον,",
+      "lemma": [
+        "G5143"
+      ],
+      "strongs": "G5143",
+      "morph": "robinson:V-2AAI-1S",
+      "translation": "I did run",
+      "metadata": {},
+      "gematria": {
+        "standard": 270,
+        "ordinal": 67,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 15,
+      "text": "οὐδὲ",
+      "lemma": [
+        "G3761"
+      ],
+      "strongs": "G3761",
+      "morph": "robinson:CONJ-N",
+      "translation": "nor",
+      "metadata": {},
+      "gematria": {
+        "standard": 479,
+        "ordinal": 44,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 16,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 17,
+      "text": "κενὸν",
+      "lemma": [
+        "G2756"
+      ],
+      "strongs": "G2756",
+      "morph": "robinson:A-ASN",
+      "translation": "vain",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 18,
+      "text": "ἐκοπίασα.",
+      "lemma": [
+        "G2872"
+      ],
+      "strongs": "G2872",
+      "morph": "robinson:V-AAI-1S",
+      "translation": "toil.",
+      "metadata": {},
+      "gematria": {
+        "standard": 387,
+        "ordinal": 75,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 8888,
+    "ordinal": 1033,
+    "reduced": 448
+  }
+}

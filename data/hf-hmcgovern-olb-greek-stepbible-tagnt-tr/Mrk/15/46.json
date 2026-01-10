@@ -1,0 +1,426 @@
+{
+  "text": "καὶ ἀγοράσας σινδόνα, καθελὼν αὐτὸν ἐνείλησεν τῇ σινδόνι καὶ ἔθηκεν αὐτὸν ἐν μνημείῳ ὃ ἦν λελατομημένον ἐκ πέτρας καὶ προσεκύλισεν λίθον ἐπὶ τὴν θύραν τοῦ μνημείου.",
+  "words": [
+    {
+      "position": 1,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἀγοράσας",
+      "lemma": [
+        "G59"
+      ],
+      "strongs": "G59",
+      "morph": "robinson:V-AAP-NSM",
+      "translation": "having bought",
+      "metadata": {},
+      "gematria": {
+        "standard": 576,
+        "ordinal": 74,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 3,
+      "text": "σινδόνα,",
+      "lemma": [
+        "G4616"
+      ],
+      "strongs": "G4616",
+      "morph": "robinson:N-ASF",
+      "translation": "a linen cloth,",
+      "metadata": {},
+      "gematria": {
+        "standard": 385,
+        "ordinal": 73,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 4,
+      "text": "καθελὼν",
+      "lemma": [
+        "G2507"
+      ],
+      "strongs": "G2507",
+      "morph": "robinson:V-2AAP-NSM",
+      "translation": "having taken down",
+      "metadata": {},
+      "gematria": {
+        "standard": 915,
+        "ordinal": 72,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 5,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "ἐνείλησεν",
+      "lemma": [
+        "G1750"
+      ],
+      "strongs": "G1750",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he wrapped [Him]",
+      "metadata": {},
+      "gematria": {
+        "standard": 363,
+        "ordinal": 86,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 7,
+      "text": "τῇ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DSF",
+      "translation": "in the",
+      "metadata": {},
+      "gematria": {
+        "standard": 318,
+        "ordinal": 35,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "σινδόνι",
+      "lemma": [
+        "G4616"
+      ],
+      "strongs": "G4616",
+      "morph": "robinson:N-DSF",
+      "translation": "linen cloth",
+      "metadata": {},
+      "gematria": {
+        "standard": 394,
+        "ordinal": 81,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 9,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "ἔθηκεν",
+      "lemma": [
+        "G5087"
+      ],
+      "strongs": "G5087",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he laid",
+      "metadata": {},
+      "gematria": {
+        "standard": 97,
+        "ordinal": 48,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 11,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "μνημείῳ",
+      "lemma": [
+        "G3419"
+      ],
+      "strongs": "G3419",
+      "morph": "robinson:N-DSN",
+      "translation": "a grave",
+      "metadata": {},
+      "gematria": {
+        "standard": 963,
+        "ordinal": 91,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 14,
+      "text": "ὃ",
+      "lemma": [
+        "G3739"
+      ],
+      "strongs": "G3739",
+      "morph": "robinson:R-NSN",
+      "translation": "which",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "λελατομημένον",
+      "lemma": [
+        "G2998"
+      ],
+      "strongs": "G2998",
+      "morph": "robinson:V-RPP-NSN",
+      "translation": "cut",
+      "metadata": {},
+      "gematria": {
+        "standard": 699,
+        "ordinal": 139,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 17,
+      "text": "ἐκ",
+      "lemma": [
+        "G1537"
+      ],
+      "strongs": "G1537",
+      "morph": "robinson:PREP",
+      "translation": "out of",
+      "metadata": {},
+      "gematria": {
+        "standard": 25,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 18,
+      "text": "πέτρας",
+      "lemma": [
+        "G4073"
+      ],
+      "strongs": "G4073",
+      "morph": "robinson:N-GSF",
+      "translation": "a rock",
+      "metadata": {},
+      "gematria": {
+        "standard": 686,
+        "ordinal": 76,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 19,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "And",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "προσεκύλισεν",
+      "lemma": [
+        "G4351"
+      ],
+      "strongs": "G4351",
+      "morph": "robinson:V-AAI-3S",
+      "translation": "he rolled",
+      "metadata": {},
+      "gematria": {
+        "standard": 1170,
+        "ordinal": 157,
+        "reduced": 67
+      }
+    },
+    {
+      "position": 21,
+      "text": "λίθον",
+      "lemma": [
+        "G3037"
+      ],
+      "strongs": "G3037",
+      "morph": "robinson:N-ASM",
+      "translation": "a stone",
+      "metadata": {},
+      "gematria": {
+        "standard": 169,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 22,
+      "text": "ἐπὶ",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "to",
+      "metadata": {},
+      "gematria": {
+        "standard": 95,
+        "ordinal": 30,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 23,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 24,
+      "text": "θύραν",
+      "lemma": [
+        "G2374"
+      ],
+      "strongs": "G2374",
+      "morph": "robinson:N-ASF",
+      "translation": "door",
+      "metadata": {},
+      "gematria": {
+        "standard": 560,
+        "ordinal": 59,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 25,
+      "text": "τοῦ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-GSN",
+      "translation": "of the",
+      "metadata": {},
+      "gematria": {
+        "standard": 770,
+        "ordinal": 54,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 26,
+      "text": "μνημείου.",
+      "lemma": [
+        "G3419"
+      ],
+      "strongs": "G3419",
+      "morph": "robinson:N-GSN",
+      "translation": "tomb.",
+      "metadata": {},
+      "gematria": {
+        "standard": 623,
+        "ordinal": 93,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 11084,
+    "ordinal": 1527,
+    "reduced": 663
+  }
+}

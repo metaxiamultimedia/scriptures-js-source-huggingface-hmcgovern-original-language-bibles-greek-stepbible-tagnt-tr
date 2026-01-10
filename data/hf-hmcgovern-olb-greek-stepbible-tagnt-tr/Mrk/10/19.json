@@ -1,0 +1,330 @@
+{
+  "text": "τὰς ἐντολὰς οἶδας· μὴ φονεύσῃς, μὴ μοιχεύσῃς, μὴ κλέψῃς, μὴ ψευδομαρτυρήσῃς, μὴ ἀποστερήσῃς, τίμα τὸν πατέρα σου καὶ τὴν μητέρα.",
+  "words": [
+    {
+      "position": 1,
+      "text": "τὰς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-APF",
+      "translation": "The",
+      "metadata": {},
+      "gematria": {
+        "standard": 501,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἐντολὰς",
+      "lemma": [
+        "G1785"
+      ],
+      "strongs": "G1785",
+      "morph": "robinson:N-APF",
+      "translation": "commandments",
+      "metadata": {},
+      "gematria": {
+        "standard": 656,
+        "ordinal": 82,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "οἶδας·",
+      "lemma": [
+        "G6063"
+      ],
+      "strongs": "G6063",
+      "morph": "robinson:V-RAI-2S",
+      "translation": "you know:",
+      "metadata": {},
+      "gematria": {
+        "standard": 285,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "Not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "φονεύσῃς,",
+      "lemma": [
+        "G5407"
+      ],
+      "strongs": "G5407",
+      "morph": "robinson:V-AAS-2S",
+      "translation": "shall you murder",
+      "metadata": {},
+      "gematria": {
+        "standard": 1443,
+        "ordinal": 126,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 6,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "μοιχεύσῃς,",
+      "lemma": [
+        "G3431"
+      ],
+      "strongs": "G3431",
+      "morph": "robinson:V-AAS-2S",
+      "translation": "shall you commit adultery",
+      "metadata": {},
+      "gematria": {
+        "standard": 1543,
+        "ordinal": 135,
+        "reduced": 63
+      }
+    },
+    {
+      "position": 8,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "κλέψῃς,",
+      "lemma": [
+        "G2813"
+      ],
+      "strongs": "G2813",
+      "morph": "robinson:V-AAS-2S",
+      "translation": "shall you steal,",
+      "metadata": {},
+      "gematria": {
+        "standard": 973,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 10,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "ψευδομαρτυρήσῃς,",
+      "lemma": [
+        "G5576"
+      ],
+      "strongs": "G5576",
+      "morph": "robinson:V-AAS-2S",
+      "translation": "shall you bear false witness,",
+      "metadata": {},
+      "gematria": {
+        "standard": 2546,
+        "ordinal": 212,
+        "reduced": 86
+      }
+    },
+    {
+      "position": 12,
+      "text": "μὴ",
+      "lemma": [
+        "G3361"
+      ],
+      "strongs": "G3361",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 48,
+        "ordinal": 19,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἀποστερήσῃς,",
+      "lemma": [
+        "G650"
+      ],
+      "strongs": "G650",
+      "morph": "robinson:V-AAS-2S",
+      "translation": "shall you defraud,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1182,
+        "ordinal": 150,
+        "reduced": 78
+      }
+    },
+    {
+      "position": 14,
+      "text": "τίμα",
+      "lemma": [
+        "G5091"
+      ],
+      "strongs": "G5091",
+      "morph": "robinson:V-PAM-2S",
+      "translation": "do honor",
+      "metadata": {},
+      "gematria": {
+        "standard": 351,
+        "ordinal": 41,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 15,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "πατέρα",
+      "lemma": [
+        "G3962"
+      ],
+      "strongs": "G3962",
+      "morph": "robinson:N-ASM",
+      "translation": "father",
+      "metadata": {},
+      "gematria": {
+        "standard": 487,
+        "ordinal": 59,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 17,
+      "text": "σου",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2GS",
+      "translation": "of you",
+      "metadata": {},
+      "gematria": {
+        "standard": 670,
+        "ordinal": 53,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 20,
+      "text": "μητέρα.",
+      "lemma": [
+        "G3384"
+      ],
+      "strongs": "G3384",
+      "morph": "robinson:N-ASF",
+      "translation": "mother.’",
+      "metadata": {},
+      "gematria": {
+        "standard": 454,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12140,
+    "ordinal": 1288,
+    "reduced": 550
+  }
+}

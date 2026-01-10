@@ -1,0 +1,106 @@
+{
+  "text": "Ἀκούετε. Ἰδοὺ ἐξῆλθεν ὁ σπείρων σπεῖραι·",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἀκούετε.",
+      "lemma": [
+        "G191"
+      ],
+      "strongs": "G191",
+      "morph": "robinson:V-PAM-2P",
+      "translation": "do listen!",
+      "metadata": {},
+      "gematria": {
+        "standard": 801,
+        "ordinal": 75,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "Ἰδοὺ",
+      "lemma": [
+        "G2400"
+      ],
+      "strongs": "G2400",
+      "morph": "robinson:INJ",
+      "translation": "Behold",
+      "metadata": {},
+      "gematria": {
+        "standard": 484,
+        "ordinal": 48,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐξῆλθεν",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-2AAI-3S",
+      "translation": "went out",
+      "metadata": {},
+      "gematria": {
+        "standard": 167,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 4,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 5,
+      "text": "σπείρων",
+      "lemma": [
+        "G4687"
+      ],
+      "strongs": "G4687",
+      "morph": "robinson:V-PAP-NSM",
+      "translation": "sowing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1245,
+        "ordinal": 102,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 6,
+      "text": "σπεῖραι·",
+      "lemma": [
+        "G4687"
+      ],
+      "strongs": "G4687",
+      "morph": "robinson:V-AAN",
+      "translation": "to sow;",
+      "metadata": {},
+      "gematria": {
+        "standard": 406,
+        "ordinal": 75,
+        "reduced": 48
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3173,
+    "ordinal": 378,
+    "reduced": 180
+  }
+}

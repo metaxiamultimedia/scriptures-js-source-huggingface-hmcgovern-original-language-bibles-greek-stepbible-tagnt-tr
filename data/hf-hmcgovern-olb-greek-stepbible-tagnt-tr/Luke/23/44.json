@@ -1,0 +1,231 @@
+{
+  "text": "ἦν ὡσεὶ ὥρα ἕκτη, καὶ σκότος ἐγένετο ἐφ᾽ ὅλην τὴν γῆν ἕως ὥρας ἐνάτης",
+  "words": [
+    {
+      "position": 1,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "it was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "ὡσεὶ",
+      "lemma": [
+        "G5616"
+      ],
+      "strongs": "G5616",
+      "morph": "robinson:PREP",
+      "translation": "about",
+      "metadata": {},
+      "gematria": {
+        "standard": 1015,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὥρα",
+      "lemma": [
+        "G5610"
+      ],
+      "strongs": "G5610",
+      "morph": "robinson:N-NSF",
+      "translation": "[the] hour",
+      "metadata": {},
+      "gematria": {
+        "standard": 901,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἕκτη,",
+      "lemma": [
+        "G1623"
+      ],
+      "strongs": "G1623",
+      "morph": "robinson:A-NSF",
+      "translation": "sixth,",
+      "metadata": {},
+      "gematria": {
+        "standard": 333,
+        "ordinal": 41,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "σκότος",
+      "lemma": [
+        "G4655"
+      ],
+      "strongs": "G4655",
+      "morph": "robinson:N-NSN",
+      "translation": "darkness",
+      "metadata": {},
+      "gematria": {
+        "standard": 860,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 7,
+      "text": "ἐγένετο",
+      "lemma": [
+        "G1096"
+      ],
+      "strongs": "G1096",
+      "morph": "robinson:V-2ADI-3S",
+      "translation": "came",
+      "metadata": {},
+      "gematria": {
+        "standard": 438,
+        "ordinal": 65,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἐφ᾽",
+      "lemma": [
+        "G1909"
+      ],
+      "strongs": "G1909",
+      "morph": "robinson:PREP",
+      "translation": "over",
+      "metadata": {},
+      "gematria": {
+        "standard": 505,
+        "ordinal": 26,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὅλην",
+      "lemma": [
+        "G3650"
+      ],
+      "strongs": "G3650",
+      "morph": "robinson:A-ASF",
+      "translation": "all",
+      "metadata": {},
+      "gematria": {
+        "standard": 158,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 10,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
+      "text": "γῆν",
+      "lemma": null,
+      "morph": null,
+      "translation": "land",
+      "metadata": {},
+      "gematria": {
+        "standard": 61,
+        "ordinal": 23,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἕως",
+      "lemma": [
+        "G2193"
+      ],
+      "strongs": "G2193",
+      "morph": "robinson:PREP",
+      "translation": "until",
+      "metadata": {},
+      "gematria": {
+        "standard": 1005,
+        "ordinal": 47,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 13,
+      "text": "ὥρας",
+      "lemma": [
+        "G5610"
+      ],
+      "strongs": "G5610",
+      "morph": "robinson:N-GSF",
+      "translation": "[the] hour",
+      "metadata": {},
+      "gematria": {
+        "standard": 1101,
+        "ordinal": 60,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐνάτης",
+      "lemma": [
+        "G1766"
+      ],
+      "strongs": "G1766",
+      "morph": "robinson:A-GSF",
+      "translation": "ninth",
+      "metadata": {},
+      "gematria": {
+        "standard": 564,
+        "ordinal": 63,
+        "reduced": 27
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 7388,
+    "ordinal": 643,
+    "reduced": 265
+  }
+}

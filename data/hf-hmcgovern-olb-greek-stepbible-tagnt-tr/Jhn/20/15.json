@@ -1,0 +1,453 @@
+{
+  "text": "λέγει αὐτῇ Ἰησοῦς· γύναι, τί κλαίεις; τίνα ζητεῖς; ἐκείνη δοκοῦσα ὅτι ὁ κηπουρός ἐστιν λέγει αὐτῷ· κύριε, εἰ σὺ ἐβάστασας αὐτόν, εἰπέ μοι ποῦ ἔθηκας αὐτόν, κἀγὼ αὐτὸν ἀρῶ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "λέγει",
+      "lemma": null,
+      "morph": null,
+      "translation": "Says",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "αὐτῇ",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSF",
+      "translation": "to her",
+      "metadata": {},
+      "gematria": {
+        "standard": 719,
+        "ordinal": 56,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 3,
+      "text": "Ἰησοῦς·",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus;",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 4,
+      "text": "γύναι,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Woman,",
+      "metadata": {},
+      "gematria": {
+        "standard": 464,
+        "ordinal": 46,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 5,
+      "text": "τί",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-ASN",
+      "translation": "why",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "κλαίεις;",
+      "lemma": [
+        "G2799"
+      ],
+      "strongs": "G2799",
+      "morph": "robinson:V-PAI-2S",
+      "translation": "do you weep?",
+      "metadata": {},
+      "gematria": {
+        "standard": 276,
+        "ordinal": 63,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 7,
+      "text": "τίνα",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-ASM",
+      "translation": "Whom",
+      "metadata": {},
+      "gematria": {
+        "standard": 361,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "ζητεῖς;",
+      "lemma": [
+        "G2212"
+      ],
+      "strongs": "G2212",
+      "morph": "robinson:V-PAI-2S",
+      "translation": "do you seek?",
+      "metadata": {},
+      "gematria": {
+        "standard": 530,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 9,
+      "text": "ἐκείνη",
+      "lemma": [
+        "G1565"
+      ],
+      "strongs": "G1565",
+      "morph": "robinson:D-NSF",
+      "translation": "She",
+      "metadata": {},
+      "gematria": {
+        "standard": 98,
+        "ordinal": 49,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 10,
+      "text": "δοκοῦσα",
+      "lemma": [
+        "G1380"
+      ],
+      "strongs": "G1380",
+      "morph": "robinson:V-PAP-NSF",
+      "translation": "thinking",
+      "metadata": {},
+      "gematria": {
+        "standard": 765,
+        "ordinal": 83,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 11,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 13,
+      "text": "κηπουρός",
+      "lemma": [
+        "G2780"
+      ],
+      "strongs": "G2780",
+      "morph": "robinson:N-NSM",
+      "translation": "gardener",
+      "metadata": {},
+      "gematria": {
+        "standard": 948,
+        "ordinal": 118,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἐστιν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-PAI-3S",
+      "translation": "He is",
+      "metadata": {},
+      "gematria": {
+        "standard": 565,
+        "ordinal": 64,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 15,
+      "text": "λέγει",
+      "lemma": null,
+      "morph": null,
+      "translation": "she says",
+      "metadata": {},
+      "gematria": {
+        "standard": 53,
+        "ordinal": 33,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 16,
+      "text": "αὐτῷ·",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-DSM",
+      "translation": "to Him;",
+      "metadata": {},
+      "gematria": {
+        "standard": 1511,
+        "ordinal": 73,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 17,
+      "text": "κύριε,",
+      "lemma": null,
+      "morph": null,
+      "translation": "Sir,",
+      "metadata": {},
+      "gematria": {
+        "standard": 535,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 18,
+      "text": "εἰ",
+      "lemma": null,
+      "morph": null,
+      "translation": "if",
+      "metadata": {},
+      "gematria": {
+        "standard": 15,
+        "ordinal": 14,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 19,
+      "text": "σὺ",
+      "lemma": [
+        "G4771"
+      ],
+      "strongs": "G4771",
+      "morph": "robinson:P-2NS",
+      "translation": "you yourself",
+      "metadata": {},
+      "gematria": {
+        "standard": 600,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἐβάστασας",
+      "lemma": [
+        "G941"
+      ],
+      "strongs": "G941",
+      "morph": "robinson:V-AAI-2S",
+      "translation": "carried off",
+      "metadata": {},
+      "gematria": {
+        "standard": 910,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 21,
+      "text": "αὐτόν,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 22,
+      "text": "εἰπέ",
+      "lemma": [
+        "G2036"
+      ],
+      "strongs": "G2036",
+      "morph": "robinson:V-2AAM-2S",
+      "translation": "do tell",
+      "metadata": {},
+      "gematria": {
+        "standard": 100,
+        "ordinal": 35,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 23,
+      "text": "μοι",
+      "lemma": [
+        "G3165"
+      ],
+      "strongs": "G3165",
+      "morph": "robinson:P-1DS",
+      "translation": "me",
+      "metadata": {},
+      "gematria": {
+        "standard": 120,
+        "ordinal": 36,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 24,
+      "text": "ποῦ",
+      "lemma": [
+        "G4226"
+      ],
+      "strongs": "G4226",
+      "morph": "robinson:ADV-I",
+      "translation": "where",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 25,
+      "text": "ἔθηκας",
+      "lemma": [
+        "G5087"
+      ],
+      "strongs": "G5087",
+      "morph": "robinson:V-AAI-2S",
+      "translation": "you have laid",
+      "metadata": {},
+      "gematria": {
+        "standard": 243,
+        "ordinal": 49,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 26,
+      "text": "αὐτόν,",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "Him,",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 27,
+      "text": "κἀγὼ",
+      "lemma": [
+        "G1473"
+      ],
+      "strongs": "G1473",
+      "morph": "robinson:P-1NS + G2532=CONJ",
+      "translation": "and I myself",
+      "metadata": {},
+      "gematria": {
+        "standard": 824,
+        "ordinal": 38,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 28,
+      "text": "αὐτὸν",
+      "lemma": [
+        "G846"
+      ],
+      "strongs": "G846",
+      "morph": "robinson:P-ASM",
+      "translation": "him",
+      "metadata": {},
+      "gematria": {
+        "standard": 821,
+        "ordinal": 68,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 29,
+      "text": "ἀρῶ.",
+      "lemma": [
+        "G142"
+      ],
+      "strongs": "G142",
+      "morph": "robinson:V-FAI-1S",
+      "translation": "will take away.",
+      "metadata": {},
+      "gematria": {
+        "standard": 901,
+        "ordinal": 42,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 15252,
+    "ordinal": 1548,
+    "reduced": 648
+  }
+}

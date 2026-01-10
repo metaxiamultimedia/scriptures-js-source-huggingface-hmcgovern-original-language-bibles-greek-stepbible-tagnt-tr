@@ -1,0 +1,334 @@
+{
+  "text": "Τούτων δὲ πορευομένων ἤρξατο ὁ Ἰησοῦς λέγειν τοῖς ὄχλοις περὶ Ἰωάννου· τί ἐξήλθατε εἰς τὴν ἔρημον θεάσασθαι; κάλαμον ὑπὸ ἀνέμου σαλευόμενον;",
+  "words": [
+    {
+      "position": 1,
+      "text": "Τούτων",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-GPM",
+      "translation": "As these",
+      "metadata": {},
+      "gematria": {
+        "standard": 1920,
+        "ordinal": 110,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "now",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "πορευομένων",
+      "lemma": [
+        "G4198"
+      ],
+      "strongs": "G4198",
+      "morph": "robinson:V-PNP-GPM",
+      "translation": "were going away",
+      "metadata": {},
+      "gematria": {
+        "standard": 1670,
+        "ordinal": 155,
+        "reduced": 56
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἤρξατο",
+      "lemma": [
+        "G757"
+      ],
+      "strongs": "G757",
+      "morph": "robinson:V-ADI-3S",
+      "translation": "began",
+      "metadata": {},
+      "gematria": {
+        "standard": 539,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "ὁ",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-NSM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 6,
+      "text": "Ἰησοῦς",
+      "lemma": null,
+      "morph": null,
+      "translation": "Jesus",
+      "metadata": {},
+      "gematria": {
+        "standard": 888,
+        "ordinal": 87,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 7,
+      "text": "λέγειν",
+      "lemma": null,
+      "morph": null,
+      "translation": "to speak",
+      "metadata": {},
+      "gematria": {
+        "standard": 103,
+        "ordinal": 46,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "τοῖς",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-DPM",
+      "translation": "to the",
+      "metadata": {},
+      "gematria": {
+        "standard": 580,
+        "ordinal": 61,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 9,
+      "text": "ὄχλοις",
+      "lemma": [
+        "G3793"
+      ],
+      "strongs": "G3793",
+      "morph": "robinson:N-DPM",
+      "translation": "crowds",
+      "metadata": {},
+      "gematria": {
+        "standard": 980,
+        "ordinal": 90,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 10,
+      "text": "περὶ",
+      "lemma": [
+        "G4012"
+      ],
+      "strongs": "G4012",
+      "morph": "robinson:PREP",
+      "translation": "concerning",
+      "metadata": {},
+      "gematria": {
+        "standard": 195,
+        "ordinal": 47,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 11,
+      "text": "Ἰωάννου·",
+      "lemma": null,
+      "morph": null,
+      "translation": "John:",
+      "metadata": {},
+      "gematria": {
+        "standard": 1381,
+        "ordinal": 95,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 12,
+      "text": "τί",
+      "lemma": [
+        "G5101"
+      ],
+      "strongs": "G5101",
+      "morph": "robinson:I-ASN",
+      "translation": "What",
+      "metadata": {},
+      "gematria": {
+        "standard": 310,
+        "ordinal": 28,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "ἐξήλθατε",
+      "lemma": [
+        "G1831"
+      ],
+      "strongs": "G1831",
+      "morph": "robinson:V-2AAI-2P",
+      "translation": "went you out",
+      "metadata": {},
+      "gematria": {
+        "standard": 418,
+        "ordinal": 70,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 14,
+      "text": "εἰς",
+      "lemma": [
+        "G1519"
+      ],
+      "strongs": "G1519",
+      "morph": "robinson:PREP",
+      "translation": "into",
+      "metadata": {},
+      "gematria": {
+        "standard": 215,
+        "ordinal": 32,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 15,
+      "text": "τὴν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASF",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 358,
+        "ordinal": 39,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 16,
+      "text": "ἔρημον",
+      "lemma": [
+        "G2048"
+      ],
+      "strongs": "G2048",
+      "morph": "robinson:A-ASF",
+      "translation": "wilderness",
+      "metadata": {},
+      "gematria": {
+        "standard": 273,
+        "ordinal": 69,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 17,
+      "text": "θεάσασθαι;",
+      "lemma": [
+        "G2300"
+      ],
+      "strongs": "G2300",
+      "morph": "robinson:V-ADN",
+      "translation": "to see?",
+      "metadata": {},
+      "gematria": {
+        "standard": 436,
+        "ordinal": 69,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 18,
+      "text": "κάλαμον",
+      "lemma": [
+        "G2563"
+      ],
+      "strongs": "G2563",
+      "morph": "robinson:N-ASM",
+      "translation": "A reed",
+      "metadata": {},
+      "gematria": {
+        "standard": 212,
+        "ordinal": 63,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 19,
+      "text": "ὑπὸ",
+      "lemma": null,
+      "morph": null,
+      "translation": "by [the]",
+      "metadata": {},
+      "gematria": {
+        "standard": 550,
+        "ordinal": 51,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 20,
+      "text": "ἀνέμου",
+      "lemma": [
+        "G417"
+      ],
+      "strongs": "G417",
+      "morph": "robinson:N-GSM",
+      "translation": "wind",
+      "metadata": {},
+      "gematria": {
+        "standard": 566,
+        "ordinal": 66,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 21,
+      "text": "σαλευόμενον;",
+      "lemma": [
+        "G4531"
+      ],
+      "strongs": "G4531",
+      "morph": "robinson:V-PPP-ASM",
+      "translation": "shaken?",
+      "metadata": {},
+      "gematria": {
+        "standard": 921,
+        "ordinal": 128,
+        "reduced": 47
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 12594,
+    "ordinal": 1403,
+    "reduced": 575
+  }
+}

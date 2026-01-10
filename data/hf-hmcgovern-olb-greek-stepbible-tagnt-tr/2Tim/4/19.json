@@ -1,0 +1,135 @@
+{
+  "text": "Ἄσπασαι Πρίσκαν καὶ Ἀκύλαν καὶ τὸν Ὀνησιφόρου οἶκον.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ἄσπασαι",
+      "lemma": [
+        "G782"
+      ],
+      "strongs": "G782",
+      "morph": "robinson:V-ADM-2S",
+      "translation": "do greet",
+      "metadata": {},
+      "gematria": {
+        "standard": 493,
+        "ordinal": 64,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 2,
+      "text": "Πρίσκαν",
+      "lemma": [
+        "G4251"
+      ],
+      "strongs": "G4251",
+      "morph": "robinson:N-ASF-P",
+      "translation": "Prisca",
+      "metadata": {},
+      "gematria": {
+        "standard": 461,
+        "ordinal": 84,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 3,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "Ἀκύλαν",
+      "lemma": [
+        "G207"
+      ],
+      "strongs": "G207",
+      "morph": "robinson:N-ASM-P",
+      "translation": "Aquila",
+      "metadata": {},
+      "gematria": {
+        "standard": 502,
+        "ordinal": 56,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "the",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "Ὀνησιφόρου",
+      "lemma": [
+        "G3683"
+      ],
+      "strongs": "G3683",
+      "morph": "robinson:N-GSM-P",
+      "translation": "of Onesiphorus",
+      "metadata": {},
+      "gematria": {
+        "standard": 1478,
+        "ordinal": 150,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 8,
+      "text": "οἶκον.",
+      "lemma": null,
+      "morph": null,
+      "translation": "house.",
+      "metadata": {},
+      "gematria": {
+        "standard": 220,
+        "ordinal": 62,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 3636,
+    "ordinal": 503,
+    "reduced": 206
+  }
+}

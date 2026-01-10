@@ -1,0 +1,343 @@
+{
+  "text": "εἰδὼς τοῦτο, ὅτι δικαίῳ νόμος οὐ κεῖται, ἀνόμοις δὲ καὶ ἀνυποτάκτοις, ἀσεβέσιν καὶ ἁμαρτωλοῖς, ἀνοσίοις καὶ βεβήλοις, πατρολῴαις καὶ μητρολῴαις, ἀνδροφόνοις,",
+  "words": [
+    {
+      "position": 1,
+      "text": "εἰδὼς",
+      "lemma": [
+        "G6063"
+      ],
+      "strongs": "G6063",
+      "morph": "robinson:V-RAP-NSM",
+      "translation": "knowing",
+      "metadata": {},
+      "gematria": {
+        "standard": 1019,
+        "ordinal": 60,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 2,
+      "text": "τοῦτο,",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-ASN",
+      "translation": "this,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1140,
+        "ordinal": 88,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "ὅτι",
+      "lemma": null,
+      "morph": null,
+      "translation": "that",
+      "metadata": {},
+      "gematria": {
+        "standard": 380,
+        "ordinal": 43,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "δικαίῳ",
+      "lemma": [
+        "G1342"
+      ],
+      "strongs": "G1342",
+      "morph": "robinson:A-DSM",
+      "translation": "for a righteous [one]",
+      "metadata": {},
+      "gematria": {
+        "standard": 855,
+        "ordinal": 66,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 5,
+      "text": "νόμος",
+      "lemma": [
+        "G3551"
+      ],
+      "strongs": "G3551",
+      "morph": "robinson:N-NSM",
+      "translation": "law",
+      "metadata": {},
+      "gematria": {
+        "standard": 430,
+        "ordinal": 73,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "οὐ",
+      "lemma": [
+        "G3756"
+      ],
+      "strongs": "G3756",
+      "morph": "robinson:PRT-N",
+      "translation": "not",
+      "metadata": {},
+      "gematria": {
+        "standard": 470,
+        "ordinal": 35,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 7,
+      "text": "κεῖται,",
+      "lemma": [
+        "G2749"
+      ],
+      "strongs": "G2749",
+      "morph": "robinson:V-PNI-3S",
+      "translation": "is enacted,",
+      "metadata": {},
+      "gematria": {
+        "standard": 346,
+        "ordinal": 53,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 8,
+      "text": "ἀνόμοις",
+      "lemma": [
+        "G459"
+      ],
+      "strongs": "G459",
+      "morph": "robinson:A-DPM",
+      "translation": "for [the] lawless",
+      "metadata": {},
+      "gematria": {
+        "standard": 441,
+        "ordinal": 83,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 9,
+      "text": "δὲ",
+      "lemma": [
+        "G1161"
+      ],
+      "strongs": "G1161",
+      "morph": "robinson:CONJ",
+      "translation": "however",
+      "metadata": {},
+      "gematria": {
+        "standard": 9,
+        "ordinal": 9,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "ἀνυποτάκτοις,",
+      "lemma": [
+        "G506"
+      ],
+      "strongs": "G506",
+      "morph": "robinson:A-DPM",
+      "translation": "insubordinate,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1502,
+        "ordinal": 156,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 12,
+      "text": "ἀσεβέσιν",
+      "lemma": [
+        "G765"
+      ],
+      "strongs": "G765",
+      "morph": "robinson:A-DPM",
+      "translation": "for [the] ungodly",
+      "metadata": {},
+      "gematria": {
+        "standard": 473,
+        "ordinal": 71,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 13,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "ἁμαρτωλοῖς,",
+      "lemma": [
+        "G268"
+      ],
+      "strongs": "G268",
+      "morph": "robinson:A-DPM",
+      "translation": "sinful,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1552,
+        "ordinal": 127,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 15,
+      "text": "ἀνοσίοις",
+      "lemma": [
+        "G462"
+      ],
+      "strongs": "G462",
+      "morph": "robinson:A-DPM",
+      "translation": "for [the] unholy",
+      "metadata": {},
+      "gematria": {
+        "standard": 611,
+        "ordinal": 98,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 16,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 17,
+      "text": "βεβήλοις,",
+      "lemma": [
+        "G952"
+      ],
+      "strongs": "G952",
+      "morph": "robinson:A-DPM",
+      "translation": "profane,",
+      "metadata": {},
+      "gematria": {
+        "standard": 327,
+        "ordinal": 69,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 18,
+      "text": "πατρολῴαις",
+      "lemma": [
+        "G3964"
+      ],
+      "strongs": "G3964",
+      "morph": "robinson:N-DPM",
+      "translation": "for murderers of fathers",
+      "metadata": {},
+      "gematria": {
+        "standard": 1602,
+        "ordinal": 140,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 19,
+      "text": "καὶ",
+      "lemma": [
+        "G2532"
+      ],
+      "strongs": "G2532",
+      "morph": "robinson:CONJ",
+      "translation": "and",
+      "metadata": {},
+      "gematria": {
+        "standard": 31,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 20,
+      "text": "μητρολῴαις,",
+      "lemma": [
+        "G3389"
+      ],
+      "strongs": "G3389",
+      "morph": "robinson:N-DPM",
+      "translation": "murderers of mothers,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1569,
+        "ordinal": 142,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 21,
+      "text": "ἀνδροφόνοις,",
+      "lemma": [
+        "G409"
+      ],
+      "strongs": "G409",
+      "morph": "robinson:N-DPM",
+      "translation": "for slayers of man,",
+      "metadata": {},
+      "gematria": {
+        "standard": 1125,
+        "ordinal": 141,
+        "reduced": 60
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 13975,
+    "ordinal": 1534,
+    "reduced": 670
+  }
+}
