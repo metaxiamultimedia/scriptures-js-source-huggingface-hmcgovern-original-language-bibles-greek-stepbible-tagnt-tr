@@ -358,7 +358,7 @@ async function saveMetadata(): Promise<void> {
     abbreviation: 'TR',
     name: 'Textus Receptus (STEPBible)',
     language: 'Greek',
-    license: 'Public Domain (text), CC BY 4.0 (tagging)',
+    license: 'CC BY 4.0',
     source: 'STEPBible',
     urls: [
       'https://www.stepbible.org',
@@ -366,8 +366,7 @@ async function saveMetadata(): Promise<void> {
       'https://github.com/STEPBible/STEPBible-Data',
     ],
     attribution: {
-      text_source: 'Textus Receptus (Scrivener 1894) - Public Domain',
-      tagging_source: 'STEP Bible / Tyndale House Cambridge - CC BY 4.0',
+      source: 'STEP Bible / Tyndale House Cambridge - CC BY 4.0',
       huggingface_curator: 'Hope McGovern',
     },
     filter: 'manuscript_source contains K (Textus Receptus only)',

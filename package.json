@@ -32,6 +32,7 @@
     "build": "tsc",
     "import": "tsx scripts/import.ts",
     "test": "vitest run",
+    "lint": "eslint src --ext .ts",
     "clean": "rm -rf dist"
   },
   "keywords": [
@@ -43,7 +44,7 @@
     "stepbible"
   ],
   "author": "Benjamin Plunkert",
-  "license": "MIT",
+  "license": "MIT AND CC-BY-4.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/metaxiamultimedia/scriptures-js-source-huggingface-hmcgovern-original-language-bibles-greek-stepbible-tagnt-tr"
