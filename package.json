@@ -32,7 +32,7 @@
     "build": "tsc",
     "import": "tsx scripts/import.ts",
     "test": "vitest run",
-    "lint": "eslint src --ext .ts",
+    "lint": "eslint src",
     "clean": "rm -rf dist"
   },
   "keywords": [
@@ -57,13 +57,18 @@
     "@metaxia/scriptures-core": "github:metaxiamultimedia/scriptures-js-core#v0.1.2"
   },
   "devDependencies": {
+    "@eslint/js": "^9.39.2",
     "@huggingface/hub": "^0.15.0",
     "@metaxia/scriptures-core": "github:metaxiamultimedia/scriptures-js-core#v0.1.2",
     "@types/node": "^25.0.6",
+    "@typescript-eslint/eslint-plugin": "^8.52.0",
+    "@typescript-eslint/parser": "^8.52.0",
     "apache-arrow": "^18.0.0",
+    "eslint": "^9.39.2",
     "parquet-wasm": "^0.6.0",
     "tsx": "^4.7.0",
     "typescript": "^5.3.0",
+    "typescript-eslint": "^8.52.0",
     "vitest": "^4.0.0"
   }
 }

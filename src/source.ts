@@ -16,7 +16,7 @@ export const metadata: EditionMetadata = {
   abbreviation: 'hf-hmcgovern-olb-greek-stepbible-tagnt-tr',
   name: 'Textus Receptus (STEPBible)',
   language: 'Greek',
-  license: 'Public Domain (text), CC BY 4.0 (tagging)',
+  license: 'CC BY 4.0',
   source: 'STEPBible',
   urls: [
     'https://www.stepbible.org',
@@ -52,7 +52,7 @@ export async function loadVerse(book: string, chapter: number, verse: number): P
   try {
     const content = await readFile(filePath, 'utf-8');
     return JSON.parse(content);
-  } catch (error) {
+  } catch {
     throw new Error(`Verse ${book} ${chapter}:${verse} not found in hf-hmcgovern-olb-greek-stepbible-tagnt-tr`);
   }
 }
@@ -75,7 +75,7 @@ export async function loadChapter(book: string, chapter: number): Promise<VerseD
       verses.push(JSON.parse(content));
     }
     return verses;
-  } catch (error) {
+  } catch {
     throw new Error(`Chapter ${book} ${chapter} not found in hf-hmcgovern-olb-greek-stepbible-tagnt-tr`);
   }
 }
@@ -86,7 +86,7 @@ export async function loadCache(cacheName: string): Promise<Record<string, unkno
   try {
     const content = await readFile(filePath, 'utf-8');
     return JSON.parse(content);
-  } catch (error) {
+  } catch {
     throw new Error(`Cache '${cacheName}' not found`);
   }
 }
