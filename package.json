@@ -1,6 +1,6 @@
 {
   "name": "@metaxia/scriptures-source-huggingface-hmcgovern-original-language-bibles-greek-stepbible-tagnt-tr",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Textus Receptus (Greek) data for @metaxia/scriptures. Source: STEPBible TAGNT via HuggingFace.",
   "type": "module",
   "main": "./dist/index.js",
