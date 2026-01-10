@@ -20,16 +20,18 @@ const PARQUET_URL = 'https://huggingface.co/datasets/hmcgovern/original-language
 const SOURCE_DIR = join(ROOT_DIR, 'source');
 const DATA_DIR = join(ROOT_DIR, 'data', 'hf-hmcgovern-olb-greek-stepbible-tagnt-tr');
 
-// Book abbreviation mapping from TAGNT format to OSIS
+// Book abbreviation mapping from HuggingFace TAGNT format to OSIS
+// Source abbreviations: 1Co, 1Jn, 1Pe, 1Th, 1Ti, 2Co, 2Jn, 2Pe, 2Th, 2Ti,
+//                       3Jn, Act, Col, Eph, Gal, Heb, Jas, Jhn, Jud, Luk,
+//                       Mat, Mrk, Phm, Php, Rev, Rom, Tit
 const BOOK_MAP: Record<string, string> = {
-  'Mat': 'Matt', 'Mar': 'Mark', 'Luk': 'Luke', 'Joh': 'John',
+  'Mat': 'Matt', 'Mrk': 'Mark', 'Luk': 'Luke', 'Jhn': 'John',
   'Act': 'Acts', 'Rom': 'Rom', '1Co': '1Cor', '2Co': '2Cor',
   'Gal': 'Gal', 'Eph': 'Eph', 'Php': 'Phil', 'Col': 'Col',
-  'Phi': 'Phil', // Alternative abbreviation
   '1Th': '1Thess', '2Th': '2Thess', '1Ti': '1Tim', '2Ti': '2Tim',
   'Tit': 'Titus', 'Phm': 'Phlm', 'Heb': 'Heb',
-  'Jas': 'Jas', 'Jam': 'Jas', '1Pe': '1Pet', '2Pe': '2Pet',
-  '1Jo': '1John', '2Jo': '2John', '3Jo': '3John',
+  'Jas': 'Jas', '1Pe': '1Pet', '2Pe': '2Pet',
+  '1Jn': '1John', '2Jn': '2John', '3Jn': '3John',
   'Jud': 'Jude', 'Rev': 'Rev',
 };
 

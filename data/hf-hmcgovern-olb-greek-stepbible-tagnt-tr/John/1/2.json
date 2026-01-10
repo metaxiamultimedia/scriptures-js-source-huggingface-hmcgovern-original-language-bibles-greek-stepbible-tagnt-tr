@@ -1,13 +1,122 @@
 {
-  "text": "οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.",
+  "text": "οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.",
   "words": [
-    {"position": 1, "text": "οὗτος", "lemma": ["G3778"], "strongs": "G3778", "morph": "robinson:D-NSM", "translation": "The same", "metadata": {}, "gematria": {"standard": 970, "ordinal": 79, "reduced": 25}},
-    {"position": 2, "text": "ἦν", "lemma": ["G1510"], "strongs": "G1510", "morph": "robinson:V-IAI-3S", "translation": "was", "metadata": {}, "gematria": {"standard": 58, "ordinal": 13, "reduced": 4}},
-    {"position": 3, "text": "ἐν", "lemma": ["G1722"], "strongs": "G1722", "morph": "robinson:PREP", "translation": "in", "metadata": {}, "gematria": {"standard": 55, "ordinal": 12, "reduced": 3}},
-    {"position": 4, "text": "ἀρχῇ", "lemma": ["G746"], "strongs": "G746", "morph": "robinson:N-DSF", "translation": "the beginning", "metadata": {}, "gematria": {"standard": 709, "ordinal": 43, "reduced": 16}},
-    {"position": 5, "text": "πρὸς", "lemma": ["G4314"], "strongs": "G4314", "morph": "robinson:PREP", "translation": "with", "metadata": {}, "gematria": {"standard": 450, "ordinal": 51, "reduced": 15}},
-    {"position": 6, "text": "τὸν", "lemma": ["G3588"], "strongs": "G3588", "morph": "robinson:T-ASM", "translation": "the", "metadata": {}, "gematria": {"standard": 420, "ordinal": 42, "reduced": 15}},
-    {"position": 7, "text": "θεόν", "lemma": ["G2316"], "strongs": "G2316", "morph": "robinson:N-ASM", "translation": "God", "metadata": {}, "gematria": {"standard": 134, "ordinal": 26, "reduced": 8}}
+    {
+      "position": 1,
+      "text": "οὗτος",
+      "lemma": [
+        "G3778"
+      ],
+      "strongs": "G3778",
+      "morph": "robinson:D-NSM",
+      "translation": "He",
+      "metadata": {},
+      "gematria": {
+        "standard": 1040,
+        "ordinal": 87,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 2,
+      "text": "ἦν",
+      "lemma": [
+        "G1510"
+      ],
+      "strongs": "G1510",
+      "morph": "robinson:V-IAI-3S",
+      "translation": "was",
+      "metadata": {},
+      "gematria": {
+        "standard": 58,
+        "ordinal": 20,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 3,
+      "text": "ἐν",
+      "lemma": [
+        "G1722"
+      ],
+      "strongs": "G1722",
+      "morph": "robinson:PREP",
+      "translation": "in [the]",
+      "metadata": {},
+      "gematria": {
+        "standard": 55,
+        "ordinal": 18,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "ἀρχῇ",
+      "lemma": [
+        "G746"
+      ],
+      "strongs": "G746",
+      "morph": "robinson:N-DSF",
+      "translation": "beginning",
+      "metadata": {},
+      "gematria": {
+        "standard": 719,
+        "ordinal": 56,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 5,
+      "text": "πρὸς",
+      "lemma": [
+        "G4314"
+      ],
+      "strongs": "G4314",
+      "morph": "robinson:PREP",
+      "translation": "with",
+      "metadata": {},
+      "gematria": {
+        "standard": 450,
+        "ordinal": 66,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "τὸν",
+      "lemma": [
+        "G3588"
+      ],
+      "strongs": "G3588",
+      "morph": "robinson:T-ASM",
+      "translation": "<the>",
+      "metadata": {},
+      "gematria": {
+        "standard": 420,
+        "ordinal": 47,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "θεόν.",
+      "lemma": [
+        "G2316"
+      ],
+      "strongs": "G2316",
+      "morph": "robinson:N-ASM-T",
+      "translation": "God.",
+      "metadata": {},
+      "gematria": {
+        "standard": 134,
+        "ordinal": 41,
+        "reduced": 23
+      }
+    }
   ],
-  "gematria": {"standard": 2796, "ordinal": 266, "reduced": 86}
+  "gematria": {
+    "standard": 2876,
+    "ordinal": 335,
+    "reduced": 137
+  }
 }

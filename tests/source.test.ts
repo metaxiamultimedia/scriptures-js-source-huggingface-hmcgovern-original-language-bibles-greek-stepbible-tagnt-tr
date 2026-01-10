@@ -54,7 +54,8 @@ describe.skipIf(!dataExists)('loadVerse', () => {
 
   it('should load John 1:1 with λόγος', async () => {
     const verse = await loadVerse('John', 1, 1);
-    expect(verse.text).toContain('λόγος');
+    // Normalize both strings to handle Unicode tonos vs oxia differences
+    expect(verse.text.normalize('NFD')).toContain('λόγος'.normalize('NFD'));
   });
 
   it('should have gematria values', async () => {
@@ -92,5 +93,45 @@ describe.skipIf(!dataExists)('loadChapter', () => {
 
   it('should throw for non-existent chapter', async () => {
     await expect(loadChapter('Matthew', 999)).rejects.toThrow();
+  });
+});
+
+describe.skipIf(!dataExists)('gematria integrity', () => {
+  it('John 1:1 verse total should equal 3627', async () => {
+    const verse = await loadVerse('John', 1, 1);
+    expect(verse.gematria.standard).toBe(3627);
+  });
+
+  it('verse gematria should equal sum of word gematria', async () => {
+    // Test several key verses
+    const testCases = [
+      { book: 'John', chapter: 1, verse: 1 },
+      { book: 'Matthew', chapter: 1, verse: 1 },
+      { book: 'Revelation', chapter: 13, verse: 18 },
+      { book: 'Romans', chapter: 8, verse: 28 },
+    ];
+
+    for (const { book, chapter, verse: verseNum } of testCases) {
+      const verse = await loadVerse(book, chapter, verseNum);
+
+      // Calculate sum of word gematria values
+      const wordSumStandard = verse.words.reduce((sum, w) => sum + (w.gematria?.standard || 0), 0);
+      const wordSumOrdinal = verse.words.reduce((sum, w) => sum + (w.gematria?.ordinal || 0), 0);
+      const wordSumReduced = verse.words.reduce((sum, w) => sum + (w.gematria?.reduced || 0), 0);
+
+      // Verse total should equal sum of word values
+      expect(verse.gematria.standard).toBe(wordSumStandard);
+      expect(verse.gematria.ordinal).toBe(wordSumOrdinal);
+      expect(verse.gematria.reduced).toBe(wordSumReduced);
+    }
+  });
+
+  it('all verses in John 1 should have matching gematria totals', async () => {
+    const verses = await loadChapter('John', 1);
+
+    for (const verse of verses) {
+      const wordSumStandard = verse.words.reduce((sum, w) => sum + (w.gematria?.standard || 0), 0);
+      expect(verse.gematria.standard).toBe(wordSumStandard);
+    }
   });
 });
