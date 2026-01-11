@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "γυναῖκες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-NPF",
       "translation": "women",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "Γαλιλαίας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1056"
+      ],
+      "strongs": "G1056",
+      "morph": "robinson:N-GSF-L",
       "translation": "Galilee",
       "metadata": {},
       "gematria": {

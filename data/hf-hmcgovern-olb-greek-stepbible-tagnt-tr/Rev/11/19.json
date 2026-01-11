@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "ὤφθη",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3700"
+      ],
+      "strongs": "G3700",
+      "morph": "robinson:V-API-3S",
       "translation": "appeared",
       "metadata": {},
       "gematria": {
@@ -193,8 +196,11 @@
     {
       "position": 13,
       "text": "κιβωτὸς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2787"
+      ],
+      "strongs": "G2787",
+      "morph": "robinson:N-NSF",
       "translation": "ark",
       "metadata": {},
       "gematria": {
@@ -382,8 +388,11 @@
     {
       "position": 25,
       "text": "φωναὶ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5456"
+      ],
+      "strongs": "G5456",
+      "morph": "robinson:N-NPF",
       "translation": "voices",
       "metadata": {},
       "gematria": {

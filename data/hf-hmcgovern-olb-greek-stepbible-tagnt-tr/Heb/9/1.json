@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "πρώτη",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-NSF",
       "translation": "first",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "ἅγιον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G39"
+      ],
+      "strongs": "G39",
+      "morph": "robinson:A-ASN",
       "translation": "Holy [Place]",
       "metadata": {},
       "gematria": {

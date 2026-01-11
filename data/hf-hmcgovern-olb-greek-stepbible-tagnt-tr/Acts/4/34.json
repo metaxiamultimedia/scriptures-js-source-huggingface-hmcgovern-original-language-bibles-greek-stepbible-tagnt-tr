@@ -148,8 +148,11 @@
     {
       "position": 10,
       "text": "χωρίων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5564"
+      ],
+      "strongs": "G5564",
+      "morph": "robinson:N-GPN",
       "translation": "of lands",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "οἰκιῶν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3614"
+      ],
+      "strongs": "G3614",
+      "morph": "robinson:N-GPF",
       "translation": "houses",
       "metadata": {},
       "gematria": {

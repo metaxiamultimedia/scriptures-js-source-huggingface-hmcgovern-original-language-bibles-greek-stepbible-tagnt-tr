@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "Καισάρειαν,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2542"
+      ],
+      "strongs": "G2542",
+      "morph": "robinson:N-ASF-L",
       "translation": "Caesarea,",
       "metadata": {},
       "gematria": {
@@ -305,8 +308,11 @@
     {
       "position": 20,
       "text": "Παῦλον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-ASM-P",
       "translation": "Paul",
       "metadata": {},
       "gematria": {

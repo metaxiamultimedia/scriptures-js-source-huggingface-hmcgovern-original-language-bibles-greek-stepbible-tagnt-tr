@@ -260,8 +260,11 @@
     {
       "position": 17,
       "text": "ἅγιε,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-VSM",
       "translation": "Holy,",
       "metadata": {},
       "gematria": {
@@ -273,8 +276,11 @@
     {
       "position": 18,
       "text": "τήρησον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5083"
+      ],
+      "strongs": "G5083",
+      "morph": "robinson:V-AAM-2S",
       "translation": "do keep",
       "metadata": {},
       "gematria": {

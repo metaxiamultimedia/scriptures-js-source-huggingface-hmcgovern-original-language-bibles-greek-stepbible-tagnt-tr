@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "γυναῖκες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-NPF",
       "translation": "women",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "Μαρία",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3137"
+      ],
+      "strongs": "G3137",
+      "morph": "robinson:N-NSF-P",
       "translation": "Mary",
       "metadata": {},
       "gematria": {
@@ -222,8 +228,11 @@
     {
       "position": 15,
       "text": "Μαρία",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3137"
+      ],
+      "strongs": "G3137",
+      "morph": "robinson:N-NSF-P",
       "translation": "Mary",
       "metadata": {},
       "gematria": {
@@ -251,8 +260,11 @@
     {
       "position": 17,
       "text": "Ἰακώβου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2385"
+      ],
+      "strongs": "G2385",
+      "morph": "robinson:N-GSM-P",
       "translation": "of James",
       "metadata": {},
       "gematria": {
@@ -312,8 +324,11 @@
     {
       "position": 21,
       "text": "Ἰωσῆτος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2500"
+      ],
+      "strongs": "G2500",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Joses",
       "metadata": {},
       "gematria": {

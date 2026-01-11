@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "ἀφέωνταί",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-RPI-3P",
       "translation": "Have been forgiven",
       "metadata": {},
       "gematria": {

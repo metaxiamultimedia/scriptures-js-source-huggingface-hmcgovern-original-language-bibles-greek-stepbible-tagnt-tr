@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "λέγει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-3S",
       "translation": "says",
       "metadata": {},
       "gematria": {
@@ -193,8 +196,11 @@
     {
       "position": 13,
       "text": "πνεύματός",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-GSN",
       "translation": "Spirit",
       "metadata": {},
       "gematria": {
@@ -494,8 +500,11 @@
     {
       "position": 32,
       "text": "ὄψονται",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3700"
+      ],
+      "strongs": "G3700",
+      "morph": "robinson:V-FDI-3P",
       "translation": "will behold",
       "metadata": {},
       "gematria": {
@@ -539,8 +548,11 @@
     {
       "position": 35,
       "text": "πρεσβύτεροι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4245"
+      ],
+      "strongs": "G4245",
+      "morph": "robinson:N-NPM-C",
       "translation": "elders",
       "metadata": {},
       "gematria": {

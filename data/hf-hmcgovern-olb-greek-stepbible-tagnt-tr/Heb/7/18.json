@@ -148,8 +148,11 @@
     {
       "position": 10,
       "text": "ἀσθενὲς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G772"
+      ],
+      "strongs": "G772",
+      "morph": "robinson:A-ASN",
       "translation": "weakness",
       "metadata": {},
       "gematria": {

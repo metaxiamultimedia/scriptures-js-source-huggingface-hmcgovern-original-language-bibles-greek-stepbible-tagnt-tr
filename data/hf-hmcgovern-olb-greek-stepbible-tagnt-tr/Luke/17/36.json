@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ἀγρῷ·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G68"
+      ],
+      "strongs": "G68",
+      "morph": "robinson:N-DSM",
       "translation": "field;",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "ἀφεθήσεται",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-FPI-3S",
       "translation": "it will be left",
       "metadata": {},
       "gematria": {

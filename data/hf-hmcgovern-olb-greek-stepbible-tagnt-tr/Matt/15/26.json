@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "καλὸν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2570"
+      ],
+      "strongs": "G2570",
+      "morph": "robinson:A-NSN",
       "translation": "right",
       "metadata": {},
       "gematria": {
@@ -209,8 +212,11 @@
     {
       "position": 14,
       "text": "βαλεῖν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-2AAN",
       "translation": "to cast [it]",
       "metadata": {},
       "gematria": {

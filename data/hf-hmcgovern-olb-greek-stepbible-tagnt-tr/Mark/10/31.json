@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "πρῶτοι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-NPM",
       "translation": "first",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "πρῶτοι.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-NPM",
       "translation": "first.",
       "metadata": {},
       "gematria": {

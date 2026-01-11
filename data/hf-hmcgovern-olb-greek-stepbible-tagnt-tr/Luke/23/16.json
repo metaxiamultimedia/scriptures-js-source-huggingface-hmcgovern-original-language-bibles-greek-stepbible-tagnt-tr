@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "ἀπολύσω.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G630"
+      ],
+      "strongs": "G630",
+      "morph": "robinson:V-FAI-1S",
       "translation": "I will release [Him].",
       "metadata": {},
       "gematria": {

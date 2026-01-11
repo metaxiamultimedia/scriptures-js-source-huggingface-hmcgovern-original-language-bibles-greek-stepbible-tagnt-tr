@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "Ζαχαρίαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2197"
+      ],
+      "strongs": "G2197",
+      "morph": "robinson:N-ASM-P",
       "translation": "Zechariah",
       "metadata": {},
       "gematria": {

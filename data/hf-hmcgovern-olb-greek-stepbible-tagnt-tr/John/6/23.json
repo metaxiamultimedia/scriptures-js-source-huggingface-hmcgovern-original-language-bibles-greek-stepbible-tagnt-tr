@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "Τιβεριάδος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5085"
+      ],
+      "strongs": "G5085",
+      "morph": "robinson:N-GSF-L",
       "translation": "Tiberias",
       "metadata": {},
       "gematria": {
@@ -225,8 +228,11 @@
     {
       "position": 15,
       "text": "κυρίου.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-GSM-T",
       "translation": "Lord.",
       "metadata": {},
       "gematria": {

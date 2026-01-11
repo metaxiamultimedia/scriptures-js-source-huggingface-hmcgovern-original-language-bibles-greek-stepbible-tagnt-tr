@@ -196,8 +196,11 @@
     {
       "position": 13,
       "text": "ποιούμενος,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PMP-NSM",
       "translation": "making",
       "metadata": {},
       "gematria": {

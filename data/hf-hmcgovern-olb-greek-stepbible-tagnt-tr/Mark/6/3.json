@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "Μαρίας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3137"
+      ],
+      "strongs": "G3137",
+      "morph": "robinson:N-GSF-P",
       "translation": "of Mary",
       "metadata": {},
       "gematria": {
@@ -145,8 +148,11 @@
     {
       "position": 10,
       "text": "Ἰακώβου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2385"
+      ],
+      "strongs": "G2385",
+      "morph": "robinson:N-GSM-P",
       "translation": "of James",
       "metadata": {},
       "gematria": {
@@ -174,8 +180,11 @@
     {
       "position": 12,
       "text": "Ἰωσῆτος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2500"
+      ],
+      "strongs": "G2500",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Joses",
       "metadata": {},
       "gematria": {
@@ -203,8 +212,11 @@
     {
       "position": 14,
       "text": "Ἰούδα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2455"
+      ],
+      "strongs": "G2455",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Judas",
       "metadata": {},
       "gematria": {
@@ -232,8 +244,11 @@
     {
       "position": 16,
       "text": "Σίμωνος;",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4613"
+      ],
+      "strongs": "G4613",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Simon?",
       "metadata": {},
       "gematria": {

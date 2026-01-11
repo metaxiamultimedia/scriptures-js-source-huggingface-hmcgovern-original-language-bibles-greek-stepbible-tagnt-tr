@@ -308,8 +308,11 @@
     {
       "position": 20,
       "text": "σπέρματι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4690"
+      ],
+      "strongs": "G4690",
+      "morph": "robinson:N-DSN",
       "translation": "descendants",
       "metadata": {},
       "gematria": {

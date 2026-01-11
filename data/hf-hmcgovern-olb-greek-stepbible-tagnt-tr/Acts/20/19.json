@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "κυρίῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-DSM-T",
       "translation": "Lord",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "πειρασμῶν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3986"
+      ],
+      "strongs": "G3986",
+      "morph": "robinson:N-GPM",
       "translation": "trials",
       "metadata": {},
       "gematria": {

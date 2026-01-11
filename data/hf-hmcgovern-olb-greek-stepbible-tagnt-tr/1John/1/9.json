@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "ἀφῇ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-2AAS-3S",
       "translation": "He may forgive",
       "metadata": {},
       "gematria": {

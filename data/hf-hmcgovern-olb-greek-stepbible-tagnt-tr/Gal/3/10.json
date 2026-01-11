@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "ὑπὸ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5259"
+      ],
+      "strongs": "G5259",
+      "morph": "robinson:PREP",
       "translation": "under",
       "metadata": {},
       "gematria": {
@@ -401,8 +404,11 @@
     {
       "position": 26,
       "text": "ποιῆσαι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAN",
       "translation": "to do",
       "metadata": {},
       "gematria": {

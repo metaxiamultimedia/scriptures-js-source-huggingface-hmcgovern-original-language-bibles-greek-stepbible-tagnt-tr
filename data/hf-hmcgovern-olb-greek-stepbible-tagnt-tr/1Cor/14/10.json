@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "if",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "γένη",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1085"
+      ],
+      "strongs": "G1085",
+      "morph": "robinson:N-NPN",
       "translation": "kinds",
       "metadata": {},
       "gematria": {
@@ -62,8 +68,11 @@
     {
       "position": 5,
       "text": "φωνῶν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5456"
+      ],
+      "strongs": "G5456",
+      "morph": "robinson:N-GPF",
       "translation": "of languages",
       "metadata": {},
       "gematria": {

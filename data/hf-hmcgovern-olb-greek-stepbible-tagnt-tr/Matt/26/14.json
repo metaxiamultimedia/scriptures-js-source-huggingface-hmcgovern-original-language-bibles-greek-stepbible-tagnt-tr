@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "λεγόμενος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PPP-NSM",
       "translation": "being named",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "Ἰούδας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2455"
+      ],
+      "strongs": "G2455",
+      "morph": "robinson:N-NSM-P",
       "translation": "Judas",
       "metadata": {},
       "gematria": {

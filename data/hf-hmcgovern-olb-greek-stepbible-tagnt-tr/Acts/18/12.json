@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "Παύλῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-DSM-P",
       "translation": "against Paul",
       "metadata": {},
       "gematria": {

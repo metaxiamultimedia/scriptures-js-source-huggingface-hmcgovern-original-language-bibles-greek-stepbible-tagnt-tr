@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "Ἡρῴδου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2264"
+      ],
+      "strongs": "G2264",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Herod",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "Ἡρῳδιάδος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2266"
+      ],
+      "strongs": "G2266",
+      "morph": "robinson:N-GSF-P",
       "translation": "of Herodias",
       "metadata": {},
       "gematria": {
@@ -222,8 +228,11 @@
     {
       "position": 15,
       "text": "Ἡρῴδῃ·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2264"
+      ],
+      "strongs": "G2264",
+      "morph": "robinson:N-DSM-P",
       "translation": "Herod;",
       "metadata": {},
       "gematria": {

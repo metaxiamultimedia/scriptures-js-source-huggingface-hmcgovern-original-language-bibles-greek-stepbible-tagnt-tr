@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "φωναῖς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5456"
+      ],
+      "strongs": "G5456",
+      "morph": "robinson:N-DPF",
       "translation": "with voices",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "φωναὶ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5456"
+      ],
+      "strongs": "G5456",
+      "morph": "robinson:N-NPF",
       "translation": "voices",
       "metadata": {},
       "gematria": {

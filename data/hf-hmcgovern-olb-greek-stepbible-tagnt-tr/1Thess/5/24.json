@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "καλῶν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-PAP-NSM",
       "translation": "calling",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "ποιήσει.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-FAI-3S",
       "translation": "will do [it].",
       "metadata": {},
       "gematria": {

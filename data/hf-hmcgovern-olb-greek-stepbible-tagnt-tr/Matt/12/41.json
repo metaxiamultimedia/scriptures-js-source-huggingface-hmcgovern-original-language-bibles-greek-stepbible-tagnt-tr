@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Ἄνδρες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-NPM",
       "translation": "[The] men",
       "metadata": {},
       "gematria": {
@@ -209,8 +212,11 @@
     {
       "position": 14,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "for",
       "metadata": {},
       "gematria": {
@@ -286,8 +292,11 @@
     {
       "position": 19,
       "text": "Ἰωνᾶ·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2495"
+      ],
+      "strongs": "G2495",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Jonah;",
       "metadata": {},
       "gematria": {
@@ -347,8 +356,11 @@
     {
       "position": 23,
       "text": "Ἰωνᾶ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2495"
+      ],
+      "strongs": "G2495",
+      "morph": "robinson:N-GSM-P",
       "translation": "than Jonah",
       "metadata": {},
       "gematria": {

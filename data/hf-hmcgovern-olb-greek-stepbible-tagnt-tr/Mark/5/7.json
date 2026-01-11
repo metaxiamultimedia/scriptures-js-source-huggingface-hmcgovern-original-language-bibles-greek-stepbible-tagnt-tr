@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "φωνῇ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5456"
+      ],
+      "strongs": "G5456",
+      "morph": "robinson:N-DSF",
       "translation": "in a voice",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "Ἰησοῦ,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2424"
+      ],
+      "strongs": "G2424",
+      "morph": "robinson:N-VSM-P",
       "translation": "Jesus,",
       "metadata": {},
       "gematria": {
@@ -318,8 +324,11 @@
     {
       "position": 21,
       "text": "βασανίσῃς.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G928"
+      ],
+      "strongs": "G928",
+      "morph": "robinson:V-AAS-2S",
       "translation": "may torment.",
       "metadata": {},
       "gematria": {

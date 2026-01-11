@@ -228,8 +228,11 @@
     {
       "position": 15,
       "text": "Γάϊον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1050"
+      ],
+      "strongs": "G1050",
+      "morph": "robinson:N-ASM-P",
       "translation": "Gaius",
       "metadata": {},
       "gematria": {
@@ -305,8 +308,11 @@
     {
       "position": 20,
       "text": "Παύλου.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Paul.",
       "metadata": {},
       "gematria": {

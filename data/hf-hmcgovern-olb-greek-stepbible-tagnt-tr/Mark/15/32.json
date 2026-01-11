@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "ἴδωμεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAS-1P",
       "translation": "we may see",
       "metadata": {},
       "gematria": {

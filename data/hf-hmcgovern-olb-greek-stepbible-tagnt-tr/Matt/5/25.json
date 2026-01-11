@@ -484,8 +484,11 @@
     {
       "position": 31,
       "text": "φυλακὴν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5438"
+      ],
+      "strongs": "G5438",
+      "morph": "robinson:N-ASF",
       "translation": "prison",
       "metadata": {},
       "gematria": {
@@ -497,8 +500,11 @@
     {
       "position": 32,
       "text": "βληθήσῃ.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-FPI-2S",
       "translation": "you will be cast.",
       "metadata": {},
       "gematria": {

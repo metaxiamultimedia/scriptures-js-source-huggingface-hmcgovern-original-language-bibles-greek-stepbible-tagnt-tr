@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "αἰῶνος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G165"
+      ],
+      "strongs": "G165",
+      "morph": "robinson:N-GSM",
       "translation": "age",
       "metadata": {},
       "gematria": {
@@ -257,8 +260,11 @@
     {
       "position": 17,
       "text": "αἰῶνος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G165"
+      ],
+      "strongs": "G165",
+      "morph": "robinson:N-GSM",
       "translation": "age",
       "metadata": {},
       "gematria": {

@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "χωρία",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5564"
+      ],
+      "strongs": "G5564",
+      "morph": "robinson:N-NPN",
       "translation": "lands",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "πρώτῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-DSM",
       "translation": "chief",
       "metadata": {},
       "gematria": {

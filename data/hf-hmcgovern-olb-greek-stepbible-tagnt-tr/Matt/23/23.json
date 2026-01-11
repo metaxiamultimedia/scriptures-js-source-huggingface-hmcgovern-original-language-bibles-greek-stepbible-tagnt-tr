@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "For",
       "metadata": {},
       "gematria": {
@@ -273,8 +276,11 @@
     {
       "position": 18,
       "text": "ἀφήκατε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-AAI-2P",
       "translation": "you have neglected",
       "metadata": {},
       "gematria": {
@@ -430,8 +436,11 @@
     {
       "position": 28,
       "text": "πίστιν·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-ASF",
       "translation": "faithfulness;",
       "metadata": {},
       "gematria": {
@@ -475,8 +484,11 @@
     {
       "position": 31,
       "text": "ποιῆσαι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAN",
       "translation": "to do",
       "metadata": {},
       "gematria": {
@@ -520,8 +532,11 @@
     {
       "position": 34,
       "text": "ἀφιέναι.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-PAN",
       "translation": "to be leaving aside.",
       "metadata": {},
       "gematria": {

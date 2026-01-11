@@ -148,8 +148,11 @@
     {
       "position": 10,
       "text": "ποιοῦντες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAP-NPM",
       "translation": "doing",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "ψυχῆς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5590"
+      ],
+      "strongs": "G5590",
+      "morph": "robinson:N-GSF",
       "translation": "[the] heart",
       "metadata": {},
       "gematria": {

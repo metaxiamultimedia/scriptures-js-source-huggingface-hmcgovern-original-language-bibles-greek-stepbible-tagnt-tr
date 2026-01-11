@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "Ματταθίου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3161"
+      ],
+      "strongs": "G3161",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Mattathias",
       "metadata": {},
       "gematria": {

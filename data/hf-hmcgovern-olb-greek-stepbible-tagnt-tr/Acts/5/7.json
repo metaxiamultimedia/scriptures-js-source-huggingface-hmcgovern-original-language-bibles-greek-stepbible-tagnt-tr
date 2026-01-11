@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "γυνὴ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-NSF",
       "translation": "wife",
       "metadata": {},
       "gematria": {

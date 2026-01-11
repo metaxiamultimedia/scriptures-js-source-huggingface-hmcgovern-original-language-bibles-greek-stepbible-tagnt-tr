@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "πνεύματος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-GSN",
       "translation": "Spirit [that]",
       "metadata": {},
       "gematria": {
@@ -321,8 +324,11 @@
     {
       "position": 21,
       "text": "Κλαυδίου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2804"
+      ],
+      "strongs": "G2804",
+      "morph": "robinson:N-GSM-P",
       "translation": "Claudius",
       "metadata": {},
       "gematria": {
@@ -334,8 +340,11 @@
     {
       "position": 22,
       "text": "Καίσαρος.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2541"
+      ],
+      "strongs": "G2541",
+      "morph": "robinson:N-GSM-T",
       "translation": "of Caesar.",
       "metadata": {},
       "gematria": {

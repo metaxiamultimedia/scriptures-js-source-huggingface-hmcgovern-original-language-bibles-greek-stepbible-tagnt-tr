@@ -196,8 +196,11 @@
     {
       "position": 13,
       "text": "ψυχὴν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5590"
+      ],
+      "strongs": "G5590",
+      "morph": "robinson:N-ASF",
       "translation": "in [his] soul",
       "metadata": {},
       "gematria": {
@@ -257,8 +260,11 @@
     {
       "position": 17,
       "text": "ἐβασάνιζεν·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G928"
+      ],
+      "strongs": "G928",
+      "morph": "robinson:V-IAI-3S",
       "translation": "was tormented;",
       "metadata": {},
       "gematria": {

@@ -244,8 +244,11 @@
     {
       "position": 16,
       "text": "οἴκους,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-APM",
       "translation": "house to house,",
       "metadata": {},
       "gematria": {

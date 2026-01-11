@@ -292,8 +292,11 @@
     {
       "position": 19,
       "text": "ἄνδρα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-ASM",
       "translation": "a man",
       "metadata": {},
       "gematria": {
@@ -385,8 +388,11 @@
     {
       "position": 25,
       "text": "ποιήσει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-FAI-3S",
       "translation": "will do",
       "metadata": {},
       "gematria": {

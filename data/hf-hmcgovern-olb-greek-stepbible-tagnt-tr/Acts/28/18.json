@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "ἀπολῦσαι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G630"
+      ],
+      "strongs": "G630",
+      "morph": "robinson:V-AAN",
       "translation": "to let [me] go",
       "metadata": {},
       "gematria": {

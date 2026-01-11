@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "πειρασμόν,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3986"
+      ],
+      "strongs": "G3986",
+      "morph": "robinson:N-ASM",
       "translation": "temptation,",
       "metadata": {},
       "gematria": {
@@ -193,8 +196,11 @@
     {
       "position": 13,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "Since",
       "metadata": {},
       "gematria": {
@@ -398,8 +404,11 @@
     {
       "position": 26,
       "text": "αἰῶνας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G165"
+      ],
+      "strongs": "G165",
+      "morph": "robinson:N-APM",
       "translation": "ages",
       "metadata": {},
       "gematria": {

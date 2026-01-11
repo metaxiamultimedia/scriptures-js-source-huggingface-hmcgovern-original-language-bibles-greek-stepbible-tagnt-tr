@@ -276,8 +276,11 @@
     {
       "position": 18,
       "text": "καλούμενον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-PPP-ASN",
       "translation": "is being called",
       "metadata": {},
       "gematria": {

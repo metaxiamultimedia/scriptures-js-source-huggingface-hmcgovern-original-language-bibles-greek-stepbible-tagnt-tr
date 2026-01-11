@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "λεγομένοις,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PPP-DPN",
       "translation": "he is speaking,",
       "metadata": {},
       "gematria": {

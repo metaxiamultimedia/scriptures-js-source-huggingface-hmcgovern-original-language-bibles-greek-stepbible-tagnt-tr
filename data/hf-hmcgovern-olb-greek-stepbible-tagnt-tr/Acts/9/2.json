@@ -260,8 +260,11 @@
     {
       "position": 17,
       "text": "ἄνδρας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-APM",
       "translation": "men",
       "metadata": {},
       "gematria": {
@@ -305,8 +308,11 @@
     {
       "position": 20,
       "text": "γυναῖκας,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-APF",
       "translation": "women,",
       "metadata": {},
       "gematria": {

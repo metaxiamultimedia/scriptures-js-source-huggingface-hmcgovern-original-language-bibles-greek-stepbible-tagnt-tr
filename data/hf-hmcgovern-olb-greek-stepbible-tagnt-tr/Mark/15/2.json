@@ -260,8 +260,11 @@
     {
       "position": 17,
       "text": "λέγεις.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-2S",
       "translation": "have spoken.",
       "metadata": {},
       "gematria": {

@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "ὄψησθε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3700"
+      ],
+      "strongs": "G3700",
+      "morph": "robinson:V-2ADS-2P",
       "translation": "you may behold",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "Ἰακὼβ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2384"
+      ],
+      "strongs": "G2384",
+      "morph": "robinson:N-ASM-P",
       "translation": "Jacob",
       "metadata": {},
       "gematria": {

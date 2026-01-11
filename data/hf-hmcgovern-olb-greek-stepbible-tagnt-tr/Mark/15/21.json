@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "Σίμωνα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4613"
+      ],
+      "strongs": "G4613",
+      "morph": "robinson:N-ASM-P",
       "translation": "Simon",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "ἀγροῦ,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G68"
+      ],
+      "strongs": "G68",
+      "morph": "robinson:N-GSM",
       "translation": "[the] country,",
       "metadata": {},
       "gematria": {
@@ -174,8 +180,11 @@
     {
       "position": 12,
       "text": "Ἀλεξάνδρου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G223"
+      ],
+      "strongs": "G223",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Alexander",
       "metadata": {},
       "gematria": {
@@ -203,8 +212,11 @@
     {
       "position": 14,
       "text": "Ῥούφου,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4504"
+      ],
+      "strongs": "G4504",
+      "morph": "robinson:N-GSM-P",
       "translation": "Rufus,",
       "metadata": {},
       "gematria": {

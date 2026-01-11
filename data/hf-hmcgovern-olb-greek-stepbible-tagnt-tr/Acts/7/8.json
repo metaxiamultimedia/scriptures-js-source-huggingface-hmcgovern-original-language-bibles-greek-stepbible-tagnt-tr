@@ -324,8 +324,11 @@
     {
       "position": 21,
       "text": "Ἰακώβ,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2384"
+      ],
+      "strongs": "G2384",
+      "morph": "robinson:N-ASM-P",
       "translation": "Jacob,",
       "metadata": {},
       "gematria": {
@@ -353,8 +356,11 @@
     {
       "position": 23,
       "text": "Ἰακὼβ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2384"
+      ],
+      "strongs": "G2384",
+      "morph": "robinson:N-NSM-P",
       "translation": "Jacob",
       "metadata": {},
       "gematria": {

@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "ἀπολυθέντες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G630"
+      ],
+      "strongs": "G630",
+      "morph": "robinson:V-APP-NPM",
       "translation": "having been sent off",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "Ἀντιόχειαν,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G490"
+      ],
+      "strongs": "G490",
+      "morph": "robinson:N-ASF-L",
       "translation": "Antioch,",
       "metadata": {},
       "gematria": {

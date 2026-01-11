@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "πνευμάτων,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-GPN",
       "translation": "of spirits,",
       "metadata": {},
       "gematria": {
@@ -193,8 +196,11 @@
     {
       "position": 13,
       "text": "γένη",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1085"
+      ],
+      "strongs": "G1085",
+      "morph": "robinson:N-NPN",
       "translation": "various kinds",
       "metadata": {},
       "gematria": {

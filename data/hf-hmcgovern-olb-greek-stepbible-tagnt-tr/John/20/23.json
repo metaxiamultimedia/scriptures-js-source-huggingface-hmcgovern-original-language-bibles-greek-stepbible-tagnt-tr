@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ἀφῆτε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-2AAS-2P",
       "translation": "you may forgive",
       "metadata": {},
       "gematria": {

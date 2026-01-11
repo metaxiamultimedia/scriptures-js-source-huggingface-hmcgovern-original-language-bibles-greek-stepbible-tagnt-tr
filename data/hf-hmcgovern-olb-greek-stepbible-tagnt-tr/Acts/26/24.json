@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "φωνῇ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5456"
+      ],
+      "strongs": "G5456",
+      "morph": "robinson:N-DSF",
       "translation": "voice",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "Παῦλε·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-VSM-P",
       "translation": "Paul!",
       "metadata": {},
       "gematria": {

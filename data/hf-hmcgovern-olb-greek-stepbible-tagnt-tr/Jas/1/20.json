@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ἀνδρὸς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-GSM",
       "translation": "of man",
       "metadata": {},
       "gematria": {

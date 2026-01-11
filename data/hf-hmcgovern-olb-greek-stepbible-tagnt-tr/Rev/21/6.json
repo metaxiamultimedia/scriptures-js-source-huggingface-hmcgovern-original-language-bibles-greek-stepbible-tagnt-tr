@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "ἄλφα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1"
+      ],
+      "strongs": "G1",
+      "morph": "robinson:N-NSN-T",
       "translation": "Alpha",
       "metadata": {},
       "gematria": {

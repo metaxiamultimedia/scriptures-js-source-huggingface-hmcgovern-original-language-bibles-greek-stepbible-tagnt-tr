@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "λεγομένης",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PPP-GSF",
       "translation": "is being named",
       "metadata": {},
       "gematria": {

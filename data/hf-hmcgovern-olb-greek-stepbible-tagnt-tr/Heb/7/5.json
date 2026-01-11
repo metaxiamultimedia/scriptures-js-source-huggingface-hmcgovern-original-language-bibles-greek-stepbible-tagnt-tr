@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "Λευὶ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3017"
+      ],
+      "strongs": "G3017",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Levi",
       "metadata": {},
       "gematria": {

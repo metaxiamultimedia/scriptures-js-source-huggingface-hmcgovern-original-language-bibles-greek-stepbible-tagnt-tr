@@ -436,8 +436,11 @@
     {
       "position": 28,
       "text": "πίστει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-DSF",
       "translation": "by faith",
       "metadata": {},
       "gematria": {

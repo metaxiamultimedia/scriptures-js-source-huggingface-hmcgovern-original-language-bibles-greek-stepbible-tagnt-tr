@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "ἀφίεται",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-PPI-3S",
       "translation": "is left",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "οἶκος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-NSM",
       "translation": "house",
       "metadata": {},
       "gematria": {

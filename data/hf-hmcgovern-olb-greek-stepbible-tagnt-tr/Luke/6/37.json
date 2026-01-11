@@ -212,8 +212,11 @@
     {
       "position": 14,
       "text": "ἀπολύετε,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G630"
+      ],
+      "strongs": "G630",
+      "morph": "robinson:V-PAM-2P",
       "translation": "do forgive,",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "ἀπολυθήσεσθε.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G630"
+      ],
+      "strongs": "G630",
+      "morph": "robinson:V-FPI-2P",
       "translation": "you will be forgiven.",
       "metadata": {},
       "gematria": {

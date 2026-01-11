@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "ἔβαλεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-2AAI-3S",
       "translation": "it threw",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "καλούμενος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-PPP-NSM",
       "translation": "is being called",
       "metadata": {},
       "gematria": {

@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ποιοῦντος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAP-GSM",
       "translation": "doing",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "ποιεῖ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAI-3S",
       "translation": "is doing",
       "metadata": {},
       "gematria": {

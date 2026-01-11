@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Ἔλεγεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-IAI-3S",
       "translation": "He was saying",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "ὑπ᾽",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5259"
+      ],
+      "strongs": "G5259",
+      "morph": "robinson:PREP",
       "translation": "by",
       "metadata": {},
       "gematria": {
@@ -126,8 +132,11 @@
     {
       "position": 9,
       "text": "γεννήματα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1081"
+      ],
+      "strongs": "G1081",
+      "morph": "robinson:N-VPN",
       "translation": "Offspring",
       "metadata": {},
       "gematria": {

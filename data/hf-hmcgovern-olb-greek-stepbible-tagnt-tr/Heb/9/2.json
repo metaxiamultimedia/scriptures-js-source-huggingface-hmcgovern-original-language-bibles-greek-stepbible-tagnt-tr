@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "πρώτη",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-NSF",
       "translation": "first [room] —",
       "metadata": {},
       "gematria": {
@@ -305,8 +308,11 @@
     {
       "position": 20,
       "text": "λέγεται",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PPI-3S",
       "translation": "is named",
       "metadata": {},
       "gematria": {
@@ -318,8 +324,11 @@
     {
       "position": 21,
       "text": "ἅγια.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G39"
+      ],
+      "strongs": "G39",
+      "morph": "robinson:A-NPN-L",
       "translation": "[the] Holy [Places].",
       "metadata": {},
       "gematria": {

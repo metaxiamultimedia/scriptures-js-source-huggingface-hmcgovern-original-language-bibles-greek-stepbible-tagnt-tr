@@ -148,8 +148,11 @@
     {
       "position": 10,
       "text": "οἰκίας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3614"
+      ],
+      "strongs": "G3614",
+      "morph": "robinson:N-APF",
       "translation": "houses",
       "metadata": {},
       "gematria": {
@@ -305,8 +308,11 @@
     {
       "position": 20,
       "text": "ἀγροὺς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G68"
+      ],
+      "strongs": "G68",
+      "morph": "robinson:N-APM",
       "translation": "lands",
       "metadata": {},
       "gematria": {
@@ -398,8 +404,11 @@
     {
       "position": 26,
       "text": "αἰῶνι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G165"
+      ],
+      "strongs": "G165",
+      "morph": "robinson:N-DSM",
       "translation": "age",
       "metadata": {},
       "gematria": {

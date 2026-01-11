@@ -276,8 +276,11 @@
     {
       "position": 18,
       "text": "Ἰωάννην",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2491"
+      ],
+      "strongs": "G2491",
+      "morph": "robinson:N-ASM-P",
       "translation": "John [as]",
       "metadata": {},
       "gematria": {

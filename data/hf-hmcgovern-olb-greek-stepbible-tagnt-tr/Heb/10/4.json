@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "αἷμα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G129"
+      ],
+      "strongs": "G129",
+      "morph": "robinson:N-ASN",
       "translation": "[for the] blood",
       "metadata": {},
       "gematria": {

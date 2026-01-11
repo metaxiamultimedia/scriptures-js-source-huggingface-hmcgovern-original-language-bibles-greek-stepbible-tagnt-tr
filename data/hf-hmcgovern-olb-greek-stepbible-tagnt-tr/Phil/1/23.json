@@ -244,8 +244,11 @@
     {
       "position": 16,
       "text": "μᾶλλον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3123"
+      ],
+      "strongs": "G3123",
+      "morph": "robinson:ADV",
       "translation": "more",
       "metadata": {},
       "gematria": {

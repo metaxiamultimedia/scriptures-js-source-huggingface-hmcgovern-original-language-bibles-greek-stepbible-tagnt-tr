@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "βασίλισσα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G938"
+      ],
+      "strongs": "G938",
+      "morph": "robinson:N-NSF",
       "translation": "[The] Queen",
       "metadata": {},
       "gematria": {
@@ -17,8 +20,11 @@
     {
       "position": 2,
       "text": "νότου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3558"
+      ],
+      "strongs": "G3558",
+      "morph": "robinson:N-GSM",
       "translation": "of [the] South",
       "metadata": {},
       "gematria": {
@@ -126,8 +132,11 @@
     {
       "position": 9,
       "text": "ἀνδρῶν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-GPM",
       "translation": "men",
       "metadata": {},
       "gematria": {
@@ -235,8 +244,11 @@
     {
       "position": 16,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "For",
       "metadata": {},
       "gematria": {
@@ -328,8 +340,11 @@
     {
       "position": 22,
       "text": "γῆς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-GSF",
       "translation": "earth",
       "metadata": {},
       "gematria": {
@@ -389,8 +404,11 @@
     {
       "position": 26,
       "text": "Σολομῶνος,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4672"
+      ],
+      "strongs": "G4672",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Solomon,",
       "metadata": {},
       "gematria": {
@@ -450,8 +468,11 @@
     {
       "position": 30,
       "text": "Σολομῶνος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4672"
+      ],
+      "strongs": "G4672",
+      "morph": "robinson:N-GSM-P",
       "translation": "than Solomon",
       "metadata": {},
       "gematria": {

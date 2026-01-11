@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "ἐποίησεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAI-3S",
       "translation": "made",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "Λευὶς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3017"
+      ],
+      "strongs": "G3017",
+      "morph": "robinson:N-NSM-P",
       "translation": "Levi",
       "metadata": {},
       "gematria": {
@@ -126,8 +132,11 @@
     {
       "position": 9,
       "text": "οἰκίᾳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3614"
+      ],
+      "strongs": "G3614",
+      "morph": "robinson:N-DSF",
       "translation": "house",
       "metadata": {},
       "gematria": {

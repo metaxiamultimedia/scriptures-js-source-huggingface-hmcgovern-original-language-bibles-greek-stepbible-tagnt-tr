@@ -228,8 +228,11 @@
     {
       "position": 15,
       "text": "ψυχαὶ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5590"
+      ],
+      "strongs": "G5590",
+      "morph": "robinson:N-NPF",
       "translation": "souls",
       "metadata": {},
       "gematria": {

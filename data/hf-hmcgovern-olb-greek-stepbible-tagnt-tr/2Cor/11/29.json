@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "ἀσθενεῖ,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G770"
+      ],
+      "strongs": "G770",
+      "morph": "robinson:V-PAI-3S",
       "translation": "is weak,",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "ἀσθενῶ;",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G770"
+      ],
+      "strongs": "G770",
+      "morph": "robinson:V-PAI-1S",
       "translation": "I am weak?",
       "metadata": {},
       "gematria": {

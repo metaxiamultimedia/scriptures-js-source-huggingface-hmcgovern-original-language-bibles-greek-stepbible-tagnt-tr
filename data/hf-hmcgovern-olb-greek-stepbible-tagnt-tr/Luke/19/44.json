@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "ἀφήσουσιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-FAI-3P",
       "translation": "will leave",
       "metadata": {},
       "gematria": {

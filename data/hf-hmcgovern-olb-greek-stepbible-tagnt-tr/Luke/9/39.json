@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "πνεῦμα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-NSN",
       "translation": "a spirit",
       "metadata": {},
       "gematria": {

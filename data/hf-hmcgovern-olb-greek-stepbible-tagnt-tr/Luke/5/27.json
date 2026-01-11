@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "Λευὶν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3017"
+      ],
+      "strongs": "G3017",
+      "morph": "robinson:N-ASM-P",
       "translation": "Levi",
       "metadata": {},
       "gematria": {

@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "Καίσαρος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2541"
+      ],
+      "strongs": "G2541",
+      "morph": "robinson:N-GSM-T",
       "translation": "of Caesar",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "Καίσαρι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2541"
+      ],
+      "strongs": "G2541",
+      "morph": "robinson:N-DSM-T",
       "translation": "to Caesar",
       "metadata": {},
       "gematria": {

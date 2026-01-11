@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "ἐποίησα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAI-1S",
       "translation": "did",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "ποιῆτε.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAS-2P",
       "translation": "may do.",
       "metadata": {},
       "gematria": {

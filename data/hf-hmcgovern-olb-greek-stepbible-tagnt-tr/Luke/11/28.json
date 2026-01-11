@@ -196,8 +196,11 @@
     {
       "position": 13,
       "text": "φυλάσσοντες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5442"
+      ],
+      "strongs": "G5442",
+      "morph": "robinson:V-PAP-NPM",
       "translation": "keeping",
       "metadata": {},
       "gematria": {

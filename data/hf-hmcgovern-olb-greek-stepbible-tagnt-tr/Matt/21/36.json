@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "πρώτων,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-GPM",
       "translation": "first,",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "ἐποίησαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAI-3P",
       "translation": "they did",
       "metadata": {},
       "gematria": {

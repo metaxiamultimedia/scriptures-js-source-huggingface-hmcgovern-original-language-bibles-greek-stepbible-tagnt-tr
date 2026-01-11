@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "πειρασμόν.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3986"
+      ],
+      "strongs": "G3986",
+      "morph": "robinson:N-ASM",
       "translation": "temptation.",
       "metadata": {},
       "gematria": {

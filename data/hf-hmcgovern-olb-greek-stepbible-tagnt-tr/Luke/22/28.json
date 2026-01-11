@@ -148,8 +148,11 @@
     {
       "position": 10,
       "text": "πειρασμοῖς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3986"
+      ],
+      "strongs": "G3986",
+      "morph": "robinson:N-DPM",
       "translation": "trials",
       "metadata": {},
       "gematria": {

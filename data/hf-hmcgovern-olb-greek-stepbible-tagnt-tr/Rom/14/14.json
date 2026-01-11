@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "κυρίῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-DSM-T",
       "translation": "Lord",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "Ἰησοῦ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2424"
+      ],
+      "strongs": "G2424",
+      "morph": "robinson:N-DSM-P",
       "translation": "Jesus",
       "metadata": {},
       "gematria": {
@@ -94,8 +100,11 @@
     {
       "position": 7,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -123,8 +132,11 @@
     {
       "position": 9,
       "text": "κοινὸν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2839"
+      ],
+      "strongs": "G2839",
+      "morph": "robinson:A-NSN",
       "translation": "unclean",
       "metadata": {},
       "gematria": {
@@ -168,8 +180,11 @@
     {
       "position": 12,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "only",
       "metadata": {},
       "gematria": {
@@ -245,8 +260,11 @@
     {
       "position": 17,
       "text": "κοινὸν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2839"
+      ],
+      "strongs": "G2839",
+      "morph": "robinson:A-NSN",
       "translation": "unclean",
       "metadata": {},
       "gematria": {
@@ -290,8 +308,11 @@
     {
       "position": 20,
       "text": "κοινόν·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2839"
+      ],
+      "strongs": "G2839",
+      "morph": "robinson:A-NSN",
       "translation": "unclean [it is];",
       "metadata": {},
       "gematria": {

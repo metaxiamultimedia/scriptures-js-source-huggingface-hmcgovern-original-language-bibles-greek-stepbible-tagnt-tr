@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "λέγετε·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAM-2P",
       "translation": "do say:",
       "metadata": {},
       "gematria": {
@@ -481,8 +484,11 @@
     {
       "position": 31,
       "text": "γῆς·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-GSF",
       "translation": "earth;",
       "metadata": {},
       "gematria": {

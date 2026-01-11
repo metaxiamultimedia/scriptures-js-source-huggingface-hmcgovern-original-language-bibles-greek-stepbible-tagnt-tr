@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "ἀσθενεῖς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G772"
+      ],
+      "strongs": "G772",
+      "morph": "robinson:A-APM",
       "translation": "[the] sick",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "λέγετε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAM-2P",
       "translation": "do say",
       "metadata": {},
       "gematria": {

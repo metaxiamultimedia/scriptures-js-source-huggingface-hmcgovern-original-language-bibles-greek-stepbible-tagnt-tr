@@ -148,8 +148,11 @@
     {
       "position": 10,
       "text": "λέγουσα·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-NSF",
       "translation": "saying;",
       "metadata": {},
       "gematria": {

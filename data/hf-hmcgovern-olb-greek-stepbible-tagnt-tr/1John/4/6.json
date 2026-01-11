@@ -388,8 +388,11 @@
     {
       "position": 25,
       "text": "πνεῦμα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-ASN",
       "translation": "Spirit",
       "metadata": {},
       "gematria": {
@@ -465,8 +468,11 @@
     {
       "position": 30,
       "text": "πνεῦμα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-ASN",
       "translation": "spirit",
       "metadata": {},
       "gematria": {

@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "πίστεως",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-GSF",
       "translation": "of faith",
       "metadata": {},
       "gematria": {

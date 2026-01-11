@@ -532,8 +532,11 @@
     {
       "position": 34,
       "text": "ἀγγέλων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G32"
+      ],
+      "strongs": "G32",
+      "morph": "robinson:N-GPM",
       "translation": "angels",
       "metadata": {},
       "gematria": {
@@ -561,8 +564,11 @@
     {
       "position": 36,
       "text": "ἁγίων.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-GPM",
       "translation": "holy.",
       "metadata": {},
       "gematria": {

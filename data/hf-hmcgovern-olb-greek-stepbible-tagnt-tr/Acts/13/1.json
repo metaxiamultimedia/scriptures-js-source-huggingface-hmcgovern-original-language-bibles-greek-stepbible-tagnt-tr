@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "Ἀντιοχείᾳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G490"
+      ],
+      "strongs": "G490",
+      "morph": "robinson:N-DSF-L",
       "translation": "Antioch",
       "metadata": {},
       "gematria": {
@@ -209,8 +212,11 @@
     {
       "position": 14,
       "text": "Βαρναβᾶς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G921"
+      ],
+      "strongs": "G921",
+      "morph": "robinson:N-NSM-P",
       "translation": "Barnabas",
       "metadata": {},
       "gematria": {
@@ -238,8 +244,11 @@
     {
       "position": 16,
       "text": "Συμεὼν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4826"
+      ],
+      "strongs": "G4826",
+      "morph": "robinson:N-NSM-P",
       "translation": "Simeon",
       "metadata": {},
       "gematria": {
@@ -267,8 +276,11 @@
     {
       "position": 18,
       "text": "καλούμενος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-PPP-NSM",
       "translation": "is being called",
       "metadata": {},
       "gematria": {
@@ -392,8 +404,11 @@
     {
       "position": 26,
       "text": "Ἡρῴδου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2264"
+      ],
+      "strongs": "G2264",
+      "morph": "robinson:N-GSM-P",
       "translation": "with Herod",
       "metadata": {},
       "gematria": {
@@ -469,8 +484,11 @@
     {
       "position": 31,
       "text": "Σαῦλος.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4569"
+      ],
+      "strongs": "G4569",
+      "morph": "robinson:N-NSM-P",
       "translation": "Saul.",
       "metadata": {},
       "gematria": {

@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "εἴδετε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAI-2P",
       "translation": "you have seen",
       "metadata": {},
       "gematria": {

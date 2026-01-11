@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "ἴδετε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAM-2P",
       "translation": "Behold",
       "metadata": {},
       "gematria": {

@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "οἰκίαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3614"
+      ],
+      "strongs": "G3614",
+      "morph": "robinson:N-ASF",
       "translation": "house",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "Ἰούστου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2459"
+      ],
+      "strongs": "G2459",
+      "morph": "robinson:N-GSM-P",
       "translation": "Justus",
       "metadata": {},
       "gematria": {
@@ -206,8 +212,11 @@
     {
       "position": 14,
       "text": "οἰκία",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3614"
+      ],
+      "strongs": "G3614",
+      "morph": "robinson:N-NSF",
       "translation": "house",
       "metadata": {},
       "gematria": {

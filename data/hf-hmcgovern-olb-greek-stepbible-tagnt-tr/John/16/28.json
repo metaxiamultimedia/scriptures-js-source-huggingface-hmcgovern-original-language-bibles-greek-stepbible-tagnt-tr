@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "ἀφίημι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-PAI-1S",
       "translation": "I leave",
       "metadata": {},
       "gematria": {

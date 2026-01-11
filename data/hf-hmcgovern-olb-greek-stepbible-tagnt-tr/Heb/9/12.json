@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "αἵματος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G129"
+      ],
+      "strongs": "G129",
+      "morph": "robinson:N-GSN",
       "translation": "blood",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "αἵματος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G129"
+      ],
+      "strongs": "G129",
+      "morph": "robinson:N-GSN",
       "translation": "blood",
       "metadata": {},
       "gematria": {
@@ -238,8 +244,11 @@
     {
       "position": 16,
       "text": "ἅγια",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G39"
+      ],
+      "strongs": "G39",
+      "morph": "robinson:A-APN",
       "translation": "Holy [Places]",
       "metadata": {},
       "gematria": {

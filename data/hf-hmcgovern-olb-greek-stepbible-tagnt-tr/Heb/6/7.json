@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Γῆ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-NSF",
       "translation": "Land",
       "metadata": {},
       "gematria": {

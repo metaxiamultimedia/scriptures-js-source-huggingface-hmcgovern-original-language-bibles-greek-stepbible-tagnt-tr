@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "οἰκίας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3614"
+      ],
+      "strongs": "G3614",
+      "morph": "robinson:N-GSF",
       "translation": "house",
       "metadata": {},
       "gematria": {

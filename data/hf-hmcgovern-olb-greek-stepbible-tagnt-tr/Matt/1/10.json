@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "Μανασσῆ·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3128"
+      ],
+      "strongs": "G3128",
+      "morph": "robinson:N-ASM-P",
       "translation": "Manasseh;",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "Μανασσῆς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3128"
+      ],
+      "strongs": "G3128",
+      "morph": "robinson:N-NSM-P",
       "translation": "Manasseh",
       "metadata": {},
       "gematria": {

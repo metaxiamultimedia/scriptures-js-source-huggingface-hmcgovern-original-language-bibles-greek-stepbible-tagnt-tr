@@ -244,8 +244,11 @@
     {
       "position": 16,
       "text": "ψυχάς,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5590"
+      ],
+      "strongs": "G5590",
+      "morph": "robinson:N-APF",
       "translation": "lives,",
       "metadata": {},
       "gematria": {

@@ -228,8 +228,11 @@
     {
       "position": 15,
       "text": "Φίλιππον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5376"
+      ],
+      "strongs": "G5376",
+      "morph": "robinson:N-ASM-P",
       "translation": "Philip",
       "metadata": {},
       "gematria": {

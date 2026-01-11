@@ -372,8 +372,11 @@
     {
       "position": 24,
       "text": "Γαλιλαίας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1056"
+      ],
+      "strongs": "G1056",
+      "morph": "robinson:N-GSF-L",
       "translation": "of Galilee",
       "metadata": {},
       "gematria": {
@@ -481,8 +484,11 @@
     {
       "position": 31,
       "text": "κυρίου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-GSM-T",
       "translation": "of [the] Lord",
       "metadata": {},
       "gematria": {

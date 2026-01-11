@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "πειράζετε·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3985"
+      ],
+      "strongs": "G3985",
+      "morph": "robinson:V-PAI-2P",
       "translation": "do you test;",
       "metadata": {},
       "gematria": {

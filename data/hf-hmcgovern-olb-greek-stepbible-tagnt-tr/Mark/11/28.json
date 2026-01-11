@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "ποιεῖς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAI-2S",
       "translation": "are You doing",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "ποιῇς;",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAS-2S",
       "translation": "You may do?",
       "metadata": {},
       "gematria": {

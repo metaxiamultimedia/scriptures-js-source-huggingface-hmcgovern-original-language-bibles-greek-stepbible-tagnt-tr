@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "φυλάσσεσθε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5442"
+      ],
+      "strongs": "G5442",
+      "morph": "robinson:V-PMM-2P",
       "translation": "do beware",
       "metadata": {},
       "gematria": {

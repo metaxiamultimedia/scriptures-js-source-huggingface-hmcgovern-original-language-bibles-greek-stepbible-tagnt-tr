@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Σολομὼν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4672"
+      ],
+      "strongs": "G4672",
+      "morph": "robinson:N-NSM-P",
       "translation": "Solomon",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "οἶκον.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-ASM",
       "translation": "[the] house.",
       "metadata": {},
       "gematria": {

@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "ἀφῆτε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-2AAS-2P",
       "translation": "you shall forgive",
       "metadata": {},
       "gematria": {
@@ -193,8 +196,11 @@
     {
       "position": 13,
       "text": "ἀφήσει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-FAI-3S",
       "translation": "will forgive",
       "metadata": {},
       "gematria": {

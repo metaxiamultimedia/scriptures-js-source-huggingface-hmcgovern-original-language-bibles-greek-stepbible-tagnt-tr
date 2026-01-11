@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "ἀγρῷ,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G68"
+      ],
+      "strongs": "G68",
+      "morph": "robinson:N-DSM",
       "translation": "field,",
       "metadata": {},
       "gematria": {
@@ -465,8 +468,11 @@
     {
       "position": 30,
       "text": "ἀγρὸν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G68"
+      ],
+      "strongs": "G68",
+      "morph": "robinson:N-ASM",
       "translation": "field",
       "metadata": {},
       "gematria": {

@@ -148,8 +148,11 @@
     {
       "position": 10,
       "text": "ἁγίῳ.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-DSN",
       "translation": "holy.",
       "metadata": {},
       "gematria": {

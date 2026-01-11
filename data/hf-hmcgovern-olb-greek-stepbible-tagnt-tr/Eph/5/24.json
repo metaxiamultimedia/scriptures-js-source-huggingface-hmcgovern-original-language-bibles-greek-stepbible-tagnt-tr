@@ -148,8 +148,11 @@
     {
       "position": 10,
       "text": "γυναῖκες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-NPF",
       "translation": "wives",
       "metadata": {},
       "gematria": {
@@ -193,8 +196,11 @@
     {
       "position": 13,
       "text": "ἀνδράσιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-DPM",
       "translation": "husbands",
       "metadata": {},
       "gematria": {

@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "λέγετε·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-2P",
       "translation": "you say;",
       "metadata": {},
       "gematria": {

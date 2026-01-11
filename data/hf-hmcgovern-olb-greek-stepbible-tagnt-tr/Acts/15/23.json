@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "πρεσβύτεροι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4245"
+      ],
+      "strongs": "G4245",
+      "morph": "robinson:N-NPM-C",
       "translation": "elders",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "Ἀντιόχειαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G490"
+      ],
+      "strongs": "G490",
+      "morph": "robinson:N-ASF-L",
       "translation": "Antioch",
       "metadata": {},
       "gematria": {

@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "ἔβαλεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-2AAI-3S",
       "translation": "He put",
       "metadata": {},
       "gematria": {

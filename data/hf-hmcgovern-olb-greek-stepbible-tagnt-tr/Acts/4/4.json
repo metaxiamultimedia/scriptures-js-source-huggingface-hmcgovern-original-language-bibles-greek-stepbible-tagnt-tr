@@ -196,8 +196,11 @@
     {
       "position": 13,
       "text": "ἀνδρῶν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-GPM",
       "translation": "men",
       "metadata": {},
       "gematria": {

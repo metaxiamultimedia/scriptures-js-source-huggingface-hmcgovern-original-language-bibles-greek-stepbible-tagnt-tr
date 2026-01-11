@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "ἀπέλυσεν.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G630"
+      ],
+      "strongs": "G630",
+      "morph": "robinson:V-AAI-3S",
       "translation": "let [him] go.",
       "metadata": {},
       "gematria": {

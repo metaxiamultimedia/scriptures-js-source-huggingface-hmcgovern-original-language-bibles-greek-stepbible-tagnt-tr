@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "καλὸν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2570"
+      ],
+      "strongs": "G2570",
+      "morph": "robinson:A-ASN",
       "translation": "good",
       "metadata": {},
       "gematria": {

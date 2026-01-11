@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "ἴδωσιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAS-3P",
       "translation": "they may perceive",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "ἀφεθῇ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-APS-3S",
       "translation": "may be forgiven",
       "metadata": {},
       "gematria": {

@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "οἶκόν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-ASM",
       "translation": "a house",
       "metadata": {},
       "gematria": {

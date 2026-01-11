@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "ποιῇς,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAS-2S",
       "translation": "you may make",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "κάλει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-PAM-2S",
       "translation": "do call",
       "metadata": {},
       "gematria": {

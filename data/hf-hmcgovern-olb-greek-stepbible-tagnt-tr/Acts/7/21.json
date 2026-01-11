@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "Φαραὼ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5328"
+      ],
+      "strongs": "G5328",
+      "morph": "robinson:N-GSM-T",
       "translation": "of Pharaoh",
       "metadata": {},
       "gematria": {

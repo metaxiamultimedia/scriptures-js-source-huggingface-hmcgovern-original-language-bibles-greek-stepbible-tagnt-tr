@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "Ἰακὼβ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2384"
+      ],
+      "strongs": "G2384",
+      "morph": "robinson:N-ASM-P",
       "translation": "Jacob",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "Ἠσαῦ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2269"
+      ],
+      "strongs": "G2269",
+      "morph": "robinson:N-ASM-L",
       "translation": "Esau",
       "metadata": {},
       "gematria": {

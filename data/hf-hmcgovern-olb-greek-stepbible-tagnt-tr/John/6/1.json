@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "Ἰησοῦς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2424"
+      ],
+      "strongs": "G2424",
+      "morph": "robinson:N-NSM-P",
       "translation": "Jesus",
       "metadata": {},
       "gematria": {
@@ -145,8 +148,11 @@
     {
       "position": 10,
       "text": "Γαλιλαίας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1056"
+      ],
+      "strongs": "G1056",
+      "morph": "robinson:N-GSF-L",
       "translation": "of Galilee —",
       "metadata": {},
       "gematria": {
@@ -174,8 +180,11 @@
     {
       "position": 12,
       "text": "Τιβεριάδος.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5085"
+      ],
+      "strongs": "G5085",
+      "morph": "robinson:N-GSF-L",
       "translation": "of Tiberias.",
       "metadata": {},
       "gematria": {

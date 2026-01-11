@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ἤφιεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-IAI-3S",
       "translation": "He was permiting",
       "metadata": {},
       "gematria": {

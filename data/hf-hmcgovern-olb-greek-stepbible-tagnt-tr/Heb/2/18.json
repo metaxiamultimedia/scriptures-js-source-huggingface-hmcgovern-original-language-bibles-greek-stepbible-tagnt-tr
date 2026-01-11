@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "πειρασθείς,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3985"
+      ],
+      "strongs": "G3985",
+      "morph": "robinson:V-APP-NSM",
       "translation": "having been tempted,",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "πειραζομένοις",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3985"
+      ],
+      "strongs": "G3985",
+      "morph": "robinson:V-PPP-DPM",
       "translation": "being tempted",
       "metadata": {},
       "gematria": {

@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "ποιεῖτε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAI-2P",
       "translation": "do you",
       "metadata": {},
       "gematria": {

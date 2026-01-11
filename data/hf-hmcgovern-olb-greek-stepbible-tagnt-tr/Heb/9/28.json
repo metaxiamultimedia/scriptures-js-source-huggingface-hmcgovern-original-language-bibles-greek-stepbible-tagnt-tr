@@ -228,8 +228,11 @@
     {
       "position": 15,
       "text": "ὀφθήσεται",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3700"
+      ],
+      "strongs": "G3700",
+      "morph": "robinson:V-FPI-3S",
       "translation": "will appear",
       "metadata": {},
       "gematria": {

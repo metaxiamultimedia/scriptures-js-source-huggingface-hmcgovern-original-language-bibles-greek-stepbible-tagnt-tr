@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "ἀσθενὴς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G772"
+      ],
+      "strongs": "G772",
+      "morph": "robinson:A-ASM",
       "translation": "sick",
       "metadata": {},
       "gematria": {
@@ -225,8 +228,11 @@
     {
       "position": 15,
       "text": "φυλακῇ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5438"
+      ],
+      "strongs": "G5438",
+      "morph": "robinson:N-DSF",
       "translation": "prison",
       "metadata": {},
       "gematria": {

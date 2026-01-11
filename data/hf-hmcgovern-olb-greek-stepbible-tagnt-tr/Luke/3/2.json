@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "Καϊάφα,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2533"
+      ],
+      "strongs": "G2533",
+      "morph": "robinson:N-GSM-P",
       "translation": "Caiaphas,",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "Ἰωάννην",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2491"
+      ],
+      "strongs": "G2491",
+      "morph": "robinson:N-ASM-P",
       "translation": "John",
       "metadata": {},
       "gematria": {
@@ -158,8 +164,11 @@
     {
       "position": 11,
       "text": "Ζαχαρίου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2197"
+      ],
+      "strongs": "G2197",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Zechariah",
       "metadata": {},
       "gematria": {

@@ -260,8 +260,11 @@
     {
       "position": 17,
       "text": "ἐποιήσατε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAI-2P",
       "translation": "you made",
       "metadata": {},
       "gematria": {

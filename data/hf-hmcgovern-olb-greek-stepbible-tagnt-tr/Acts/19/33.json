@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "Ἀλέξανδρον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G223"
+      ],
+      "strongs": "G223",
+      "morph": "robinson:N-ASM-P",
       "translation": "Alexander",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "Ἀλέξανδρος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G223"
+      ],
+      "strongs": "G223",
+      "morph": "robinson:N-NSM-P",
       "translation": "Alexander",
       "metadata": {},
       "gematria": {

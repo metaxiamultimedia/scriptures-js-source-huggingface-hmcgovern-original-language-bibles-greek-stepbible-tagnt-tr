@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "ἄφες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-2AAM-2S",
       "translation": "do yield",
       "metadata": {},
       "gematria": {

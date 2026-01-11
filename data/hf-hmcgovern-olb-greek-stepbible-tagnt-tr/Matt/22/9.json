@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "καλέσατε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-AAM-2P",
       "translation": "do invite",
       "metadata": {},
       "gematria": {

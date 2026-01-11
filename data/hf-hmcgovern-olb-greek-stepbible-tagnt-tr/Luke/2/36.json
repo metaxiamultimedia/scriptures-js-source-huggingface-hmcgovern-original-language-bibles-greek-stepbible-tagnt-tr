@@ -260,8 +260,11 @@
     {
       "position": 17,
       "text": "ἀνδρὸς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-GSM",
       "translation": "a husband",
       "metadata": {},
       "gematria": {

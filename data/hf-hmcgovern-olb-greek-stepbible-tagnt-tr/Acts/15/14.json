@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Συμεὼν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4826"
+      ],
+      "strongs": "G4826",
+      "morph": "robinson:N-NSM-P",
       "translation": "Simeon",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "πρῶτον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-ASN",
       "translation": "first",
       "metadata": {},
       "gematria": {

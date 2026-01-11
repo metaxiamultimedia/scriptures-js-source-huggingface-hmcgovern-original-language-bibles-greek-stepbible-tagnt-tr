@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "Ἰωνᾶς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2495"
+      ],
+      "strongs": "G2495",
+      "morph": "robinson:N-NSM-P",
       "translation": "Jonah",
       "metadata": {},
       "gematria": {
@@ -385,8 +388,11 @@
     {
       "position": 25,
       "text": "γῆς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-GSF",
       "translation": "earth",
       "metadata": {},
       "gematria": {

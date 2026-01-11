@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "ὤφθη",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3700"
+      ],
+      "strongs": "G3700",
+      "morph": "robinson:V-API-3S",
       "translation": "was seen",
       "metadata": {},
       "gematria": {

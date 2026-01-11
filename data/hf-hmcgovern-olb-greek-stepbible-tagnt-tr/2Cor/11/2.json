@@ -148,8 +148,11 @@
     {
       "position": 10,
       "text": "ἀνδρὶ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-DSM",
       "translation": "husband",
       "metadata": {},
       "gematria": {

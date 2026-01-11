@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "ἀγρὸν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G68"
+      ],
+      "strongs": "G68",
+      "morph": "robinson:N-ASM",
       "translation": "field",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "κεραμέως,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2763"
+      ],
+      "strongs": "G2763",
+      "morph": "robinson:N-GSM",
       "translation": "potter,",
       "metadata": {},
       "gematria": {
@@ -174,8 +180,11 @@
     {
       "position": 12,
       "text": "κύριος.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-NSM-T",
       "translation": "[the] Lord",
       "metadata": {},
       "gematria": {

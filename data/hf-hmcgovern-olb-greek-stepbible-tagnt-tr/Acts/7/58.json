@@ -276,8 +276,11 @@
     {
       "position": 18,
       "text": "καλουμένου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-PPP-GSM",
       "translation": "named",
       "metadata": {},
       "gematria": {
@@ -289,8 +292,11 @@
     {
       "position": 19,
       "text": "Σαύλου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4569"
+      ],
+      "strongs": "G4569",
+      "morph": "robinson:N-GSM-P",
       "translation": "Saul",
       "metadata": {},
       "gematria": {

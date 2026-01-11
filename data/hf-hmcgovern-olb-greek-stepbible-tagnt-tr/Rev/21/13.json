@@ -148,8 +148,11 @@
     {
       "position": 10,
       "text": "νότου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3558"
+      ],
+      "strongs": "G3558",
+      "morph": "robinson:N-GSM",
       "translation": "[the] south",
       "metadata": {},
       "gematria": {

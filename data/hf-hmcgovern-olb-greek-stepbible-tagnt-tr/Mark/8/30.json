@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "λέγωσιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAS-3P",
       "translation": "they may tell",
       "metadata": {},
       "gematria": {

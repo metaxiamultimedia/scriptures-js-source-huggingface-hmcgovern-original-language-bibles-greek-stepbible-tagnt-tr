@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "πειρασμὸν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3986"
+      ],
+      "strongs": "G3986",
+      "morph": "robinson:N-ASM",
       "translation": "a trial",
       "metadata": {},
       "gematria": {

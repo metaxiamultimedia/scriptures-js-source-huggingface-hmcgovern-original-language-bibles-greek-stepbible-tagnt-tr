@@ -196,8 +196,11 @@
     {
       "position": 13,
       "text": "Καισαρείας,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2542"
+      ],
+      "strongs": "G2542",
+      "morph": "robinson:N-GSF-L",
       "translation": "Caesarea,",
       "metadata": {},
       "gematria": {

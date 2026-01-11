@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "Γαλιλαίαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1056"
+      ],
+      "strongs": "G1056",
+      "morph": "robinson:N-ASF-L",
       "translation": "Galilee",
       "metadata": {},
       "gematria": {

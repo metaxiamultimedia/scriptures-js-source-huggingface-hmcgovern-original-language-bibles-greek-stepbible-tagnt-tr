@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "λέγει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-3S",
       "translation": "Says",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "Φαραὼ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5328"
+      ],
+      "strongs": "G5328",
+      "morph": "robinson:N-DSM-T",
       "translation": "to Pharaoh",
       "metadata": {},
       "gematria": {
@@ -94,8 +100,11 @@
     {
       "position": 7,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -443,8 +452,11 @@
     {
       "position": 29,
       "text": "γῇ.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-DSF",
       "translation": "earth.",
       "metadata": {},
       "gematria": {

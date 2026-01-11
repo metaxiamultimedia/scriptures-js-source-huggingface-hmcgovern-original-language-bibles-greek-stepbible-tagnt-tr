@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "ἀσθενείαις,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G769"
+      ],
+      "strongs": "G769",
+      "morph": "robinson:N-DPF",
       "translation": "weaknesses,",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "ἀσθενῶ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G770"
+      ],
+      "strongs": "G770",
+      "morph": "robinson:V-PAS-1S",
       "translation": "I may be weak",
       "metadata": {},
       "gematria": {

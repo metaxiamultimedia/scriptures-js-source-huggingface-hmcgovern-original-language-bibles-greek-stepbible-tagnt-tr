@@ -228,8 +228,11 @@
     {
       "position": 15,
       "text": "κύριε.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-VSM-T",
       "translation": "Lord.",
       "metadata": {},
       "gematria": {

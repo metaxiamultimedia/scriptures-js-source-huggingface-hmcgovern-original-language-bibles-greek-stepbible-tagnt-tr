@@ -244,8 +244,11 @@
     {
       "position": 16,
       "text": "ἁγίαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-ASF",
       "translation": "holy",
       "metadata": {},
       "gematria": {

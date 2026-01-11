@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "Ἁνανίας·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G367"
+      ],
+      "strongs": "G367",
+      "morph": "robinson:N-NSM-P",
       "translation": "Ananias;",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "κύριε,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-VSM-T",
       "translation": "Lord,",
       "metadata": {},
       "gematria": {
@@ -126,8 +132,11 @@
     {
       "position": 9,
       "text": "ἀνδρὸς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-GSM",
       "translation": "man",
       "metadata": {},
       "gematria": {
@@ -171,8 +180,11 @@
     {
       "position": 12,
       "text": "κακὰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2556"
+      ],
+      "strongs": "G2556",
+      "morph": "robinson:A-APN",
       "translation": "evils",
       "metadata": {},
       "gematria": {
@@ -200,8 +212,11 @@
     {
       "position": 14,
       "text": "ἁγίοις",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-DPM",
       "translation": "saints",
       "metadata": {},
       "gematria": {
@@ -229,8 +244,11 @@
     {
       "position": 16,
       "text": "ἐποίησεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAI-3S",
       "translation": "he did",
       "metadata": {},
       "gematria": {

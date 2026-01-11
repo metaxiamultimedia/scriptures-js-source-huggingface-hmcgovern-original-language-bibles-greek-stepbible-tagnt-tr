@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "Σολομῶνα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4672"
+      ],
+      "strongs": "G4672",
+      "morph": "robinson:N-ASM-P",
       "translation": "Solomon",
       "metadata": {},
       "gematria": {

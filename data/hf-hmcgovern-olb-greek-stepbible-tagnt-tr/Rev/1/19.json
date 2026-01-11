@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "εἶδες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAI-2S",
       "translation": "you have seen",
       "metadata": {},
       "gematria": {

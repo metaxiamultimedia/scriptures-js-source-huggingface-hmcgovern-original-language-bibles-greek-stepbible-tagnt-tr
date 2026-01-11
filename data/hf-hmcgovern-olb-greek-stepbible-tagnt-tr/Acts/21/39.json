@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "Παῦλος·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-NSM-P",
       "translation": "Paul;",
       "metadata": {},
       "gematria": {

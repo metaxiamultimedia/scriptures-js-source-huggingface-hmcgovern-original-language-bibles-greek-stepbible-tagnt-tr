@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "γένει,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1085"
+      ],
+      "strongs": "G1085",
+      "morph": "robinson:N-DSN",
       "translation": "a native,",
       "metadata": {},
       "gematria": {
@@ -257,8 +260,11 @@
     {
       "position": 17,
       "text": "γυναῖκα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-ASF",
       "translation": "wife",
       "metadata": {},
       "gematria": {
@@ -334,8 +340,11 @@
     {
       "position": 22,
       "text": "Κλαύδιον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2804"
+      ],
+      "strongs": "G2804",
+      "morph": "robinson:N-ASM-P",
       "translation": "Claudius",
       "metadata": {},
       "gematria": {

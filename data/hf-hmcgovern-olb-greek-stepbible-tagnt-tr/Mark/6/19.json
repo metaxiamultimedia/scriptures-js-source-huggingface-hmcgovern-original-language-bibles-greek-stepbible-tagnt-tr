@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "Ἡρῳδιὰς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2266"
+      ],
+      "strongs": "G2266",
+      "morph": "robinson:N-NSF-P",
       "translation": "Herodias",
       "metadata": {},
       "gematria": {

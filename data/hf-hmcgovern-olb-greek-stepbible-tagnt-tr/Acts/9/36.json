@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "λέγεται",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PPI-3S",
       "translation": "is called",
       "metadata": {},
       "gematria": {
@@ -321,8 +324,11 @@
     {
       "position": 21,
       "text": "ἐποίει·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-IAI-3S",
       "translation": "she was doing;",
       "metadata": {},
       "gematria": {

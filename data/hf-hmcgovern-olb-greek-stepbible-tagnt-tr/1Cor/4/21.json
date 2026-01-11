@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "πνεύματί",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-DSN",
       "translation": "a spirit",
       "metadata": {},
       "gematria": {

@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "ἀσθενούντων,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G770"
+      ],
+      "strongs": "G770",
+      "morph": "robinson:V-PAP-GPM",
       "translation": "ailing,",
       "metadata": {},
       "gematria": {

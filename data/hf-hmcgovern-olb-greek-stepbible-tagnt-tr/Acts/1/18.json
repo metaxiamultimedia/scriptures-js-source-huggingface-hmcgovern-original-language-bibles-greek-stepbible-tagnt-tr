@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "χωρίον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5564"
+      ],
+      "strongs": "G5564",
+      "morph": "robinson:N-ASN",
       "translation": "a field",
       "metadata": {},
       "gematria": {

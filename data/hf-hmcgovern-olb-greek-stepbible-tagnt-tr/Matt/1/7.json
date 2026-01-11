@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Σολομὼν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4672"
+      ],
+      "strongs": "G4672",
+      "morph": "robinson:N-NSM-P",
       "translation": "Solomon",
       "metadata": {},
       "gematria": {
@@ -145,8 +148,11 @@
     {
       "position": 10,
       "text": "Ἀβιά·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G7"
+      ],
+      "strongs": "G7",
+      "morph": "robinson:N-ASM-P",
       "translation": "Abijah;",
       "metadata": {},
       "gematria": {
@@ -158,8 +164,11 @@
     {
       "position": 11,
       "text": "Ἀβιὰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G7"
+      ],
+      "strongs": "G7",
+      "morph": "robinson:N-NSM-P",
       "translation": "Abijah",
       "metadata": {},
       "gematria": {

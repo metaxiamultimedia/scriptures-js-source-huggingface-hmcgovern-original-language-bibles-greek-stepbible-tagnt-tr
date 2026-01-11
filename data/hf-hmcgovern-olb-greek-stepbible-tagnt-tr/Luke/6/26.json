@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "ἐποίουν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-IAI-3P",
       "translation": "were treating",
       "metadata": {},
       "gematria": {

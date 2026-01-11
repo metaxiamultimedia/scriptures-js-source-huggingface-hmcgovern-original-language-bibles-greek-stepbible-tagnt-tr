@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "ποιοῦσιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAI-3P",
       "translation": "they do",
       "metadata": {},
       "gematria": {

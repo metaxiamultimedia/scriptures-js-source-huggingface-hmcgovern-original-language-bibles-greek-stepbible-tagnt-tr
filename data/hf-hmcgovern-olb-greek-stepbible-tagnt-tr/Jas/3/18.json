@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "ποιοῦσιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAP-DPM",
       "translation": "making",
       "metadata": {},
       "gematria": {

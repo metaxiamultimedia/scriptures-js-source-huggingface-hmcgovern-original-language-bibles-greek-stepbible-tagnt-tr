@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ἐποίησα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAI-1S",
       "translation": "I did",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "ἁγίων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-GPM",
       "translation": "saints",
       "metadata": {},
       "gematria": {
@@ -158,8 +164,11 @@
     {
       "position": 11,
       "text": "φυλακαῖς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5438"
+      ],
+      "strongs": "G5438",
+      "morph": "robinson:N-DPF",
       "translation": "prisons",
       "metadata": {},
       "gematria": {
@@ -347,8 +356,11 @@
     {
       "position": 23,
       "text": "ψῆφον·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5586"
+      ],
+      "strongs": "G5586",
+      "morph": "robinson:N-ASF",
       "translation": "a vote;",
       "metadata": {},
       "gematria": {

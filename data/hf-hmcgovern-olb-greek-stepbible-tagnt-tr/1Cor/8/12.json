@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "ἀσθενοῦσαν,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G770"
+      ],
+      "strongs": "G770",
+      "morph": "robinson:V-PAP-ASF",
       "translation": "being weak,",
       "metadata": {},
       "gematria": {

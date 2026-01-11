@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "ἐποίει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-IAI-3S",
       "translation": "he was doing",
       "metadata": {},
       "gematria": {

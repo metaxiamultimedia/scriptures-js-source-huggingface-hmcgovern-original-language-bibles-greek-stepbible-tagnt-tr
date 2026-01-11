@@ -196,8 +196,11 @@
     {
       "position": 13,
       "text": "οἶκός",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-NSM",
       "translation": "household",
       "metadata": {},
       "gematria": {

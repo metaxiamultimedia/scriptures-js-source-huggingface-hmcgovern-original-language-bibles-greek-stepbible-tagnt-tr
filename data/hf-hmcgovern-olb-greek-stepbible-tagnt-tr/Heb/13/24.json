@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "ἁγίους.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-APM",
       "translation": "saints.",
       "metadata": {},
       "gematria": {

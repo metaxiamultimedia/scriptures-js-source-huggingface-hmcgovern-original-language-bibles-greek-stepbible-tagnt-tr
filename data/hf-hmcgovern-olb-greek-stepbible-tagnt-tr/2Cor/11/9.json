@@ -404,8 +404,11 @@
     {
       "position": 26,
       "text": "ἐτήρησα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5083"
+      ],
+      "strongs": "G5083",
+      "morph": "robinson:V-AAI-1S",
       "translation": "I kept",
       "metadata": {},
       "gematria": {
@@ -433,8 +436,11 @@
     {
       "position": 28,
       "text": "τηρήσω.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5083"
+      ],
+      "strongs": "G5083",
+      "morph": "robinson:V-FAI-1S",
       "translation": "will keep.",
       "metadata": {},
       "gematria": {

@@ -148,8 +148,11 @@
     {
       "position": 10,
       "text": "ἀπέλυσαν.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G630"
+      ],
+      "strongs": "G630",
+      "morph": "robinson:V-AAI-3P",
       "translation": "they sent [them] off.",
       "metadata": {},
       "gematria": {

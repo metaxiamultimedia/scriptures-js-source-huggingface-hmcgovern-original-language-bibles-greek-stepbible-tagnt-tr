@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "κιβωτοῦ,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2787"
+      ],
+      "strongs": "G2787",
+      "morph": "robinson:N-GSF",
       "translation": "[the] ark,",
       "metadata": {},
       "gematria": {
@@ -273,8 +276,11 @@
     {
       "position": 18,
       "text": "ψυχαί,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5590"
+      ],
+      "strongs": "G5590",
+      "morph": "robinson:N-NPF",
       "translation": "souls —",
       "metadata": {},
       "gematria": {

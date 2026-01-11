@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "καλέσουσιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-FAI-3P",
       "translation": "they will call",
       "metadata": {},
       "gematria": {

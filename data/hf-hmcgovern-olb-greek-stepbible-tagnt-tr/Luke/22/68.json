@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "ἀπολύσητε.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G630"
+      ],
+      "strongs": "G630",
+      "morph": "robinson:V-AAS-2P",
       "translation": "shall you release [me].",
       "metadata": {},
       "gematria": {

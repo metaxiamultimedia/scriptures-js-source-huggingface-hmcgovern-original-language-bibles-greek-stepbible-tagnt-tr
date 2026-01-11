@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "Καίσαρι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2541"
+      ],
+      "strongs": "G2541",
+      "morph": "robinson:N-DSM-T",
       "translation": "to Caesar",
       "metadata": {},
       "gematria": {

@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "πρεσβύτεροι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4245"
+      ],
+      "strongs": "G4245",
+      "morph": "robinson:N-NPM",
       "translation": "elders",
       "metadata": {},
       "gematria": {

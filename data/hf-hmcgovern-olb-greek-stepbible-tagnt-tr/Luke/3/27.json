@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "Ζοροβαβὲλ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2216"
+      ],
+      "strongs": "G2216",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Zerubbabel",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "Σαλαθιὴλ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4528"
+      ],
+      "strongs": "G4528",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Shealtiel",
       "metadata": {},
       "gematria": {

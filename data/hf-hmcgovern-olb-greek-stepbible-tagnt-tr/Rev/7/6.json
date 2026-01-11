@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "Μανασσῆ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3128"
+      ],
+      "strongs": "G3128",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Manasseh",
       "metadata": {},
       "gematria": {

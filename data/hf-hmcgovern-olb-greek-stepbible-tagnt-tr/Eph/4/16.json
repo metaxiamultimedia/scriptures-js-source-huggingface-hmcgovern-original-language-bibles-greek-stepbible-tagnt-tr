@@ -388,8 +388,11 @@
     {
       "position": 25,
       "text": "ποιεῖται",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PMI-3S",
       "translation": "makes for itself",
       "metadata": {},
       "gematria": {

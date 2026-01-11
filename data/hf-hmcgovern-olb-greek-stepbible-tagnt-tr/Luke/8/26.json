@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "Γερασηνῶν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1086"
+      ],
+      "strongs": "G1086",
+      "morph": "robinson:N-GPM-LG",
       "translation": "Gerasenes",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "Γαλιλαίας.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1056"
+      ],
+      "strongs": "G1056",
+      "morph": "robinson:N-GSF-L",
       "translation": "Galilee.",
       "metadata": {},
       "gematria": {

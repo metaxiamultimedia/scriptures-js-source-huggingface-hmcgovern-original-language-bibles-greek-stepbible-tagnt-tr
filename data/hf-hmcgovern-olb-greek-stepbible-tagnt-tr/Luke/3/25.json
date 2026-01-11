@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "Ματταθίου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3161"
+      ],
+      "strongs": "G3161",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Mattathias",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "Ἀμὼς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G301"
+      ],
+      "strongs": "G301",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Amos",
       "metadata": {},
       "gematria": {

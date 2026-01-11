@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "Γαλιλαίᾳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1056"
+      ],
+      "strongs": "G1056",
+      "morph": "robinson:N-DSF-L",
       "translation": "Galilee",
       "metadata": {},
       "gematria": {
