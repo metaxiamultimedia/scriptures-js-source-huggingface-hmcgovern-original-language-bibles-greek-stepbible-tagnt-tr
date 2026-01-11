@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "γῆν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-ASF",
       "translation": "soil",
       "metadata": {},
       "gematria": {
@@ -289,8 +292,11 @@
     {
       "position": 19,
       "text": "γῆς.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-GSF",
       "translation": "of soil.",
       "metadata": {},
       "gematria": {

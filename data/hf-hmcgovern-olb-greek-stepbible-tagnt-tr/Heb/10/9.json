@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "ποιῆσαι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAN",
       "translation": "to do",
       "metadata": {},
       "gematria": {
@@ -209,8 +212,11 @@
     {
       "position": 14,
       "text": "πρῶτον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-ASN",
       "translation": "first",
       "metadata": {},
       "gematria": {

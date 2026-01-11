@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "ἰδὼν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAP-NSM",
       "translation": "having seen",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -142,8 +148,11 @@
     {
       "position": 10,
       "text": "φωνῆς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5456"
+      ],
+      "strongs": "G5456",
+      "morph": "robinson:N-GSF",
       "translation": "a voice",
       "metadata": {},
       "gematria": {

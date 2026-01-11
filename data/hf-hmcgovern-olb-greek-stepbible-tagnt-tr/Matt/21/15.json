@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "ἰδόντες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAP-NPM",
       "translation": "Having seen",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "ἐποίησεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAI-3S",
       "translation": "He did",
       "metadata": {},
       "gematria": {
@@ -302,8 +308,11 @@
     {
       "position": 20,
       "text": "λέγοντας·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-APM",
       "translation": "saying;",
       "metadata": {},
       "gematria": {

@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "λέγω",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-1S",
       "translation": "I say",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -190,8 +196,11 @@
     {
       "position": 13,
       "text": "ἐποίησαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAI-3P",
       "translation": "did",
       "metadata": {},
       "gematria": {
@@ -395,8 +404,11 @@
     {
       "position": 26,
       "text": "ὑπ᾽",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5259"
+      ],
+      "strongs": "G5259",
+      "morph": "robinson:PREP",
       "translation": "from",
       "metadata": {},
       "gematria": {

@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "ἔβαλεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-2AAI-3S",
       "translation": "cast",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "γυναικὸς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-GSF",
       "translation": "woman",
       "metadata": {},
       "gematria": {
@@ -254,8 +260,11 @@
     {
       "position": 17,
       "text": "ποιήσῃ.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAS-3S",
       "translation": "he may cause to be.",
       "metadata": {},
       "gematria": {

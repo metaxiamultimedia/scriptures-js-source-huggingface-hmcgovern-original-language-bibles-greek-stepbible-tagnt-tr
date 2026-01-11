@@ -148,8 +148,11 @@
     {
       "position": 10,
       "text": "ἔλεγον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-IAI-3P",
       "translation": "were saying",
       "metadata": {},
       "gematria": {
@@ -257,8 +260,11 @@
     {
       "position": 17,
       "text": "ποιήσει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-FAI-3S",
       "translation": "will He do",
       "metadata": {},
       "gematria": {
@@ -302,8 +308,11 @@
     {
       "position": 20,
       "text": "ἐποίησεν;",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAI-3S",
       "translation": "has done?",
       "metadata": {},
       "gematria": {

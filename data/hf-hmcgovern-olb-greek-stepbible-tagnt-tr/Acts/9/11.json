@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "κύριος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-NSM-T",
       "translation": "the Lord",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "καλουμένην",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-PPP-ASF",
       "translation": "is being called",
       "metadata": {},
       "gematria": {
@@ -254,8 +260,11 @@
     {
       "position": 17,
       "text": "οἰκίᾳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3614"
+      ],
+      "strongs": "G3614",
+      "morph": "robinson:N-DSF",
       "translation": "[the] house",
       "metadata": {},
       "gematria": {
@@ -267,8 +276,11 @@
     {
       "position": 18,
       "text": "Ἰούδα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2455"
+      ],
+      "strongs": "G2455",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Judas",
       "metadata": {},
       "gematria": {
@@ -280,8 +292,11 @@
     {
       "position": 19,
       "text": "Σαῦλον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4569"
+      ],
+      "strongs": "G4569",
+      "morph": "robinson:N-ASM-P",
       "translation": "Saul",
       "metadata": {},
       "gematria": {

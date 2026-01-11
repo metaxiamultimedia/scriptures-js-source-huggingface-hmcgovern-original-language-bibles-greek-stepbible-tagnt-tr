@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "γυναικὶ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-DSF",
       "translation": "a woman",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "ἀνδρὸς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-GSM",
       "translation": "a man",
       "metadata": {},
       "gematria": {

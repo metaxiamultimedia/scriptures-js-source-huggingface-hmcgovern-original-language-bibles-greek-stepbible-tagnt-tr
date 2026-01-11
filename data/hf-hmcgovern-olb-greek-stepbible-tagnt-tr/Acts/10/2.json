@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "οἴκῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-DSM",
       "translation": "household",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "ποιῶν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAP-NSM",
       "translation": "doing",
       "metadata": {},
       "gematria": {

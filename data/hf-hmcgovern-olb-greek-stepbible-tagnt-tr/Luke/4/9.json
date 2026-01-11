@@ -228,8 +228,11 @@
     {
       "position": 15,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "If",
       "metadata": {},
       "gematria": {
@@ -305,8 +308,11 @@
     {
       "position": 20,
       "text": "βάλε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-2AAM-2S",
       "translation": "do cast",
       "metadata": {},
       "gematria": {

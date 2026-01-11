@@ -292,8 +292,11 @@
     {
       "position": 19,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "For",
       "metadata": {},
       "gematria": {
@@ -369,8 +372,11 @@
     {
       "position": 24,
       "text": "ποιεῖν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAN",
       "translation": "to do",
       "metadata": {},
       "gematria": {

@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "πνεῦμα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-NSN",
       "translation": "Spirit",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "λέγει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-3S",
       "translation": "says",
       "metadata": {},
       "gematria": {
@@ -366,8 +372,11 @@
     {
       "position": 24,
       "text": "ψῆφον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5586"
+      ],
+      "strongs": "G5586",
+      "morph": "robinson:N-ASF",
       "translation": "stone",
       "metadata": {},
       "gematria": {
@@ -443,8 +452,11 @@
     {
       "position": 29,
       "text": "ψῆφον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5586"
+      ],
+      "strongs": "G5586",
+      "morph": "robinson:N-ASF",
       "translation": "stone",
       "metadata": {},
       "gematria": {
@@ -536,8 +548,11 @@
     {
       "position": 35,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "only",
       "metadata": {},
       "gematria": {

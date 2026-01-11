@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "βάλετε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-2AAM-2P",
       "translation": "do cast",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "ἔβαλον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-2AAI-3P",
       "translation": "They cast",
       "metadata": {},
       "gematria": {

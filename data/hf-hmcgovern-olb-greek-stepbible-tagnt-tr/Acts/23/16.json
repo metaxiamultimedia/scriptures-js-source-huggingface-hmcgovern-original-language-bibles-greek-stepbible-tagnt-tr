@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "Παύλου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Paul",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "Παύλῳ.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-DSM-P",
       "translation": "to Paul.",
       "metadata": {},
       "gematria": {

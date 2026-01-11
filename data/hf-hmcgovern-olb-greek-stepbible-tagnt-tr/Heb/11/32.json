@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "λέγω;",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAS-1S",
       "translation": "shall I say?",
       "metadata": {},
       "gematria": {

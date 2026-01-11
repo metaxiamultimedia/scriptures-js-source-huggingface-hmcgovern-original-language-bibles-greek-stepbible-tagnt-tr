@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "τηρεῖν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5083"
+      ],
+      "strongs": "G5083",
+      "morph": "robinson:V-PAN",
       "translation": "to keep",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "πνεύματος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-GSN",
       "translation": "Spirit",
       "metadata": {},
       "gematria": {

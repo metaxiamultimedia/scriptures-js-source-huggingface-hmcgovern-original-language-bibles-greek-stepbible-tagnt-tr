@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "Ἰησοῦς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2424"
+      ],
+      "strongs": "G2424",
+      "morph": "robinson:N-NSM-P",
       "translation": "Jesus",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "Πέτρον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4074"
+      ],
+      "strongs": "G4074",
+      "morph": "robinson:N-ASM-P",
       "translation": "Peter",
       "metadata": {},
       "gematria": {
@@ -158,8 +164,11 @@
     {
       "position": 11,
       "text": "Ἰάκωβον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2385"
+      ],
+      "strongs": "G2385",
+      "morph": "robinson:N-ASM-P",
       "translation": "James",
       "metadata": {},
       "gematria": {
@@ -187,8 +196,11 @@
     {
       "position": 13,
       "text": "Ἰωάννην",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2491"
+      ],
+      "strongs": "G2491",
+      "morph": "robinson:N-ASM-P",
       "translation": "John",
       "metadata": {},
       "gematria": {

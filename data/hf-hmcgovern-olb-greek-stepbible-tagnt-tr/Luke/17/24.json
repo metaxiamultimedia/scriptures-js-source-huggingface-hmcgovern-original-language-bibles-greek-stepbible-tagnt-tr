@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "ὑπὸ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5259"
+      ],
+      "strongs": "G5259",
+      "morph": "robinson:PREP",
       "translation": "under",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "ὑπ᾽",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5259"
+      ],
+      "strongs": "G5259",
+      "morph": "robinson:PREP",
       "translation": "under",
       "metadata": {},
       "gematria": {

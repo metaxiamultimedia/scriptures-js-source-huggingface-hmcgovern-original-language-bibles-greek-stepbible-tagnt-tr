@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "Σίμων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4613"
+      ],
+      "strongs": "G4613",
+      "morph": "robinson:N-NSM-P",
       "translation": "Simon",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "Πέτρος,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4074"
+      ],
+      "strongs": "G4074",
+      "morph": "robinson:N-NSM-P",
       "translation": "Peter,",
       "metadata": {},
       "gematria": {
@@ -110,8 +116,11 @@
     {
       "position": 8,
       "text": "λεγόμενος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PPP-NSM",
       "translation": "is being named",
       "metadata": {},
       "gematria": {
@@ -235,8 +244,11 @@
     {
       "position": 16,
       "text": "Γαλιλαίας,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1056"
+      ],
+      "strongs": "G1056",
+      "morph": "robinson:N-GSF-L",
       "translation": "of Galilee,",
       "metadata": {},
       "gematria": {
@@ -296,8 +308,11 @@
     {
       "position": 20,
       "text": "Ζεβεδαίου,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2199"
+      ],
+      "strongs": "G2199",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Zebedee,",
       "metadata": {},
       "gematria": {

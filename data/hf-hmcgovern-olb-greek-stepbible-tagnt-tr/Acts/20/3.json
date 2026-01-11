@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "ποιήσας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAP-NSM",
       "translation": "Having continued",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "ὑπὸ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5259"
+      ],
+      "strongs": "G5259",
+      "morph": "robinson:PREP",
       "translation": "by",
       "metadata": {},
       "gematria": {

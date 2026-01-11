@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "ἐβλήθη",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-API-3S",
       "translation": "he was cast",
       "metadata": {},
       "gematria": {
@@ -337,8 +340,11 @@
     {
       "position": 22,
       "text": "βασανισθήσονται",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G928"
+      ],
+      "strongs": "G928",
+      "morph": "robinson:V-FPI-3P",
       "translation": "they will be tormented",
       "metadata": {},
       "gematria": {
@@ -430,8 +436,11 @@
     {
       "position": 28,
       "text": "αἰῶνας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G165"
+      ],
+      "strongs": "G165",
+      "morph": "robinson:N-APM",
       "translation": "ages",
       "metadata": {},
       "gematria": {
@@ -459,8 +468,11 @@
     {
       "position": 30,
       "text": "αἰώνων.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G165"
+      ],
+      "strongs": "G165",
+      "morph": "robinson:N-GPM",
       "translation": "ages.",
       "metadata": {},
       "gematria": {

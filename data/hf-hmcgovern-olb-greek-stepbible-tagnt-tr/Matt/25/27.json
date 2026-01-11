@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "βαλεῖν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-2AAN",
       "translation": "to put",
       "metadata": {},
       "gematria": {

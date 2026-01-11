@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ψυχή",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5590"
+      ],
+      "strongs": "G5590",
+      "morph": "robinson:N-NSF",
       "translation": "soul",
       "metadata": {},
       "gematria": {

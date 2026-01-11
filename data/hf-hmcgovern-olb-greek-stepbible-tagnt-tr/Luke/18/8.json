@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "λέγω",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-1S",
       "translation": "I say",
       "metadata": {},
       "gematria": {
@@ -33,8 +36,11 @@
     {
       "position": 3,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -46,8 +52,11 @@
     {
       "position": 4,
       "text": "ποιήσει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-FAI-3S",
       "translation": "He will carry out",
       "metadata": {},
       "gematria": {
@@ -283,8 +292,11 @@
     {
       "position": 19,
       "text": "πίστιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-ASF",
       "translation": "faith",
       "metadata": {},
       "gematria": {
@@ -328,8 +340,11 @@
     {
       "position": 22,
       "text": "γῆς;",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-GSF",
       "translation": "earth?",
       "metadata": {},
       "gematria": {

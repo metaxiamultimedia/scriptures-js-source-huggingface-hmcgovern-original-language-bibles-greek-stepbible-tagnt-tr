@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "ἀνὴρ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-NSM",
       "translation": "a man",
       "metadata": {},
       "gematria": {
@@ -209,8 +212,11 @@
     {
       "position": 14,
       "text": "ὑπὸ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5259"
+      ],
+      "strongs": "G5259",
+      "morph": "robinson:PREP",
       "translation": "by",
       "metadata": {},
       "gematria": {
@@ -318,8 +324,11 @@
     {
       "position": 21,
       "text": "ὑπὸ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5259"
+      ],
+      "strongs": "G5259",
+      "morph": "robinson:PREP",
       "translation": "by",
       "metadata": {},
       "gematria": {
@@ -331,8 +340,11 @@
     {
       "position": 22,
       "text": "ἀγγέλου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G32"
+      ],
+      "strongs": "G32",
+      "morph": "robinson:N-GSM",
       "translation": "an angel",
       "metadata": {},
       "gematria": {
@@ -344,8 +356,11 @@
     {
       "position": 23,
       "text": "ἁγίου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-GSM",
       "translation": "holy",
       "metadata": {},
       "gematria": {
@@ -421,8 +436,11 @@
     {
       "position": 28,
       "text": "οἶκον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-ASM",
       "translation": "house",
       "metadata": {},
       "gematria": {

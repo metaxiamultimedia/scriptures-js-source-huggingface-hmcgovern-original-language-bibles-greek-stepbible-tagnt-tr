@@ -148,8 +148,11 @@
     {
       "position": 10,
       "text": "ἀπολῦσαι.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G630"
+      ],
+      "strongs": "G630",
+      "morph": "robinson:V-AAN",
       "translation": "to send [her] away.",
       "metadata": {},
       "gematria": {

@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "γυνὴ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-NSF",
       "translation": "wife",
       "metadata": {},
       "gematria": {
@@ -145,8 +148,11 @@
     {
       "position": 10,
       "text": "ἀνήρ·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-NSM",
       "translation": "husband;",
       "metadata": {},
       "gematria": {
@@ -222,8 +228,11 @@
     {
       "position": 15,
       "text": "ἀνὴρ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-NSM",
       "translation": "husband",
       "metadata": {},
       "gematria": {
@@ -347,8 +356,11 @@
     {
       "position": 23,
       "text": "γυνή.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-NSF",
       "translation": "wife.",
       "metadata": {},
       "gematria": {

@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "λέγοντες·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-NPM",
       "translation": "saying;",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "εἴδομεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAI-1P",
       "translation": "We saw",
       "metadata": {},
       "gematria": {

@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -385,8 +388,11 @@
     {
       "position": 25,
       "text": "τηρῶ.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5083"
+      ],
+      "strongs": "G5083",
+      "morph": "robinson:V-PAI-1S",
       "translation": "I keep.",
       "metadata": {},
       "gematria": {

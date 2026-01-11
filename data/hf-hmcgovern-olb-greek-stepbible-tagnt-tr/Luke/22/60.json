@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "Πέτρος·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4074"
+      ],
+      "strongs": "G4074",
+      "morph": "robinson:N-NSM-P",
       "translation": "Peter;",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "λέγεις.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-2S",
       "translation": "you say.",
       "metadata": {},
       "gematria": {

@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "σπέρμα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4690"
+      ],
+      "strongs": "G4690",
+      "morph": "robinson:N-NSN",
       "translation": "Descendants",
       "metadata": {},
       "gematria": {

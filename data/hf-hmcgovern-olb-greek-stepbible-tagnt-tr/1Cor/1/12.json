@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "λέγω",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-1S",
       "translation": "I mean",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -94,8 +100,11 @@
     {
       "position": 7,
       "text": "λέγει·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-3S",
       "translation": "says;",
       "metadata": {},
       "gematria": {
@@ -155,8 +164,11 @@
     {
       "position": 11,
       "text": "Παύλου,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Paul,",
       "metadata": {},
       "gematria": {

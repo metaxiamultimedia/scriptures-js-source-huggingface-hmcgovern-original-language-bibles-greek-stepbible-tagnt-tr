@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "λέγω",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-1S",
       "translation": "I say",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -190,8 +196,11 @@
     {
       "position": 13,
       "text": "ἄγγελοι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G32"
+      ],
+      "strongs": "G32",
+      "morph": "robinson:N-NPM",
       "translation": "angels",
       "metadata": {},
       "gematria": {

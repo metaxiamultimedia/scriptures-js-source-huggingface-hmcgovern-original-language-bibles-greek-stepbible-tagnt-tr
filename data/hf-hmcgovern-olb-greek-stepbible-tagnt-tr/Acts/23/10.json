@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "Παῦλος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-NSM-P",
       "translation": "Paul",
       "metadata": {},
       "gematria": {
@@ -145,8 +148,11 @@
     {
       "position": 10,
       "text": "ὑπ᾽",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5259"
+      ],
+      "strongs": "G5259",
+      "morph": "robinson:PREP",
       "translation": "by",
       "metadata": {},
       "gematria": {

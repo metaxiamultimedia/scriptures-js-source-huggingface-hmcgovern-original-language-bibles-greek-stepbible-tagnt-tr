@@ -196,8 +196,11 @@
     {
       "position": 13,
       "text": "κυρίου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-GSM-T",
       "translation": "Lord",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -366,8 +372,11 @@
     {
       "position": 24,
       "text": "κυρίῳ.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-DSM-T",
       "translation": "[the] Lord.",
       "metadata": {},
       "gematria": {

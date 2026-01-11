@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "ποιήσατε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAM-2P",
       "translation": "do cause",
       "metadata": {},
       "gematria": {

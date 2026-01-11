@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "ἀφεὶς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-2AAP-NSM",
       "translation": "having dismissed",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "οἰκίαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3614"
+      ],
+      "strongs": "G3614",
+      "morph": "robinson:N-ASF",
       "translation": "house",
       "metadata": {},
       "gematria": {
@@ -222,8 +228,11 @@
     {
       "position": 15,
       "text": "λέγοντες·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-NPM",
       "translation": "saying;",
       "metadata": {},
       "gematria": {
@@ -331,8 +340,11 @@
     {
       "position": 22,
       "text": "ἀγροῦ.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G68"
+      ],
+      "strongs": "G68",
+      "morph": "robinson:N-GSM",
       "translation": "field.",
       "metadata": {},
       "gematria": {

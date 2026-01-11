@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "εἶδεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAI-3S",
       "translation": "He saw",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "βάλλοντας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-PAP-APM",
       "translation": "casting",
       "metadata": {},
       "gematria": {

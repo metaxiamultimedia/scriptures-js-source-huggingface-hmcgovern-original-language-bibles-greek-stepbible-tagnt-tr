@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "εἴ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "If",
       "metadata": {},
       "gematria": {
@@ -193,8 +196,11 @@
     {
       "position": 13,
       "text": "ἀνήρ,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-NSM",
       "translation": "man,",
       "metadata": {},
       "gematria": {

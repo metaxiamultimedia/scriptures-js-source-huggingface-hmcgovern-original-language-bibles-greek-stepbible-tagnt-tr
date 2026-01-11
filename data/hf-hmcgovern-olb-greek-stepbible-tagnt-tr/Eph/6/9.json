@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "κύριοι,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-VPM",
       "translation": "masters,",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "ποιεῖτε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAM-2P",
       "translation": "do perform",
       "metadata": {},
       "gematria": {
@@ -190,8 +196,11 @@
     {
       "position": 13,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -267,8 +276,11 @@
     {
       "position": 18,
       "text": "κύριός",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-NSM",
       "translation": "master",
       "metadata": {},
       "gematria": {

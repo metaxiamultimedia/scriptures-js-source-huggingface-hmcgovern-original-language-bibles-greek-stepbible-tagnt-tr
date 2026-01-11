@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "Γερασηνῶν.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1086"
+      ],
+      "strongs": "G1086",
+      "morph": "robinson:N-GPM-LG",
       "translation": "Gerasenes.",
       "metadata": {},
       "gematria": {

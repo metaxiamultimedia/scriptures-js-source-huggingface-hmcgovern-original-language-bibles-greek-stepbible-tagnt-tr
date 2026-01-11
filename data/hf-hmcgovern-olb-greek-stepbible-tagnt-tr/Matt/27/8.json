@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "ἐκλήθη",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-API-3S",
       "translation": "was called",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "ἀγρὸς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G68"
+      ],
+      "strongs": "G68",
+      "morph": "robinson:N-NSM",
       "translation": "field",
       "metadata": {},
       "gematria": {
@@ -78,8 +84,11 @@
     {
       "position": 6,
       "text": "ἀγρὸς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G68"
+      ],
+      "strongs": "G68",
+      "morph": "robinson:N-NSM",
       "translation": "Field",
       "metadata": {},
       "gematria": {
@@ -91,8 +100,11 @@
     {
       "position": 7,
       "text": "αἵματος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G129"
+      ],
+      "strongs": "G129",
+      "morph": "robinson:N-GSN",
       "translation": "of Blood",
       "metadata": {},
       "gematria": {

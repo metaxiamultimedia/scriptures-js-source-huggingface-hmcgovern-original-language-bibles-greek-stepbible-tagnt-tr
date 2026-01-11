@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "ποιήσασθαι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AMN",
       "translation": "to make",
       "metadata": {},
       "gematria": {
@@ -193,8 +196,11 @@
     {
       "position": 13,
       "text": "ἁγίων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-GPM",
       "translation": "saints",
       "metadata": {},
       "gematria": {

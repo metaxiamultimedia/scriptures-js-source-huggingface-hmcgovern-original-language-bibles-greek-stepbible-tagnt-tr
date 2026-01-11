@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "λέγων·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-NSM",
       "translation": "saying;",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "γύναι.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-VSF",
       "translation": "woman.",
       "metadata": {},
       "gematria": {

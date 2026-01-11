@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "βαλεῖν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-2AAN",
       "translation": "to bring",
       "metadata": {},
       "gematria": {
@@ -126,8 +132,11 @@
     {
       "position": 9,
       "text": "γῆν·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-ASF",
       "translation": "earth;",
       "metadata": {},
       "gematria": {
@@ -171,8 +180,11 @@
     {
       "position": 12,
       "text": "βαλεῖν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-2AAN",
       "translation": "to bring",
       "metadata": {},
       "gematria": {

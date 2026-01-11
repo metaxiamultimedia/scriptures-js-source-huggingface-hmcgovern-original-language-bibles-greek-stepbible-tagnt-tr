@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "πνεύματί",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-DSN",
       "translation": "spirit",
       "metadata": {},
       "gematria": {
@@ -353,8 +356,11 @@
     {
       "position": 23,
       "text": "ποιοῦμαι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PMI-1S",
       "translation": "I make",
       "metadata": {},
       "gematria": {

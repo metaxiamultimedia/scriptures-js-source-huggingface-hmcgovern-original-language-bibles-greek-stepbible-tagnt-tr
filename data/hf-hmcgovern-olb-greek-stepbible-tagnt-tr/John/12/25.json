@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "ψυχὴν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5590"
+      ],
+      "strongs": "G5590",
+      "morph": "robinson:N-ASF",
       "translation": "life",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "ψυχὴν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5590"
+      ],
+      "strongs": "G5590",
+      "morph": "robinson:N-ASF",
       "translation": "life",
       "metadata": {},
       "gematria": {
@@ -302,8 +308,11 @@
     {
       "position": 20,
       "text": "φυλάξει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5442"
+      ],
+      "strongs": "G5442",
+      "morph": "robinson:V-FAI-3S",
       "translation": "will keep",
       "metadata": {},
       "gematria": {

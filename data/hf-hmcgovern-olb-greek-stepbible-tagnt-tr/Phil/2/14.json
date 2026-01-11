@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "ποιεῖτε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAM-2P",
       "translation": "do perform",
       "metadata": {},
       "gematria": {

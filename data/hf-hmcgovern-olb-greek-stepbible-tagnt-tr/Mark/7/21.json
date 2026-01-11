@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "κακοὶ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2556"
+      ],
+      "strongs": "G2556",
+      "morph": "robinson:A-NPM",
       "translation": "evil",
       "metadata": {},
       "gematria": {

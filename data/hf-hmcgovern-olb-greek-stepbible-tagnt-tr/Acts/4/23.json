@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Ἀπολυθέντες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G630"
+      ],
+      "strongs": "G630",
+      "morph": "robinson:V-APP-NPM",
       "translation": "Having been let go",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "πρεσβύτεροι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4245"
+      ],
+      "strongs": "G4245",
+      "morph": "robinson:N-NPM",
       "translation": "elders",
       "metadata": {},
       "gematria": {

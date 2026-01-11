@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "γυνὴ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-NSF",
       "translation": "woman",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "ἀνδρὸς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-GSM",
       "translation": "man",
       "metadata": {},
       "gematria": {
@@ -94,8 +100,11 @@
     {
       "position": 7,
       "text": "ἀνὴρ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-NSM",
       "translation": "man",
       "metadata": {},
       "gematria": {
@@ -123,8 +132,11 @@
     {
       "position": 9,
       "text": "γυναικὸς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-GSF",
       "translation": "woman",
       "metadata": {},
       "gematria": {
@@ -152,8 +164,11 @@
     {
       "position": 11,
       "text": "κυρίῳ·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-DSM-T",
       "translation": "[the] Lord;",
       "metadata": {},
       "gematria": {

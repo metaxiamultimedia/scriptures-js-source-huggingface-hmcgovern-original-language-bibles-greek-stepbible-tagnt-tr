@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "Πέτρος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4074"
+      ],
+      "strongs": "G4074",
+      "morph": "robinson:N-NSM-P",
       "translation": "Peter",
       "metadata": {},
       "gematria": {
@@ -209,8 +212,11 @@
     {
       "position": 14,
       "text": "εἶδεν,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAI-3S",
       "translation": "he had seen,",
       "metadata": {},
       "gematria": {
@@ -254,8 +260,11 @@
     {
       "position": 17,
       "text": "ἄνδρες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-NPM",
       "translation": "men",
       "metadata": {},
       "gematria": {
@@ -363,8 +372,11 @@
     {
       "position": 24,
       "text": "οἰκίαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3614"
+      ],
+      "strongs": "G3614",
+      "morph": "robinson:N-ASF",
       "translation": "house",
       "metadata": {},
       "gematria": {
@@ -376,8 +388,11 @@
     {
       "position": 25,
       "text": "Σίμωνος,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4613"
+      ],
+      "strongs": "G4613",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Simon,",
       "metadata": {},
       "gematria": {

@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "only",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "Ἰωνᾶ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2495"
+      ],
+      "strongs": "G2495",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Jonah",
       "metadata": {},
       "gematria": {

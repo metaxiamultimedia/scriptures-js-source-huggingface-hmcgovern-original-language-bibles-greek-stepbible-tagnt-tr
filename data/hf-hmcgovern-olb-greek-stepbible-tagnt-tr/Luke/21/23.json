@@ -292,8 +292,11 @@
     {
       "position": 19,
       "text": "γῆς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-GSF",
       "translation": "land",
       "metadata": {},
       "gematria": {

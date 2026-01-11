@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "φωνῆς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5456"
+      ],
+      "strongs": "G5456",
+      "morph": "robinson:N-GSF",
       "translation": "a voice",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "λεγούσης·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-GSF",
       "translation": "saying:",
       "metadata": {},
       "gematria": {

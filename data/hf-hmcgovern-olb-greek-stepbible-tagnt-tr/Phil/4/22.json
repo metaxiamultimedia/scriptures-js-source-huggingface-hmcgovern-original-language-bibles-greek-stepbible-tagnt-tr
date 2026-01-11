@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "ἅγιοι,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-NPM",
       "translation": "saints,",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "Καίσαρος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2541"
+      ],
+      "strongs": "G2541",
+      "morph": "robinson:N-GSM-T",
       "translation": "Caesar's",
       "metadata": {},
       "gematria": {
@@ -174,8 +180,11 @@
     {
       "position": 12,
       "text": "οἰκίας.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3614"
+      ],
+      "strongs": "G3614",
+      "morph": "robinson:N-GSF",
       "translation": "household.",
       "metadata": {},
       "gematria": {

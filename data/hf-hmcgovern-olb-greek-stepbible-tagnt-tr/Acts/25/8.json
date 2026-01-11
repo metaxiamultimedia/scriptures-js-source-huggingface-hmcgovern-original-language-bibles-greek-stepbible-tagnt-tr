@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -225,8 +228,11 @@
     {
       "position": 15,
       "text": "Καίσαρά",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2541"
+      ],
+      "strongs": "G2541",
+      "morph": "robinson:N-ASM-T",
       "translation": "Caesar",
       "metadata": {},
       "gematria": {

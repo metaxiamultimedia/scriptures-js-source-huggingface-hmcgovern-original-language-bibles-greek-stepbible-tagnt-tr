@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "πειράζετε;",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3985"
+      ],
+      "strongs": "G3985",
+      "morph": "robinson:V-PAI-2P",
       "translation": "do you test?",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "ἴδω.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAS-1S",
       "translation": "I may see [it].",
       "metadata": {},
       "gematria": {

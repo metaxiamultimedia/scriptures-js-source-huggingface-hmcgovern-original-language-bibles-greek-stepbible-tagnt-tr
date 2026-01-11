@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "λεγόμενος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PPP-NSM",
       "translation": "being named",
       "metadata": {},
       "gematria": {
@@ -225,8 +228,11 @@
     {
       "position": 15,
       "text": "πεποιήκεισαν.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-LAI-3P",
       "translation": "had committed.",
       "metadata": {},
       "gematria": {

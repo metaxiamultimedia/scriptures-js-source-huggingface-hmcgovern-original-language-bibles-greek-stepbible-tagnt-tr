@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "Ἡρῴδην,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2264"
+      ],
+      "strongs": "G2264",
+      "morph": "robinson:N-ASM-P",
       "translation": "Herod,",
       "metadata": {},
       "gematria": {

@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "ἀνδρὶ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-DSM",
       "translation": "a man",
       "metadata": {},
       "gematria": {
@@ -225,8 +228,11 @@
     {
       "position": 15,
       "text": "πίστιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-ASF",
       "translation": "a guarantee",
       "metadata": {},
       "gematria": {

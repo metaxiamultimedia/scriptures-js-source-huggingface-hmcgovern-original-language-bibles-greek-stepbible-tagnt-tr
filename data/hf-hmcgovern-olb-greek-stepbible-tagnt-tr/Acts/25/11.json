@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "If",
       "metadata": {},
       "gematria": {
@@ -193,8 +196,11 @@
     {
       "position": 13,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "If",
       "metadata": {},
       "gematria": {
@@ -398,8 +404,11 @@
     {
       "position": 26,
       "text": "Καίσαρα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2541"
+      ],
+      "strongs": "G2541",
+      "morph": "robinson:N-ASM-T",
       "translation": "To Caesar",
       "metadata": {},
       "gematria": {

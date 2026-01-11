@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "because",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "because",
       "metadata": {},
       "gematria": {
@@ -286,8 +292,11 @@
     {
       "position": 19,
       "text": "βαλλόμενα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-PPP-APN",
       "translation": "being put into [it]",
       "metadata": {},
       "gematria": {

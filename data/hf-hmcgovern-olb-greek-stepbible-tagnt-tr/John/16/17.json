@@ -196,8 +196,11 @@
     {
       "position": 13,
       "text": "λέγει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-3S",
       "translation": "He says",
       "metadata": {},
       "gematria": {
@@ -369,8 +372,11 @@
     {
       "position": 24,
       "text": "ὄψεσθέ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3700"
+      ],
+      "strongs": "G3700",
+      "morph": "robinson:V-FDI-2P",
       "translation": "you will behold",
       "metadata": {},
       "gematria": {
@@ -414,8 +420,11 @@
     {
       "position": 27,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "Because",
       "metadata": {},
       "gematria": {

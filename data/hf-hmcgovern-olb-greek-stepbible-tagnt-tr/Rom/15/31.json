@@ -292,8 +292,11 @@
     {
       "position": 19,
       "text": "ἁγίοις",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-DPM",
       "translation": "saints",
       "metadata": {},
       "gematria": {

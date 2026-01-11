@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "ἐποίησα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAI-1S",
       "translation": "I made",
       "metadata": {},
       "gematria": {
@@ -305,8 +308,11 @@
     {
       "position": 20,
       "text": "γῆς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-GSF",
       "translation": "[the] land",
       "metadata": {},
       "gematria": {
@@ -334,8 +340,11 @@
     {
       "position": 22,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "because",
       "metadata": {},
       "gematria": {
@@ -507,8 +516,11 @@
     {
       "position": 33,
       "text": "λέγει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-3S",
       "translation": "says",
       "metadata": {},
       "gematria": {
@@ -520,8 +532,11 @@
     {
       "position": 34,
       "text": "κύριος.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-NSM-T",
       "translation": "[the] Lord.",
       "metadata": {},
       "gematria": {

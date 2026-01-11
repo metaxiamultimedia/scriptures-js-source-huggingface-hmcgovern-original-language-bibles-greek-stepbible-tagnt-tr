@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "πρώτους·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-APM",
       "translation": "leaders;",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "ἔλεγεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-IAI-3S",
       "translation": "he was saying",
       "metadata": {},
       "gematria": {
@@ -302,8 +308,11 @@
     {
       "position": 20,
       "text": "ἄνδρες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-VPM",
       "translation": "men",
       "metadata": {},
       "gematria": {
@@ -363,8 +372,11 @@
     {
       "position": 24,
       "text": "ποιήσας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAP-NSM",
       "translation": "having done",
       "metadata": {},
       "gematria": {

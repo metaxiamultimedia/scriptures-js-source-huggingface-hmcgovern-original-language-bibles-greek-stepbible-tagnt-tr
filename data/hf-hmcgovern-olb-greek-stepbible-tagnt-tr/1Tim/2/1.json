@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "πρῶτον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-ASN",
       "translation": "first",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "ποιεῖσθαι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PEN",
       "translation": "to be made",
       "metadata": {},
       "gematria": {

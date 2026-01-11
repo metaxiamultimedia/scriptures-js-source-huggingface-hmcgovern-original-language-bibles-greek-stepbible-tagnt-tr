@@ -420,8 +420,11 @@
     {
       "position": 27,
       "text": "ἁγίοις",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-DPM",
       "translation": "saints",
       "metadata": {},
       "gematria": {
@@ -625,8 +628,11 @@
     {
       "position": 40,
       "text": "γῆν.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-ASF",
       "translation": "earth.",
       "metadata": {},
       "gematria": {

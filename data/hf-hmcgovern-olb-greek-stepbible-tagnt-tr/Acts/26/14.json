@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "γῆν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-ASF",
       "translation": "ground",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "φωνὴν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5456"
+      ],
+      "strongs": "G5456",
+      "morph": "robinson:N-ASF",
       "translation": "a voice",
       "metadata": {},
       "gematria": {
@@ -206,8 +212,11 @@
     {
       "position": 14,
       "text": "Σαοὺλ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4549"
+      ],
+      "strongs": "G4549",
+      "morph": "robinson:N-VSM-P",
       "translation": "Saul",
       "metadata": {},
       "gematria": {
@@ -219,8 +228,11 @@
     {
       "position": 15,
       "text": "Σαούλ,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4549"
+      ],
+      "strongs": "G4549",
+      "morph": "robinson:N-VSM-P",
       "translation": "Saul,",
       "metadata": {},
       "gematria": {

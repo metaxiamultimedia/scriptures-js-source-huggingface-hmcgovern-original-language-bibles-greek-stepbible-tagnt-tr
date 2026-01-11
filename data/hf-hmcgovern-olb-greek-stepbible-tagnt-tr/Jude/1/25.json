@@ -260,8 +260,11 @@
     {
       "position": 17,
       "text": "αἰῶνας,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G165"
+      ],
+      "strongs": "G165",
+      "morph": "robinson:N-APM",
       "translation": "ages,",
       "metadata": {},
       "gematria": {

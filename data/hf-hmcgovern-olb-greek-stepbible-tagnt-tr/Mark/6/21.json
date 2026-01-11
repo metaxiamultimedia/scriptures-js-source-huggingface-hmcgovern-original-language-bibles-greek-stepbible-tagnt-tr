@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "Ἡρῴδης",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2264"
+      ],
+      "strongs": "G2264",
+      "morph": "robinson:N-NSM-P",
       "translation": "Herod",
       "metadata": {},
       "gematria": {
@@ -289,8 +292,11 @@
     {
       "position": 19,
       "text": "πρώτοις",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-DPM",
       "translation": "leading [men]",
       "metadata": {},
       "gematria": {
@@ -318,8 +324,11 @@
     {
       "position": 21,
       "text": "Γαλιλαίας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1056"
+      ],
+      "strongs": "G1056",
+      "morph": "robinson:N-GSF-L",
       "translation": "of Galilee",
       "metadata": {},
       "gematria": {

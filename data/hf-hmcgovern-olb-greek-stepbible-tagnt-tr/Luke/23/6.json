@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "Γαλιλαίαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1056"
+      ],
+      "strongs": "G1056",
+      "morph": "robinson:N-ASF-L",
       "translation": "Galilee",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "whether",
       "metadata": {},
       "gematria": {

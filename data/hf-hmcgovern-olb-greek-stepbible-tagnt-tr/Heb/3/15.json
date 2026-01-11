@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "λέγεσθαι·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PPN",
       "translation": "saying:",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "φωνῆς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5456"
+      ],
+      "strongs": "G5456",
+      "morph": "robinson:N-GSF",
       "translation": "voice",
       "metadata": {},
       "gematria": {

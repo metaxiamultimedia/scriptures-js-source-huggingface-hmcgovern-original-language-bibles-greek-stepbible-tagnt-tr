@@ -196,8 +196,11 @@
     {
       "position": 13,
       "text": "ὑφ᾽",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5259"
+      ],
+      "strongs": "G5259",
+      "morph": "robinson:PREP",
       "translation": "by",
       "metadata": {},
       "gematria": {

@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "εἶδον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAI-1S",
       "translation": "I saw",
       "metadata": {},
       "gematria": {
@@ -225,8 +228,11 @@
     {
       "position": 15,
       "text": "καλούμενος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-PPP-NSM",
       "translation": "being called",
       "metadata": {},
       "gematria": {

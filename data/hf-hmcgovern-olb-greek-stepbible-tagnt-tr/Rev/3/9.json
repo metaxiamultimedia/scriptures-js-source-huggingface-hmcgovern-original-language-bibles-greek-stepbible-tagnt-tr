@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "λεγόντων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-GPM",
       "translation": "declaring",
       "metadata": {},
       "gematria": {
@@ -273,8 +276,11 @@
     {
       "position": 18,
       "text": "ποιήσω",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-FAI-1S",
       "translation": "I will cause",
       "metadata": {},
       "gematria": {
@@ -430,8 +436,11 @@
     {
       "position": 28,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {

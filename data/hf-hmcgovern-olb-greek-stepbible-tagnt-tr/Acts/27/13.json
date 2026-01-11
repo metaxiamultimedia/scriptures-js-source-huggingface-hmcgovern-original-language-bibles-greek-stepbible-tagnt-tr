@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "νότου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3558"
+      ],
+      "strongs": "G3558",
+      "morph": "robinson:N-GSM",
       "translation": "a south wind",
       "metadata": {},
       "gematria": {

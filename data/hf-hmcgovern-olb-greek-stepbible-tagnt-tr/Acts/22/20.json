@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "αἷμα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G129"
+      ],
+      "strongs": "G129",
+      "morph": "robinson:N-NSN",
       "translation": "blood",
       "metadata": {},
       "gematria": {
@@ -305,8 +308,11 @@
     {
       "position": 20,
       "text": "φυλάσσων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5442"
+      ],
+      "strongs": "G5442",
+      "morph": "robinson:V-PAP-NSM",
       "translation": "watching over",
       "metadata": {},
       "gematria": {

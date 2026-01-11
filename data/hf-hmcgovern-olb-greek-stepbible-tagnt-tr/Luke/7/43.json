@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "Σίμων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4613"
+      ],
+      "strongs": "G4613",
+      "morph": "robinson:N-NSM-P",
       "translation": "Simon",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {

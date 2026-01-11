@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "κύριε,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-VSM-T",
       "translation": "Lord,",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "πρῶτον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-ASN",
       "translation": "first",
       "metadata": {},
       "gematria": {

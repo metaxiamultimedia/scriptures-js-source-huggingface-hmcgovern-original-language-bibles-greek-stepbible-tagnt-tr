@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "φωνὴ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5456"
+      ],
+      "strongs": "G5456",
+      "morph": "robinson:N-NSF",
       "translation": "a voice",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "Πέτρε,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4074"
+      ],
+      "strongs": "G4074",
+      "morph": "robinson:N-VSM-P",
       "translation": "Peter,",
       "metadata": {},
       "gematria": {

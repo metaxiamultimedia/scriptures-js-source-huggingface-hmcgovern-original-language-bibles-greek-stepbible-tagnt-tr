@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "φυλάσσοντες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5442"
+      ],
+      "strongs": "G5442",
+      "morph": "robinson:V-PAP-NPM",
       "translation": "keeping",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "φυλακὰς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5438"
+      ],
+      "strongs": "G5438",
+      "morph": "robinson:N-APF",
       "translation": "watch",
       "metadata": {},
       "gematria": {

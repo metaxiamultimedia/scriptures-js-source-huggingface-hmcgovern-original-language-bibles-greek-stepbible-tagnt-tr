@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "πίστιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-ASF",
       "translation": "faith",
       "metadata": {},
       "gematria": {
@@ -193,8 +196,11 @@
     {
       "position": 13,
       "text": "ἰδόντες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAP-NPM",
       "translation": "having seen",
       "metadata": {},
       "gematria": {
@@ -302,8 +308,11 @@
     {
       "position": 20,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -411,8 +420,11 @@
     {
       "position": 27,
       "text": "γῆς.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-GSF",
       "translation": "earth.",
       "metadata": {},
       "gematria": {

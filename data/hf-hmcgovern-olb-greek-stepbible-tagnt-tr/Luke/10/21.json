@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "πνεύματι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-DSN",
       "translation": "Spirit",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "ἁγίῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-DSN",
       "translation": "Holy",
       "metadata": {},
       "gematria": {
@@ -206,8 +212,11 @@
     {
       "position": 14,
       "text": "κύριε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-VSM-T",
       "translation": "Lord",
       "metadata": {},
       "gematria": {
@@ -283,8 +292,11 @@
     {
       "position": 19,
       "text": "γῆς,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-GSF",
       "translation": "earth,",
       "metadata": {},
       "gematria": {
@@ -296,8 +308,11 @@
     {
       "position": 20,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "for",
       "metadata": {},
       "gematria": {
@@ -517,8 +532,11 @@
     {
       "position": 34,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "for",
       "metadata": {},
       "gematria": {

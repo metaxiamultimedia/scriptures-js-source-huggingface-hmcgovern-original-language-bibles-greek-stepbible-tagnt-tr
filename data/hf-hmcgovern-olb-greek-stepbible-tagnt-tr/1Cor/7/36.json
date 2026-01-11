@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "If",
       "metadata": {},
       "gematria": {
@@ -289,8 +292,11 @@
     {
       "position": 19,
       "text": "ποιείτω·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAM-3S",
       "translation": "he should do;",
       "metadata": {},
       "gematria": {

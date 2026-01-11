@@ -228,8 +228,11 @@
     {
       "position": 15,
       "text": "γῆν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-ASF",
       "translation": "land",
       "metadata": {},
       "gematria": {
@@ -289,8 +292,11 @@
     {
       "position": 19,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "because",
       "metadata": {},
       "gematria": {
@@ -446,8 +452,11 @@
     {
       "position": 29,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {

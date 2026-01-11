@@ -260,8 +260,11 @@
     {
       "position": 17,
       "text": "ποιεῖν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAN",
       "translation": "to do",
       "metadata": {},
       "gematria": {

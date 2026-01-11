@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "πεποιημένων,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-RPP-GPN",
       "translation": "created,",
       "metadata": {},
       "gematria": {

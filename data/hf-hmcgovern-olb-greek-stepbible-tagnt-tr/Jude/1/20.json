@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "ἁγιωτάτῃ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-DSF-S",
       "translation": "most holy",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "πίστει,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-DSF",
       "translation": "faith",
       "metadata": {},
       "gematria": {
@@ -158,8 +164,11 @@
     {
       "position": 11,
       "text": "πνεύματι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-DSN",
       "translation": "[the] Spirit",
       "metadata": {},
       "gematria": {
@@ -171,8 +180,11 @@
     {
       "position": 12,
       "text": "ἁγίῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-DSN",
       "translation": "Holy",
       "metadata": {},
       "gematria": {

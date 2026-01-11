@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "ἴδετε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAM-2P",
       "translation": "Behold",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "κληθῶμεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-APS-1P",
       "translation": "we may be called —",
       "metadata": {},
       "gematria": {
@@ -286,8 +292,11 @@
     {
       "position": 19,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "because",
       "metadata": {},
       "gematria": {

@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "φωνὴν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5456"
+      ],
+      "strongs": "G5456",
+      "morph": "robinson:N-ASF",
       "translation": "voice",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "Πέτρου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4074"
+      ],
+      "strongs": "G4074",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Peter",
       "metadata": {},
       "gematria": {
@@ -286,8 +292,11 @@
     {
       "position": 19,
       "text": "Πέτρον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4074"
+      ],
+      "strongs": "G4074",
+      "morph": "robinson:N-ASM-P",
       "translation": "Peter",
       "metadata": {},
       "gematria": {

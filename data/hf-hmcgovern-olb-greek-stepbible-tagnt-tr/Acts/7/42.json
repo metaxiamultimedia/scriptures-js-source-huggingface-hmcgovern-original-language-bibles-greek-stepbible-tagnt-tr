@@ -468,8 +468,11 @@
     {
       "position": 30,
       "text": "οἶκος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-VSM",
       "translation": "O house",
       "metadata": {},
       "gematria": {

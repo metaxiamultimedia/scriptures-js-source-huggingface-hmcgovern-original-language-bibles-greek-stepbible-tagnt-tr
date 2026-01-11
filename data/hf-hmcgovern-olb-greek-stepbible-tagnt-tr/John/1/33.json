@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ᾔδειν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2LAI-1S",
       "translation": "knew",
       "metadata": {},
       "gematria": {
@@ -273,8 +276,11 @@
     {
       "position": 18,
       "text": "ἴδῃς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAS-2S",
       "translation": "you may see",
       "metadata": {},
       "gematria": {
@@ -302,8 +308,11 @@
     {
       "position": 20,
       "text": "πνεῦμα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-ASN",
       "translation": "Spirit",
       "metadata": {},
       "gematria": {
@@ -475,8 +484,11 @@
     {
       "position": 31,
       "text": "πνεύματι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-DSN",
       "translation": "[the] Spirit",
       "metadata": {},
       "gematria": {
@@ -488,8 +500,11 @@
     {
       "position": 32,
       "text": "ἁγίῳ.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-DSN",
       "translation": "Holy.",
       "metadata": {},
       "gematria": {

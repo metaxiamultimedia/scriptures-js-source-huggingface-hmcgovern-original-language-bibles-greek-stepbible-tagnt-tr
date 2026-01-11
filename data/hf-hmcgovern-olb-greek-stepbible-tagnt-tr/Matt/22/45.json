@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "If",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "καλεῖ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-PAI-3S",
       "translation": "calls",
       "metadata": {},
       "gematria": {
@@ -78,8 +84,11 @@
     {
       "position": 6,
       "text": "κύριον,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-ASM-T",
       "translation": "Lord,",
       "metadata": {},
       "gematria": {

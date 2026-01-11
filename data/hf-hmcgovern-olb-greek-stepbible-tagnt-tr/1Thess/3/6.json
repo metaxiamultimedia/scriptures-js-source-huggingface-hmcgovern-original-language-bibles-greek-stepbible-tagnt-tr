@@ -196,8 +196,11 @@
     {
       "position": 13,
       "text": "πίστιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-ASF",
       "translation": "faith",
       "metadata": {},
       "gematria": {
@@ -289,8 +292,11 @@
     {
       "position": 19,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -414,8 +420,11 @@
     {
       "position": 27,
       "text": "ἰδεῖν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAN",
       "translation": "to see",
       "metadata": {},
       "gematria": {

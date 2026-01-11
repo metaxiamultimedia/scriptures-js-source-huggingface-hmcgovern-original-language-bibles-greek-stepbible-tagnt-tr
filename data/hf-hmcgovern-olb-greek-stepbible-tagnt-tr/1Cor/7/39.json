@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Γυνὴ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-NSF",
       "translation": "A wife",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "ἀνὴρ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-NSM",
       "translation": "husband",
       "metadata": {},
       "gematria": {
@@ -222,8 +228,11 @@
     {
       "position": 15,
       "text": "ἀνήρ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-NSM",
       "translation": "husband",
       "metadata": {},
       "gematria": {
@@ -347,8 +356,11 @@
     {
       "position": 23,
       "text": "κυρίῳ.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-DSM-T",
       "translation": "[the] Lord.",
       "metadata": {},
       "gematria": {

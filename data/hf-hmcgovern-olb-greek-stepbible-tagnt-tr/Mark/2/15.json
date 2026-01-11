@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "οἰκίᾳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3614"
+      ],
+      "strongs": "G3614",
+      "morph": "robinson:N-DSF",
       "translation": "house",
       "metadata": {},
       "gematria": {
@@ -225,8 +228,11 @@
     {
       "position": 15,
       "text": "Ἰησοῦ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2424"
+      ],
+      "strongs": "G2424",
+      "morph": "robinson:N-DSM-P",
       "translation": "Jesus",
       "metadata": {},
       "gematria": {

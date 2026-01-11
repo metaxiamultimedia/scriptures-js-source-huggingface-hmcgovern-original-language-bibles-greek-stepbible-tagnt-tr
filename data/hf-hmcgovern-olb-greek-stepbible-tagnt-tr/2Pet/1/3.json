@@ -276,8 +276,11 @@
     {
       "position": 18,
       "text": "καλέσαντος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-AAP-GSM",
       "translation": "having called",
       "metadata": {},
       "gematria": {

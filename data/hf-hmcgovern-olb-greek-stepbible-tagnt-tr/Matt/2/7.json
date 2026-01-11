@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "Ἡρῴδης",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2264"
+      ],
+      "strongs": "G2264",
+      "morph": "robinson:N-NSM-P",
       "translation": "Herod",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "καλέσας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-AAP-NSM",
       "translation": "having called",
       "metadata": {},
       "gematria": {

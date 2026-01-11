@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "Ἰάκωβος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2385"
+      ],
+      "strongs": "G2385",
+      "morph": "robinson:N-NSM-P",
       "translation": "James",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "Ἰωάννης,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2491"
+      ],
+      "strongs": "G2491",
+      "morph": "robinson:N-NSM-P",
       "translation": "John,",
       "metadata": {},
       "gematria": {
@@ -318,8 +324,11 @@
     {
       "position": 21,
       "text": "Βαρναβᾷ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G921"
+      ],
+      "strongs": "G921",
+      "morph": "robinson:N-DSM-P",
       "translation": "to Barnabas",
       "metadata": {},
       "gematria": {

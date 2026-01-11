@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -273,8 +276,11 @@
     {
       "position": 18,
       "text": "λέγεις·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-2S",
       "translation": "say;",
       "metadata": {},
       "gematria": {
@@ -366,8 +372,11 @@
     {
       "position": 24,
       "text": "τηρήσῃ,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5083"
+      ],
+      "strongs": "G5083",
+      "morph": "robinson:V-AAS-3S",
       "translation": "shall keep,",
       "metadata": {},
       "gematria": {
@@ -459,8 +468,11 @@
     {
       "position": 30,
       "text": "αἰῶνα.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G165"
+      ],
+      "strongs": "G165",
+      "morph": "robinson:N-ASM",
       "translation": "age.",
       "metadata": {},
       "gematria": {

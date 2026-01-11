@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "Ἑρμῆν,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2060"
+      ],
+      "strongs": "G2060",
+      "morph": "robinson:N-ASM-T",
       "translation": "Hermes",
       "metadata": {},
       "gematria": {

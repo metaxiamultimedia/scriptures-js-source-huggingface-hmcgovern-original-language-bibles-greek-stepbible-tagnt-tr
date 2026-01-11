@@ -308,8 +308,11 @@
     {
       "position": 20,
       "text": "οἴκῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-DSM",
       "translation": "house",
       "metadata": {},
       "gematria": {
@@ -369,8 +372,11 @@
     {
       "position": 24,
       "text": "ἀνὴρ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-NSM",
       "translation": "a man",
       "metadata": {},
       "gematria": {

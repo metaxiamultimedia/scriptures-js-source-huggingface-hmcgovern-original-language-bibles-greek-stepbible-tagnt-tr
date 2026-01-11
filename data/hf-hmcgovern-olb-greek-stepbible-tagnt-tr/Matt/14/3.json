@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "Ἡρῴδης",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2264"
+      ],
+      "strongs": "G2264",
+      "morph": "robinson:N-NSM-P",
       "translation": "Herod",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "Ἰωάννην",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2491"
+      ],
+      "strongs": "G2491",
+      "morph": "robinson:N-ASM-P",
       "translation": "John",
       "metadata": {},
       "gematria": {
@@ -158,8 +164,11 @@
     {
       "position": 11,
       "text": "φυλακῇ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5438"
+      ],
+      "strongs": "G5438",
+      "morph": "robinson:N-DSF",
       "translation": "prison",
       "metadata": {},
       "gematria": {
@@ -187,8 +196,11 @@
     {
       "position": 13,
       "text": "Ἡρῳδιάδα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2266"
+      ],
+      "strongs": "G2266",
+      "morph": "robinson:N-ASF-P",
       "translation": "Herodias",
       "metadata": {},
       "gematria": {
@@ -216,8 +228,11 @@
     {
       "position": 15,
       "text": "γυναῖκα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-ASF",
       "translation": "wife",
       "metadata": {},
       "gematria": {
@@ -229,8 +244,11 @@
     {
       "position": 16,
       "text": "Φιλίππου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5376"
+      ],
+      "strongs": "G5376",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Philip",
       "metadata": {},
       "gematria": {

@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "Πέτρον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4074"
+      ],
+      "strongs": "G4074",
+      "morph": "robinson:N-ASM-P",
       "translation": "Peter",
       "metadata": {},
       "gematria": {
@@ -209,8 +212,11 @@
     {
       "position": 14,
       "text": "ἄνδρες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-VPM",
       "translation": "men",
       "metadata": {},
       "gematria": {

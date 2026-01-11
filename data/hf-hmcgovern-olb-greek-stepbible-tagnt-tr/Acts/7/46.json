@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "οἴκῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-DSM",
       "translation": "house",
       "metadata": {},
       "gematria": {
@@ -193,8 +196,11 @@
     {
       "position": 13,
       "text": "Ἰακώβ.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2384"
+      ],
+      "strongs": "G2384",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Jacob.",
       "metadata": {},
       "gematria": {

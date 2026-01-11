@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "πνεύματος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-GSN",
       "translation": "of [the] Spirit",
       "metadata": {},
       "gematria": {

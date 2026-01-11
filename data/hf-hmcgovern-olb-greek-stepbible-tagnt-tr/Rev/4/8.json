@@ -324,8 +324,11 @@
     {
       "position": 21,
       "text": "ἅγιος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-NSM",
       "translation": "Holy",
       "metadata": {},
       "gematria": {
@@ -337,8 +340,11 @@
     {
       "position": 22,
       "text": "ἅγιος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-NSM",
       "translation": "Holy",
       "metadata": {},
       "gematria": {
@@ -350,8 +356,11 @@
     {
       "position": 23,
       "text": "ἅγιος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-NSM",
       "translation": "Holy",
       "metadata": {},
       "gematria": {
@@ -363,8 +372,11 @@
     {
       "position": 24,
       "text": "κύριος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-NSM-T",
       "translation": "Lord",
       "metadata": {},
       "gematria": {

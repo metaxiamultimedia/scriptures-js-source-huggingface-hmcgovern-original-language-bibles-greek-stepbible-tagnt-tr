@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "ᾔδει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2LAI-3S",
       "translation": "did know",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -206,8 +212,11 @@
     {
       "position": 14,
       "text": "ἀγγέλου,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G32"
+      ],
+      "strongs": "G32",
+      "morph": "robinson:N-GSM",
       "translation": "angel,",
       "metadata": {},
       "gematria": {

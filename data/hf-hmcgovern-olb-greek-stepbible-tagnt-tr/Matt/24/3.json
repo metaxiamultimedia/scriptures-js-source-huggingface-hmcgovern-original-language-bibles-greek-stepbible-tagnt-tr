@@ -228,8 +228,11 @@
     {
       "position": 15,
       "text": "λέγοντες·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-NPM",
       "translation": "saying;",
       "metadata": {},
       "gematria": {
@@ -481,8 +484,11 @@
     {
       "position": 31,
       "text": "αἰῶνος;",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G165"
+      ],
+      "strongs": "G165",
+      "morph": "robinson:N-GSM",
       "translation": "age?",
       "metadata": {},
       "gematria": {

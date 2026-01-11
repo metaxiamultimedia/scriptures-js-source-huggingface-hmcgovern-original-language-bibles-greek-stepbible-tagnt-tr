@@ -196,8 +196,11 @@
     {
       "position": 13,
       "text": "Παῦλον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-ASM-P",
       "translation": "Paul",
       "metadata": {},
       "gematria": {

@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "κύριος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-NSM",
       "translation": "master",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "λέγει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-3S",
       "translation": "says",
       "metadata": {},
       "gematria": {
@@ -222,8 +228,11 @@
     {
       "position": 15,
       "text": "ἀφῆκά",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-AAI-1S",
       "translation": "I forgave",
       "metadata": {},
       "gematria": {

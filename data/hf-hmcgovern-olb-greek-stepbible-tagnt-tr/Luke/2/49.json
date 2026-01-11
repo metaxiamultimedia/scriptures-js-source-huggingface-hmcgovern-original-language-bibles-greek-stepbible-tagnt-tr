@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "for",
       "metadata": {},
       "gematria": {
@@ -145,8 +148,11 @@
     {
       "position": 10,
       "text": "ᾔδειτε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2LAI-2P",
       "translation": "you knew",
       "metadata": {},
       "gematria": {
@@ -158,8 +164,11 @@
     {
       "position": 11,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {

@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "σπέρματος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4690"
+      ],
+      "strongs": "G4690",
+      "morph": "robinson:N-GSN",
       "translation": "seed",
       "metadata": {},
       "gematria": {

@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "Σαῦλος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4569"
+      ],
+      "strongs": "G4569",
+      "morph": "robinson:N-NSM-P",
       "translation": "Saul",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "γῆς,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-GSF",
       "translation": "ground,",
       "metadata": {},
       "gematria": {

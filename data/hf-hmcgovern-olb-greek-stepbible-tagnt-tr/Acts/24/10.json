@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "Παῦλος,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-NSM-P",
       "translation": "Paul,",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "λέγειν·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAN",
       "translation": "to speak:",
       "metadata": {},
       "gematria": {

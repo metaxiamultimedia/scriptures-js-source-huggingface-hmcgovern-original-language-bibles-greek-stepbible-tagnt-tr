@@ -212,8 +212,11 @@
     {
       "position": 14,
       "text": "ἀφῆτε·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-2AAS-2P",
       "translation": "you may leave;",
       "metadata": {},
       "gematria": {
@@ -289,8 +292,11 @@
     {
       "position": 19,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "for",
       "metadata": {},
       "gematria": {

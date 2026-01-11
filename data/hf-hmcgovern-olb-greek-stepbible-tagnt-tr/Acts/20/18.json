@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "πρώτης",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-GSF",
       "translation": "[the] first",
       "metadata": {},
       "gematria": {

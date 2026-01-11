@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "οἰκίας·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3614"
+      ],
+      "strongs": "G3614",
+      "morph": "robinson:N-GSF",
       "translation": "house;",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "λέγει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-3S",
       "translation": "Says",
       "metadata": {},
       "gematria": {

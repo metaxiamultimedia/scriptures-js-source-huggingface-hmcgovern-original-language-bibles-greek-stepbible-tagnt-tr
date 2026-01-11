@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "λέγοντες·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-NPM",
       "translation": "saying;",
       "metadata": {},
       "gematria": {
@@ -257,8 +260,11 @@
     {
       "position": 17,
       "text": "ὑπὸ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5259"
+      ],
+      "strongs": "G5259",
+      "morph": "robinson:PREP",
       "translation": "by",
       "metadata": {},
       "gematria": {

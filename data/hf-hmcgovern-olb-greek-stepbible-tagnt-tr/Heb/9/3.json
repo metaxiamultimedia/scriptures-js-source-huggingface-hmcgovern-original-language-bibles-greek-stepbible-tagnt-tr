@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "λεγομένη",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PPP-NSF",
       "translation": "is being named",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "ἅγια",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G39"
+      ],
+      "strongs": "G39",
+      "morph": "robinson:A-NPN-L",
       "translation": "Holies",
       "metadata": {},
       "gematria": {
@@ -142,8 +148,11 @@
     {
       "position": 10,
       "text": "ἁγίων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G39"
+      ],
+      "strongs": "G39",
+      "morph": "robinson:A-GPN-L",
       "translation": "of Holies",
       "metadata": {},
       "gematria": {

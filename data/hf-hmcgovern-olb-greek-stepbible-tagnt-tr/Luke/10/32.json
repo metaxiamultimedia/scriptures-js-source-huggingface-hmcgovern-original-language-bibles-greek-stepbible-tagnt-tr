@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "ἰδὼν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAP-NSM",
       "translation": "having seen [him]",
       "metadata": {},
       "gematria": {

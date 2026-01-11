@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "ἀφίησιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-PAI-3S",
       "translation": "leaves",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "ἄγγελοι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G32"
+      ],
+      "strongs": "G32",
+      "morph": "robinson:N-NPM",
       "translation": "angels",
       "metadata": {},
       "gematria": {

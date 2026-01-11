@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "πειραζόμενος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3985"
+      ],
+      "strongs": "G3985",
+      "morph": "robinson:V-PPP-NSM",
       "translation": "being tempted",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "ὑπὸ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5259"
+      ],
+      "strongs": "G5259",
+      "morph": "robinson:PREP",
       "translation": "by",
       "metadata": {},
       "gematria": {
@@ -286,8 +292,11 @@
     {
       "position": 19,
       "text": "ἄγγελοι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G32"
+      ],
+      "strongs": "G32",
+      "morph": "robinson:N-NPM",
       "translation": "angels",
       "metadata": {},
       "gematria": {

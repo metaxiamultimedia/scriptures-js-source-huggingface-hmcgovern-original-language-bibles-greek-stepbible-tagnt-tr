@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "Ἰησοῦς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2424"
+      ],
+      "strongs": "G2424",
+      "morph": "robinson:N-NSM-P",
       "translation": "Jesus",
       "metadata": {},
       "gematria": {
@@ -158,8 +164,11 @@
     {
       "position": 11,
       "text": "Γαλιλαίαν,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1056"
+      ],
+      "strongs": "G1056",
+      "morph": "robinson:N-ASF-L",
       "translation": "Galilee,",
       "metadata": {},
       "gematria": {

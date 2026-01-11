@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "ἀσθένειαν,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G769"
+      ],
+      "strongs": "G769",
+      "morph": "robinson:N-ASF",
       "translation": "weakness,",
       "metadata": {},
       "gematria": {
@@ -321,8 +324,11 @@
     {
       "position": 21,
       "text": "αἰῶνα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G165"
+      ],
+      "strongs": "G165",
+      "morph": "robinson:N-ASM",
       "translation": "age",
       "metadata": {},
       "gematria": {

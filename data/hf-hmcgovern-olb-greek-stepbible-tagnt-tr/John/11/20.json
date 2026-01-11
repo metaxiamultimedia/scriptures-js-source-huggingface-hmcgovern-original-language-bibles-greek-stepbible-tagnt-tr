@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "Ἰησοῦς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2424"
+      ],
+      "strongs": "G2424",
+      "morph": "robinson:N-NSM-P",
       "translation": "Jesus",
       "metadata": {},
       "gematria": {
@@ -158,8 +164,11 @@
     {
       "position": 11,
       "text": "Μαριὰμ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3137"
+      ],
+      "strongs": "G3137",
+      "morph": "robinson:N-NSF-P",
       "translation": "Mary",
       "metadata": {},
       "gematria": {
@@ -219,8 +228,11 @@
     {
       "position": 15,
       "text": "οἴκῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-DSM",
       "translation": "house",
       "metadata": {},
       "gematria": {

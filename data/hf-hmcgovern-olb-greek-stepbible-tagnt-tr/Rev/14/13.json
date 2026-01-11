@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "φωνῆς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5456"
+      ],
+      "strongs": "G5456",
+      "morph": "robinson:N-GSF",
       "translation": "a voice",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "λεγούσης",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-GSF",
       "translation": "saying",
       "metadata": {},
       "gematria": {
@@ -222,8 +228,11 @@
     {
       "position": 15,
       "text": "κυρίῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-DSM-T",
       "translation": "the Lord",
       "metadata": {},
       "gematria": {
@@ -299,8 +308,11 @@
     {
       "position": 20,
       "text": "λέγει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-3S",
       "translation": "says",
       "metadata": {},
       "gematria": {
@@ -328,8 +340,11 @@
     {
       "position": 22,
       "text": "πνεῦμα,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-NSN",
       "translation": "Spirit,",
       "metadata": {},
       "gematria": {

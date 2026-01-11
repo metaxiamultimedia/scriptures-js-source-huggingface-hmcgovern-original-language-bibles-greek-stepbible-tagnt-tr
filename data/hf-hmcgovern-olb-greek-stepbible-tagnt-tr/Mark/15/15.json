@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "ποιῆσαι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAN",
       "translation": "to do",
       "metadata": {},
       "gematria": {
@@ -145,8 +148,11 @@
     {
       "position": 10,
       "text": "ἀπέλυσεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G630"
+      ],
+      "strongs": "G630",
+      "morph": "robinson:V-AAI-3S",
       "translation": "he released",
       "metadata": {},
       "gematria": {
@@ -254,8 +260,11 @@
     {
       "position": 17,
       "text": "Ἰησοῦν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2424"
+      ],
+      "strongs": "G2424",
+      "morph": "robinson:N-ASM-P",
       "translation": "Jesus",
       "metadata": {},
       "gematria": {

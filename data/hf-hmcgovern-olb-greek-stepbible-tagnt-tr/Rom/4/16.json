@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "πίστεως,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-GSF",
       "translation": "faith,",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "σπέρματι,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4690"
+      ],
+      "strongs": "G4690",
+      "morph": "robinson:N-DSN",
       "translation": "seed,",
       "metadata": {},
       "gematria": {
@@ -414,8 +420,11 @@
     {
       "position": 27,
       "text": "πίστεως",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-GSF",
       "translation": "faith",
       "metadata": {},
       "gematria": {

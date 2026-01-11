@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "Ἁνανίας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G367"
+      ],
+      "strongs": "G367",
+      "morph": "robinson:N-NSM-P",
       "translation": "Ananias",
       "metadata": {},
       "gematria": {

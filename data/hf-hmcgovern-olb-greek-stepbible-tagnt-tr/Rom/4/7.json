@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ἀφέθησαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-API-3P",
       "translation": "are forgiven",
       "metadata": {},
       "gematria": {

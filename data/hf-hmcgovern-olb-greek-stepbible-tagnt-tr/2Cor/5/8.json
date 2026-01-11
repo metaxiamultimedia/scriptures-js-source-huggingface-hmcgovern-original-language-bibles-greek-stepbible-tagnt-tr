@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "μᾶλλον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3123"
+      ],
+      "strongs": "G3123",
+      "morph": "robinson:ADV",
       "translation": "rather",
       "metadata": {},
       "gematria": {
@@ -209,8 +212,11 @@
     {
       "position": 14,
       "text": "κύριον.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-ASM-T",
       "translation": "Lord.",
       "metadata": {},
       "gematria": {

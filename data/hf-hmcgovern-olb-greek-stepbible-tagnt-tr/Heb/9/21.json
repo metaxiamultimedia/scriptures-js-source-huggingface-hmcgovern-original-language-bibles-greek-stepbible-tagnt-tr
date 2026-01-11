@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "αἵματι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G129"
+      ],
+      "strongs": "G129",
+      "morph": "robinson:N-DSN",
       "translation": "with blood",
       "metadata": {},
       "gematria": {

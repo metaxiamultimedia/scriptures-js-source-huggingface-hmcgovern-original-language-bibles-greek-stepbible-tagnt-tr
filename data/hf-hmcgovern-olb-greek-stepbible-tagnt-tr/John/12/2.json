@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "ἐποίησαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAI-3P",
       "translation": "They made",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "Λάζαρος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2976"
+      ],
+      "strongs": "G2976",
+      "morph": "robinson:N-NSM-P",
       "translation": "Lazarus",
       "metadata": {},
       "gematria": {

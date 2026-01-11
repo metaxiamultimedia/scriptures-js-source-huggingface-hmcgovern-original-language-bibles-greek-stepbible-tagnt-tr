@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "ἔβαλον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-2AAI-3P",
       "translation": "they cast [them]",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "φυλακὴν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5438"
+      ],
+      "strongs": "G5438",
+      "morph": "robinson:N-ASF",
       "translation": "prison",
       "metadata": {},
       "gematria": {
@@ -190,8 +196,11 @@
     {
       "position": 13,
       "text": "τηρεῖν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5083"
+      ],
+      "strongs": "G5083",
+      "morph": "robinson:V-PAN",
       "translation": "to keep",
       "metadata": {},
       "gematria": {

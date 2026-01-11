@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "κύριον·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-ASM-T",
       "translation": "Lord;",
       "metadata": {},
       "gematria": {
@@ -209,8 +212,11 @@
     {
       "position": 14,
       "text": "κύριε,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-VSM-T",
       "translation": "Lord,",
       "metadata": {},
       "gematria": {
@@ -286,8 +292,11 @@
     {
       "position": 19,
       "text": "εἴ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "if",
       "metadata": {},
       "gematria": {

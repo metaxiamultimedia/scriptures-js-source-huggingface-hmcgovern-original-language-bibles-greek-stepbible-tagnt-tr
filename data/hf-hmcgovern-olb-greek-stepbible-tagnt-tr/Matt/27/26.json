@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "ἀπέλυσεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G630"
+      ],
+      "strongs": "G630",
+      "morph": "robinson:V-AAI-3S",
       "translation": "he released",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "Ἰησοῦν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2424"
+      ],
+      "strongs": "G2424",
+      "morph": "robinson:N-ASM-P",
       "translation": "Jesus",
       "metadata": {},
       "gematria": {

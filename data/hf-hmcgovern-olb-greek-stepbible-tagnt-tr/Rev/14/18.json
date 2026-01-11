@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ἄγγελος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G32"
+      ],
+      "strongs": "G32",
+      "morph": "robinson:N-NSM",
       "translation": "angel",
       "metadata": {},
       "gematria": {
@@ -353,8 +356,11 @@
     {
       "position": 23,
       "text": "λέγων·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-NSM",
       "translation": "saying;",
       "metadata": {},
       "gematria": {
@@ -574,8 +580,11 @@
     {
       "position": 37,
       "text": "γῆς,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-GSF",
       "translation": "earth,",
       "metadata": {},
       "gematria": {
@@ -587,8 +596,11 @@
     {
       "position": 38,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "because",
       "metadata": {},
       "gematria": {

@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "αἱμάτων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G129"
+      ],
+      "strongs": "G129",
+      "morph": "robinson:N-GPN",
       "translation": "blood",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "ἀνδρὸς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-GSM",
       "translation": "of man",
       "metadata": {},
       "gematria": {

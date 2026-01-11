@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "πρῶτον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-NSN",
       "translation": "first",
       "metadata": {},
       "gematria": {

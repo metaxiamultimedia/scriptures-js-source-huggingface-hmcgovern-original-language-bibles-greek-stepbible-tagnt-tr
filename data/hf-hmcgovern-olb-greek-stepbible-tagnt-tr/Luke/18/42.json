@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "Ἰησοῦς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2424"
+      ],
+      "strongs": "G2424",
+      "morph": "robinson:N-NSM-P",
       "translation": "Jesus",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "πίστις",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-NSF",
       "translation": "faith",
       "metadata": {},
       "gematria": {

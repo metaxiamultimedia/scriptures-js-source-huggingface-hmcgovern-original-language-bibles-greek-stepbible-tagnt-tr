@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "λέγων·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-NSM",
       "translation": "saying;",
       "metadata": {},
       "gematria": {
@@ -33,8 +36,11 @@
     {
       "position": 3,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "if",
       "metadata": {},
       "gematria": {

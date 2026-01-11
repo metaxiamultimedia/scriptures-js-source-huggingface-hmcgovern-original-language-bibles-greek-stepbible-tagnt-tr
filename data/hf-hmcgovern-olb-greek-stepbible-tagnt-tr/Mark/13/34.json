@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "ἀφεὶς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-2AAP-NSM",
       "translation": "having left",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "οἰκίαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3614"
+      ],
+      "strongs": "G3614",
+      "morph": "robinson:N-ASF",
       "translation": "house",
       "metadata": {},
       "gematria": {

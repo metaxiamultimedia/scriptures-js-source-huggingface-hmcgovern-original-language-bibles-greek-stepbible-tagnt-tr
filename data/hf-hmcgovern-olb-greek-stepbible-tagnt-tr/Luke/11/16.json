@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "πειράζοντες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3985"
+      ],
+      "strongs": "G3985",
+      "morph": "robinson:V-PAP-NPM",
       "translation": "testing",
       "metadata": {},
       "gematria": {

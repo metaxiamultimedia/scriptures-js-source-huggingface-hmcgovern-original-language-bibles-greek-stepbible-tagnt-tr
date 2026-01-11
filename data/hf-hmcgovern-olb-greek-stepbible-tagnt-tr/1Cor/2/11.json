@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "only",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "πνεῦμα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-NSN",
       "translation": "spirit",
       "metadata": {},
       "gematria": {
@@ -350,8 +356,11 @@
     {
       "position": 23,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "only",
       "metadata": {},
       "gematria": {
@@ -395,8 +404,11 @@
     {
       "position": 26,
       "text": "πνεῦμα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-NSN",
       "translation": "Spirit",
       "metadata": {},
       "gematria": {

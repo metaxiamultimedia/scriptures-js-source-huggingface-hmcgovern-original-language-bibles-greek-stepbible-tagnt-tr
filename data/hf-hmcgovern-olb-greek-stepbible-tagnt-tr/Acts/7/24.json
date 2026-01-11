@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "ἰδών",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAP-NSM",
       "translation": "having seen",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "ἐποίησεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAI-3S",
       "translation": "he did",
       "metadata": {},
       "gematria": {

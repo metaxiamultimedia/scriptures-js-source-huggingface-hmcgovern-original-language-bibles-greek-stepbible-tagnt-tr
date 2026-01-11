@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "λέγειν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAN",
       "translation": "to say",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "Πέτρος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4074"
+      ],
+      "strongs": "G4074",
+      "morph": "robinson:N-NSM-P",
       "translation": "Peter",
       "metadata": {},
       "gematria": {
@@ -110,8 +116,11 @@
     {
       "position": 8,
       "text": "ἀφήκαμεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-AAI-1P",
       "translation": "left",
       "metadata": {},
       "gematria": {

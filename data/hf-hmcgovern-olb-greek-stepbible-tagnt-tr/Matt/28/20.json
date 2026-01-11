@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "τηρεῖν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5083"
+      ],
+      "strongs": "G5083",
+      "morph": "robinson:V-PAN",
       "translation": "to observe",
       "metadata": {},
       "gematria": {
@@ -321,8 +324,11 @@
     {
       "position": 21,
       "text": "αἰῶνος.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G165"
+      ],
+      "strongs": "G165",
+      "morph": "robinson:N-GSM",
       "translation": "age.",
       "metadata": {},
       "gematria": {

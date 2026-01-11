@@ -196,8 +196,11 @@
     {
       "position": 13,
       "text": "λέγομεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-1P",
       "translation": "We are saying",
       "metadata": {},
       "gematria": {
@@ -289,8 +292,11 @@
     {
       "position": 19,
       "text": "πίστις",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-NSF",
       "translation": "faith",
       "metadata": {},
       "gematria": {

@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Ἄνδρες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-VPM",
       "translation": "Men",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "γένους",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1085"
+      ],
+      "strongs": "G1085",
+      "morph": "robinson:N-GSN",
       "translation": "of [the] family",
       "metadata": {},
       "gematria": {

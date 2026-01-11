@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "Σίμωνι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4613"
+      ],
+      "strongs": "G4613",
+      "morph": "robinson:N-DSM-P",
       "translation": "to Simon",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "Πέτρον,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4074"
+      ],
+      "strongs": "G4074",
+      "morph": "robinson:N-ASM-P",
       "translation": "Peter,",
       "metadata": {},
       "gematria": {

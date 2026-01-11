@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "οἶκον·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-ASM",
       "translation": "household;",
       "metadata": {},
       "gematria": {
@@ -145,8 +148,11 @@
     {
       "position": 10,
       "text": "εἴ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "whether",
       "metadata": {},
       "gematria": {

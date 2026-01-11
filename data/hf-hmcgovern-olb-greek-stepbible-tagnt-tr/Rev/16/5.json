@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "ἀγγέλου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G32"
+      ],
+      "strongs": "G32",
+      "morph": "robinson:N-GSM",
       "translation": "angel",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "λέγοντος·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-GSM",
       "translation": "saying:",
       "metadata": {},
       "gematria": {
@@ -126,8 +132,11 @@
     {
       "position": 9,
       "text": "κύριε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-VSM-T",
       "translation": "O Lord",
       "metadata": {},
       "gematria": {
@@ -267,8 +276,11 @@
     {
       "position": 18,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "because",
       "metadata": {},
       "gematria": {

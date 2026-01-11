@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "Ζαχαρίας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2197"
+      ],
+      "strongs": "G2197",
+      "morph": "robinson:N-NSM-P",
       "translation": "Zechariah",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "πνεύματος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-GSN",
       "translation": "with [the] Spirit",
       "metadata": {},
       "gematria": {
@@ -110,8 +116,11 @@
     {
       "position": 8,
       "text": "ἁγίου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-GSN",
       "translation": "Holy",
       "metadata": {},
       "gematria": {
@@ -155,8 +164,11 @@
     {
       "position": 11,
       "text": "λέγων·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-NSM",
       "translation": "saying;",
       "metadata": {},
       "gematria": {

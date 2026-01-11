@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "κακὸν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2556"
+      ],
+      "strongs": "G2556",
+      "morph": "robinson:A-ASN",
       "translation": "evil",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "κακοῦ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2556"
+      ],
+      "strongs": "G2556",
+      "morph": "robinson:A-GSN",
       "translation": "evil",
       "metadata": {},
       "gematria": {

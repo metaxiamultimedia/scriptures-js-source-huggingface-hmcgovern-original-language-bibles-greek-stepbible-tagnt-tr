@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "ποιοῦν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAP-NSN",
       "translation": "producing",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "καλὸν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2570"
+      ],
+      "strongs": "G2570",
+      "morph": "robinson:A-ASM",
       "translation": "good",
       "metadata": {},
       "gematria": {
@@ -158,8 +164,11 @@
     {
       "position": 11,
       "text": "βάλλεται.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-PPI-3S",
       "translation": "is thrown.",
       "metadata": {},
       "gematria": {

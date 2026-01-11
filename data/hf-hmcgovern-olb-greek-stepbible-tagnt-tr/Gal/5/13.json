@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "ἐκλήθητε,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-API-2P",
       "translation": "were called,",
       "metadata": {},
       "gematria": {

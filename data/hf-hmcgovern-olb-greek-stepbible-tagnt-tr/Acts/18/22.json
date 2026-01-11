@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "Καισάρειαν,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2542"
+      ],
+      "strongs": "G2542",
+      "morph": "robinson:N-ASF-L",
       "translation": "Caesarea,",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "Ἀντιόχειαν·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G490"
+      ],
+      "strongs": "G490",
+      "morph": "robinson:N-ASF-L",
       "translation": "Antioch;",
       "metadata": {},
       "gematria": {

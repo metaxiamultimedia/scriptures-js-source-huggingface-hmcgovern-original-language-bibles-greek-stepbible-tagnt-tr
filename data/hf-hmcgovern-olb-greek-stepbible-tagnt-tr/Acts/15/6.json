@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "πρεσβύτεροι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4245"
+      ],
+      "strongs": "G4245",
+      "morph": "robinson:N-NPM",
       "translation": "elders",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "ἰδεῖν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAN",
       "translation": "to understand",
       "metadata": {},
       "gematria": {

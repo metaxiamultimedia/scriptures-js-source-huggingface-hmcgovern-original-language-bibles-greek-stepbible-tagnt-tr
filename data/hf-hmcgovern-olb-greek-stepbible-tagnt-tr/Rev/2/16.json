@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "lest",
       "metadata": {},
       "gematria": {

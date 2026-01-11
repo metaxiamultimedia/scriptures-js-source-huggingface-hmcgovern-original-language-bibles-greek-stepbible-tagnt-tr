@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "πνεύματος,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-GSN",
       "translation": "Spirit,",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "because",
       "metadata": {},
       "gematria": {
@@ -254,8 +260,11 @@
     {
       "position": 17,
       "text": "ἁγίων.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-GPM",
       "translation": "[the] saints.",
       "metadata": {},
       "gematria": {

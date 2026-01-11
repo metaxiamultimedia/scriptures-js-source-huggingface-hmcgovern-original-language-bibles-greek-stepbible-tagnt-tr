@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "if",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "Σίμων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4613"
+      ],
+      "strongs": "G4613",
+      "morph": "robinson:N-NSM-P",
       "translation": "Simon",
       "metadata": {},
       "gematria": {
@@ -110,8 +116,11 @@
     {
       "position": 8,
       "text": "Πέτρος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4074"
+      ],
+      "strongs": "G4074",
+      "morph": "robinson:N-NSM-P",
       "translation": "Peter",
       "metadata": {},
       "gematria": {

@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "If",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "πνεύματι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-DSN",
       "translation": "in spirit",
       "metadata": {},
       "gematria": {
@@ -382,8 +388,11 @@
     {
       "position": 25,
       "text": "πίστεως",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-GSF",
       "translation": "faith",
       "metadata": {},
       "gematria": {

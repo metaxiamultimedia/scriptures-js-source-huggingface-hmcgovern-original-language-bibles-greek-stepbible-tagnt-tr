@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "αἷμα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G129"
+      ],
+      "strongs": "G129",
+      "morph": "robinson:N-ASN",
       "translation": "blood",
       "metadata": {},
       "gematria": {
@@ -321,8 +324,11 @@
     {
       "position": 21,
       "text": "ψυχὴν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5590"
+      ],
+      "strongs": "G5590",
+      "morph": "robinson:N-ASF",
       "translation": "life",
       "metadata": {},
       "gematria": {

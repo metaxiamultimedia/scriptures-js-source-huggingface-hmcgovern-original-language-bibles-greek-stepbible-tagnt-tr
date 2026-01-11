@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "λέγουσιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-3P",
       "translation": "they say",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "γυνὴ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-NSF",
       "translation": "woman",
       "metadata": {},
       "gematria": {

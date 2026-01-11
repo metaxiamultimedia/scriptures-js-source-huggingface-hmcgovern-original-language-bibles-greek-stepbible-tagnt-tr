@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "Παῦλον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-ASM-P",
       "translation": "Paul",
       "metadata": {},
       "gematria": {
@@ -273,8 +276,11 @@
     {
       "position": 18,
       "text": "πρώτους",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-APM",
       "translation": "first",
       "metadata": {},
       "gematria": {
@@ -318,8 +324,11 @@
     {
       "position": 21,
       "text": "γῆν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-ASF",
       "translation": "land",
       "metadata": {},
       "gematria": {

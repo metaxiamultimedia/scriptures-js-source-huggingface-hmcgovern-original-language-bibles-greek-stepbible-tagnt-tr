@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "ποιήσητε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAS-2P",
       "translation": "you may have done",
       "metadata": {},
       "gematria": {
@@ -145,8 +148,11 @@
     {
       "position": 10,
       "text": "λέγετε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAM-2P",
       "translation": "do say",
       "metadata": {},
       "gematria": {
@@ -158,8 +164,11 @@
     {
       "position": 11,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -251,8 +260,11 @@
     {
       "position": 17,
       "text": "ποιῆσαι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAN",
       "translation": "to do",
       "metadata": {},
       "gematria": {
@@ -264,8 +276,11 @@
     {
       "position": 18,
       "text": "πεποιήκαμεν.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-RAI-1P",
       "translation": "we have done.",
       "metadata": {},
       "gematria": {

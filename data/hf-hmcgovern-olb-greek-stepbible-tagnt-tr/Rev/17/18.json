@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "γυνὴ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-NSF",
       "translation": "woman",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "εἶδες,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAI-2S",
       "translation": "you saw",
       "metadata": {},
       "gematria": {
@@ -270,8 +276,11 @@
     {
       "position": 18,
       "text": "γῆς.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-GSF",
       "translation": "earth.",
       "metadata": {},
       "gematria": {

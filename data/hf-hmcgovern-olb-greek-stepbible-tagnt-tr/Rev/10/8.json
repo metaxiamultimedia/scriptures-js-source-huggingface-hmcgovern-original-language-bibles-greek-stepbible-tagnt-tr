@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "φωνὴ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5456"
+      ],
+      "strongs": "G5456",
+      "morph": "robinson:N-NSF",
       "translation": "voice",
       "metadata": {},
       "gematria": {
@@ -337,8 +340,11 @@
     {
       "position": 22,
       "text": "ἀγγέλου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G32"
+      ],
+      "strongs": "G32",
+      "morph": "robinson:N-GSM",
       "translation": "angel",
       "metadata": {},
       "gematria": {
@@ -478,8 +484,11 @@
     {
       "position": 31,
       "text": "γῆς.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-GSF",
       "translation": "land.",
       "metadata": {},
       "gematria": {

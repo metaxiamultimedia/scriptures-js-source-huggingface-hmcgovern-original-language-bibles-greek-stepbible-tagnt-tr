@@ -148,8 +148,11 @@
     {
       "position": 10,
       "text": "ψυχὴν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5590"
+      ],
+      "strongs": "G5590",
+      "morph": "robinson:N-ASF",
       "translation": "soul",
       "metadata": {},
       "gematria": {
@@ -225,8 +228,11 @@
     {
       "position": 15,
       "text": "μᾶλλον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3123"
+      ],
+      "strongs": "G3123",
+      "morph": "robinson:ADV",
       "translation": "rather",
       "metadata": {},
       "gematria": {
@@ -286,8 +292,11 @@
     {
       "position": 19,
       "text": "ψυχὴν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5590"
+      ],
+      "strongs": "G5590",
+      "morph": "robinson:N-ASF",
       "translation": "soul",
       "metadata": {},
       "gematria": {

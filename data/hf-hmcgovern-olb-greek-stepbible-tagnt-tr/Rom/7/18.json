@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -369,8 +372,11 @@
     {
       "position": 24,
       "text": "καλὸν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2570"
+      ],
+      "strongs": "G2570",
+      "morph": "robinson:A-ASN",
       "translation": "good",
       "metadata": {},
       "gematria": {

@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "λέγοντας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-APM",
       "translation": "saying",
       "metadata": {},
       "gematria": {
@@ -17,8 +20,11 @@
     {
       "position": 2,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -78,8 +84,11 @@
     {
       "position": 6,
       "text": "κύριος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-NSM-T",
       "translation": "Lord",
       "metadata": {},
       "gematria": {
@@ -107,8 +116,11 @@
     {
       "position": 8,
       "text": "ὤφθη",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3700"
+      ],
+      "strongs": "G3700",
+      "morph": "robinson:V-API-3S",
       "translation": "He has appeared",
       "metadata": {},
       "gematria": {
@@ -120,8 +132,11 @@
     {
       "position": 9,
       "text": "Σίμωνι.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4613"
+      ],
+      "strongs": "G4613",
+      "morph": "robinson:N-DSM-P",
       "translation": "to Simon.",
       "metadata": {},
       "gematria": {

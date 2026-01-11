@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "ἰδὼν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAP-NSM",
       "translation": "was seeing",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "φυλακῆς,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5438"
+      ],
+      "strongs": "G5438",
+      "morph": "robinson:N-GSF",
       "translation": "prison,",
       "metadata": {},
       "gematria": {

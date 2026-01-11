@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "ἀφῶμεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-2AAS-1P",
       "translation": "we shall let him alone",
       "metadata": {},
       "gematria": {

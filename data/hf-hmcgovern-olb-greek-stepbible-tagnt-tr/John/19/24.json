@@ -292,8 +292,11 @@
     {
       "position": 19,
       "text": "λέγουσα·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-NSF",
       "translation": "is being spoken:",
       "metadata": {},
       "gematria": {
@@ -465,8 +468,11 @@
     {
       "position": 30,
       "text": "ἔβαλον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-2AAI-3P",
       "translation": "they cast",
       "metadata": {},
       "gematria": {
@@ -574,8 +580,11 @@
     {
       "position": 37,
       "text": "ἐποίησαν,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAI-3P",
       "translation": "did,",
       "metadata": {},
       "gematria": {

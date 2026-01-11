@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "μᾶλλον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3123"
+      ],
+      "strongs": "G3123",
+      "morph": "robinson:ADV",
       "translation": "rather",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "ὑπὸ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5259"
+      ],
+      "strongs": "G5259",
+      "morph": "robinson:PREP",
       "translation": "by",
       "metadata": {},
       "gematria": {
@@ -222,8 +228,11 @@
     {
       "position": 15,
       "text": "ἀσθενῆ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G772"
+      ],
+      "strongs": "G772",
+      "morph": "robinson:A-APN",
       "translation": "weak",
       "metadata": {},
       "gematria": {

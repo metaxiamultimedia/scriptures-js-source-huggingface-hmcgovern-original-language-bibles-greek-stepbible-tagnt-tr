@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "φωνῇ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5456"
+      ],
+      "strongs": "G5456",
+      "morph": "robinson:N-DSF",
       "translation": "in a voice",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "Λάζαρε,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2976"
+      ],
+      "strongs": "G2976",
+      "morph": "robinson:N-VSM-P",
       "translation": "Lazarus,",
       "metadata": {},
       "gematria": {

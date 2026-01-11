@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "μᾶλλον·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3123"
+      ],
+      "strongs": "G3123",
+      "morph": "robinson:ADV",
       "translation": "more:",
       "metadata": {},
       "gematria": {
@@ -273,8 +276,11 @@
     {
       "position": 18,
       "text": "ἔλεγον.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-IAI-3P",
       "translation": "of them were saying.",
       "metadata": {},
       "gematria": {

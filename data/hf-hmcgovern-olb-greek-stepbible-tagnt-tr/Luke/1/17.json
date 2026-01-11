@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "πνεύματι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-DSN",
       "translation": "[the] spirit",
       "metadata": {},
       "gematria": {
@@ -337,8 +340,11 @@
     {
       "position": 22,
       "text": "κυρίῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-DSM-T",
       "translation": "for [the] Lord",
       "metadata": {},
       "gematria": {

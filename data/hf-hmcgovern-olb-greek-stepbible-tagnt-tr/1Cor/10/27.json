@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Εἴ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "If",
       "metadata": {},
       "gematria": {
@@ -33,8 +36,11 @@
     {
       "position": 3,
       "text": "καλεῖ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-PAI-3S",
       "translation": "invites",
       "metadata": {},
       "gematria": {

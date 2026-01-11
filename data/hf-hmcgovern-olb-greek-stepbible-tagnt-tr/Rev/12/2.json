@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "βασανιζομένη",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G928"
+      ],
+      "strongs": "G928",
+      "morph": "robinson:V-PPP-NSF",
       "translation": "being in pain",
       "metadata": {},
       "gematria": {

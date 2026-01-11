@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Σαῦλος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4569"
+      ],
+      "strongs": "G4569",
+      "morph": "robinson:N-NSM-P",
       "translation": "Saul",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "Παῦλος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-NSM-P",
       "translation": "Paul",
       "metadata": {},
       "gematria": {
@@ -94,8 +100,11 @@
     {
       "position": 7,
       "text": "πνεύματος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-GSN",
       "translation": "[the] Spirit",
       "metadata": {},
       "gematria": {
@@ -107,8 +116,11 @@
     {
       "position": 8,
       "text": "ἁγίου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-GSN",
       "translation": "Holy",
       "metadata": {},
       "gematria": {

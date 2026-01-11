@@ -148,8 +148,11 @@
     {
       "position": 10,
       "text": "ἀγροὺς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G68"
+      ],
+      "strongs": "G68",
+      "morph": "robinson:N-APM",
       "translation": "fields",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "ἀσθενοῦντας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G770"
+      ],
+      "strongs": "G770",
+      "morph": "robinson:V-PAP-APM",
       "translation": "ailing",
       "metadata": {},
       "gematria": {

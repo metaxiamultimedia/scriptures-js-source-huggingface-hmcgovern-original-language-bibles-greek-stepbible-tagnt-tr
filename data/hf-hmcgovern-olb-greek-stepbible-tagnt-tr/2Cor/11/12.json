@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ποιῶ,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAI-1S",
       "translation": "I do,",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "ποιήσω,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-FAI-1S",
       "translation": "I will do,",
       "metadata": {},
       "gematria": {

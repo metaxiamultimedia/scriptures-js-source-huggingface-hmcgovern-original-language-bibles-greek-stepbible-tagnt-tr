@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "Ἠσαῦ,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2269"
+      ],
+      "strongs": "G2269",
+      "morph": "robinson:N-NSM-P",
       "translation": "Esau,",
       "metadata": {},
       "gematria": {

@@ -260,9 +260,14 @@ function parseReference(ref: string): { book: string; chapter: number; verse: nu
 /**
  * Parse dStrongs field into Strong's number and morphology.
  * Format: "G0976=N-NSF" -> { strongs: "G976", morph: "robinson:N-NSF" }
+ *
+ * Note: Some entries have a sense suffix letter after the Strong's number
+ * (e.g., "G2424G=N-NSM-P" for Jesus, "G3754H=CONJ" for ὅτι).
+ * The suffix indicates different senses/variants of the same word.
  */
 function parseDStrongs(dStrongs: string): { strongs: string; morph: string } | null {
-  const match = dStrongs.match(/^G(\d+)=(.+)$/);
+  // Match optional sense suffix letter (A-Z) after the Strong's number
+  const match = dStrongs.match(/^G(\d+)[A-Z]?=(.+)$/);
   if (!match) return null;
 
   const [, num, morph] = match;

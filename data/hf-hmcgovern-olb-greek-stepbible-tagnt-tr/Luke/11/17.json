@@ -244,8 +244,11 @@
     {
       "position": 16,
       "text": "οἶκος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-NSM",
       "translation": "a house",
       "metadata": {},
       "gematria": {
@@ -273,8 +276,11 @@
     {
       "position": 18,
       "text": "οἶκον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-ASM",
       "translation": "a house",
       "metadata": {},
       "gematria": {

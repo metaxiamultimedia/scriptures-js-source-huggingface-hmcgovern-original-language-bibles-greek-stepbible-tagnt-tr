@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "ἀνδρὶ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-DSM",
       "translation": "husband",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "ἄνδρα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-ASM",
       "translation": "a husband",
       "metadata": {},
       "gematria": {
@@ -190,8 +196,11 @@
     {
       "position": 13,
       "text": "γυναῖκα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-ASF",
       "translation": "a wife",
       "metadata": {},
       "gematria": {
@@ -219,8 +228,11 @@
     {
       "position": 15,
       "text": "ἀφιέναι.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-PAN",
       "translation": "is to send away.",
       "metadata": {},
       "gematria": {

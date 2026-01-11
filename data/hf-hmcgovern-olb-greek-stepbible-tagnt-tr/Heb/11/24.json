@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Πίστει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-DSF",
       "translation": "By faith",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "λέγεσθαι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PPN",
       "translation": "to be named",
       "metadata": {},
       "gematria": {
@@ -126,8 +132,11 @@
     {
       "position": 9,
       "text": "Φαραώ,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5328"
+      ],
+      "strongs": "G5328",
+      "morph": "robinson:N-GSM-T",
       "translation": "of Pharaoh,",
       "metadata": {},
       "gematria": {

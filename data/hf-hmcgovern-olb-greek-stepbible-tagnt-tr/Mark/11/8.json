@@ -212,8 +212,11 @@
     {
       "position": 14,
       "text": "ἀγρῶν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G68"
+      ],
+      "strongs": "G68",
+      "morph": "robinson:N-GPM",
       "translation": "fields",
       "metadata": {},
       "gematria": {

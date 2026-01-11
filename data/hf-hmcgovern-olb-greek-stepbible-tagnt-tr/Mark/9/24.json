@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "ἔλεγεν·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-IAI-3S",
       "translation": "was saying;",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "κύριε·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-VSM-T",
       "translation": "Lord;",
       "metadata": {},
       "gematria": {

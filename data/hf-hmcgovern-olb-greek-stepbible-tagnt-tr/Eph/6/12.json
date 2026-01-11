@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "because",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "αἷμα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G129"
+      ],
+      "strongs": "G129",
+      "morph": "robinson:N-ASN",
       "translation": "blood",
       "metadata": {},
       "gematria": {
@@ -350,8 +356,11 @@
     {
       "position": 23,
       "text": "αἰῶνος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G165"
+      ],
+      "strongs": "G165",
+      "morph": "robinson:N-GSM",
       "translation": "age",
       "metadata": {},
       "gematria": {

@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Βασίλισσα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G938"
+      ],
+      "strongs": "G938",
+      "morph": "robinson:N-NSF",
       "translation": "[The] queen",
       "metadata": {},
       "gematria": {
@@ -17,8 +20,11 @@
     {
       "position": 2,
       "text": "νότου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3558"
+      ],
+      "strongs": "G3558",
+      "morph": "robinson:N-GSM",
       "translation": "of [the] south",
       "metadata": {},
       "gematria": {
@@ -206,8 +212,11 @@
     {
       "position": 14,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "for",
       "metadata": {},
       "gematria": {
@@ -299,8 +308,11 @@
     {
       "position": 20,
       "text": "γῆς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-GSF",
       "translation": "earth",
       "metadata": {},
       "gematria": {
@@ -360,8 +372,11 @@
     {
       "position": 24,
       "text": "Σολομῶνος·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4672"
+      ],
+      "strongs": "G4672",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Solomon;",
       "metadata": {},
       "gematria": {
@@ -421,8 +436,11 @@
     {
       "position": 28,
       "text": "Σολομῶνος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4672"
+      ],
+      "strongs": "G4672",
+      "morph": "robinson:N-GSM-P",
       "translation": "than Solomon",
       "metadata": {},
       "gematria": {

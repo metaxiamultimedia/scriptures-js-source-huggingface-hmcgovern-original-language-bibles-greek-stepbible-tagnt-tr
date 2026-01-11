@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "Παύλῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-DSM-P",
       "translation": "after Paul",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "λέγουσα·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-NSF",
       "translation": "saying;",
       "metadata": {},
       "gematria": {

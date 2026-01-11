@@ -228,8 +228,11 @@
     {
       "position": 15,
       "text": "λέγοντες·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-NPM",
       "translation": "saying;",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "ἄνδρες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-VPM",
       "translation": "Men",
       "metadata": {},
       "gematria": {
@@ -270,8 +276,11 @@
     {
       "position": 18,
       "text": "εἴ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "if",
       "metadata": {},
       "gematria": {
@@ -427,8 +436,11 @@
     {
       "position": 28,
       "text": "λέγετε.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAM-2P",
       "translation": "do speak.",
       "metadata": {},
       "gematria": {

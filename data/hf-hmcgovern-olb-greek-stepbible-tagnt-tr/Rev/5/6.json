@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "εἶδον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAI-1S",
       "translation": "I saw",
       "metadata": {},
       "gematria": {
@@ -257,8 +260,11 @@
     {
       "position": 17,
       "text": "πρεσβυτέρων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4245"
+      ],
+      "strongs": "G4245",
+      "morph": "robinson:N-GPM",
       "translation": "elders",
       "metadata": {},
       "gematria": {
@@ -478,8 +484,11 @@
     {
       "position": 31,
       "text": "πνεύματα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-NPN",
       "translation": "Spirits",
       "metadata": {},
       "gematria": {
@@ -587,8 +596,11 @@
     {
       "position": 38,
       "text": "γῆν.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-ASF",
       "translation": "earth.",
       "metadata": {},
       "gematria": {

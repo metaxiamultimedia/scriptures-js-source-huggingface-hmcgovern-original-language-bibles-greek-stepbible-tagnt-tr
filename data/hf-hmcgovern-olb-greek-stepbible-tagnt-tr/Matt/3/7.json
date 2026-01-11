@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Ἰδὼν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAP-NSM",
       "translation": "Having seen",
       "metadata": {},
       "gematria": {
@@ -225,8 +228,11 @@
     {
       "position": 15,
       "text": "γεννήματα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1081"
+      ],
+      "strongs": "G1081",
+      "morph": "robinson:N-VPN",
       "translation": "Brood",
       "metadata": {},
       "gematria": {

@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ἀσθενέσιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G772"
+      ],
+      "strongs": "G772",
+      "morph": "robinson:A-DPM",
       "translation": "weak",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "ἀσθενὴς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G772"
+      ],
+      "strongs": "G772",
+      "morph": "robinson:A-NSM",
       "translation": "weak",
       "metadata": {},
       "gematria": {
@@ -110,8 +116,11 @@
     {
       "position": 8,
       "text": "ἀσθενεῖς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G772"
+      ],
+      "strongs": "G772",
+      "morph": "robinson:A-APM",
       "translation": "weak",
       "metadata": {},
       "gematria": {

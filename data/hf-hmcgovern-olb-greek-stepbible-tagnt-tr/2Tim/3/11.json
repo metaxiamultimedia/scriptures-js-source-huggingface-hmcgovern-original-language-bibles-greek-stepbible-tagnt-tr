@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "Ἀντιοχείᾳ,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G490"
+      ],
+      "strongs": "G490",
+      "morph": "robinson:N-DSF-L",
       "translation": "Antioch,",
       "metadata": {},
       "gematria": {
@@ -353,8 +356,11 @@
     {
       "position": 23,
       "text": "κύριος.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-NSM-T",
       "translation": "Lord.",
       "metadata": {},
       "gematria": {

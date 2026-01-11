@@ -196,8 +196,11 @@
     {
       "position": 13,
       "text": "κυρίου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-GSM",
       "translation": "master",
       "metadata": {},
       "gematria": {
@@ -225,8 +228,11 @@
     {
       "position": 15,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "If",
       "metadata": {},
       "gematria": {
@@ -318,8 +324,11 @@
     {
       "position": 21,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "if",
       "metadata": {},
       "gematria": {
@@ -379,8 +388,11 @@
     {
       "position": 25,
       "text": "ἐτήρησαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5083"
+      ],
+      "strongs": "G5083",
+      "morph": "robinson:V-AAI-3P",
       "translation": "they kept",
       "metadata": {},
       "gematria": {
@@ -440,8 +452,11 @@
     {
       "position": 29,
       "text": "τηρήσουσιν.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5083"
+      ],
+      "strongs": "G5083",
+      "morph": "robinson:V-FAI-3P",
       "translation": "they will keep.",
       "metadata": {},
       "gematria": {

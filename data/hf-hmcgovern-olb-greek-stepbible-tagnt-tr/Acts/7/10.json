@@ -244,8 +244,11 @@
     {
       "position": 16,
       "text": "Φαραὼ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5328"
+      ],
+      "strongs": "G5328",
+      "morph": "robinson:N-GSM-T",
       "translation": "Pharaoh",
       "metadata": {},
       "gematria": {
@@ -433,8 +436,11 @@
     {
       "position": 28,
       "text": "οἶκον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-ASM",
       "translation": "house",
       "metadata": {},
       "gematria": {

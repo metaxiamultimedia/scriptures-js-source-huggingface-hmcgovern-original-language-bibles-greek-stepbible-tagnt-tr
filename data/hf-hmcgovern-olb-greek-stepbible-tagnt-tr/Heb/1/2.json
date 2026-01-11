@@ -244,8 +244,11 @@
     {
       "position": 16,
       "text": "ἐποίησεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAI-3S",
       "translation": "He made",
       "metadata": {},
       "gematria": {
@@ -273,8 +276,11 @@
     {
       "position": 18,
       "text": "αἰῶνας,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G165"
+      ],
+      "strongs": "G165",
+      "morph": "robinson:N-APM",
       "translation": "ages",
       "metadata": {},
       "gematria": {

@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "ἄγγελον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G32"
+      ],
+      "strongs": "G32",
+      "morph": "robinson:N-ASM",
       "translation": "an angel",
       "metadata": {},
       "gematria": {

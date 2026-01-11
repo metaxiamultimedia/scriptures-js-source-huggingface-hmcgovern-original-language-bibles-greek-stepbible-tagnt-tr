@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "πρώτου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-GSM",
       "translation": "first",
       "metadata": {},
       "gematria": {

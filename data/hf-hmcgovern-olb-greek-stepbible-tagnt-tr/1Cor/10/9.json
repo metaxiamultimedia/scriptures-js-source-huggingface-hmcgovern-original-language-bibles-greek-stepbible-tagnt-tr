@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "ἐπείρασαν,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3985"
+      ],
+      "strongs": "G3985",
+      "morph": "robinson:V-AAI-3P",
       "translation": "tested,",
       "metadata": {},
       "gematria": {
@@ -145,8 +148,11 @@
     {
       "position": 10,
       "text": "ὑπὸ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5259"
+      ],
+      "strongs": "G5259",
+      "morph": "robinson:PREP",
       "translation": "by",
       "metadata": {},
       "gematria": {

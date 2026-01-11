@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "because",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "πρώτην",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-ASF",
       "translation": "first",
       "metadata": {},
       "gematria": {
@@ -78,8 +84,11 @@
     {
       "position": 6,
       "text": "πίστιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-ASF",
       "translation": "faith",
       "metadata": {},
       "gematria": {

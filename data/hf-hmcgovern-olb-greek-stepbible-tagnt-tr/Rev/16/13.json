@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "εἶδον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAI-1S",
       "translation": "I saw [coming]",
       "metadata": {},
       "gematria": {
@@ -305,8 +308,11 @@
     {
       "position": 20,
       "text": "πνεύματα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-APN",
       "translation": "spirits",
       "metadata": {},
       "gematria": {

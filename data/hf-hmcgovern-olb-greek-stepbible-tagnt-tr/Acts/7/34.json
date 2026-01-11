@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "ἰδὼν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAP-NSM",
       "translation": "Having seen",
       "metadata": {},
       "gematria": {
@@ -17,8 +20,11 @@
     {
       "position": 2,
       "text": "εἶδον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAI-1S",
       "translation": "I saw",
       "metadata": {},
       "gematria": {

@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "ἅγιος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-NSM",
       "translation": "holy",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "ἁγία",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-NSF",
       "translation": "holy",
       "metadata": {},
       "gematria": {

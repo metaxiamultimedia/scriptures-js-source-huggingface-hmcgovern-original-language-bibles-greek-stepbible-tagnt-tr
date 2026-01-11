@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "γῆ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-NSF",
       "translation": "Land",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "γῆ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-NSF",
       "translation": "land",
       "metadata": {},
       "gematria": {
@@ -158,8 +164,11 @@
     {
       "position": 11,
       "text": "Γαλιλαία",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1056"
+      ],
+      "strongs": "G1056",
+      "morph": "robinson:N-NSF-L",
       "translation": "Galilee",
       "metadata": {},
       "gematria": {

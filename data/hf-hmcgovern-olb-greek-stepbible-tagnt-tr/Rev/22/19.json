@@ -420,8 +420,11 @@
     {
       "position": 27,
       "text": "ἁγίας,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-GSF",
       "translation": "holy,",
       "metadata": {},
       "gematria": {

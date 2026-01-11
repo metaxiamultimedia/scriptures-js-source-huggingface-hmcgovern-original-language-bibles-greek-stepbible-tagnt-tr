@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "βληθείσῃ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-APP-DSF",
       "translation": "having been cast",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "γένους",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1085"
+      ],
+      "strongs": "G1085",
+      "morph": "robinson:N-GSN",
       "translation": "kind",
       "metadata": {},
       "gematria": {

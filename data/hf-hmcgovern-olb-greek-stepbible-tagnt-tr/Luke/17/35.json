@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "ἀφεθήσεται.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-FPI-3S",
       "translation": "will be left.",
       "metadata": {},
       "gematria": {

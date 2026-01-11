@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "καλέσαι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-AAN",
       "translation": "to call",
       "metadata": {},
       "gematria": {

@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "γῆ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-VSF",
       "translation": "land",
       "metadata": {},
       "gematria": {

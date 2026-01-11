@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "φυλάξαι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5442"
+      ],
+      "strongs": "G5442",
+      "morph": "robinson:V-AAN",
       "translation": "to keep",
       "metadata": {},
       "gematria": {

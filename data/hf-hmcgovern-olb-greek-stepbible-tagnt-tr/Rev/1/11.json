@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "λεγούσης",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-GSF",
       "translation": "saying",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "Α",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1"
+      ],
+      "strongs": "G1",
+      "morph": "robinson:N-NSN-LI",
       "translation": "Alpha",
       "metadata": {},
       "gematria": {
@@ -142,8 +148,11 @@
     {
       "position": 10,
       "text": "πρῶτος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-NSM-S",
       "translation": "first",
       "metadata": {},
       "gematria": {

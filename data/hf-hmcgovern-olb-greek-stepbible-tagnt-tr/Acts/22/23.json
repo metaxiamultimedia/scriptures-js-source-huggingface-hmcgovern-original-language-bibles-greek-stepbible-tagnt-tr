@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "βαλλόντων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-PAP-GPM",
       "translation": "throwing",
       "metadata": {},
       "gematria": {

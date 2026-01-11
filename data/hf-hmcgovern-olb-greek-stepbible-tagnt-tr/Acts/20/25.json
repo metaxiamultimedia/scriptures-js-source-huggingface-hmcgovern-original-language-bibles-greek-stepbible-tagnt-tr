@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "ὄψεσθε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3700"
+      ],
+      "strongs": "G3700",
+      "morph": "robinson:V-FDI-2P",
       "translation": "you will behold",
       "metadata": {},
       "gematria": {

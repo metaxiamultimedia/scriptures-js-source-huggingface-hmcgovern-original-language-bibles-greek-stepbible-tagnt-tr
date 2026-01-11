@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "Ἰάκωβον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2385"
+      ],
+      "strongs": "G2385",
+      "morph": "robinson:N-ASM-P",
       "translation": "James",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "Ἰωάννην",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2491"
+      ],
+      "strongs": "G2491",
+      "morph": "robinson:N-ASM-P",
       "translation": "John",
       "metadata": {},
       "gematria": {
@@ -110,8 +116,11 @@
     {
       "position": 8,
       "text": "Ζεβεδαίου,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2199"
+      ],
+      "strongs": "G2199",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Zebedee,",
       "metadata": {},
       "gematria": {
@@ -187,8 +196,11 @@
     {
       "position": 13,
       "text": "Σίμωνι.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4613"
+      ],
+      "strongs": "G4613",
+      "morph": "robinson:N-DSM-P",
       "translation": "with Simon.",
       "metadata": {},
       "gematria": {
@@ -264,8 +276,11 @@
     {
       "position": 18,
       "text": "Σίμωνα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4613"
+      ],
+      "strongs": "G4613",
+      "morph": "robinson:N-ASM-P",
       "translation": "Simon",
       "metadata": {},
       "gematria": {
@@ -293,8 +308,11 @@
     {
       "position": 20,
       "text": "Ἰησοῦς·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2424"
+      ],
+      "strongs": "G2424",
+      "morph": "robinson:N-NSM-P",
       "translation": "Jesus;",
       "metadata": {},
       "gematria": {

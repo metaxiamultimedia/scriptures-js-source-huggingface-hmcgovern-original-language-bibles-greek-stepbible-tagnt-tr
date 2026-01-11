@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "πνεύμασιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-DPN",
       "translation": "to [the] spirits",
       "metadata": {},
       "gematria": {

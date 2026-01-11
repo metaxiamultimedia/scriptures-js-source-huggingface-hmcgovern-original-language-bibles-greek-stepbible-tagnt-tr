@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "σπέρματι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4690"
+      ],
+      "strongs": "G4690",
+      "morph": "robinson:N-DSN",
       "translation": "descendants",
       "metadata": {},
       "gematria": {
@@ -321,8 +324,11 @@
     {
       "position": 21,
       "text": "πίστεως.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-GSF",
       "translation": "of faith.",
       "metadata": {},
       "gematria": {

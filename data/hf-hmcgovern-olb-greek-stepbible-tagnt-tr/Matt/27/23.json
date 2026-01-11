@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "κακὸν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2556"
+      ],
+      "strongs": "G2556",
+      "morph": "robinson:A-ASN",
       "translation": "evil",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "ἐποίησεν;",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAI-3S",
       "translation": "did He commit?",
       "metadata": {},
       "gematria": {
@@ -174,8 +180,11 @@
     {
       "position": 12,
       "text": "λέγοντες·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-NPM",
       "translation": "saying;",
       "metadata": {},
       "gematria": {

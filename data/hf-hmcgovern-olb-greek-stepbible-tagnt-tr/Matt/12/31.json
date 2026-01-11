@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "λέγω",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-1S",
       "translation": "I say",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "ἀφεθήσεται",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-FPI-3S",
       "translation": "will be forgiven",
       "metadata": {},
       "gematria": {
@@ -222,8 +228,11 @@
     {
       "position": 15,
       "text": "πνεύματος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-GSN",
       "translation": "Spirit",
       "metadata": {},
       "gematria": {
@@ -267,8 +276,11 @@
     {
       "position": 18,
       "text": "ἀφεθήσεται",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-FPI-3S",
       "translation": "will be forgiven",
       "metadata": {},
       "gematria": {

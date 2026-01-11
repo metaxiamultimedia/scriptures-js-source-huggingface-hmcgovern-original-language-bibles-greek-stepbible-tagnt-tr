@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "γῆς,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-GSF",
       "translation": "earth,",
       "metadata": {},
       "gematria": {

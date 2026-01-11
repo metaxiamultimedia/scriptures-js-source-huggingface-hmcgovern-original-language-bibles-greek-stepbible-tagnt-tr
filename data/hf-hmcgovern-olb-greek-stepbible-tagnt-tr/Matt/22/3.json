@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "καλέσαι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-AAN",
       "translation": "to call",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "κεκλημένους",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-RPP-APM",
       "translation": "invited",
       "metadata": {},
       "gematria": {

@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "κύριον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-ASM-T",
       "translation": "[the] Lord",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "ψυχῆς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5590"
+      ],
+      "strongs": "G5590",
+      "morph": "robinson:N-GSF",
       "translation": "soul",
       "metadata": {},
       "gematria": {
@@ -478,8 +484,11 @@
     {
       "position": 31,
       "text": "πρώτη",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-NSF-S",
       "translation": "first",
       "metadata": {},
       "gematria": {

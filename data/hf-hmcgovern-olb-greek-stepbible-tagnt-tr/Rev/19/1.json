@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "φωνὴν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5456"
+      ],
+      "strongs": "G5456",
+      "morph": "robinson:N-ASF",
       "translation": "a voice",
       "metadata": {},
       "gematria": {
@@ -353,8 +356,11 @@
     {
       "position": 23,
       "text": "κυρίῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-DSM-T",
       "translation": "to Lord",
       "metadata": {},
       "gematria": {

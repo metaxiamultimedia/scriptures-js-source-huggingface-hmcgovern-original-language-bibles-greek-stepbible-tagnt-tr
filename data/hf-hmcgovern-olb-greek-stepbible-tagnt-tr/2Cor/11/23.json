@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "φυλακαῖς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5438"
+      ],
+      "strongs": "G5438",
+      "morph": "robinson:N-DPF",
       "translation": "imprisonments",
       "metadata": {},
       "gematria": {

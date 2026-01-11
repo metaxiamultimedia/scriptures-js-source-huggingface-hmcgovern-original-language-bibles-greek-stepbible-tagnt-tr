@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "Σίμων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4613"
+      ],
+      "strongs": "G4613",
+      "morph": "robinson:N-NSM-P",
       "translation": "Simon",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "Φιλίππῳ,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5376"
+      ],
+      "strongs": "G5376",
+      "morph": "robinson:N-DSM-P",
       "translation": "with Philip,",
       "metadata": {},
       "gematria": {

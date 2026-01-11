@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "ἀγγέλων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G32"
+      ],
+      "strongs": "G32",
+      "morph": "robinson:N-GPM",
       "translation": "angels",
       "metadata": {},
       "gematria": {
@@ -369,8 +372,11 @@
     {
       "position": 24,
       "text": "λέγων·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-NSM",
       "translation": "saying;",
       "metadata": {},
       "gematria": {
@@ -478,8 +484,11 @@
     {
       "position": 31,
       "text": "γυναῖκα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-ASF",
       "translation": "wife",
       "metadata": {},
       "gematria": {

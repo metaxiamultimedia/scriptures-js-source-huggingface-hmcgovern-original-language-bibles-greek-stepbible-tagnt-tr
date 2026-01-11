@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "ἅγιαι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-NPF",
       "translation": "holy",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "γυναῖκες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-NPF",
       "translation": "women",
       "metadata": {},
       "gematria": {
@@ -238,8 +244,11 @@
     {
       "position": 16,
       "text": "ἀνδράσιν·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-DPM",
       "translation": "husbands;",
       "metadata": {},
       "gematria": {

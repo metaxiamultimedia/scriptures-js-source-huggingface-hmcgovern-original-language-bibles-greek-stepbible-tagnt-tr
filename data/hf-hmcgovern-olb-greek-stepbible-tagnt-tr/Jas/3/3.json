@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "βάλλομεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-PAI-1P",
       "translation": "we put",
       "metadata": {},
       "gematria": {

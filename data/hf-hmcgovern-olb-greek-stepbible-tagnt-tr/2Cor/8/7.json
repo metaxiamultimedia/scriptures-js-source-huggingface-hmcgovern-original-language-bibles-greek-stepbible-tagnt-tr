@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "πίστει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-DSF",
       "translation": "in faith",
       "metadata": {},
       "gematria": {

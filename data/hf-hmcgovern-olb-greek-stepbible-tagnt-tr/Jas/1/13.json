@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "πειραζόμενος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3985"
+      ],
+      "strongs": "G3985",
+      "morph": "robinson:V-PPP-NSM",
       "translation": "being tempted",
       "metadata": {},
       "gematria": {
@@ -33,8 +36,11 @@
     {
       "position": 3,
       "text": "λεγέτω",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAM-3S",
       "translation": "should say",
       "metadata": {},
       "gematria": {
@@ -46,8 +52,11 @@
     {
       "position": 4,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -91,8 +100,11 @@
     {
       "position": 7,
       "text": "πειράζομαι·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3985"
+      ],
+      "strongs": "G3985",
+      "morph": "robinson:V-PPI-1S",
       "translation": "I am being tempted;",
       "metadata": {},
       "gematria": {
@@ -184,8 +196,11 @@
     {
       "position": 13,
       "text": "κακῶν,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2556"
+      ],
+      "strongs": "G2556",
+      "morph": "robinson:A-GPN",
       "translation": "by evils,",
       "metadata": {},
       "gematria": {
@@ -197,8 +212,11 @@
     {
       "position": 14,
       "text": "πειράζει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3985"
+      ],
+      "strongs": "G3985",
+      "morph": "robinson:V-PAI-3S",
       "translation": "tempts",
       "metadata": {},
       "gematria": {

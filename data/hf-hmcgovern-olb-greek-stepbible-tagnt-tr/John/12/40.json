@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "ἴδωσιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAS-3P",
       "translation": "they may see",
       "metadata": {},
       "gematria": {

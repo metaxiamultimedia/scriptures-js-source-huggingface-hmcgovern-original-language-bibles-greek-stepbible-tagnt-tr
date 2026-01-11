@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "Σίμωνα·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4613"
+      ],
+      "strongs": "G4613",
+      "morph": "robinson:N-ASM-P",
       "translation": "Simon;",
       "metadata": {},
       "gematria": {

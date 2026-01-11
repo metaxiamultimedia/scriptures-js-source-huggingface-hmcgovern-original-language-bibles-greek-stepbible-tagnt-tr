@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "ἀφέντες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-2AAP-NPM",
       "translation": "having left",
       "metadata": {},
       "gematria": {

@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "κυρίῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-DSM",
       "translation": "to [my] lord",
       "metadata": {},
       "gematria": {

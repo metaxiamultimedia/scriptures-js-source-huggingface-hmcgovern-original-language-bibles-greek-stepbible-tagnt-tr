@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "Συμεὼν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4826"
+      ],
+      "strongs": "G4826",
+      "morph": "robinson:N-NSM-P",
       "translation": "Simeon",
       "metadata": {},
       "gematria": {
@@ -337,8 +340,11 @@
     {
       "position": 22,
       "text": "πνεῦμα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-NSN",
       "translation": "[the] Spirit",
       "metadata": {},
       "gematria": {
@@ -366,8 +372,11 @@
     {
       "position": 24,
       "text": "ἅγιον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-NSN",
       "translation": "Holy",
       "metadata": {},
       "gematria": {

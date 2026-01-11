@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Ἰωσὴφ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2501"
+      ],
+      "strongs": "G2501",
+      "morph": "robinson:N-NSM-P",
       "translation": "Joseph",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "Βαρναβᾶς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G921"
+      ],
+      "strongs": "G921",
+      "morph": "robinson:N-NSM-P",
       "translation": "Barnabas",
       "metadata": {},
       "gematria": {
@@ -238,8 +244,11 @@
     {
       "position": 16,
       "text": "γένει,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1085"
+      ],
+      "strongs": "G1085",
+      "morph": "robinson:N-DSN",
       "translation": "birth,",
       "metadata": {},
       "gematria": {

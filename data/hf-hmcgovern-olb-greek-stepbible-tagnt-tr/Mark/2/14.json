@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "εἶδεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAI-3S",
       "translation": "He saw",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "Λευὶν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3017"
+      ],
+      "strongs": "G3017",
+      "morph": "robinson:N-ASM-P",
       "translation": "Levi",
       "metadata": {},
       "gematria": {
@@ -190,8 +196,11 @@
     {
       "position": 13,
       "text": "λέγει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-3S",
       "translation": "He says",
       "metadata": {},
       "gematria": {

@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "ἀφέντες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-2AAP-NPM",
       "translation": "having left",
       "metadata": {},
       "gematria": {
@@ -337,8 +340,11 @@
     {
       "position": 22,
       "text": "πίστεως",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-GSF",
       "translation": "faith",
       "metadata": {},
       "gematria": {

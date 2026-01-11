@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "ἁγίους",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-APM",
       "translation": "holy",
       "metadata": {},
       "gematria": {

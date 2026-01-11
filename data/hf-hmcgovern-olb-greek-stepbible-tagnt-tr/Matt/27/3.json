@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "ἰδὼν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAP-NSM",
       "translation": "having seen",
       "metadata": {},
       "gematria": {
@@ -33,8 +36,11 @@
     {
       "position": 3,
       "text": "Ἰούδας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2455"
+      ],
+      "strongs": "G2455",
+      "morph": "robinson:N-NSM-P",
       "translation": "Judas",
       "metadata": {},
       "gematria": {
@@ -94,8 +100,11 @@
     {
       "position": 7,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -235,8 +244,11 @@
     {
       "position": 16,
       "text": "πρεσβυτέροις",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4245"
+      ],
+      "strongs": "G4245",
+      "morph": "robinson:N-DPM",
       "translation": "elders",
       "metadata": {},
       "gematria": {

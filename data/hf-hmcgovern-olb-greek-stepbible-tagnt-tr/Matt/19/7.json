@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Λέγουσιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-3P",
       "translation": "They say",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "ἀπολῦσαι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G630"
+      ],
+      "strongs": "G630",
+      "morph": "robinson:V-AAN",
       "translation": "to send away",
       "metadata": {},
       "gematria": {

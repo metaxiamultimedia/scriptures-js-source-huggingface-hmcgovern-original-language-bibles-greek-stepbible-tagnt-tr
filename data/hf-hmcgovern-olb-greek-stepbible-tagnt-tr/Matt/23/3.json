@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "τηρεῖν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5083"
+      ],
+      "strongs": "G5083",
+      "morph": "robinson:V-PAN",
       "translation": "to keep",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "τηρεῖτε.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5083"
+      ],
+      "strongs": "G5083",
+      "morph": "robinson:V-PAM-2P",
       "translation": "do observe.",
       "metadata": {},
       "gematria": {
@@ -222,8 +228,11 @@
     {
       "position": 15,
       "text": "ποιεῖτε·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAM-2P",
       "translation": "do perform;",
       "metadata": {},
       "gematria": {
@@ -235,8 +244,11 @@
     {
       "position": 16,
       "text": "λέγουσιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-3P",
       "translation": "They speak",
       "metadata": {},
       "gematria": {
@@ -296,8 +308,11 @@
     {
       "position": 20,
       "text": "ποιοῦσιν.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAI-3P",
       "translation": "act.",
       "metadata": {},
       "gematria": {

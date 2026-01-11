@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "Ἰωσὴφ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2501"
+      ],
+      "strongs": "G2501",
+      "morph": "robinson:N-NSM-P",
       "translation": "Joseph",
       "metadata": {},
       "gematria": {
@@ -209,8 +212,11 @@
     {
       "position": 14,
       "text": "Φαραὼ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5328"
+      ],
+      "strongs": "G5328",
+      "morph": "robinson:N-DSM-T",
       "translation": "to Pharaoh",
       "metadata": {},
       "gematria": {
@@ -238,8 +244,11 @@
     {
       "position": 16,
       "text": "γένος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1085"
+      ],
+      "strongs": "G1085",
+      "morph": "robinson:N-NSN",
       "translation": "family",
       "metadata": {},
       "gematria": {
@@ -267,8 +276,11 @@
     {
       "position": 18,
       "text": "Ἰωσήφ.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2501"
+      ],
+      "strongs": "G2501",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Joseph.",
       "metadata": {},
       "gematria": {

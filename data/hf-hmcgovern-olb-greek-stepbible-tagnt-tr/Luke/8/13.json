@@ -404,8 +404,11 @@
     {
       "position": 26,
       "text": "πειρασμοῦ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3986"
+      ],
+      "strongs": "G3986",
+      "morph": "robinson:N-GSM",
       "translation": "of testing",
       "metadata": {},
       "gematria": {

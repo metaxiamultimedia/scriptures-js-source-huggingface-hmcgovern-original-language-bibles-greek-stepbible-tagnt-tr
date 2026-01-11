@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Σαῦλος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4569"
+      ],
+      "strongs": "G4569",
+      "morph": "robinson:N-NSM-P",
       "translation": "Saul",
       "metadata": {},
       "gematria": {

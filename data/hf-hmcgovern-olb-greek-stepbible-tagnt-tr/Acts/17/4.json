@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "Παύλῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-DSM-P",
       "translation": "to Paul",
       "metadata": {},
       "gematria": {
@@ -289,8 +292,11 @@
     {
       "position": 19,
       "text": "γυναικῶν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-GPF",
       "translation": "of women",
       "metadata": {},
       "gematria": {
@@ -334,8 +340,11 @@
     {
       "position": 22,
       "text": "πρώτων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-GPF",
       "translation": "leading",
       "metadata": {},
       "gematria": {

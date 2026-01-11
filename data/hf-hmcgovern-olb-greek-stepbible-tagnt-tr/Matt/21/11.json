@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "ἔλεγον·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-IAI-3P",
       "translation": "were saying;",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "Ἰησοῦς,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2424"
+      ],
+      "strongs": "G2424",
+      "morph": "robinson:N-NSM-P",
       "translation": "Jesus,",
       "metadata": {},
       "gematria": {
@@ -206,8 +212,11 @@
     {
       "position": 14,
       "text": "Γαλιλαίας.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1056"
+      ],
+      "strongs": "G1056",
+      "morph": "robinson:N-GSF-L",
       "translation": "of Galilee.",
       "metadata": {},
       "gematria": {

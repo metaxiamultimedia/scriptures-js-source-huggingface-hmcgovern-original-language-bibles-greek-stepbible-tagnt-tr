@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "Μαρία",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3137"
+      ],
+      "strongs": "G3137",
+      "morph": "robinson:N-NSF-P",
       "translation": "Mary",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "Μαρία",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3137"
+      ],
+      "strongs": "G3137",
+      "morph": "robinson:N-NSF-P",
       "translation": "Mary",
       "metadata": {},
       "gematria": {
@@ -158,8 +164,11 @@
     {
       "position": 11,
       "text": "Ἰακώβου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2385"
+      ],
+      "strongs": "G2385",
+      "morph": "robinson:N-GSM-P",
       "translation": "of James",
       "metadata": {},
       "gematria": {
@@ -251,8 +260,11 @@
     {
       "position": 17,
       "text": "ἔλεγον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-IAI-3P",
       "translation": "were telling",
       "metadata": {},
       "gematria": {

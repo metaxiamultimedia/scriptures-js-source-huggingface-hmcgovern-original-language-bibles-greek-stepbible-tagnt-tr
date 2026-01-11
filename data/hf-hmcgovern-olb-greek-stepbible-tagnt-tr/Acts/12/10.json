@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "πρώτην",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-ASF",
       "translation": "a first",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "φυλακὴν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5438"
+      ],
+      "strongs": "G5438",
+      "morph": "robinson:N-ASF",
       "translation": "guard",
       "metadata": {},
       "gematria": {
@@ -462,8 +468,11 @@
     {
       "position": 30,
       "text": "ἄγγελος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G32"
+      ],
+      "strongs": "G32",
+      "morph": "robinson:N-NSM",
       "translation": "angel",
       "metadata": {},
       "gematria": {

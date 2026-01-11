@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "ἀφεθήσεται",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-FPI-3S",
       "translation": "it will be forgiven",
       "metadata": {},
       "gematria": {
@@ -257,8 +260,11 @@
     {
       "position": 17,
       "text": "ἅγιον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-ASN",
       "translation": "Holy",
       "metadata": {},
       "gematria": {
@@ -270,8 +276,11 @@
     {
       "position": 18,
       "text": "πνεῦμα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-ASN",
       "translation": "Spirit",
       "metadata": {},
       "gematria": {
@@ -315,8 +324,11 @@
     {
       "position": 21,
       "text": "ἀφεθήσεται.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-FPI-3S",
       "translation": "will be forgiven.",
       "metadata": {},
       "gematria": {

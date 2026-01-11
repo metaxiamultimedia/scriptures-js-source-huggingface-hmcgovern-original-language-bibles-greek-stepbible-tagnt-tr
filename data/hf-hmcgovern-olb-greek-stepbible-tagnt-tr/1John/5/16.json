@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ἴδῃ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAS-3S",
       "translation": "shall see",
       "metadata": {},
       "gematria": {
@@ -449,8 +452,11 @@
     {
       "position": 29,
       "text": "λέγω",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-1S",
       "translation": "do I say",
       "metadata": {},
       "gematria": {

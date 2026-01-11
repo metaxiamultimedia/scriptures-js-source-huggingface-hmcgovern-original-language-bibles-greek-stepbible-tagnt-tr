@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "Ἰωσὴφ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2501"
+      ],
+      "strongs": "G2501",
+      "morph": "robinson:N-NSM-P",
       "translation": "Joseph",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "Ἰακὼβ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2384"
+      ],
+      "strongs": "G2384",
+      "morph": "robinson:N-ASM-P",
       "translation": "Jacob",
       "metadata": {},
       "gematria": {
@@ -206,8 +212,11 @@
     {
       "position": 14,
       "text": "ψυχαῖς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5590"
+      ],
+      "strongs": "G5590",
+      "morph": "robinson:N-DPF",
       "translation": "souls",
       "metadata": {},
       "gematria": {

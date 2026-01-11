@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "εἴπερ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND + G4007=CONJ",
       "translation": "if indeed",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "λεγόμενοι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PPP-NPM",
       "translation": "[those] named",
       "metadata": {},
       "gematria": {
@@ -174,8 +180,11 @@
     {
       "position": 12,
       "text": "γῆς,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-GSF",
       "translation": "earth,",
       "metadata": {},
       "gematria": {
@@ -267,8 +276,11 @@
     {
       "position": 18,
       "text": "κύριοι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-NPM",
       "translation": "lords",
       "metadata": {},
       "gematria": {

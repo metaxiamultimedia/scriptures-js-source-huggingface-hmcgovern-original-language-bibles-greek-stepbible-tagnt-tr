@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "Πέτρῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4074"
+      ],
+      "strongs": "G4074",
+      "morph": "robinson:N-DSM-P",
       "translation": "to Peter",
       "metadata": {},
       "gematria": {
@@ -145,8 +148,11 @@
     {
       "position": 10,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -222,8 +228,11 @@
     {
       "position": 15,
       "text": "Γαλιλαίαν·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1056"
+      ],
+      "strongs": "G1056",
+      "morph": "robinson:N-ASF-L",
       "translation": "Galilee;",
       "metadata": {},
       "gematria": {
@@ -267,8 +276,11 @@
     {
       "position": 18,
       "text": "ὄψεσθε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3700"
+      ],
+      "strongs": "G3700",
+      "morph": "robinson:V-FDI-2P",
       "translation": "will you behold",
       "metadata": {},
       "gematria": {

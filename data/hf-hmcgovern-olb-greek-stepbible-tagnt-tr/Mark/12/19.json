@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "that",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "γυναῖκα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-ASF",
       "translation": "a wife",
       "metadata": {},
       "gematria": {
@@ -222,8 +228,11 @@
     {
       "position": 15,
       "text": "ἀφῇ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-2AAS-3S",
       "translation": "may leave",
       "metadata": {},
       "gematria": {
@@ -347,8 +356,11 @@
     {
       "position": 23,
       "text": "γυναῖκα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-ASF",
       "translation": "wife",
       "metadata": {},
       "gematria": {
@@ -392,8 +404,11 @@
     {
       "position": 26,
       "text": "σπέρμα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4690"
+      ],
+      "strongs": "G4690",
+      "morph": "robinson:N-ASN",
       "translation": "seed",
       "metadata": {},
       "gematria": {

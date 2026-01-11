@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "κύριέ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-VSM",
       "translation": "lord",
       "metadata": {},
       "gematria": {
@@ -433,8 +436,11 @@
     {
       "position": 28,
       "text": "αἵματι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G129"
+      ],
+      "strongs": "G129",
+      "morph": "robinson:N-DSN",
       "translation": "blood",
       "metadata": {},
       "gematria": {

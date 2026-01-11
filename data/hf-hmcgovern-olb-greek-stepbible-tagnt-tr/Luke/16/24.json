@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "Λάζαρον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2976"
+      ],
+      "strongs": "G2976",
+      "morph": "robinson:N-ASM-P",
       "translation": "Lazarus",
       "metadata": {},
       "gematria": {
@@ -385,8 +388,11 @@
     {
       "position": 25,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "for",
       "metadata": {},
       "gematria": {

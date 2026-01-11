@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Λέγει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-3S",
       "translation": "Says",
       "metadata": {},
       "gematria": {
@@ -257,8 +260,11 @@
     {
       "position": 17,
       "text": "λέγει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-3S",
       "translation": "says",
       "metadata": {},
       "gematria": {

@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "Παῦλος·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-NSM-P",
       "translation": "Paul;",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "Καίσαρος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2541"
+      ],
+      "strongs": "G2541",
+      "morph": "robinson:N-GSM-T",
       "translation": "of Caesar",
       "metadata": {},
       "gematria": {

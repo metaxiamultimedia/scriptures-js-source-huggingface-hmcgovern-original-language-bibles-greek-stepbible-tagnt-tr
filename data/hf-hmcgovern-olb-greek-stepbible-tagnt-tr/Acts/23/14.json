@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "πρεσβυτέροις",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4245"
+      ],
+      "strongs": "G4245",
+      "morph": "robinson:N-DPM",
       "translation": "elders",
       "metadata": {},
       "gematria": {
@@ -273,8 +276,11 @@
     {
       "position": 18,
       "text": "Παῦλον.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-ASM-P",
       "translation": "Paul.",
       "metadata": {},
       "gematria": {

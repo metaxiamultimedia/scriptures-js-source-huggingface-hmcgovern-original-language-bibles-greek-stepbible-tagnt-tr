@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "φύλαξον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5442"
+      ],
+      "strongs": "G5442",
+      "morph": "robinson:V-AAM-2S",
       "translation": "do guard",
       "metadata": {},
       "gematria": {

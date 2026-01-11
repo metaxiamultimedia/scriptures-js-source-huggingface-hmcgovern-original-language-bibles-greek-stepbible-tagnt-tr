@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "οἶκον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-ASM",
       "translation": "house",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "Ἰακὼβ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2384"
+      ],
+      "strongs": "G2384",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Jacob",
       "metadata": {},
       "gematria": {
@@ -126,8 +132,11 @@
     {
       "position": 9,
       "text": "αἰῶνας,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G165"
+      ],
+      "strongs": "G165",
+      "morph": "robinson:N-APM",
       "translation": "ages,",
       "metadata": {},
       "gematria": {

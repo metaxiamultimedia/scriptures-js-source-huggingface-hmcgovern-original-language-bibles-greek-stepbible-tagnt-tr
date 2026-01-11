@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "Σίμων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4613"
+      ],
+      "strongs": "G4613",
+      "morph": "robinson:N-NSM-P",
       "translation": "Simon",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "Πέτρος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4074"
+      ],
+      "strongs": "G4074",
+      "morph": "robinson:N-NSM-P",
       "translation": "Peter",
       "metadata": {},
       "gematria": {
@@ -174,8 +180,11 @@
     {
       "position": 12,
       "text": "λέγει.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-3S",
       "translation": "He is speaking.",
       "metadata": {},
       "gematria": {

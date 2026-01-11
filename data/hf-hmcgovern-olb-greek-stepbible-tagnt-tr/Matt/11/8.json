@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "ἰδεῖν;",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAN",
       "translation": "to see?",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "οἴκοις",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-DPM",
       "translation": "houses",
       "metadata": {},
       "gematria": {

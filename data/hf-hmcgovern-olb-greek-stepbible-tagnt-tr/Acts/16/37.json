@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "Παῦλος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-NSM-P",
       "translation": "Paul",
       "metadata": {},
       "gematria": {
@@ -209,8 +212,11 @@
     {
       "position": 14,
       "text": "ἔβαλαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-2AAI-3P",
       "translation": "they cast [us]",
       "metadata": {},
       "gematria": {
@@ -238,8 +244,11 @@
     {
       "position": 16,
       "text": "φυλακήν,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5438"
+      ],
+      "strongs": "G5438",
+      "morph": "robinson:N-ASF",
       "translation": "prison,",
       "metadata": {},
       "gematria": {

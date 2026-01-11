@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "ἄνδρα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-ASM",
       "translation": "man",
       "metadata": {},
       "gematria": {

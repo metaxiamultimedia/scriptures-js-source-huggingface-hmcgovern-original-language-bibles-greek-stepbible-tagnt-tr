@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "Βαρναβᾶς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G921"
+      ],
+      "strongs": "G921",
+      "morph": "robinson:N-NSM-P",
       "translation": "Barnabas",
       "metadata": {},
       "gematria": {

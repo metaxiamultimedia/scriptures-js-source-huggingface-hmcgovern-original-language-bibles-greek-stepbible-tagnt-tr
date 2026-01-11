@@ -228,8 +228,11 @@
     {
       "position": 15,
       "text": "Ἰακώβ·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2384"
+      ],
+      "strongs": "G2384",
+      "morph": "robinson:N-ASM-P",
       "translation": "Jacob;",
       "metadata": {},
       "gematria": {

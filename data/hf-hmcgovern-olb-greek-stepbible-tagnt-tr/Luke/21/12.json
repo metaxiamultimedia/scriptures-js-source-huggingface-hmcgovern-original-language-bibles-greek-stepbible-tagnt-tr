@@ -244,8 +244,11 @@
     {
       "position": 16,
       "text": "φυλακάς,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5438"
+      ],
+      "strongs": "G5438",
+      "morph": "robinson:N-APF",
       "translation": "prisons,",
       "metadata": {},
       "gematria": {

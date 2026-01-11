@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "ὀφθέντες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3700"
+      ],
+      "strongs": "G3700",
+      "morph": "robinson:V-APP-NPM",
       "translation": "having appeared",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "ἔλεγον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-IAI-3P",
       "translation": "were speaking of",
       "metadata": {},
       "gematria": {

@@ -340,8 +340,11 @@
     {
       "position": 22,
       "text": "ἀσθενὴς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G772"
+      ],
+      "strongs": "G772",
+      "morph": "robinson:A-NSF",
       "translation": "weak",
       "metadata": {},
       "gematria": {

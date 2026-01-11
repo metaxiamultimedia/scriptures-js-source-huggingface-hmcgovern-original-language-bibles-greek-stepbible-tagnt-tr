@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "ἐποιοῦντο·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-IMI-3P",
       "translation": "they were making;",
       "metadata": {},
       "gematria": {

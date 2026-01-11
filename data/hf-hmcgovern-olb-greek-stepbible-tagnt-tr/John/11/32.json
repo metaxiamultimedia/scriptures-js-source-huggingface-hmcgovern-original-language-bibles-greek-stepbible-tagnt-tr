@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "Μαριὰμ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3137"
+      ],
+      "strongs": "G3137",
+      "morph": "robinson:N-NSF-P",
       "translation": "Mary",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "Ἰησοῦς,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2424"
+      ],
+      "strongs": "G2424",
+      "morph": "robinson:N-NSM-P",
       "translation": "Jesus,",
       "metadata": {},
       "gematria": {
@@ -126,8 +132,11 @@
     {
       "position": 9,
       "text": "ἰδοῦσα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAP-NSF",
       "translation": "having seen",
       "metadata": {},
       "gematria": {
@@ -219,8 +228,11 @@
     {
       "position": 15,
       "text": "λέγουσα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-NSF",
       "translation": "saying",
       "metadata": {},
       "gematria": {
@@ -248,8 +260,11 @@
     {
       "position": 17,
       "text": "κύριε,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-VSM-T",
       "translation": "Lord,",
       "metadata": {},
       "gematria": {
@@ -261,8 +276,11 @@
     {
       "position": 18,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "if",
       "metadata": {},
       "gematria": {

@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "αἷμα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G129"
+      ],
+      "strongs": "G129",
+      "morph": "robinson:N-NSN",
       "translation": "blood",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "γῆς,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-GSF",
       "translation": "earth,",
       "metadata": {},
       "gematria": {
@@ -206,8 +212,11 @@
     {
       "position": 14,
       "text": "αἵματος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G129"
+      ],
+      "strongs": "G129",
+      "morph": "robinson:N-GSN",
       "translation": "blood",
       "metadata": {},
       "gematria": {
@@ -299,8 +308,11 @@
     {
       "position": 20,
       "text": "αἵματος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G129"
+      ],
+      "strongs": "G129",
+      "morph": "robinson:N-GSN",
       "translation": "blood",
       "metadata": {},
       "gematria": {
@@ -312,8 +324,11 @@
     {
       "position": 21,
       "text": "Ζαχαρίου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2197"
+      ],
+      "strongs": "G2197",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Zechariah",
       "metadata": {},
       "gematria": {

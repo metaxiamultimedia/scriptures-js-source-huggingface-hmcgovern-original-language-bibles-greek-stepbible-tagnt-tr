@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "γένος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1085"
+      ],
+      "strongs": "G1085",
+      "morph": "robinson:N-NSN",
       "translation": "kind",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "only",
       "metadata": {},
       "gematria": {

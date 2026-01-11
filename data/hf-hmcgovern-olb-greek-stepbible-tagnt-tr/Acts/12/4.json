@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "φυλακὴν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5438"
+      ],
+      "strongs": "G5438",
+      "morph": "robinson:N-ASF",
       "translation": "prison",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "φυλάσσειν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5442"
+      ],
+      "strongs": "G5442",
+      "morph": "robinson:V-PAN",
       "translation": "to guard",
       "metadata": {},
       "gematria": {

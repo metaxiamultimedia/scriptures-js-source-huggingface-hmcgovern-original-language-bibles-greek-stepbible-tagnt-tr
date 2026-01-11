@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "Σίμωνι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4613"
+      ],
+      "strongs": "G4613",
+      "morph": "robinson:N-DSM-P",
       "translation": "Simon",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "οἰκία",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3614"
+      ],
+      "strongs": "G3614",
+      "morph": "robinson:N-NSF",
       "translation": "[the] house",
       "metadata": {},
       "gematria": {
@@ -270,8 +276,11 @@
     {
       "position": 18,
       "text": "ποιεῖν.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAN",
       "translation": "to do.",
       "metadata": {},
       "gematria": {

@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "κακὸν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2556"
+      ],
+      "strongs": "G2556",
+      "morph": "robinson:A-ASN",
       "translation": "evil",
       "metadata": {},
       "gematria": {
@@ -193,8 +196,11 @@
     {
       "position": 13,
       "text": "ποιῇς,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAS-2S",
       "translation": "you shall do,",
       "metadata": {},
       "gematria": {
@@ -462,8 +468,11 @@
     {
       "position": 30,
       "text": "κακὸν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2556"
+      ],
+      "strongs": "G2556",
+      "morph": "robinson:A-ASN",
       "translation": "evil",
       "metadata": {},
       "gematria": {

@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "πίστιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-ASF",
       "translation": "faith",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "κυρίῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-DSM-T",
       "translation": "Lord",
       "metadata": {},
       "gematria": {
@@ -174,8 +180,11 @@
     {
       "position": 12,
       "text": "Ἰησοῦ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2424"
+      ],
+      "strongs": "G2424",
+      "morph": "robinson:N-DSM-P",
       "translation": "Jesus",
       "metadata": {},
       "gematria": {
@@ -299,8 +308,11 @@
     {
       "position": 20,
       "text": "ἁγίους",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-APM",
       "translation": "saints",
       "metadata": {},
       "gematria": {

@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "εἴδον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAI-1S",
       "translation": "I saw",
       "metadata": {},
       "gematria": {
@@ -209,8 +212,11 @@
     {
       "position": 14,
       "text": "πρεσβυτέρους",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4245"
+      ],
+      "strongs": "G4245",
+      "morph": "robinson:N-APM",
       "translation": "elders",
       "metadata": {},
       "gematria": {

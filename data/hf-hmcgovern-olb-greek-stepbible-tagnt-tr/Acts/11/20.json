@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "ἄνδρες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-NPM",
       "translation": "men",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "Ἀντιόχειαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G490"
+      ],
+      "strongs": "G490",
+      "morph": "robinson:N-ASF-L",
       "translation": "Antioch",
       "metadata": {},
       "gematria": {
@@ -286,8 +292,11 @@
     {
       "position": 19,
       "text": "κύριον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-ASM-T",
       "translation": "Lord",
       "metadata": {},
       "gematria": {
@@ -299,8 +308,11 @@
     {
       "position": 20,
       "text": "Ἰησοῦν.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2424"
+      ],
+      "strongs": "G2424",
+      "morph": "robinson:N-ASM-P",
       "translation": "Jesus.",
       "metadata": {},
       "gematria": {

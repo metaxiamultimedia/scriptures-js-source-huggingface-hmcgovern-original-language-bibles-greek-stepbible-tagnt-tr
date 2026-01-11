@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "γένος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1085"
+      ],
+      "strongs": "G1085",
+      "morph": "robinson:N-NSN",
       "translation": "Offspring",
       "metadata": {},
       "gematria": {

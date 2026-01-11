@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "Μαρία",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3137"
+      ],
+      "strongs": "G3137",
+      "morph": "robinson:N-NSF-P",
       "translation": "Mary",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "Μαρία",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3137"
+      ],
+      "strongs": "G3137",
+      "morph": "robinson:N-NSF-P",
       "translation": "Mary",
       "metadata": {},
       "gematria": {
@@ -126,8 +132,11 @@
     {
       "position": 9,
       "text": "Ἰωσῆτος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2500"
+      ],
+      "strongs": "G2500",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Joses",
       "metadata": {},
       "gematria": {

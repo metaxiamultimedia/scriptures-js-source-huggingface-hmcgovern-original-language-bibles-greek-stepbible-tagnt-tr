@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "Καϊάφαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2533"
+      ],
+      "strongs": "G2533",
+      "morph": "robinson:N-ASM-P",
       "translation": "Caiaphas",
       "metadata": {},
       "gematria": {

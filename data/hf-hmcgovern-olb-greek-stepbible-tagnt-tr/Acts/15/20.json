@@ -276,8 +276,11 @@
     {
       "position": 18,
       "text": "αἵματος.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G129"
+      ],
+      "strongs": "G129",
+      "morph": "robinson:N-GSN",
       "translation": "from blood.",
       "metadata": {},
       "gematria": {

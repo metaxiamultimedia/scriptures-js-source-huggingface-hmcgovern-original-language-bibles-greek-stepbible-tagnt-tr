@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "ὄψονται",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3700"
+      ],
+      "strongs": "G3700",
+      "morph": "robinson:V-FDI-3P",
       "translation": "they will behold",
       "metadata": {},
       "gematria": {

@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "Βαρναβᾶ,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G921"
+      ],
+      "strongs": "G921",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Barnabas,",
       "metadata": {},
       "gematria": {

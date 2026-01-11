@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "Παῦλον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-ASM-P",
       "translation": "Paul",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "Καισάρειαν,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2542"
+      ],
+      "strongs": "G2542",
+      "morph": "robinson:N-ASF-L",
       "translation": "Caesarea,",
       "metadata": {},
       "gematria": {
@@ -238,8 +244,11 @@
     {
       "position": 16,
       "text": "οἶκον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-ASM",
       "translation": "house",
       "metadata": {},
       "gematria": {
@@ -251,8 +260,11 @@
     {
       "position": 17,
       "text": "Φιλίππου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5376"
+      ],
+      "strongs": "G5376",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Philip",
       "metadata": {},
       "gematria": {

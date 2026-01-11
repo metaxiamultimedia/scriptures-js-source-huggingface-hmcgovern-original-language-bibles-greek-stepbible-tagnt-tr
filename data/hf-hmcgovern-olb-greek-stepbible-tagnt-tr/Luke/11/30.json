@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "Ἰωνᾶς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2495"
+      ],
+      "strongs": "G2495",
+      "morph": "robinson:N-NSM-P",
       "translation": "Jonah",
       "metadata": {},
       "gematria": {

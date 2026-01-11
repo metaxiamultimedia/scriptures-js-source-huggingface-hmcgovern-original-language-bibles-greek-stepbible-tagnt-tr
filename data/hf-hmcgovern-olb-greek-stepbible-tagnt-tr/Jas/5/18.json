@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "γῆ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-NSF",
       "translation": "earth",
       "metadata": {},
       "gematria": {

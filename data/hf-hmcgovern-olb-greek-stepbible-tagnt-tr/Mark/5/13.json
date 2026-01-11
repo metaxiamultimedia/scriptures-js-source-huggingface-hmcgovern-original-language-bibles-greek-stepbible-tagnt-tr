@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "πνεύματα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-NPN",
       "translation": "spirits",
       "metadata": {},
       "gematria": {

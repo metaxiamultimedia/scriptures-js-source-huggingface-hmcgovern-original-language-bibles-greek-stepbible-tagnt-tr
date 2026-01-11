@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "κύριε,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-VSM",
       "translation": "Sir,",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "καλὸν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2570"
+      ],
+      "strongs": "G2570",
+      "morph": "robinson:A-ASN",
       "translation": "good",
       "metadata": {},
       "gematria": {
@@ -174,8 +180,11 @@
     {
       "position": 12,
       "text": "σπέρμα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4690"
+      ],
+      "strongs": "G4690",
+      "morph": "robinson:N-ASN",
       "translation": "seed",
       "metadata": {},
       "gematria": {
@@ -251,8 +260,11 @@
     {
       "position": 17,
       "text": "ἀγρῷ;",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G68"
+      ],
+      "strongs": "G68",
+      "morph": "robinson:N-DSM",
       "translation": "field?",
       "metadata": {},
       "gematria": {

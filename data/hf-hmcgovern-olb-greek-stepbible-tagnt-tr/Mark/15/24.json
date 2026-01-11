@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "βάλλοντες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-PAP-NPM",
       "translation": "casting",
       "metadata": {},
       "gematria": {

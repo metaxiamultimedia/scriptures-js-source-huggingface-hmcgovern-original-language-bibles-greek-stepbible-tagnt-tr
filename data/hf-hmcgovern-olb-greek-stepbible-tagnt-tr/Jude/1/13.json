@@ -244,8 +244,11 @@
     {
       "position": 16,
       "text": "αἰῶνα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G165"
+      ],
+      "strongs": "G165",
+      "morph": "robinson:N-ASM",
       "translation": "age",
       "metadata": {},
       "gematria": {
@@ -257,8 +260,11 @@
     {
       "position": 17,
       "text": "τετήρηται.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5083"
+      ],
+      "strongs": "G5083",
+      "morph": "robinson:V-RPI-3S",
       "translation": "has been reserved.",
       "metadata": {},
       "gematria": {

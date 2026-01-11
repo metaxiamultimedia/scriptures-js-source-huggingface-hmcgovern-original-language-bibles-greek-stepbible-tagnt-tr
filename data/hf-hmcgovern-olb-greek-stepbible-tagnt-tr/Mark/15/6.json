@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "ἀπέλυεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G630"
+      ],
+      "strongs": "G630",
+      "morph": "robinson:V-IAI-3S",
       "translation": "he was releasing",
       "metadata": {},
       "gematria": {

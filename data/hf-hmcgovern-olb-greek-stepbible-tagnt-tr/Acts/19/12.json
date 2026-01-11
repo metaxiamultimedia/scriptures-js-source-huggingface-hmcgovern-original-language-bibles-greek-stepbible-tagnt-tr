@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "ἀσθενοῦντας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G770"
+      ],
+      "strongs": "G770",
+      "morph": "robinson:V-PAP-APM",
       "translation": "ailing",
       "metadata": {},
       "gematria": {
@@ -337,8 +340,11 @@
     {
       "position": 22,
       "text": "πνεύματα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-APN",
       "translation": "spirits",
       "metadata": {},
       "gematria": {

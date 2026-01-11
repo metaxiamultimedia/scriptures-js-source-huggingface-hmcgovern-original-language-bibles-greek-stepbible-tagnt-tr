@@ -84,7 +84,8 @@ describe('reference parsing', () => {
 
 describe('dStrongs parsing', () => {
   function parseDStrongs(dStrongs: string) {
-    const match = dStrongs.match(/^G(\d+)=(.+)$/);
+    // Match optional sense suffix letter (A-Z) after the Strong's number
+    const match = dStrongs.match(/^G(\d+)[A-Z]?=(.+)$/);
     if (!match) return null;
     const [, num, morph] = match;
     return { strongs: `G${parseInt(num)}`, morph: `robinson:${morph}` };
@@ -103,6 +104,26 @@ describe('dStrongs parsing', () => {
   it('should handle verb morphology', () => {
     const result = parseDStrongs('G2532=V-AAI-3S');
     expect(result).toEqual({ strongs: 'G2532', morph: 'robinson:V-AAI-3S' });
+  });
+
+  it('should handle sense suffix G (Jesus)', () => {
+    // G2424G indicates a sense variant of Strong's G2424 (Ἰησοῦς/Jesus)
+    const result = parseDStrongs('G2424G=N-NSM-P');
+    expect(result).toEqual({ strongs: 'G2424', morph: 'robinson:N-NSM-P' });
+  });
+
+  it('should handle sense suffix H (ὅτι)', () => {
+    // G3754H indicates a sense variant of Strong's G3754 (ὅτι/that)
+    const result = parseDStrongs('G3754H=CONJ');
+    expect(result).toEqual({ strongs: 'G3754', morph: 'robinson:CONJ' });
+  });
+
+  it('should handle sense suffix for other words', () => {
+    // Various sense suffixes: G, H, I, J, K, L, M, N, O
+    expect(parseDStrongs('G1487G=COND')).toEqual({ strongs: 'G1487', morph: 'robinson:COND' });
+    expect(parseDStrongs('G3004G=V-PAI-3S')).toEqual({ strongs: 'G3004', morph: 'robinson:V-PAI-3S' });
+    expect(parseDStrongs('G2962G=N-GSM-T')).toEqual({ strongs: 'G2962', morph: 'robinson:N-GSM-T' });
+    expect(parseDStrongs('G4613O=N-NSM-P')).toEqual({ strongs: 'G4613', morph: 'robinson:N-NSM-P' });
   });
 });
 

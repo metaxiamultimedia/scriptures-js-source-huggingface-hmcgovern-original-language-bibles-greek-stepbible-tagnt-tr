@@ -196,8 +196,11 @@
     {
       "position": 13,
       "text": "κακὸν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2556"
+      ],
+      "strongs": "G2556",
+      "morph": "robinson:A-ASN",
       "translation": "[it is] evil",
       "metadata": {},
       "gematria": {

@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "λέγουσα·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-NSF",
       "translation": "is saying:",
       "metadata": {},
       "gematria": {
@@ -321,8 +324,11 @@
     {
       "position": 21,
       "text": "ἴδητε.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAS-2P",
       "translation": "may perceive.",
       "metadata": {},
       "gematria": {

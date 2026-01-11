@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "ὤφθη",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3700"
+      ],
+      "strongs": "G3700",
+      "morph": "robinson:V-API-3S",
       "translation": "He appeared",
       "metadata": {},
       "gematria": {
@@ -33,8 +36,11 @@
     {
       "position": 3,
       "text": "Ἰακώβῳ,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2385"
+      ],
+      "strongs": "G2385",
+      "morph": "robinson:N-DSM-P",
       "translation": "to James,",
       "metadata": {},
       "gematria": {

@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "καλὴν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2570"
+      ],
+      "strongs": "G2570",
+      "morph": "robinson:A-ASF",
       "translation": "good",
       "metadata": {},
       "gematria": {
@@ -33,8 +36,11 @@
     {
       "position": 3,
       "text": "φύλαξον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5442"
+      ],
+      "strongs": "G5442",
+      "morph": "robinson:V-AAM-2S",
       "translation": "do keep",
       "metadata": {},
       "gematria": {
@@ -62,8 +68,11 @@
     {
       "position": 5,
       "text": "πνεύματος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-GSN",
       "translation": "[the] Spirit",
       "metadata": {},
       "gematria": {
@@ -75,8 +84,11 @@
     {
       "position": 6,
       "text": "ἁγίου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-GSN",
       "translation": "Holy",
       "metadata": {},
       "gematria": {

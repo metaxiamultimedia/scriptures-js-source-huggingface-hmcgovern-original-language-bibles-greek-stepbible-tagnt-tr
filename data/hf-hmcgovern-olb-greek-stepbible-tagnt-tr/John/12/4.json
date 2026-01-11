@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "λέγει",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-3S",
       "translation": "Says",
       "metadata": {},
       "gematria": {
@@ -17,8 +20,11 @@
     {
       "position": 2,
       "text": "Ἰούδας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2455"
+      ],
+      "strongs": "G2455",
+      "morph": "robinson:N-NSM-P",
       "translation": "Judas",
       "metadata": {},
       "gematria": {
@@ -30,8 +36,11 @@
     {
       "position": 3,
       "text": "Σίμωνος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4613"
+      ],
+      "strongs": "G4613",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Simon",
       "metadata": {},
       "gematria": {

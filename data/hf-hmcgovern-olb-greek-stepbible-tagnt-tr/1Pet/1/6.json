@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "if",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "πειρασμοῖς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3986"
+      ],
+      "strongs": "G3986",
+      "morph": "robinson:N-DPM",
       "translation": "trials",
       "metadata": {},
       "gematria": {

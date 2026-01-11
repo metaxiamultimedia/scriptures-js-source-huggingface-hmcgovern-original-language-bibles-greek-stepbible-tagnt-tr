@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "λέγειν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAN",
       "translation": "to say",
       "metadata": {},
       "gematria": {
@@ -209,8 +212,11 @@
     {
       "position": 14,
       "text": "ἀφίησιν;",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-PAI-3S",
       "translation": "forgives?",
       "metadata": {},
       "gematria": {

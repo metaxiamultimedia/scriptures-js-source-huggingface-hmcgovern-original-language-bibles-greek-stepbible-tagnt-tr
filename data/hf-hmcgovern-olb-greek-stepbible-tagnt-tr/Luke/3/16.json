@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "λέγων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-NSM",
       "translation": "saying",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "Ἰωάννης·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2491"
+      ],
+      "strongs": "G2491",
+      "morph": "robinson:N-NSM-P",
       "translation": "John:",
       "metadata": {},
       "gematria": {
@@ -446,8 +452,11 @@
     {
       "position": 29,
       "text": "πνεύματι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-DSN",
       "translation": "[the] Spirit",
       "metadata": {},
       "gematria": {
@@ -459,8 +468,11 @@
     {
       "position": 30,
       "text": "ἁγίῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-DSN",
       "translation": "Holy",
       "metadata": {},
       "gematria": {

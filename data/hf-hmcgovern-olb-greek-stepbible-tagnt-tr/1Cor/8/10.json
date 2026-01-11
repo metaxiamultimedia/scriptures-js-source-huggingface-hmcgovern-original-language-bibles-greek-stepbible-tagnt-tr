@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "ἴδῃ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAS-3S",
       "translation": "shall see",
       "metadata": {},
       "gematria": {
@@ -241,8 +244,11 @@
     {
       "position": 16,
       "text": "ἀσθενοῦς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G772"
+      ],
+      "strongs": "G772",
+      "morph": "robinson:A-GSM",
       "translation": "weak",
       "metadata": {},
       "gematria": {

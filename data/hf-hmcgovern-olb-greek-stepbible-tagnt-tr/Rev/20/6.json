@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ἅγιος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-NSM",
       "translation": "holy [is]",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "πρώτῃ·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-DSF",
       "translation": "first!",
       "metadata": {},
       "gematria": {

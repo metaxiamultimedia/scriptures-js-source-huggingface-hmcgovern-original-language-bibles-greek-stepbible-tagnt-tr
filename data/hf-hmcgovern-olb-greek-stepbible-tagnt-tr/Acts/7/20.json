@@ -260,8 +260,11 @@
     {
       "position": 17,
       "text": "οἴκῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-DSM",
       "translation": "house",
       "metadata": {},
       "gematria": {

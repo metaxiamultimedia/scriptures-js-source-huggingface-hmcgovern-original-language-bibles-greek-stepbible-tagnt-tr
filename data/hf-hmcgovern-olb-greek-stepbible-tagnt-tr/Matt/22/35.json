@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "πειράζων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3985"
+      ],
+      "strongs": "G3985",
+      "morph": "robinson:V-PAP-NSM",
       "translation": "testing",
       "metadata": {},
       "gematria": {

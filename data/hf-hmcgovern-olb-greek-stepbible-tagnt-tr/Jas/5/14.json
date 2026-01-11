@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "ἀσθενεῖ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G770"
+      ],
+      "strongs": "G770",
+      "morph": "robinson:V-PAI-3S",
       "translation": "Is sick",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "πρεσβυτέρους",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4245"
+      ],
+      "strongs": "G4245",
+      "morph": "robinson:N-APM",
       "translation": "elders",
       "metadata": {},
       "gematria": {
@@ -318,8 +324,11 @@
     {
       "position": 21,
       "text": "κυρίου.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-GSM-T",
       "translation": "Lord.",
       "metadata": {},
       "gematria": {

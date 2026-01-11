@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "μᾶλλον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3123"
+      ],
+      "strongs": "G3123",
+      "morph": "robinson:ADV",
       "translation": "more",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "πνεύματος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-GSN",
       "translation": "Spirit",
       "metadata": {},
       "gematria": {

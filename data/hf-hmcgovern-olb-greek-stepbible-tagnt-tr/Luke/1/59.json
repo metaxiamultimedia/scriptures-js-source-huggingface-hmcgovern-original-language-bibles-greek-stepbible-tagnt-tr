@@ -196,8 +196,11 @@
     {
       "position": 13,
       "text": "ἐκάλουν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-IAI-3P",
       "translation": "were calling",
       "metadata": {},
       "gematria": {
@@ -321,8 +324,11 @@
     {
       "position": 21,
       "text": "Ζαχαρίαν.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2197"
+      ],
+      "strongs": "G2197",
+      "morph": "robinson:N-ASM-P",
       "translation": "Zechariah.",
       "metadata": {},
       "gematria": {

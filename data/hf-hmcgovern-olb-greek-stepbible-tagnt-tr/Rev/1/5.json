@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "Ἰησοῦ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2424"
+      ],
+      "strongs": "G2424",
+      "morph": "robinson:N-GSM-P",
       "translation": "Jesus",
       "metadata": {},
       "gematria": {
@@ -289,8 +292,11 @@
     {
       "position": 19,
       "text": "γῆς.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-GSF",
       "translation": "earth.",
       "metadata": {},
       "gematria": {
@@ -462,8 +468,11 @@
     {
       "position": 30,
       "text": "αἵματι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G129"
+      ],
+      "strongs": "G129",
+      "morph": "robinson:N-DSN",
       "translation": "blood",
       "metadata": {},
       "gematria": {

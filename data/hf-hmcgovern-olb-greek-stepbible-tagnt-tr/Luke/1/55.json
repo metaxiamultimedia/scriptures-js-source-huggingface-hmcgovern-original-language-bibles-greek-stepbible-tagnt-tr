@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "σπέρματι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4690"
+      ],
+      "strongs": "G4690",
+      "morph": "robinson:N-DSN",
       "translation": "descendants",
       "metadata": {},
       "gematria": {
@@ -225,8 +228,11 @@
     {
       "position": 15,
       "text": "αἰῶνα.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G165"
+      ],
+      "strongs": "G165",
+      "morph": "robinson:N-ASM",
       "translation": "age.",
       "metadata": {},
       "gematria": {

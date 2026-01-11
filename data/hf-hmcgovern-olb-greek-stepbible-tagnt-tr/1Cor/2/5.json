@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "πίστις",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-NSF",
       "translation": "faith",
       "metadata": {},
       "gematria": {

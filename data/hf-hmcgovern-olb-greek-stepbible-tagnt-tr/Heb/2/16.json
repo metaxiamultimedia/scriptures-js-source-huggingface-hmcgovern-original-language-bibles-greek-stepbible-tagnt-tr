@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "ἀγγέλων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G32"
+      ],
+      "strongs": "G32",
+      "morph": "robinson:N-GPM",
       "translation": "[the] angels",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "σπέρματος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4690"
+      ],
+      "strongs": "G4690",
+      "morph": "robinson:N-GSN",
       "translation": "[the] seed",
       "metadata": {},
       "gematria": {

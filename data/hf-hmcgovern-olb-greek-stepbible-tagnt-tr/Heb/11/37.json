@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ἐπειράσθησαν,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3985"
+      ],
+      "strongs": "G3985",
+      "morph": "robinson:V-API-3P",
       "translation": "tested",
       "metadata": {},
       "gematria": {

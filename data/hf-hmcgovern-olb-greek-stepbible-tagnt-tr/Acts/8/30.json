@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "Φίλιππος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5376"
+      ],
+      "strongs": "G5376",
+      "morph": "robinson:N-NSM-P",
       "translation": "Philip",
       "metadata": {},
       "gematria": {

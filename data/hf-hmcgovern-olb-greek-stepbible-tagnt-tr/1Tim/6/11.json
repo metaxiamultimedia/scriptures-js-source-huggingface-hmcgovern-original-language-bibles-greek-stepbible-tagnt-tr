@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "πίστιν,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4102"
+      ],
+      "strongs": "G4102",
+      "morph": "robinson:N-ASF",
       "translation": "faith,",
       "metadata": {},
       "gematria": {

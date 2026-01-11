@@ -212,8 +212,11 @@
     {
       "position": 14,
       "text": "ἀσθενείᾳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G769"
+      ],
+      "strongs": "G769",
+      "morph": "robinson:N-DSF",
       "translation": "weakness",
       "metadata": {},
       "gematria": {
@@ -257,8 +260,11 @@
     {
       "position": 17,
       "text": "μᾶλλον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3123"
+      ],
+      "strongs": "G3123",
+      "morph": "robinson:ADV",
       "translation": "rather",
       "metadata": {},
       "gematria": {
@@ -318,8 +324,11 @@
     {
       "position": 21,
       "text": "ἀσθενείαις",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G769"
+      ],
+      "strongs": "G769",
+      "morph": "robinson:N-DPF",
       "translation": "weaknesses",
       "metadata": {},
       "gematria": {

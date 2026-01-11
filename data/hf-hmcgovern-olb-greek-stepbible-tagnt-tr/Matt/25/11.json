@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "λέγουσαι·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-NPF",
       "translation": "saying;",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "κύριε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-VSM",
       "translation": "lord",
       "metadata": {},
       "gematria": {
@@ -142,8 +148,11 @@
     {
       "position": 10,
       "text": "κύριε,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-VSM",
       "translation": "lord,",
       "metadata": {},
       "gematria": {

@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "ἀφίεται.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G863"
+      ],
+      "strongs": "G863",
+      "morph": "robinson:V-PPI-3S",
       "translation": "is left.",
       "metadata": {},
       "gematria": {

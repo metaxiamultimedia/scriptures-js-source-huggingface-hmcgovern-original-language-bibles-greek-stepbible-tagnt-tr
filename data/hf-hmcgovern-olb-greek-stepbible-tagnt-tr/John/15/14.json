@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "ποιῆτε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAS-2P",
       "translation": "you shall do",
       "metadata": {},
       "gematria": {

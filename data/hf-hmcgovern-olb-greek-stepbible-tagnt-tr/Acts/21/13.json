@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "Παῦλος·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-NSM-P",
       "translation": "Paul;",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "ποιεῖτε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAI-2P",
       "translation": "are you doing",
       "metadata": {},
       "gematria": {
@@ -430,8 +436,11 @@
     {
       "position": 28,
       "text": "κυρίου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-GSM-T",
       "translation": "Lord",
       "metadata": {},
       "gematria": {
@@ -443,8 +452,11 @@
     {
       "position": 29,
       "text": "Ἰησοῦ.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2424"
+      ],
+      "strongs": "G2424",
+      "morph": "robinson:N-GSM-P",
       "translation": "Jesus.",
       "metadata": {},
       "gematria": {

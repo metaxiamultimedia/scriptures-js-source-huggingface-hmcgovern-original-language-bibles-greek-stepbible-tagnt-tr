@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "Ἡρῴδης",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2264"
+      ],
+      "strongs": "G2264",
+      "morph": "robinson:N-NSM-P",
       "translation": "Herod",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "Ἰωάννην",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2491"
+      ],
+      "strongs": "G2491",
+      "morph": "robinson:N-ASM-P",
       "translation": "John",
       "metadata": {},
       "gematria": {
@@ -126,8 +132,11 @@
     {
       "position": 9,
       "text": "ἄνδρα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-ASM",
       "translation": "[to be] a man",
       "metadata": {},
       "gematria": {
@@ -171,8 +180,11 @@
     {
       "position": 12,
       "text": "ἅγιον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-ASM",
       "translation": "holy",
       "metadata": {},
       "gematria": {

@@ -404,8 +404,11 @@
     {
       "position": 26,
       "text": "γῆν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-ASF",
       "translation": "ground",
       "metadata": {},
       "gematria": {

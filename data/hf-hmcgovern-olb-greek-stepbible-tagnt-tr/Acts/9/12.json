@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "εἶδεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAI-3S",
       "translation": "he saw",
       "metadata": {},
       "gematria": {
@@ -33,8 +36,11 @@
     {
       "position": 3,
       "text": "ἄνδρα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-ASM",
       "translation": "a man",
       "metadata": {},
       "gematria": {
@@ -78,8 +84,11 @@
     {
       "position": 6,
       "text": "Ἁνανίαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G367"
+      ],
+      "strongs": "G367",
+      "morph": "robinson:N-ASM-P",
       "translation": "Ananias",
       "metadata": {},
       "gematria": {

@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "ψυχῶν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5590"
+      ],
+      "strongs": "G5590",
+      "morph": "robinson:N-GPF",
       "translation": "souls",
       "metadata": {},
       "gematria": {
@@ -321,8 +324,11 @@
     {
       "position": 21,
       "text": "ποιῶσιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-PAS-3P",
       "translation": "they may do",
       "metadata": {},
       "gematria": {

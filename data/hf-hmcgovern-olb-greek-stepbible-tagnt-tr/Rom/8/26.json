@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "πνεῦμα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-NSN",
       "translation": "Spirit",
       "metadata": {},
       "gematria": {
@@ -97,8 +100,11 @@
     {
       "position": 7,
       "text": "ἀσθενείᾳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G769"
+      ],
+      "strongs": "G769",
+      "morph": "robinson:N-DSF",
       "translation": "weakness",
       "metadata": {},
       "gematria": {
@@ -302,8 +308,11 @@
     {
       "position": 20,
       "text": "πνεῦμα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-NSN",
       "translation": "Spirit",
       "metadata": {},
       "gematria": {

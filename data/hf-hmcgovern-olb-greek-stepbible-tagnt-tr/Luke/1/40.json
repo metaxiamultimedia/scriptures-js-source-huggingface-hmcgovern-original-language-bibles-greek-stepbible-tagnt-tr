@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "οἶκον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3624"
+      ],
+      "strongs": "G3624",
+      "morph": "robinson:N-ASM",
       "translation": "house",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "Ζαχαρίου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2197"
+      ],
+      "strongs": "G2197",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Zechariah",
       "metadata": {},
       "gematria": {

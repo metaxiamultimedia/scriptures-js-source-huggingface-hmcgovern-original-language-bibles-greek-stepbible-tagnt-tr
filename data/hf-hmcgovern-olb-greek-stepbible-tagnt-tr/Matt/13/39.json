@@ -212,8 +212,11 @@
     {
       "position": 14,
       "text": "αἰῶνός",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G165"
+      ],
+      "strongs": "G165",
+      "morph": "robinson:N-GSM",
       "translation": "age",
       "metadata": {},
       "gematria": {
@@ -289,8 +292,11 @@
     {
       "position": 19,
       "text": "ἄγγελοί",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G32"
+      ],
+      "strongs": "G32",
+      "morph": "robinson:N-NPM",
       "translation": "angels",
       "metadata": {},
       "gematria": {

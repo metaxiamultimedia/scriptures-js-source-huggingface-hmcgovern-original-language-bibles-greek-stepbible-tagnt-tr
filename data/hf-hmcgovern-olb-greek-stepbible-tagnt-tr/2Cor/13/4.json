@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "εἰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1487"
+      ],
+      "strongs": "G1487",
+      "morph": "robinson:COND",
       "translation": "if",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "ἀσθενείας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G769"
+      ],
+      "strongs": "G769",
+      "morph": "robinson:N-GSF",
       "translation": "weakness",
       "metadata": {},
       "gematria": {
@@ -222,8 +228,11 @@
     {
       "position": 15,
       "text": "ἀσθενοῦμεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G770"
+      ],
+      "strongs": "G770",
+      "morph": "robinson:V-PAI-1P",
       "translation": "are weak",
       "metadata": {},
       "gematria": {

@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "ἐκάλουν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-IAI-3P",
       "translation": "They were calling",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "Βαρναβᾶν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G921"
+      ],
+      "strongs": "G921",
+      "morph": "robinson:N-ASM-P",
       "translation": "Barnabas",
       "metadata": {},
       "gematria": {
@@ -110,8 +116,11 @@
     {
       "position": 8,
       "text": "Παῦλον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-ASM-P",
       "translation": "Paul",
       "metadata": {},
       "gematria": {
@@ -123,8 +132,11 @@
     {
       "position": 9,
       "text": "Ἑρμῆν,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2060"
+      ],
+      "strongs": "G2060",
+      "morph": "robinson:N-ASM-T",
       "translation": "Hermes,",
       "metadata": {},
       "gematria": {

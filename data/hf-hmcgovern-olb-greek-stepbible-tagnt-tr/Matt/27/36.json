@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ἐτήρουν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5083"
+      ],
+      "strongs": "G5083",
+      "morph": "robinson:V-IAI-3P",
       "translation": "they were guarding",
       "metadata": {},
       "gematria": {

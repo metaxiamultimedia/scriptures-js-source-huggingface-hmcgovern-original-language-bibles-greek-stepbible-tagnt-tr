@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Ἰούδαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2455"
+      ],
+      "strongs": "G2455",
+      "morph": "robinson:N-ASM-P",
       "translation": "Judas [son]",
       "metadata": {},
       "gematria": {
@@ -17,8 +20,11 @@
     {
       "position": 2,
       "text": "Ἰακώβου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2385"
+      ],
+      "strongs": "G2385",
+      "morph": "robinson:N-GSM-P",
       "translation": "of James",
       "metadata": {},
       "gematria": {
@@ -46,8 +52,11 @@
     {
       "position": 4,
       "text": "Ἰούδαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2455"
+      ],
+      "strongs": "G2455",
+      "morph": "robinson:N-ASM-P",
       "translation": "Judas",
       "metadata": {},
       "gematria": {

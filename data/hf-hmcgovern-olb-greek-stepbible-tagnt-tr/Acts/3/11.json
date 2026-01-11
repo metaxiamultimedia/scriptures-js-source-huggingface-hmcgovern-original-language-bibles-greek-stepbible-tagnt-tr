@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "Πέτρον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4074"
+      ],
+      "strongs": "G4074",
+      "morph": "robinson:N-ASM-P",
       "translation": "to Peter",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "Ἰωάννην",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2491"
+      ],
+      "strongs": "G2491",
+      "morph": "robinson:N-ASM-P",
       "translation": "John",
       "metadata": {},
       "gematria": {
@@ -286,8 +292,11 @@
     {
       "position": 19,
       "text": "καλουμένῃ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-PPP-DSF",
       "translation": "is being called",
       "metadata": {},
       "gematria": {
@@ -299,8 +308,11 @@
     {
       "position": 20,
       "text": "Σολομῶντος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4672"
+      ],
+      "strongs": "G4672",
+      "morph": "robinson:N-GSM-P",
       "translation": "Solomon’s",
       "metadata": {},
       "gematria": {

@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "κληθῆναι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-APN",
       "translation": "to call",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "χωρίον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5564"
+      ],
+      "strongs": "G5564",
+      "morph": "robinson:N-ASN",
       "translation": "field",
       "metadata": {},
       "gematria": {
@@ -302,8 +308,11 @@
     {
       "position": 20,
       "text": "χωρίον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5564"
+      ],
+      "strongs": "G5564",
+      "morph": "robinson:N-ASN",
       "translation": "Field",
       "metadata": {},
       "gematria": {
@@ -315,8 +324,11 @@
     {
       "position": 21,
       "text": "αἵματος.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G129"
+      ],
+      "strongs": "G129",
+      "morph": "robinson:N-GSN",
       "translation": "of Blood.",
       "metadata": {},
       "gematria": {

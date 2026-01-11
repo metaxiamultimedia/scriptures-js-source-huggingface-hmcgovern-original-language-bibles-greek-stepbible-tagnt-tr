@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "γεννήματα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1081"
+      ],
+      "strongs": "G1081",
+      "morph": "robinson:N-VPN",
       "translation": "Offspring",
       "metadata": {},
       "gematria": {

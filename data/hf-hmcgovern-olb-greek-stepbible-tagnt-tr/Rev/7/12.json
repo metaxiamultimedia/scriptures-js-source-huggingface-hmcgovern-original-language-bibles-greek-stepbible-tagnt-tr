@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "λέγοντες·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAP-NPM",
       "translation": "saying;",
       "metadata": {},
       "gematria": {
@@ -433,8 +436,11 @@
     {
       "position": 28,
       "text": "αἰῶνας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G165"
+      ],
+      "strongs": "G165",
+      "morph": "robinson:N-APM",
       "translation": "ages",
       "metadata": {},
       "gematria": {
@@ -462,8 +468,11 @@
     {
       "position": 30,
       "text": "αἰώνων,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G165"
+      ],
+      "strongs": "G165",
+      "morph": "robinson:N-GPM",
       "translation": "ages!",
       "metadata": {},
       "gematria": {

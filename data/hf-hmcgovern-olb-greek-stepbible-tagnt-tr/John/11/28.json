@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "Μαριὰμ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3137"
+      ],
+      "strongs": "G3137",
+      "morph": "robinson:N-ASF-P",
       "translation": "Mary",
       "metadata": {},
       "gematria": {

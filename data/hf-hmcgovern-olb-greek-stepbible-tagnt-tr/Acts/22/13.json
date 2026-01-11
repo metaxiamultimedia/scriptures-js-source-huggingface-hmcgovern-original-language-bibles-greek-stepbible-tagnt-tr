@@ -116,8 +116,11 @@
     {
       "position": 8,
       "text": "Σαοὺλ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4549"
+      ],
+      "strongs": "G4549",
+      "morph": "robinson:N-VSM-P",
       "translation": "Saul",
       "metadata": {},
       "gematria": {

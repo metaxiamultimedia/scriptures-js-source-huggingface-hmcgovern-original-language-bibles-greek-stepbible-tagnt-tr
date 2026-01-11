@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "κύριε·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-VSM-T",
       "translation": "Lord;",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "for",
       "metadata": {},
       "gematria": {
@@ -94,8 +100,11 @@
     {
       "position": 7,
       "text": "κοινὸν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2839"
+      ],
+      "strongs": "G2839",
+      "morph": "robinson:A-NSN",
       "translation": "common",
       "metadata": {},
       "gematria": {

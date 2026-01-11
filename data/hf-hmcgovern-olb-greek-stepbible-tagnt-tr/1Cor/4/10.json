@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "ἀσθενεῖς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G772"
+      ],
+      "strongs": "G772",
+      "morph": "robinson:A-NPM",
       "translation": "weak",
       "metadata": {},
       "gematria": {

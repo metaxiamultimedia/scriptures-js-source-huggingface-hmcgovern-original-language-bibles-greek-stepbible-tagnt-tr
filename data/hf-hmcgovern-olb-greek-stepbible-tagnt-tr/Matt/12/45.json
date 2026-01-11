@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "πνεύματα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-APN",
       "translation": "spirits",
       "metadata": {},
       "gematria": {
@@ -385,8 +388,11 @@
     {
       "position": 25,
       "text": "πρώτων.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4413"
+      ],
+      "strongs": "G4413",
+      "morph": "robinson:A-GPN",
       "translation": "first.",
       "metadata": {},
       "gematria": {

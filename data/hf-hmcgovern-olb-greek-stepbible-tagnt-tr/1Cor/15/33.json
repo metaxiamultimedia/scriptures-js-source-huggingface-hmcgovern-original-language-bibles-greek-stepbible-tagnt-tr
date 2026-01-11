@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "κακαί.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2556"
+      ],
+      "strongs": "G2556",
+      "morph": "robinson:A-NPF",
       "translation": "bad.",
       "metadata": {},
       "gematria": {

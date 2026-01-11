@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "ἐβλήθη",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-API-3S",
       "translation": "was thrown [out]",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "καλούμενος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-PPP-NSM",
       "translation": "is called",
       "metadata": {},
       "gematria": {
@@ -334,8 +340,11 @@
     {
       "position": 22,
       "text": "ἐβλήθη",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-API-3S",
       "translation": "He was thrown down",
       "metadata": {},
       "gematria": {
@@ -379,8 +388,11 @@
     {
       "position": 25,
       "text": "γῆν,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1093"
+      ],
+      "strongs": "G1093",
+      "morph": "robinson:N-ASF",
       "translation": "earth,",
       "metadata": {},
       "gematria": {
@@ -424,8 +436,11 @@
     {
       "position": 28,
       "text": "ἄγγελοι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G32"
+      ],
+      "strongs": "G32",
+      "morph": "robinson:N-NPM",
       "translation": "angels",
       "metadata": {},
       "gematria": {
@@ -485,8 +500,11 @@
     {
       "position": 32,
       "text": "ἐβλήθησαν.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G906"
+      ],
+      "strongs": "G906",
+      "morph": "robinson:V-API-3P",
       "translation": "were thrown down.",
       "metadata": {},
       "gematria": {

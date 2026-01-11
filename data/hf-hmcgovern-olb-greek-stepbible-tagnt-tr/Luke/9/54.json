@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "ἰδόντες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAP-NPM",
       "translation": "Having seen [it]",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "Ἰάκωβος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2385"
+      ],
+      "strongs": "G2385",
+      "morph": "robinson:N-NSM-P",
       "translation": "James",
       "metadata": {},
       "gematria": {
@@ -94,8 +100,11 @@
     {
       "position": 7,
       "text": "Ἰωάννης",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2491"
+      ],
+      "strongs": "G2491",
+      "morph": "robinson:N-NSM-P",
       "translation": "John",
       "metadata": {},
       "gematria": {
@@ -123,8 +132,11 @@
     {
       "position": 9,
       "text": "κύριε,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-VSM-T",
       "translation": "Lord,",
       "metadata": {},
       "gematria": {
@@ -344,8 +356,11 @@
     {
       "position": 23,
       "text": "ἐποίησεν;",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAI-3S",
       "translation": "did?",
       "metadata": {},
       "gematria": {

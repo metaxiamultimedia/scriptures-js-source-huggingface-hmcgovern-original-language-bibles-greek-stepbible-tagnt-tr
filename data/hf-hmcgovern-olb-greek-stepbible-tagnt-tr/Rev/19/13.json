@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "αἵματι,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G129"
+      ],
+      "strongs": "G129",
+      "morph": "robinson:N-DSN",
       "translation": "in blood,",
       "metadata": {},
       "gematria": {

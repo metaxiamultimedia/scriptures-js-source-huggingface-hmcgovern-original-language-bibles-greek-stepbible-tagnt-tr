@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "λέγω·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PAI-1S",
       "translation": "I speak;",
       "metadata": {},
       "gematria": {

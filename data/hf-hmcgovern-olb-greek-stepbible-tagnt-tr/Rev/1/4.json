@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Ἰωάννης",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2491"
+      ],
+      "strongs": "G2491",
+      "morph": "robinson:N-NSM-P",
       "translation": "John",
       "metadata": {},
       "gematria": {
@@ -417,8 +420,11 @@
     {
       "position": 27,
       "text": "πνευμάτων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-GPN",
       "translation": "Spirits",
       "metadata": {},
       "gematria": {

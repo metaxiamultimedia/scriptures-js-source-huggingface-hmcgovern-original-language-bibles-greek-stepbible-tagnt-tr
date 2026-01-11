@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "Ῥοῦφον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4504"
+      ],
+      "strongs": "G4504",
+      "morph": "robinson:N-ASM-P",
       "translation": "Rufus",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "κυρίῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-DSM-T",
       "translation": "Lord",
       "metadata": {},
       "gematria": {

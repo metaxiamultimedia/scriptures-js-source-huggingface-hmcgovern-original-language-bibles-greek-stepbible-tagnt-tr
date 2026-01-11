@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "πεποιηκότος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-RAP-GSM",
       "translation": "having been done",
       "metadata": {},
       "gematria": {

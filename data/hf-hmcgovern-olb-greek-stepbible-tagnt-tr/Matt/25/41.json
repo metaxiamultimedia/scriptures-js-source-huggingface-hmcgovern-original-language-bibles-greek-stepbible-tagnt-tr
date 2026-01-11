@@ -356,8 +356,11 @@
     {
       "position": 23,
       "text": "ἀγγέλοις",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G32"
+      ],
+      "strongs": "G32",
+      "morph": "robinson:N-DPM",
       "translation": "angels",
       "metadata": {},
       "gematria": {

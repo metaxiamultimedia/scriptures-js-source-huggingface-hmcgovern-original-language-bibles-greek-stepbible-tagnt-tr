@@ -180,8 +180,11 @@
     {
       "position": 12,
       "text": "ἀγγέλων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G32"
+      ],
+      "strongs": "G32",
+      "morph": "robinson:N-GPM",
       "translation": "angels",
       "metadata": {},
       "gematria": {

@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "Ἰωάννῃ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2491"
+      ],
+      "strongs": "G2491",
+      "morph": "robinson:N-DSM-P",
       "translation": "to John",
       "metadata": {},
       "gematria": {
@@ -129,8 +132,11 @@
     {
       "position": 9,
       "text": "εἴδετε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAI-2P",
       "translation": "you have seen",
       "metadata": {},
       "gematria": {

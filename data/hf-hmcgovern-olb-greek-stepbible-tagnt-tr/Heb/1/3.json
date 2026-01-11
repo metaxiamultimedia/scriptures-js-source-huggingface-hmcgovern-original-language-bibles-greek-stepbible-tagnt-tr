@@ -388,8 +388,11 @@
     {
       "position": 25,
       "text": "ποιησάμενος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AMP-NSM",
       "translation": "having made",
       "metadata": {},
       "gematria": {

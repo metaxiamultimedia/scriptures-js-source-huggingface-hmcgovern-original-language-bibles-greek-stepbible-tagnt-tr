@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "ἀπολύειν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G630"
+      ],
+      "strongs": "G630",
+      "morph": "robinson:V-PAN",
       "translation": "to release",
       "metadata": {},
       "gematria": {

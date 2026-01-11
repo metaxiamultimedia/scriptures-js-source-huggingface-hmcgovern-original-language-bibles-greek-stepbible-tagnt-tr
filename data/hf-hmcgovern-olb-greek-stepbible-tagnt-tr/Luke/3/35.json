@@ -148,8 +148,11 @@
     {
       "position": 10,
       "text": "Σαλὰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4527"
+      ],
+      "strongs": "G4527",
+      "morph": "robinson:N-GSM-P",
       "translation": "of Shelah",
       "metadata": {},
       "gematria": {

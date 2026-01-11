@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "γένους",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1085"
+      ],
+      "strongs": "G1085",
+      "morph": "robinson:N-GSN",
       "translation": "descent",
       "metadata": {},
       "gematria": {

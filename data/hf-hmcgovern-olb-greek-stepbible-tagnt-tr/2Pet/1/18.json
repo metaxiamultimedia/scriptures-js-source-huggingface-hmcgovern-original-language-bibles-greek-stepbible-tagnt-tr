@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "φωνὴν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5456"
+      ],
+      "strongs": "G5456",
+      "morph": "robinson:N-ASF",
       "translation": "voice",
       "metadata": {},
       "gematria": {
@@ -225,8 +228,11 @@
     {
       "position": 15,
       "text": "ἁγίῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-DSN",
       "translation": "holy",
       "metadata": {},
       "gematria": {

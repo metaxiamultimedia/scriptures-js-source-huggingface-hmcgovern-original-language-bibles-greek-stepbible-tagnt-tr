@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "ἐκάλεσεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-AAI-3S",
       "translation": "[who] called",
       "metadata": {},
       "gematria": {

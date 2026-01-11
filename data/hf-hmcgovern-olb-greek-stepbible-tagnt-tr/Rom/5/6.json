@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "ἀσθενῶν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G772"
+      ],
+      "strongs": "G772",
+      "morph": "robinson:A-GPM",
       "translation": "without strength",
       "metadata": {},
       "gematria": {

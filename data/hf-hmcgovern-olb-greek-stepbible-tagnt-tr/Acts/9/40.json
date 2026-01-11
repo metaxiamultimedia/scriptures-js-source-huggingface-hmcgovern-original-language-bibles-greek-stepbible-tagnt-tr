@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "Πέτρος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4074"
+      ],
+      "strongs": "G4074",
+      "morph": "robinson:N-NSM-P",
       "translation": "Peter",
       "metadata": {},
       "gematria": {
@@ -417,8 +420,11 @@
     {
       "position": 27,
       "text": "ἰδοῦσα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAP-NSF",
       "translation": "having seen",
       "metadata": {},
       "gematria": {
@@ -446,8 +452,11 @@
     {
       "position": 29,
       "text": "Πέτρον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4074"
+      ],
+      "strongs": "G4074",
+      "morph": "robinson:N-ASM-P",
       "translation": "Peter",
       "metadata": {},
       "gematria": {

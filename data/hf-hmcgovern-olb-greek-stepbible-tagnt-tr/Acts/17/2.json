@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "Παύλῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-DSM-P",
       "translation": "with Paul",
       "metadata": {},
       "gematria": {

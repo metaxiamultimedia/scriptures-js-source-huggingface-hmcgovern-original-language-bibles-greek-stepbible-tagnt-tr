@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ἠσθένησεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G770"
+      ],
+      "strongs": "G770",
+      "morph": "robinson:V-AAI-3S",
       "translation": "he was sick",
       "metadata": {},
       "gematria": {

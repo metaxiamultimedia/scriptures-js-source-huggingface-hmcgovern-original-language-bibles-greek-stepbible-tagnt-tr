@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "Γερασηνῶν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1086"
+      ],
+      "strongs": "G1086",
+      "morph": "robinson:N-GPM-LG",
       "translation": "Gerasenes",
       "metadata": {},
       "gematria": {
@@ -193,8 +196,11 @@
     {
       "position": 13,
       "text": "ὅτι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3754"
+      ],
+      "strongs": "G3754",
+      "morph": "robinson:CONJ",
       "translation": "because",
       "metadata": {},
       "gematria": {

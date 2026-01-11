@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "λέγεται",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PPI-3S",
       "translation": "is named",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "Μαριάμ,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3137"
+      ],
+      "strongs": "G3137",
+      "morph": "robinson:N-NSF-P",
       "translation": "Mary?",
       "metadata": {},
       "gematria": {
@@ -254,8 +260,11 @@
     {
       "position": 17,
       "text": "Ἰάκωβος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2385"
+      ],
+      "strongs": "G2385",
+      "morph": "robinson:N-NSM-P",
       "translation": "James",
       "metadata": {},
       "gematria": {
@@ -299,8 +308,11 @@
     {
       "position": 20,
       "text": "Σίμων",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4613"
+      ],
+      "strongs": "G4613",
+      "morph": "robinson:N-NSM-P",
       "translation": "Simon",
       "metadata": {},
       "gematria": {
@@ -328,8 +340,11 @@
     {
       "position": 22,
       "text": "Ἰούδας;",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2455"
+      ],
+      "strongs": "G2455",
+      "morph": "robinson:N-NSM-P",
       "translation": "Judas?",
       "metadata": {},
       "gematria": {

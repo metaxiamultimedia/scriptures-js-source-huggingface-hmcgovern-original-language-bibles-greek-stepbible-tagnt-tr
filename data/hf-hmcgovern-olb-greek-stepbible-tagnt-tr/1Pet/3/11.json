@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "κακοῦ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2556"
+      ],
+      "strongs": "G2556",
+      "morph": "robinson:A-GSN",
       "translation": "evil",
       "metadata": {},
       "gematria": {
@@ -65,8 +68,11 @@
     {
       "position": 5,
       "text": "ποιησάτω",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAM-3S",
       "translation": "he should do",
       "metadata": {},
       "gematria": {

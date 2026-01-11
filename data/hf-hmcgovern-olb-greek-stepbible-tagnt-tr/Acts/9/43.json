@@ -148,8 +148,11 @@
     {
       "position": 10,
       "text": "Σίμωνι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4613"
+      ],
+      "strongs": "G4613",
+      "morph": "robinson:N-DSM-P",
       "translation": "Simon",
       "metadata": {},
       "gematria": {

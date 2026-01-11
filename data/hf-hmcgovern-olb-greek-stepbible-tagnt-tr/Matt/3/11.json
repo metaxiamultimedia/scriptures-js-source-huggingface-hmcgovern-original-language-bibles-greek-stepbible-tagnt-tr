@@ -436,8 +436,11 @@
     {
       "position": 28,
       "text": "πνεύματι",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4151"
+      ],
+      "strongs": "G4151",
+      "morph": "robinson:N-DSN",
       "translation": "[the] Spirit",
       "metadata": {},
       "gematria": {
@@ -449,8 +452,11 @@
     {
       "position": 29,
       "text": "ἁγίῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G40"
+      ],
+      "strongs": "G40",
+      "morph": "robinson:A-DSN",
       "translation": "Holy",
       "metadata": {},
       "gematria": {

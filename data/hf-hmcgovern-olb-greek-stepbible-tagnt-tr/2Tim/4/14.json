@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Ἀλέξανδρος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G223"
+      ],
+      "strongs": "G223",
+      "morph": "robinson:N-NSM-P",
       "translation": "Alexander",
       "metadata": {},
       "gematria": {
@@ -81,8 +84,11 @@
     {
       "position": 6,
       "text": "κακὰ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2556"
+      ],
+      "strongs": "G2556",
+      "morph": "robinson:A-APN",
       "translation": "harm",
       "metadata": {},
       "gematria": {
@@ -142,8 +148,11 @@
     {
       "position": 10,
       "text": "κύριος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-NSM-T",
       "translation": "Lord",
       "metadata": {},
       "gematria": {

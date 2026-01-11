@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "λεγομένην",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PPP-ASF",
       "translation": "being named",
       "metadata": {},
       "gematria": {
@@ -161,8 +164,11 @@
     {
       "position": 11,
       "text": "χωρίου",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5564"
+      ],
+      "strongs": "G5564",
+      "morph": "robinson:N-GSN",
       "translation": "plot of ground",
       "metadata": {},
       "gematria": {
@@ -206,8 +212,11 @@
     {
       "position": 14,
       "text": "Ἰακὼβ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2384"
+      ],
+      "strongs": "G2384",
+      "morph": "robinson:N-NSM-P",
       "translation": "Jacob",
       "metadata": {},
       "gematria": {
@@ -219,8 +228,11 @@
     {
       "position": 15,
       "text": "Ἰωσὴφ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2501"
+      ],
+      "strongs": "G2501",
+      "morph": "robinson:N-DSM-P",
       "translation": "to Joseph",
       "metadata": {},
       "gematria": {

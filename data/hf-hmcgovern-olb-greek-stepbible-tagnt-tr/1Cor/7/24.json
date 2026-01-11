@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "ἐκλήθη,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-API-3S",
       "translation": "he was called,",
       "metadata": {},
       "gematria": {

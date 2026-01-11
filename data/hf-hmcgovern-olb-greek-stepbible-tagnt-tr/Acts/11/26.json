@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "Ἀντιόχειαν.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G490"
+      ],
+      "strongs": "G490",
+      "morph": "robinson:N-ASF-L",
       "translation": "Antioch.",
       "metadata": {},
       "gematria": {
@@ -337,8 +340,11 @@
     {
       "position": 22,
       "text": "Ἀντιοχείᾳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G490"
+      ],
+      "strongs": "G490",
+      "morph": "robinson:N-DSF-L",
       "translation": "Antioch",
       "metadata": {},
       "gematria": {

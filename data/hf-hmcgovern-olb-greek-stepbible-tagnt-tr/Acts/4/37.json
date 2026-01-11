@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ἀγροῦ,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G68"
+      ],
+      "strongs": "G68",
+      "morph": "robinson:N-GSM",
       "translation": "a field,",
       "metadata": {},
       "gematria": {

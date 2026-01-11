@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "ἀπόλυσον",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G630"
+      ],
+      "strongs": "G630",
+      "morph": "robinson:V-AAM-2S",
       "translation": "do dismiss",
       "metadata": {},
       "gematria": {
@@ -113,8 +116,11 @@
     {
       "position": 8,
       "text": "ἀγροὺς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G68"
+      ],
+      "strongs": "G68",
+      "morph": "robinson:N-APM",
       "translation": "region",
       "metadata": {},
       "gematria": {

@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "Φίλιππος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5376"
+      ],
+      "strongs": "G5376",
+      "morph": "robinson:N-NSM-P",
       "translation": "Philip",
       "metadata": {},
       "gematria": {
@@ -177,8 +180,11 @@
     {
       "position": 12,
       "text": "Πέτρου.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4074"
+      ],
+      "strongs": "G4074",
+      "morph": "robinson:N-GSM-P",
       "translation": "Peter.",
       "metadata": {},
       "gematria": {

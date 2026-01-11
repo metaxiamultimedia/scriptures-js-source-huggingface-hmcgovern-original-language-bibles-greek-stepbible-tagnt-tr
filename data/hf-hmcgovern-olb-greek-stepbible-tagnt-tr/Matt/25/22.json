@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "κύριε,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2962"
+      ],
+      "strongs": "G2962",
+      "morph": "robinson:N-VSM",
       "translation": "Master,",
       "metadata": {},
       "gematria": {

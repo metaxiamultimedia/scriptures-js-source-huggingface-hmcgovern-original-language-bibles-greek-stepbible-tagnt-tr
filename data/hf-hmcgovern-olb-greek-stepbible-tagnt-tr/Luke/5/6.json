@@ -36,8 +36,11 @@
     {
       "position": 3,
       "text": "ποιήσαντες",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4160"
+      ],
+      "strongs": "G4160",
+      "morph": "robinson:V-AAP-NPM",
       "translation": "having done",
       "metadata": {},
       "gematria": {

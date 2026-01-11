@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "Ἁνανίας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G367"
+      ],
+      "strongs": "G367",
+      "morph": "robinson:N-NSM-P",
       "translation": "Ananias",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "ἀνὴρ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-NSM",
       "translation": "a man",
       "metadata": {},
       "gematria": {
@@ -126,8 +132,11 @@
     {
       "position": 9,
       "text": "ὑπὸ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5259"
+      ],
+      "strongs": "G5259",
+      "morph": "robinson:PREP",
       "translation": "by",
       "metadata": {},
       "gematria": {

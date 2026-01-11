@@ -84,8 +84,11 @@
     {
       "position": 6,
       "text": "ὑπὸ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5259"
+      ],
+      "strongs": "G5259",
+      "morph": "robinson:PREP",
       "translation": "from",
       "metadata": {},
       "gematria": {
@@ -193,8 +196,11 @@
     {
       "position": 13,
       "text": "κάμητε",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2577"
+      ],
+      "strongs": "G2577",
+      "morph": "robinson:V-2AAS-2P",
       "translation": "you may grow weary",
       "metadata": {},
       "gematria": {
@@ -222,8 +228,11 @@
     {
       "position": 15,
       "text": "ψυχαῖς",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5590"
+      ],
+      "strongs": "G5590",
+      "morph": "robinson:N-DPF",
       "translation": "souls",
       "metadata": {},
       "gematria": {

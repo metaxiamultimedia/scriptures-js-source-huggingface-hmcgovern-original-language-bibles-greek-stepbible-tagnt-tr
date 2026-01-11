@@ -52,8 +52,11 @@
     {
       "position": 4,
       "text": "Σαύλῳ",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4569"
+      ],
+      "strongs": "G4569",
+      "morph": "robinson:N-DSM-P",
       "translation": "to Saul",
       "metadata": {},
       "gematria": {

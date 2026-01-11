@@ -68,8 +68,11 @@
     {
       "position": 5,
       "text": "ἀσθενῶμεν,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G770"
+      ],
+      "strongs": "G770",
+      "morph": "robinson:V-PAS-1P",
       "translation": "may be weak,",
       "metadata": {},
       "gematria": {

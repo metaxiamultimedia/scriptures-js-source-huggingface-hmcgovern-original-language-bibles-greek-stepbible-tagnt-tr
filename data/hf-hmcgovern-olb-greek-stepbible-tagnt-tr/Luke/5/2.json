@@ -20,8 +20,11 @@
     {
       "position": 2,
       "text": "εἶδεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1492"
+      ],
+      "strongs": "G1492",
+      "morph": "robinson:V-2AAI-3S",
       "translation": "He saw",
       "metadata": {},
       "gematria": {

@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "Ἰούδας,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2455"
+      ],
+      "strongs": "G2455",
+      "morph": "robinson:N-NSM-P",
       "translation": "Judas,",
       "metadata": {},
       "gematria": {
@@ -433,8 +436,11 @@
     {
       "position": 28,
       "text": "πρεσβυτέρων.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4245"
+      ],
+      "strongs": "G4245",
+      "morph": "robinson:N-GPM",
       "translation": "elders.",
       "metadata": {},
       "gematria": {

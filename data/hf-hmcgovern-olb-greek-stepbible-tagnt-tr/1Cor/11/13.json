@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "γυναῖκα",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G1135"
+      ],
+      "strongs": "G1135",
+      "morph": "robinson:N-ASF",
       "translation": "for a woman",
       "metadata": {},
       "gematria": {

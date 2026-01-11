@@ -276,8 +276,11 @@
     {
       "position": 18,
       "text": "λεγόμενα.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-PPP-APN",
       "translation": "being spoken.",
       "metadata": {},
       "gematria": {

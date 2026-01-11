@@ -4,8 +4,11 @@
     {
       "position": 1,
       "text": "ἔλεγεν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3004"
+      ],
+      "strongs": "G3004",
+      "morph": "robinson:V-IAI-3S",
       "translation": "He was speaking",
       "metadata": {},
       "gematria": {
@@ -49,8 +52,11 @@
     {
       "position": 4,
       "text": "Ἰούδαν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2455"
+      ],
+      "strongs": "G2455",
+      "morph": "robinson:N-ASM-P",
       "translation": "of Judas",
       "metadata": {},
       "gematria": {
@@ -62,8 +68,11 @@
     {
       "position": 5,
       "text": "Σίμωνος",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G4613"
+      ],
+      "strongs": "G4613",
+      "morph": "robinson:N-GSM-P",
       "translation": "[son] of Simon",
       "metadata": {},
       "gematria": {

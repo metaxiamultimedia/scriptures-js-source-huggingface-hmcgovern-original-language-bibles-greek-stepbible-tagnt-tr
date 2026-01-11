@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "ἐφυλαξάμην",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G5442"
+      ],
+      "strongs": "G5442",
+      "morph": "robinson:V-AMI-1S",
       "translation": "I have kept",
       "metadata": {},
       "gematria": {

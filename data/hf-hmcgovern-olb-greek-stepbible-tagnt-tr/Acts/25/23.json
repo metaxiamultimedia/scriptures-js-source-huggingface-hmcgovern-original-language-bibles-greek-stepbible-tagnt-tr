@@ -340,8 +340,11 @@
     {
       "position": 22,
       "text": "ἀνδράσιν",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G435"
+      ],
+      "strongs": "G435",
+      "morph": "robinson:N-DPM",
       "translation": "to men",
       "metadata": {},
       "gematria": {
@@ -529,8 +532,11 @@
     {
       "position": 34,
       "text": "Παῦλος.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G3972"
+      ],
+      "strongs": "G3972",
+      "morph": "robinson:N-NSM-P",
       "translation": "Paul.",
       "metadata": {},
       "gematria": {

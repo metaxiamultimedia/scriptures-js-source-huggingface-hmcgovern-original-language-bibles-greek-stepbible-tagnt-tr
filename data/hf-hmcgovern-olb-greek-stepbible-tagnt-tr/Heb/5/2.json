@@ -164,8 +164,11 @@
     {
       "position": 11,
       "text": "ἀσθένειαν·",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G769"
+      ],
+      "strongs": "G769",
+      "morph": "robinson:N-ASF",
       "translation": "weakness;",
       "metadata": {},
       "gematria": {

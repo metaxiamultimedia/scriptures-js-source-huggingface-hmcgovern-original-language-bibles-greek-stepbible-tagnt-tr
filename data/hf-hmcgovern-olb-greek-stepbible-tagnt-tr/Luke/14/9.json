@@ -100,8 +100,11 @@
     {
       "position": 7,
       "text": "καλέσας",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2564"
+      ],
+      "strongs": "G2564",
+      "morph": "robinson:V-AAP-NSM",
       "translation": "having invited",
       "metadata": {},
       "gematria": {

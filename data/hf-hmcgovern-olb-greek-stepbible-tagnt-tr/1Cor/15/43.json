@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "ἀσθενείᾳ,",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G769"
+      ],
+      "strongs": "G769",
+      "morph": "robinson:N-DSF",
       "translation": "weakness,",
       "metadata": {},
       "gematria": {

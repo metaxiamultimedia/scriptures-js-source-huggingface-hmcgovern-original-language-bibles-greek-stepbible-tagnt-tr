@@ -132,8 +132,11 @@
     {
       "position": 9,
       "text": "Ἰωσήφ.",
-      "lemma": null,
-      "morph": null,
+      "lemma": [
+        "G2501"
+      ],
+      "strongs": "G2501",
+      "morph": "robinson:N-DSM-P",
       "translation": "to Joseph.",
       "metadata": {},
       "gematria": {
